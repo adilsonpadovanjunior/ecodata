@@ -369,4 +369,22 @@ footer {
     padding: 7px 9px;
     font-size: 0.78rem;
   }
+
+    .grid {
+    grid-template-columns: 1fr;
+    gap: 10px;
+    margin-top: 14px;
+  }
+
+  .stat {
+    padding: 10px 12px;
+  }
+
+  .stat .label {
+    font-size: 0.78rem;
+  }
+
+  .stat .value {
+    font-size: 0.98rem;
+  }
 }
