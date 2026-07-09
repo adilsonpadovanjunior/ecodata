@@ -6,270 +6,32 @@
 
   <title>EcoData - Base de Dados de Conjuntura Econômica</title>
 
-  <style>
-    :root {
-      --bg: #f6f8fa;
-      --card: #ffffff;
-      --text: #1f2937;
-      --muted: #6b7280;
-      --primary: #0f766e;
-      --primary-dark: #115e59;
-      --border: #e5e7eb;
-      --soft: #ecfdf5;
-      --code: #f3f4f6;
-    }
-
-    * {
-      box-sizing: border-box;
-    }
-
-    body {
-      margin: 0;
-      font-family: Arial, Helvetica, sans-serif;
-      background: var(--bg);
-      color: var(--text);
-      line-height: 1.6;
-    }
-
-    header {
-      background: linear-gradient(135deg, #0f766e, #064e3b);
-      color: white;
-      padding: 28px 20px;
-      text-align: center;
-    }
-
-    header h1 {
-      margin: 0;
-      font-size: 2.4rem;
-      letter-spacing: 0.5px;
-    }
-
-    header p {
-      max-width: 800px;
-      margin: 14px auto 0;
-      font-size: 1.05rem;
-      opacity: 0.95;
-    }
-
-    nav {
-      background: #ffffff;
-      border-bottom: 1px solid var(--border);
-      position: sticky;
-      top: 0;
-      z-index: 10;
-    }
-
-    nav .nav-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 12px 20px;
-      display: flex;
-      gap: 18px;
-      flex-wrap: wrap;
-      justify-content: center;
-    }
-
-    nav a {
-      color: var(--primary-dark);
-      text-decoration: none;
-      font-weight: 600;
-      font-size: 0.95rem;
-    }
-
-    nav a:hover {
-      text-decoration: underline;
-    }
-
-    main {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 32px 20px 60px;
-    }
-
-    section {
-      margin-bottom: 34px;
-    }
-
-    .card {
-      background: var(--card);
-      border: 1px solid var(--border);
-      border-radius: 14px;
-      padding: 24px;
-      box-shadow: 0 2px 10px rgba(15, 23, 42, 0.04);
-    }
-
-    h2 {
-      margin-top: 0;
-      color: var(--primary-dark);
-      font-size: 1.45rem;
-    }
-
-    h3 {
-      margin-bottom: 8px;
-      color: #111827;
-    }
-
-    .grid {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(255px, 1fr));
-      gap: 18px;
-    }
-
-    .stat {
-      background: var(--soft);
-      border: 1px solid #bbf7d0;
-      border-radius: 12px;
-      padding: 18px;
-    }
-
-    .stat .label {
-      color: var(--muted);
-      font-size: 0.9rem;
-    }
-
-    .stat .value {
-      font-size: 1.35rem;
-      font-weight: 700;
-      color: var(--primary-dark);
-      margin-top: 4px;
-    }
-
-    .downloads {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
-      gap: 14px;
-      margin-top: 16px;
-    }
-
-    .download-card {
-      border: 1px solid var(--border);
-      border-radius: 12px;
-      padding: 16px;
-      background: #fff;
-    }
-
-    .download-card strong {
-      display: block;
-      margin-bottom: 8px;
-      color: #111827;
-    }
-
-    .download-card p {
-      margin: 0 0 12px;
-      color: var(--muted);
-      font-size: 0.93rem;
-    }
-
-    .btn-row {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 8px;
-    }
-
-    .btn {
-      display: inline-block;
-      padding: 8px 12px;
-      background: var(--primary);
-      color: white;
-      text-decoration: none;
-      border-radius: 8px;
-      font-size: 0.9rem;
-      font-weight: 600;
-    }
-
-    .btn:hover {
-      background: var(--primary-dark);
-    }
-
-    .btn.secondary {
-      background: #374151;
-    }
-
-    .btn.secondary:hover {
-      background: #111827;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      margin-top: 14px;
-      font-size: 0.94rem;
-    }
-
-    th, td {
-      border-bottom: 1px solid var(--border);
-      padding: 10px 8px;
-      text-align: left;
-      vertical-align: top;
-    }
-
-    th {
-      background: #f9fafb;
-      color: #374151;
-    }
-
-    code {
-      background: var(--code);
-      padding: 2px 6px;
-      border-radius: 5px;
-      font-family: Consolas, Monaco, monospace;
-      font-size: 0.92rem;
-    }
-
-    .muted {
-      color: var(--muted);
-    }
-
-    .notice {
-      background: #fffbeb;
-      border: 1px solid #fde68a;
-      color: #78350f;
-      border-radius: 12px;
-      padding: 16px;
-      margin-top: 16px;
-    }
-    
-    footer {
-      border-top: 1px solid var(--border);
-      background: #ffffff;
-      padding: 24px 20px;
-      text-align: center;
-      color: var(--muted);
-      font-size: 0.92rem;
-    }
-
-    @media (max-width: 650px) {
-      header h1 {
-        font-size: 1.9rem;
-      }
-
-      nav .nav-inner {
-        justify-content: flex-start;
-      }
-    }
-  </style>
+  <link rel="stylesheet" href="css/style.css">
 </head>
 
 <body>
   <header>
     <h1>EcoData</h1>
+
     <p>
       Base automatizada de dados econômicos
     </p>
+
     <p>
       UNESPAR - Campus de Campo Mourão • Colegiado de Ciências Econômicas
     </p>
   </header>
-  
+
   <nav>
     <div class="nav-inner">
       <a href="#sobre">Sobre</a>
       <a href="#series">Séries</a>
       <a href="#downloads">Downloads</a>
-      <a href="#fontes">Fontes</a>
+      <a href="#bases-fonte">Bases por fonte</a>
       <a href="#metodologia">Metodologia</a>
       <a href="#documentacao">Documentação</a>
       <a href="#uso">Como usar</a>
+      <a href="#fontes">Fontes</a>
     </div>
   </nav>
 
@@ -277,6 +39,7 @@
 
     <section id="sobre" class="card">
       <h2>Sobre o projeto</h2>
+
       <p>
         O <strong>EcoData</strong> é um repositório automatizado de séries
         econômicas, financeiras e fiscais voltado à análise de conjuntura.
@@ -308,29 +71,29 @@
         incorporadas posteriormente.
       </div>
     </section>
-    
+
     <section id="series" class="card">
       <h2>Downloads por série individual</h2>
-    
+
       <p>
         Além das bases completas, cada variável da base consolidada mensal também
         é disponibilizada separadamente. Cada arquivo individual contém duas colunas:
         <code>data</code> e <code>valor</code>.
       </p>
-    
+
       <div class="notice">
         As séries individuais são geradas automaticamente a partir da base
         consolidada mensal. Atualmente, cada série é disponibilizada em
         <strong>CSV</strong> e <strong>XLSX</strong>.
       </div>
-    
+
       <h3>Lista de séries disponíveis</h3>
-    
+
       <p class="muted">
         A tabela abaixo é carregada automaticamente a partir da lista de séries
         gerada pelo pipeline do projeto.
       </p>
-    
+
       <div style="overflow-x: auto;">
         <table id="tabela-series">
           <thead>
@@ -351,9 +114,9 @@
           </tbody>
         </table>
       </div>
-    
+
       <h3>Arquivos auxiliares</h3>
-    
+
       <div class="downloads">
         <div class="download-card">
           <strong>Lista completa de séries individuais</strong>
@@ -366,7 +129,7 @@
             <a class="btn" href="data/final/documentacao/lista_series_individuais.xlsx">XLSX</a>
           </div>
         </div>
-    
+
         <div class="download-card">
           <strong>Pasta com todas as séries</strong>
           <p>
@@ -380,10 +143,10 @@
         </div>
       </div>
     </section>
-  
-    
+
     <section id="downloads" class="card">
       <h2>Downloads principais</h2>
+
       <p class="muted">
         A base consolidada reúne as séries mensais das fontes atualmente ativas.
       </p>
@@ -434,14 +197,16 @@
       </div>
     </section>
 
-    <section id="fontes" class="card">
+    <section id="bases-fonte" class="card">
       <h2>Bases separadas por fonte</h2>
+
       <p class="muted">
         Além da base consolidada, as bases separadas permitem auditoria,
         conferência e uso individual por fonte.
       </p>
 
       <h3>Yahoo Finance</h3>
+
       <div class="downloads">
         <div class="download-card">
           <strong>Base Yahoo mensal - formato largo</strong>
@@ -467,6 +232,7 @@
       </div>
 
       <h3>Banco Central do Brasil - SGS/BCData</h3>
+
       <div class="downloads">
         <div class="download-card">
           <strong>Base BCB/SGS mensal - formato largo</strong>
@@ -607,13 +373,14 @@ print(df.head())</code></pre>
       </p>
     </section>
 
-    <section class="card" id="fontes">
+    <section id="fontes" class="card">
       <h2>Fontes dos Dados</h2>
-    
+
       <p>
-        As séries disponibilizadas neste repositório são coletadas e organizadas a partir das seguintes fontes:
+        As séries disponibilizadas neste repositório são coletadas e organizadas
+        a partir das seguintes fontes:
       </p>
-    
+
       <p>
         BANCO CENTRAL DO BRASIL. Sistema Gerenciador de Séries Temporais - SGS.
         Disponível em:
@@ -622,7 +389,7 @@ print(df.head())</code></pre>
         </a>.
         Acesso em: 09 jul. 2026.
       </p>
-    
+
       <p>
         YAHOO FINANCE. Yahoo Finance.
         Disponível em:
@@ -632,46 +399,46 @@ print(df.head())</code></pre>
         Acesso em: 09 jul. 2026.
       </p>
     </section>
-    
+
   </main>
-    
+
   <footer class="site-footer">
     <div class="footer-container">
-  
+
       <div class="footer-brand">
         <strong>EcoData</strong>
-        <span>(Base de Dados de Conjuntura Econômica)</span>
+        <span>Base de Dados de Conjuntura Econômica</span>
       </div>
-  
+
       <p class="footer-description">
         Repositório automatizado desenvolvido pelos docentes do Colegiado de Ciências Econômicas da UNESPAR
-        (Campus de Campo Mourão) para organização, atualização e disponibilização de séries econômicas
+        - Campus de Campo Mourão - para organização, atualização e disponibilização de séries econômicas
         em formato aberto.
       </p>
-  
+
       <div class="footer-bottom">
         <span>UNESPAR - Campus de Campo Mourão</span>
         <span>Colegiado de Ciências Econômicas</span>
       </div>
-  
+
     </div>
   </footer>
-  
+
   <script>
     async function carregarSeriesIndividuais() {
       const caminhoCsv = "data/final/documentacao/lista_series_individuais.csv";
       const tabela = document.querySelector("#tabela-series tbody");
-  
+
       try {
         const resposta = await fetch(caminhoCsv);
-  
+
         if (!resposta.ok) {
           throw new Error("Arquivo de séries não encontrado.");
         }
-  
+
         const texto = await resposta.text();
         const linhas = texto.trim().split("\n");
-  
+
         if (linhas.length <= 1) {
           tabela.innerHTML = `
             <tr>
@@ -680,9 +447,9 @@ print(df.head())</code></pre>
           `;
           return;
         }
-  
+
         const cabecalho = linhas[0].split(",").map(col => col.trim());
-  
+
         const indice = {
           nome_serie: cabecalho.indexOf("nome_serie"),
           fonte: cabecalho.indexOf("fonte"),
@@ -694,10 +461,10 @@ print(df.head())</code></pre>
           arquivo_csv: cabecalho.indexOf("arquivo_csv"),
           arquivo_xlsx: cabecalho.indexOf("arquivo_xlsx")
         };
-  
+
         const registros = linhas.slice(1).map(linha => {
           const valores = linha.split(",");
-  
+
           return {
             nome_serie: valores[indice.nome_serie],
             fonte: valores[indice.fonte],
@@ -710,14 +477,14 @@ print(df.head())</code></pre>
             arquivo_xlsx: valores[indice.arquivo_xlsx]
           };
         });
-  
+
         tabela.innerHTML = "";
-  
+
         registros.forEach(item => {
           const periodo = `${formatarData(item.primeira_data)} a ${formatarData(item.ultima_data)}`;
-  
+
           const linha = document.createElement("tr");
-  
+
           linha.innerHTML = `
             <td><code>${item.nome_serie}</code></td>
             <td>${formatarTexto(item.fonte)}</td>
@@ -732,10 +499,10 @@ print(df.head())</code></pre>
               </div>
             </td>
           `;
-  
+
           tabela.appendChild(linha);
         });
-  
+
       } catch (erro) {
         tabela.innerHTML = `
           <tr>
@@ -748,33 +515,33 @@ print(df.head())</code></pre>
         `;
       }
     }
-  
+
     function formatarTexto(texto) {
       if (!texto) return "-";
-  
+
       return texto
         .replaceAll("_", " ")
         .replace(/\b\w/g, letra => letra.toUpperCase());
     }
-  
+
     function formatarData(dataTexto) {
       if (!dataTexto) return "-";
-  
+
       const data = new Date(dataTexto);
-  
+
       if (isNaN(data)) {
         return dataTexto.substring(0, 10);
       }
-  
+
       return data.toLocaleDateString("pt-BR", {
         year: "numeric",
         month: "2-digit",
         day: "2-digit"
       });
     }
-  
+
     carregarSeriesIndividuais();
   </script>
-  
+
 </body>
 </html>
