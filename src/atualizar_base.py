@@ -22,7 +22,7 @@ from coleta_bcb_sgs import atualizar_base_bcb_sgs
 from consolidar_base import consolidar_bases
 from consolidar_dicionario import consolidar_dicionarios
 from gerar_metadados_site import gerar_metadados_site
-
+from gerar_series_individuais import gerar_series_individuais
 
 # ============================================================
 # 1. CONFIGURAÇÃO DAS FONTES ATIVAS
@@ -48,6 +48,7 @@ ETAPAS_ATIVAS = {
     "consolidar_bases": True,
     "consolidar_dicionarios": True,
     "gerar_metadados_site": True,
+    "gerar_series_individuais": True,
 }
 
 
@@ -193,6 +194,20 @@ def etapa_consolidar_dicionarios(erros: list) -> None:
         erros=erros
     )
 
+def etapa_gerar_series_individuais(erros: list) -> None:
+    """
+    Gera arquivos individuais para cada série da base consolidada.
+    """
+
+    if not ETAPAS_ATIVAS["gerar_series_individuais"]:
+        print("Etapa de geração de séries individuais desativada.")
+        return
+
+    executar_etapa(
+        nome_etapa="Geração de séries individuais",
+        funcao=gerar_series_individuais,
+        erros=erros
+    )
 
 def etapa_gerar_metadados_site(erros: list) -> None:
     """
@@ -226,6 +241,7 @@ def main() -> None:
     etapa_coletar_dados(erros)
     etapa_consolidar_bases(erros)
     etapa_consolidar_dicionarios(erros)
+    etapa_gerar_series_individuais(erros)
     etapa_gerar_metadados_site(erros)
 
     imprimir_rodape(erros)
