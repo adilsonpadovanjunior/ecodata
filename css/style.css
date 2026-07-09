@@ -84,8 +84,12 @@ nav a:hover {
 /* Conteúdo principal */
 main {
   max-width: 1000px;
-  margin: 24px auto;
-  padding: 0 16px 24px;
+  margin: 24px auto 20px;
+  padding: 0 16px 16px;
+}
+
+main section:last-child {
+  margin-bottom: 0;
 }
 
 section {
