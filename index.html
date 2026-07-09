@@ -263,6 +263,7 @@
   <nav>
     <div class="nav-inner">
       <a href="#sobre">Sobre</a>
+      <a href="#series">Séries</a>
       <a href="#downloads">Downloads</a>
       <a href="#fontes">Fontes</a>
       <a href="#metodologia">Metodologia</a>
@@ -306,7 +307,64 @@
         incorporadas posteriormente.
       </div>
     </section>
-
+    
+    <section id="series" class="card">
+      <h2>Downloads por série individual</h2>
+    
+      <p>
+        Além das bases completas, cada variável da base consolidada mensal também
+        é disponibilizada separadamente em arquivos individuais. Cada arquivo
+        contém apenas duas colunas: <code>data</code> e <code>valor</code>.
+      </p>
+    
+      <div class="notice">
+        As séries individuais são geradas automaticamente a partir da base
+        consolidada mensal. Atualmente, cada série individual é disponibilizada
+        nos formatos <strong>CSV</strong> e <strong>XLSX</strong>.
+      </div>
+    
+      <div class="downloads">
+        <div class="download-card">
+          <strong>Lista completa de séries individuais</strong>
+          <p>
+            Arquivo com todas as séries disponíveis, incluindo fonte, grupo,
+            período coberto e links para download em CSV e XLSX.
+          </p>
+          <div class="btn-row">
+            <a class="btn" href="data/final/documentacao/lista_series_individuais.csv">CSV</a>
+            <a class="btn" href="data/final/documentacao/lista_series_individuais.xlsx">XLSX</a>
+          </div>
+        </div>
+    
+        <div class="download-card">
+          <strong>Séries principais</strong>
+          <p>
+            Atalhos para algumas das séries mais utilizadas na análise de conjuntura.
+          </p>
+          <div class="btn-row">
+            <a class="btn" href="data/final/series/yahoo_ibovespa.csv">Ibovespa CSV</a>
+            <a class="btn" href="data/final/series/yahoo_dolar_real.csv">Dólar CSV</a>
+            <a class="btn" href="data/final/series/bcb_sgs_ipca.csv">IPCA CSV</a>
+            <a class="btn" href="data/final/series/bcb_sgs_selic_meta.csv">Selic CSV</a>
+            <a class="btn" href="data/final/series/bcb_sgs_ibc_br_sa.csv">IBC-Br CSV</a>
+          </div>
+        </div>
+    
+        <div class="download-card">
+          <strong>Pasta com todas as séries</strong>
+          <p>
+            As séries individuais são armazenadas na pasta
+            <code>data/final/series/</code>. Para consultar todos os nomes,
+            utilize a lista completa de séries individuais.
+          </p>
+          <div class="btn-row">
+            <a class="btn secondary" href="data/final/series/">Abrir pasta</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  
+    
     <section id="downloads" class="card">
       <h2>Downloads principais</h2>
       <p class="muted">
