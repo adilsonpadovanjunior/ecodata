@@ -121,28 +121,31 @@ h3 {
 /* Grade de informações */
 .grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(255px, 1fr));
-  gap: 18px;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+  margin-top: 18px;
 }
 
 /* Cartões de estatísticas */
 .stat {
   background: var(--soft);
   border: 1px solid #bbf7d0;
-  border-radius: 10px;
-  padding: 18px;
+  border-radius: 8px;
+  padding: 12px 14px;
 }
 
 .stat .label {
   color: var(--muted);
-  font-size: 0.9rem;
+  font-size: 0.82rem;
+  margin-bottom: 4px;
 }
 
 .stat .value {
-  font-size: 1.35rem;
+  font-size: 1.05rem;
   font-weight: 700;
   color: var(--primary-dark);
-  margin-top: 4px;
+  margin-top: 2px;
+  line-height: 1.35;
 }
 
 /* Área de downloads */
