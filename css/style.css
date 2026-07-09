@@ -311,3 +311,59 @@ footer {
     font-size: 0.88rem;
   }
 }
+
+/* -------------------------------------------------
+   Tabela de séries individuais - versão mobile simples
+------------------------------------------------- */
+
+@media (max-width: 768px) {
+  #tabela-series {
+    font-size: 0.86rem;
+  }
+
+  #tabela-series th:nth-child(2),
+  #tabela-series th:nth-child(3),
+  #tabela-series th:nth-child(4),
+  #tabela-series th:nth-child(5),
+  #tabela-series th:nth-child(6),
+  #tabela-series td:nth-child(2),
+  #tabela-series td:nth-child(3),
+  #tabela-series td:nth-child(4),
+  #tabela-series td:nth-child(5),
+  #tabela-series td:nth-child(6) {
+    display: none;
+  }
+
+  #tabela-series th,
+  #tabela-series td {
+    padding: 10px 6px;
+  }
+
+  #tabela-series th:nth-child(1),
+  #tabela-series td:nth-child(1) {
+    width: 60%;
+  }
+
+  #tabela-series th:nth-child(7),
+  #tabela-series td:nth-child(7) {
+    width: 40%;
+    text-align: right;
+  }
+
+  #tabela-series td:nth-child(1) code {
+    display: inline-block;
+    max-width: 100%;
+    word-break: break-word;
+    font-size: 0.78rem;
+  }
+
+  #tabela-series td:nth-child(7) .btn-row {
+    justify-content: flex-end;
+    gap: 6px;
+  }
+
+  #tabela-series td:nth-child(7) .btn {
+    padding: 7px 9px;
+    font-size: 0.78rem;
+  }
+}
