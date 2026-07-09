@@ -228,7 +228,54 @@
       padding: 16px;
       margin-top: 16px;
     }
-
+    
+    .fontes-dados {
+      margin-top: 48px;
+      padding: 32px 20px;
+      background: #f8fafc;
+      border-top: 1px solid #e5e7eb;
+    }
+    
+    .fontes-container {
+      max-width: 950px;
+      margin: 0 auto;
+    }
+    
+    .fontes-dados h2 {
+      margin-bottom: 12px;
+      font-size: 1.5rem;
+      color: #0f172a;
+    }
+    
+    .fontes-dados p {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      color: #334155;
+    }
+    
+    .referencias-abnt {
+      margin-top: 20px;
+      padding: 20px;
+      background: #ffffff;
+      border-left: 4px solid #2563eb;
+      border-radius: 8px;
+      box-shadow: 0 2px 8px rgba(15, 23, 42, 0.06);
+    }
+    
+    .referencias-abnt h3 {
+      margin-bottom: 10px;
+      font-size: 1.05rem;
+      color: #0f172a;
+    }
+    
+    .referencias-abnt a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+    
+    .referencias-abnt a:hover {
+      text-decoration: underline;
+    }
     footer {
       border-top: 1px solid var(--border);
       background: #ffffff;
@@ -607,6 +654,39 @@ print(df.head())</code></pre>
 
   </main>
 
+  <section class="fontes-dados" id="fontes">
+    <div class="fontes-container">
+      <h2>Fontes dos Dados</h2>
+  
+      <p>
+        As séries econômicas e financeiras disponibilizadas neste repositório são coletadas,
+        organizadas e atualizadas a partir de fontes públicas oficiais e bases financeiras abertas.
+      </p>
+  
+      <div class="referencias-abnt">
+        <h3>Referências principais</h3>
+  
+        <p>
+          BANCO CENTRAL DO BRASIL. <strong>Sistema Gerenciador de Séries Temporais - SGS</strong>.
+          Brasília: Banco Central do Brasil, 2026. Disponível em:
+          <a href="https://www3.bcb.gov.br/sgspub/" target="_blank" rel="noopener noreferrer">
+            https://www3.bcb.gov.br/sgspub/
+          </a>.
+          Acesso em: 09 jul. 2026.
+        </p>
+  
+        <p>
+          YAHOO FINANCE. <strong>Yahoo Finance</strong>.
+          Sunnyvale: Yahoo, 2026. Disponível em:
+          <a href="https://finance.yahoo.com/" target="_blank" rel="noopener noreferrer">
+            https://finance.yahoo.com/
+          </a>.
+          Acesso em: 09 jul. 2026.
+        </p>
+      </div>
+    </div>
+  </section>
+    
   <footer class="site-footer">
     <div class="footer-container">
   
