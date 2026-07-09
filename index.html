@@ -312,15 +312,45 @@
     
       <p>
         Além das bases completas, cada variável da base consolidada mensal também
-        é disponibilizada separadamente em arquivos individuais. Cada arquivo
-        contém apenas duas colunas: <code>data</code> e <code>valor</code>.
+        é disponibilizada separadamente. Cada arquivo individual contém duas colunas:
+        <code>data</code> e <code>valor</code>.
       </p>
     
       <div class="notice">
         As séries individuais são geradas automaticamente a partir da base
-        consolidada mensal. Atualmente, cada série individual é disponibilizada
-        nos formatos <strong>CSV</strong> e <strong>XLSX</strong>.
+        consolidada mensal. Atualmente, cada série é disponibilizada em
+        <strong>CSV</strong> e <strong>XLSX</strong>.
       </div>
+    
+      <h3>Lista de séries disponíveis</h3>
+    
+      <p class="muted">
+        A tabela abaixo é carregada automaticamente a partir da lista de séries
+        gerada pelo pipeline do projeto.
+      </p>
+    
+      <div style="overflow-x: auto;">
+        <table id="tabela-series">
+          <thead>
+            <tr>
+              <th>Série</th>
+              <th>Fonte</th>
+              <th>Grupo</th>
+              <th>Frequência</th>
+              <th>Período</th>
+              <th>Observações</th>
+              <th>Downloads</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td colspan="7">Carregando séries disponíveis...</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    
+      <h3>Arquivos auxiliares</h3>
     
       <div class="downloads">
         <div class="download-card">
@@ -332,20 +362,6 @@
           <div class="btn-row">
             <a class="btn" href="data/final/documentacao/lista_series_individuais.csv">CSV</a>
             <a class="btn" href="data/final/documentacao/lista_series_individuais.xlsx">XLSX</a>
-          </div>
-        </div>
-    
-        <div class="download-card">
-          <strong>Séries principais</strong>
-          <p>
-            Atalhos para algumas das séries mais utilizadas na análise de conjuntura.
-          </p>
-          <div class="btn-row">
-            <a class="btn" href="data/final/series/yahoo_ibovespa.csv">Ibovespa CSV</a>
-            <a class="btn" href="data/final/series/yahoo_dolar_real.csv">Dólar CSV</a>
-            <a class="btn" href="data/final/series/bcb_sgs_ipca.csv">IPCA CSV</a>
-            <a class="btn" href="data/final/series/bcb_sgs_selic_meta.csv">Selic CSV</a>
-            <a class="btn" href="data/final/series/bcb_sgs_ibc_br_sa.csv">IBC-Br CSV</a>
           </div>
         </div>
     
@@ -598,5 +614,124 @@ print(df.head())</code></pre>
     de séries econômicas em formato aberto.
   </footer>
 
+  <script>
+    async function carregarSeriesIndividuais() {
+      const caminhoCsv = "data/final/documentacao/lista_series_individuais.csv";
+      const tabela = document.querySelector("#tabela-series tbody");
+  
+      try {
+        const resposta = await fetch(caminhoCsv);
+  
+        if (!resposta.ok) {
+          throw new Error("Arquivo de séries não encontrado.");
+        }
+  
+        const texto = await resposta.text();
+        const linhas = texto.trim().split("\n");
+  
+        if (linhas.length <= 1) {
+          tabela.innerHTML = `
+            <tr>
+              <td colspan="7">Nenhuma série individual disponível no momento.</td>
+            </tr>
+          `;
+          return;
+        }
+  
+        const cabecalho = linhas[0].split(",").map(col => col.trim());
+  
+        const indice = {
+          nome_serie: cabecalho.indexOf("nome_serie"),
+          fonte: cabecalho.indexOf("fonte"),
+          grupo: cabecalho.indexOf("grupo"),
+          frequencia: cabecalho.indexOf("frequencia"),
+          observacoes: cabecalho.indexOf("observacoes"),
+          primeira_data: cabecalho.indexOf("primeira_data"),
+          ultima_data: cabecalho.indexOf("ultima_data"),
+          arquivo_csv: cabecalho.indexOf("arquivo_csv"),
+          arquivo_xlsx: cabecalho.indexOf("arquivo_xlsx")
+        };
+  
+        const registros = linhas.slice(1).map(linha => {
+          const valores = linha.split(",");
+  
+          return {
+            nome_serie: valores[indice.nome_serie],
+            fonte: valores[indice.fonte],
+            grupo: valores[indice.grupo],
+            frequencia: valores[indice.frequencia],
+            observacoes: valores[indice.observacoes],
+            primeira_data: valores[indice.primeira_data],
+            ultima_data: valores[indice.ultima_data],
+            arquivo_csv: valores[indice.arquivo_csv],
+            arquivo_xlsx: valores[indice.arquivo_xlsx]
+          };
+        });
+  
+        tabela.innerHTML = "";
+  
+        registros.forEach(item => {
+          const periodo = `${formatarData(item.primeira_data)} a ${formatarData(item.ultima_data)}`;
+  
+          const linha = document.createElement("tr");
+  
+          linha.innerHTML = `
+            <td><code>${item.nome_serie}</code></td>
+            <td>${formatarTexto(item.fonte)}</td>
+            <td>${formatarTexto(item.grupo)}</td>
+            <td>${formatarTexto(item.frequencia)}</td>
+            <td>${periodo}</td>
+            <td>${item.observacoes}</td>
+            <td>
+              <div class="btn-row">
+                <a class="btn" href="${item.arquivo_csv}">CSV</a>
+                <a class="btn" href="${item.arquivo_xlsx}">XLSX</a>
+              </div>
+            </td>
+          `;
+  
+          tabela.appendChild(linha);
+        });
+  
+      } catch (erro) {
+        tabela.innerHTML = `
+          <tr>
+            <td colspan="7">
+              Não foi possível carregar a lista de séries individuais.
+              Verifique se o arquivo <code>lista_series_individuais.csv</code>
+              já foi gerado pelo pipeline.
+            </td>
+          </tr>
+        `;
+      }
+    }
+  
+    function formatarTexto(texto) {
+      if (!texto) return "-";
+  
+      return texto
+        .replaceAll("_", " ")
+        .replace(/\b\w/g, letra => letra.toUpperCase());
+    }
+  
+    function formatarData(dataTexto) {
+      if (!dataTexto) return "-";
+  
+      const data = new Date(dataTexto);
+  
+      if (isNaN(data)) {
+        return dataTexto.substring(0, 10);
+      }
+  
+      return data.toLocaleDateString("pt-BR", {
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit"
+      });
+    }
+  
+    carregarSeriesIndividuais();
+  </script>
+  
 </body>
 </html>
