@@ -1,0 +1,32 @@
+﻿fonte,codigo_sgs,nome_variavel,descricao,grupo,unidade,frequencia_original,frequencia_final,agregacao_mensal,variavel_calculada
+Banco Central do Brasil - SGS/BCData,432.0,selic_meta,Taxa Selic meta definida pelo Copom.,politica_monetaria,% a.a.,diaria,mensal,ultimo,False
+Banco Central do Brasil - SGS/BCData,11.0,selic_over,Taxa Selic over.,politica_monetaria,% a.d.,diaria,mensal,media,False
+Banco Central do Brasil - SGS/BCData,12.0,cdi,Taxa CDI.,politica_monetaria,% a.d.,diaria,mensal,media,False
+Banco Central do Brasil - SGS/BCData,433.0,ipca,Índice Nacional de Preços ao Consumidor Amplo - IPCA.,inflacao,% a.m.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,189.0,igp_m,Índice Geral de Preços - Mercado - IGP-M.,inflacao,% a.m.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,188.0,inpc,Índice Nacional de Preços ao Consumidor - INPC.,inflacao,% a.m.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,24364.0,ibc_br_sa,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,atividade,indice,mensal,mensal,valor,False
+Calculado pelo script a partir do BCB/SGS,24364.0,var_pct_ibc_br_sa,Variação percentual mensal calculada para ibc_br_sa.,atividade,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,24363.0,ibc_br,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,atividade,indice,mensal,mensal,valor,False
+Calculado pelo script a partir do BCB/SGS,24363.0,var_pct_ibc_br,Variação percentual mensal calculada para ibc_br.,atividade,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,1.0,cambio_venda_usd,Taxa de câmbio livre - dólar americano - venda.,cambio,R$/US$,diaria,mensal,ultimo,False
+Calculado pelo script a partir do BCB/SGS,1.0,var_pct_cambio_venda_usd,Variação percentual mensal calculada para cambio_venda_usd.,cambio,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,10813.0,cambio_compra_usd,Taxa de câmbio livre - dólar americano - compra.,cambio,R$/US$,diaria,mensal,ultimo,False
+Calculado pelo script a partir do BCB/SGS,10813.0,var_pct_cambio_compra_usd,Variação percentual mensal calculada para cambio_compra_usd.,cambio,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,20539.0,saldo_credito_total,Saldo da carteira de crédito - total.,credito,R$ milhões,mensal,mensal,valor,False
+Calculado pelo script a partir do BCB/SGS,20539.0,var_pct_saldo_credito_total,Variação percentual mensal calculada para saldo_credito_total.,credito,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,20540.0,saldo_credito_pj,Saldo da carteira de crédito - pessoas jurídicas.,credito,R$ milhões,mensal,mensal,valor,False
+Calculado pelo script a partir do BCB/SGS,20540.0,var_pct_saldo_credito_pj,Variação percentual mensal calculada para saldo_credito_pj.,credito,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,20541.0,saldo_credito_pf,Saldo da carteira de crédito - pessoas físicas.,credito,R$ milhões,mensal,mensal,valor,False
+Calculado pelo script a partir do BCB/SGS,20541.0,var_pct_saldo_credito_pf,Variação percentual mensal calculada para saldo_credito_pf.,credito,% a.m.,mensal,mensal,pct_change,True
+Banco Central do Brasil - SGS/BCData,21082.0,inadimplencia_total,Taxa de inadimplência da carteira de crédito - total.,credito,% a.m.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,21083.0,inadimplencia_pj,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,credito,% a.m.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,21084.0,inadimplencia_pf,Taxa de inadimplência da carteira de crédito - pessoas físicas.,credito,% a.m.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,20714.0,juros_credito_total,Taxa média de juros das operações de crédito - total.,credito,% a.a.,mensal,mensal,valor,False
+Banco Central do Brasil - SGS/BCData,3546.0,reservas_internacionais,Reservas internacionais.,setor_externo,US$ milhões,diaria,mensal,ultimo,False
+Calculado pelo script a partir do BCB/SGS,3546.0,var_pct_reservas_internacionais,Variação percentual mensal calculada para reservas_internacionais.,setor_externo,% a.m.,mensal,mensal,pct_change,True
+Calculado pelo script a partir do BCB/SGS,,ipca_acum_12m,IPCA acumulado em 12 meses.,inflacao,% em 12 meses,mensal,mensal,calculo_script,True
+Calculado pelo script a partir do BCB/SGS,,igp_m_acum_12m,IGP-M acumulado em 12 meses.,inflacao,% em 12 meses,mensal,mensal,calculo_script,True
+Calculado pelo script a partir do BCB/SGS,,inpc_acum_12m,INPC acumulado em 12 meses.,inflacao,% em 12 meses,mensal,mensal,calculo_script,True
+Calculado pelo script a partir do BCB/SGS,,dif_selic_meta,Diferença simples mensal da Selic meta.,politica_monetaria,pontos percentuais,mensal,mensal,calculo_script,True
+Calculado pelo script a partir do BCB/SGS,,dif_inadimplencia_total,Diferença simples mensal da inadimplência total.,credito,pontos percentuais,mensal,mensal,calculo_script,True

@@ -1,0 +1,57 @@
+{
+    "data_execucao": "2026-07-09 12:19:12",
+    "status": "concluido",
+    "dicionarios_solicitados": [
+        {
+            "nome": "yahoo",
+            "arquivo": "data/final/yahoo/dicionario_variaveis_yahoo.csv",
+            "ativa": true
+        },
+        {
+            "nome": "bcb_sgs",
+            "arquivo": "data/final/bcb_sgs/dicionario_variaveis_bcb_sgs.csv",
+            "ativa": true
+        },
+        {
+            "nome": "ibge_sidra",
+            "arquivo": "data/final/ibge_sidra/dicionario_variaveis_ibge_sidra.csv",
+            "ativa": false
+        },
+        {
+            "nome": "tesouro",
+            "arquivo": "data/final/tesouro/dicionario_variaveis_tesouro.csv",
+            "ativa": false
+        },
+        {
+            "nome": "ipeadata",
+            "arquivo": "data/final/ipeadata/dicionario_variaveis_ipeadata.csv",
+            "ativa": false
+        }
+    ],
+    "dicionarios_processados": [
+        "yahoo",
+        "bcb_sgs"
+    ],
+    "dicionarios_ausentes": [],
+    "erros": [],
+    "linhas_dicionario_consolidado": 59,
+    "colunas_dicionario_consolidado": [
+        "fonte_arquivo",
+        "fonte",
+        "codigo_sgs",
+        "ticker",
+        "nome_variavel",
+        "nome_original",
+        "descricao",
+        "grupo",
+        "tipo",
+        "moeda",
+        "unidade",
+        "frequencia_original",
+        "frequencia_final",
+        "agregacao_mensal",
+        "campo_preco",
+        "periodo_coleta",
+        "variavel_calculada"
+    ]
+}

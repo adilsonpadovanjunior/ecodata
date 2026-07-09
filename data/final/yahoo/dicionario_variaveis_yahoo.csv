@@ -1,0 +1,29 @@
+﻿fonte,ticker,nome_variavel,nome_original,grupo,tipo,moeda,descricao,frequencia_original,frequencia_final,agregacao_mensal,campo_preco,periodo_coleta,variavel_calculada
+Yahoo Finance via yfinance,^BVSP,ibovespa,ibovespa,bolsa_brasil,indice,BRL,Índice Ibovespa.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,^BVSP,ret_ibovespa,Retorno mensal de ibovespa,bolsa_brasil,retorno_mensal_pct,percentual,Retorno percentual mensal simples de ibovespa.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,BOVA11.SA,bova11,bova11,bolsa_brasil,etf,BRL,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,BOVA11.SA,ret_bova11,Retorno mensal de bova11,bolsa_brasil,retorno_mensal_pct,percentual,Retorno percentual mensal simples de bova11.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,SMAL11.SA,smal11,smal11,bolsa_brasil,etf,BRL,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,SMAL11.SA,ret_smal11,Retorno mensal de smal11,bolsa_brasil,retorno_mensal_pct,percentual,Retorno percentual mensal simples de smal11.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,IVVB11.SA,ivvb11,ivvb11,bolsa_brasil,etf,BRL,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,IVVB11.SA,ret_ivvb11,Retorno mensal de ivvb11,bolsa_brasil,retorno_mensal_pct,percentual,Retorno percentual mensal simples de ivvb11.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,BRL=X,dolar_real,dolar_real,cambio,cambio,BRL_por_USD,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,BRL=X,ret_dolar_real,Retorno mensal de dolar_real,cambio,retorno_mensal_pct,percentual,Retorno percentual mensal simples de dolar_real.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,EURBRL=X,euro_real,euro_real,cambio,cambio,BRL_por_EUR,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,EURBRL=X,ret_euro_real,Retorno mensal de euro_real,cambio,retorno_mensal_pct,percentual,Retorno percentual mensal simples de euro_real.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,^GSPC,sp500,sp500,bolsa_internacional,indice,USD,Índice S&P 500.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,^GSPC,ret_sp500,Retorno mensal de sp500,bolsa_internacional,retorno_mensal_pct,percentual,Retorno percentual mensal simples de sp500.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,^IXIC,nasdaq,nasdaq,bolsa_internacional,indice,USD,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,^IXIC,ret_nasdaq,Retorno mensal de nasdaq,bolsa_internacional,retorno_mensal_pct,percentual,Retorno percentual mensal simples de nasdaq.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,^DJI,dow_jones,dow_jones,bolsa_internacional,indice,USD,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,^DJI,ret_dow_jones,Retorno mensal de dow_jones,bolsa_internacional,retorno_mensal_pct,percentual,Retorno percentual mensal simples de dow_jones.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,GC=F,ouro,ouro,commodities,futuro,USD,Contrato futuro de ouro.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,GC=F,ret_ouro,Retorno mensal de ouro,commodities,retorno_mensal_pct,percentual,Retorno percentual mensal simples de ouro.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,CL=F,petroleo_wti,petroleo_wti,commodities,futuro,USD,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,CL=F,ret_petroleo_wti,Retorno mensal de petroleo_wti,commodities,retorno_mensal_pct,percentual,Retorno percentual mensal simples de petroleo_wti.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,BZ=F,petroleo_brent,petroleo_brent,commodities,futuro,USD,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,BZ=F,ret_petroleo_brent,Retorno mensal de petroleo_brent,commodities,retorno_mensal_pct,percentual,Retorno percentual mensal simples de petroleo_brent.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,ZS=F,soja,soja,commodities,futuro,USD,Contrato futuro de soja.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,ZS=F,ret_soja,Retorno mensal de soja,commodities,retorno_mensal_pct,percentual,Retorno percentual mensal simples de soja.,mensal,mensal,pct_change,Close,5y,True
+Yahoo Finance via yfinance,ZC=F,milho,milho,commodities,futuro,USD,Contrato futuro de milho.,1d,mensal,ultimo,Close,5y,False
+Calculado pelo script a partir do Yahoo Finance,ZC=F,ret_milho,Retorno mensal de milho,commodities,retorno_mensal_pct,percentual,Retorno percentual mensal simples de milho.,mensal,mensal,pct_change,Close,5y,True
