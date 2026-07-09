@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-  <title>EcoDATA - Base de Dados de Conjuntura Econômica</title>
+  <title>EcoData - Base de Dados de Conjuntura Econômica</title>
 
   <style>
     :root {
@@ -276,7 +276,7 @@
     <section id="sobre" class="card">
       <h2>Sobre o projeto</h2>
       <p>
-        O <strong>EcoDATA</strong> é um repositório automatizado de séries
+        O <strong>EcoData</strong> é um repositório automatizado de séries
         econômicas, financeiras e fiscais voltado à análise de conjuntura.
         As bases são atualizadas por scripts em Python e disponibilizadas
         em formatos abertos para uso em planilhas, softwares estatísticos,
@@ -607,13 +607,28 @@ print(df.head())</code></pre>
 
   </main>
 
-  <footer>
-    EcoDATA - Base de Dados de Conjuntura Econômica<br />
-    Repositório desenvolvido pelos Docentes do Colegiado de Ciências Econômicas da UNESPAR 
-    (Campus de Campo Mourão) para organização, atualização e disponibilização
-    de séries econômicas em formato aberto.
+  <footer class="site-footer">
+    <div class="footer-container">
+  
+      <div class="footer-brand">
+        <strong>EcoData</strong>
+        <span>Base de Dados de Conjuntura Econômica</span>
+      </div>
+  
+      <p class="footer-description">
+        Repositório automatizado desenvolvido pelos docentes do Colegiado de Ciências Econômicas da UNESPAR
+        — Campus de Campo Mourão — para organização, atualização e disponibilização de séries econômicas
+        em formato aberto.
+      </p>
+  
+      <div class="footer-bottom">
+        <span>UNESPAR - Campus de Campo Mourão</span>
+        <span>Colegiado de Ciências Econômicas</span>
+      </div>
+  
+    </div>
   </footer>
-
+  
   <script>
     async function carregarSeriesIndividuais() {
       const caminhoCsv = "data/final/documentacao/lista_series_individuais.csv";
