@@ -59,7 +59,7 @@
 2026-04-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,184.089996,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.103105
 2026-05-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,170.75,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-7.246454
 2026-06-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,169.050003,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.995606
-2026-07-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,168.350006,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.414077
+2026-07-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,169.800003,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,0.443656
 2021-07-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.0804,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.1829,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.017557
 2021-09-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.4143,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,4.464682
@@ -120,7 +120,7 @@
 2026-04-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.0175,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-4.682751
 2026-05-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.0517,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.681618
 2026-06-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.181787,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.575111
-2026-07-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.1453,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-0.704141
+2026-07-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.1146,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-1.296596
 2021-07-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,34935.46875,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,35360.730469,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,1.217278
 2021-09-30,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,33843.921875,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,-4.289528
@@ -181,7 +181,7 @@
 2026-04-30,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,49652.140625,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,7.143981
 2026-05-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,51032.460938,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,2.779981
 2026-06-30,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,52319.199219,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,2.521411
-2026-07-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,52299.730469,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,-0.037211
+2026-07-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,52487.410156,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,0.321509
 2021-07-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.0387,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.1119,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,1.212177
 2021-09-30,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.2785,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.725834
@@ -242,7 +242,7 @@
 2026-04-30,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,5.858231,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-2.811955
 2026-05-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,5.882353,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.411758
 2026-06-30,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,5.91716,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.591722
-2026-07-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,5.8964,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-0.350845
+2026-07-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,5.8474,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-1.178941
 2021-07-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,121801.0,Índice Ibovespa.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,118781.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-2.479454
 2021-09-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,110979.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-6.568391
@@ -303,7 +303,7 @@
 2026-04-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,187318.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-0.076816
 2026-05-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,173788.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-7.223011
 2026-06-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,172024.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-1.01503
-2026-07-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,171260.59375,Índice Ibovespa.,1d,mensal,ultimo,Close,-0.443779
+2026-07-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,172742.0,Índice Ibovespa.,1d,mensal,ultimo,Close,0.417384
 2021-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,250.350006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,254.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.457956
 2021-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,255.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.393701
@@ -364,7 +364,7 @@
 2026-04-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,402.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.87926
 2026-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,430.399994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,6.931676
 2026-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,435.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.219796
-2026-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,435.450012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.045904
+2026-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,435.079987,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.130841
 2021-07-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,547.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,534.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,-2.3766
 2021-09-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,536.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,0.514981
@@ -425,7 +425,7 @@
 2026-04-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,464.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,1.529219
 2026-05-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,446.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,-3.87305
 2026-06-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,412.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,-7.61052
-2026-07-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,451.5,Contrato futuro de milho.,1d,mensal,ultimo,Close,9.38825
+2026-07-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,451.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,9.448819
 2021-07-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,14672.679688,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,15259.240234,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,3.997638
 2021-09-30,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,14448.580078,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,-5.312585
@@ -486,7 +486,7 @@
 2026-04-30,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,24892.310547,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,15.292187
 2026-05-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,26972.619141,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,8.357234
 2026-06-30,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,26213.720703,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,-2.813588
-2026-07-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,25918.525391,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,-1.12611
+2026-07-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,26206.890625,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,-0.026055
 2021-07-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,1812.599976,Contrato futuro de ouro.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,1815.0,Contrato futuro de ouro.,1d,mensal,ultimo,Close,0.132408
 2021-09-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,1755.300049,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-3.289254
@@ -547,7 +547,7 @@
 2026-04-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4614.700195,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-0.70789
 2026-05-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4560.5,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-1.174512
 2026-06-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4022.899902,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-11.788183
-2026-07-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4133.700195,Contrato futuro de ouro.,1d,mensal,ultimo,Close,2.754239
+2026-07-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4117.700195,Contrato futuro de ouro.,1d,mensal,ultimo,Close,2.356516
 2021-07-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,76.330002,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,72.989998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-4.375742
 2021-09-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,78.519997,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,7.576379
@@ -608,7 +608,7 @@
 2026-04-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,114.010002,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-3.667086
 2026-05-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,92.050003,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-19.261467
 2026-06-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,72.919998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-20.782188
-2026-07-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,77.910004,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,6.843123
+2026-07-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,76.360001,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,4.717502
 2021-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,73.949997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,68.5,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-7.369841
 2021-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.029999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,9.532845
@@ -669,7 +669,7 @@
 2026-04-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,105.07,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,3.639774
 2026-05-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,87.360001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-16.855429
 2026-06-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,69.5,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-20.44414
-2026-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,73.129997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,5.223018
+2026-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,71.949997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,3.525175
 2021-07-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,141.800003,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,136.330002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-3.857547
 2021-09-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,127.400002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-6.550283
@@ -730,7 +730,7 @@
 2026-04-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,115.760002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-3.533332
 2026-05-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,110.989998,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-4.120598
 2026-06-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,107.980003,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-2.711951
-2026-07-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,105.809998,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-2.009637
+2026-07-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,107.760002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-0.203743
 2021-07-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1414.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1298.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-8.199329
 2021-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1256.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,-3.291627
@@ -791,7 +791,7 @@
 2026-04-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1182.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,0.939368
 2026-05-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1186.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,0.401861
 2026-06-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1116.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-5.898462
-2026-07-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1185.5,Contrato futuro de soja.,1d,mensal,ultimo,Close,6.156257
+2026-07-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1180.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,5.686143
 2021-07-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4395.259766,Índice S&P 500.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4522.680176,Índice S&P 500.,1d,mensal,ultimo,Close,2.899042
 2021-09-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4307.540039,Índice S&P 500.,1d,mensal,ultimo,Close,-4.756917
@@ -852,4 +852,4 @@
 2026-04-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,7209.009766,Índice S&P 500.,1d,mensal,ultimo,Close,10.423339
 2026-05-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,7580.060059,Índice S&P 500.,1d,mensal,ultimo,Close,5.147036
 2026-06-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,7499.359863,Índice S&P 500.,1d,mensal,ultimo,Close,-1.064638
-2026-07-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,7492.100098,Índice S&P 500.,1d,mensal,ultimo,Close,-0.096805
+2026-07-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,7543.640137,Índice S&P 500.,1d,mensal,ultimo,Close,0.590454

@@ -3,7 +3,9 @@ bcb_sgs_ibc_br,bcb_sgs,atividade,mensal,58,2021-07-31,2026-04-30,data/final/seri
 bcb_sgs_ibc_br_sa,bcb_sgs,atividade,mensal,58,2021-07-31,2026-04-30,data/final/series/bcb_sgs_ibc_br_sa.csv,data/final/series/bcb_sgs_ibc_br_sa.xlsx
 bcb_sgs_var_pct_ibc_br,bcb_sgs,atividade,mensal,57,2021-08-31,2026-04-30,data/final/series/bcb_sgs_var_pct_ibc_br.csv,data/final/series/bcb_sgs_var_pct_ibc_br.xlsx
 bcb_sgs_var_pct_ibc_br_sa,bcb_sgs,atividade,mensal,57,2021-08-31,2026-04-30,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv,data/final/series/bcb_sgs_var_pct_ibc_br_sa.xlsx
+bcb_sgs_cambio_compra_usd,bcb_sgs,cambio,mensal,61,2021-07-31,2026-07-31,data/final/series/bcb_sgs_cambio_compra_usd.csv,data/final/series/bcb_sgs_cambio_compra_usd.xlsx
 bcb_sgs_cambio_venda_usd,bcb_sgs,cambio,mensal,61,2021-07-31,2026-07-31,data/final/series/bcb_sgs_cambio_venda_usd.csv,data/final/series/bcb_sgs_cambio_venda_usd.xlsx
+bcb_sgs_var_pct_cambio_compra_usd,bcb_sgs,cambio,mensal,60,2021-08-31,2026-07-31,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.csv,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.xlsx
 bcb_sgs_var_pct_cambio_venda_usd,bcb_sgs,cambio,mensal,60,2021-08-31,2026-07-31,data/final/series/bcb_sgs_var_pct_cambio_venda_usd.csv,data/final/series/bcb_sgs_var_pct_cambio_venda_usd.xlsx
 bcb_sgs_dif_inadimplencia_pf,bcb_sgs,credito,mensal,58,2021-08-31,2026-05-31,data/final/series/bcb_sgs_dif_inadimplencia_pf.csv,data/final/series/bcb_sgs_dif_inadimplencia_pf.xlsx
 bcb_sgs_dif_inadimplencia_pj,bcb_sgs,credito,mensal,58,2021-08-31,2026-05-31,data/final/series/bcb_sgs_dif_inadimplencia_pj.csv,data/final/series/bcb_sgs_dif_inadimplencia_pj.xlsx
