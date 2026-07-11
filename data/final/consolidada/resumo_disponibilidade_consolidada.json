@@ -5,7 +5,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":121801.0,
-        "valor_final":172742.0,
+        "valor_final":177866.0,
         "percentual_preenchido":100.0
     },
     {
@@ -14,7 +14,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":117.110001,
-        "valor_final":169.800003,
+        "valor_final":175.009995,
         "percentual_preenchido":100.0
     },
     {
@@ -23,7 +23,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":141.800003,
-        "valor_final":107.760002,
+        "valor_final":111.080002,
         "percentual_preenchido":100.0
     },
     {
@@ -32,7 +32,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":250.350006,
-        "valor_final":435.079987,
+        "valor_final":436.290009,
         "percentual_preenchido":100.0
     },
     {
@@ -41,7 +41,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.0804,
-        "valor_final":5.1146,
+        "valor_final":5.1075,
         "percentual_preenchido":100.0
     },
     {
@@ -50,7 +50,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":6.0387,
-        "valor_final":5.8474,
+        "valor_final":5.8296,
         "percentual_preenchido":100.0
     },
     {
@@ -59,7 +59,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":4395.259766,
-        "valor_final":7543.640137,
+        "valor_final":7575.390137,
         "percentual_preenchido":100.0
     },
     {
@@ -68,7 +68,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":14672.679688,
-        "valor_final":26206.890625,
+        "valor_final":26281.609375,
         "percentual_preenchido":100.0
     },
     {
@@ -77,7 +77,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":34935.46875,
-        "valor_final":52487.410156,
+        "valor_final":52637.011719,
         "percentual_preenchido":100.0
     },
     {
@@ -86,7 +86,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1812.599976,
-        "valor_final":4117.700195,
+        "valor_final":4104.100098,
         "percentual_preenchido":100.0
     },
     {
@@ -95,7 +95,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":73.949997,
-        "valor_final":71.949997,
+        "valor_final":71.410004,
         "percentual_preenchido":100.0
     },
     {
@@ -104,7 +104,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":76.330002,
-        "valor_final":76.360001,
+        "valor_final":76.010002,
         "percentual_preenchido":100.0
     },
     {
@@ -113,7 +113,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1414.75,
-        "valor_final":1180.25,
+        "valor_final":1196.5,
         "percentual_preenchido":100.0
     },
     {
@@ -122,7 +122,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":547.0,
-        "valor_final":451.75,
+        "valor_final":438.0,
         "percentual_preenchido":100.0
     },
     {
@@ -131,7 +131,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-2.479454,
-        "valor_final":0.417384,
+        "valor_final":3.396038,
         "percentual_preenchido":98.360656
     },
     {
@@ -140,7 +140,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-2.58731,
-        "valor_final":0.443656,
+        "valor_final":3.525579,
         "percentual_preenchido":98.360656
     },
     {
@@ -149,7 +149,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-3.857547,
-        "valor_final":-0.203743,
+        "valor_final":2.870901,
         "percentual_preenchido":98.360656
     },
     {
@@ -158,7 +158,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":1.457956,
-        "valor_final":-0.130841,
+        "valor_final":0.14691,
         "percentual_preenchido":98.360656
     },
     {
@@ -167,7 +167,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":2.017557,
-        "valor_final":-1.296596,
+        "valor_final":-1.433616,
         "percentual_preenchido":98.360656
     },
     {
@@ -176,7 +176,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":1.212177,
-        "valor_final":-1.178941,
+        "valor_final":-1.479767,
         "percentual_preenchido":98.360656
     },
     {
@@ -185,7 +185,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":2.899042,
-        "valor_final":0.590454,
+        "valor_final":1.013824,
         "percentual_preenchido":98.360656
     },
     {
@@ -194,7 +194,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":3.997638,
-        "valor_final":-0.026055,
+        "valor_final":0.258981,
         "percentual_preenchido":98.360656
     },
     {
@@ -203,7 +203,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":1.217278,
-        "valor_final":0.321509,
+        "valor_final":0.607449,
         "percentual_preenchido":98.360656
     },
     {
@@ -212,7 +212,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.132408,
-        "valor_final":2.356516,
+        "valor_final":2.018449,
         "percentual_preenchido":98.360656
     },
     {
@@ -221,7 +221,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-7.369841,
-        "valor_final":3.525175,
+        "valor_final":2.748207,
         "percentual_preenchido":98.360656
     },
     {
@@ -230,7 +230,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-4.375742,
-        "valor_final":4.717502,
+        "valor_final":4.237526,
         "percentual_preenchido":98.360656
     },
     {
@@ -239,7 +239,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-8.199329,
-        "valor_final":5.686143,
+        "valor_final":7.141258,
         "percentual_preenchido":98.360656
     },
     {
@@ -248,7 +248,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-2.3766,
-        "valor_final":9.448819,
+        "valor_final":6.117505,
         "percentual_preenchido":98.360656
     },
     {
@@ -281,11 +281,11 @@
     {
         "variavel":"bcb_sgs_ipca",
         "primeira_data":"2021-07-31T00:00:00.000",
-        "ultima_data":"2026-05-31T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-06-30T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":0.96,
-        "valor_final":0.58,
-        "percentual_preenchido":96.721311
+        "valor_final":0.16,
+        "percentual_preenchido":98.360656
     },
     {
         "variavel":"bcb_sgs_igp_m",
@@ -299,11 +299,11 @@
     {
         "variavel":"bcb_sgs_inpc",
         "primeira_data":"2021-07-31T00:00:00.000",
-        "ultima_data":"2026-05-31T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-06-30T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":1.02,
-        "valor_final":0.65,
-        "percentual_preenchido":96.721311
+        "valor_final":0.14,
+        "percentual_preenchido":98.360656
     },
     {
         "variavel":"bcb_sgs_ibc_br_sa",
@@ -329,7 +329,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1216,
-        "valor_final":5.1329,
+        "valor_final":5.1088,
         "percentual_preenchido":100.0
     },
     {
@@ -338,7 +338,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.121,
-        "valor_final":5.1323,
+        "valor_final":5.1082,
         "percentual_preenchido":100.0
     },
     {
@@ -437,7 +437,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.423696,
-        "valor_final":-0.844183,
+        "valor_final":-1.30974,
         "percentual_preenchido":98.360656
     },
     {
@@ -446,7 +446,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.423745,
-        "valor_final":-0.844281,
+        "valor_final":-1.309892,
         "percentual_preenchido":98.360656
     },
     {
@@ -488,11 +488,11 @@
     {
         "variavel":"bcb_sgs_ipca_acum_12m",
         "primeira_data":"2022-06-30T00:00:00.000",
-        "ultima_data":"2026-05-31T00:00:00.000",
-        "observacoes":48,
+        "ultima_data":"2026-06-30T00:00:00.000",
+        "observacoes":49,
         "valor_inicial":11.88673,
-        "valor_final":4.724907,
-        "percentual_preenchido":78.688525
+        "valor_final":4.641328,
+        "percentual_preenchido":80.327869
     },
     {
         "variavel":"bcb_sgs_igp_m_acum_12m",
@@ -506,11 +506,11 @@
     {
         "variavel":"bcb_sgs_inpc_acum_12m",
         "primeira_data":"2022-06-30T00:00:00.000",
-        "ultima_data":"2026-05-31T00:00:00.000",
-        "observacoes":48,
+        "ultima_data":"2026-06-30T00:00:00.000",
+        "observacoes":49,
         "valor_inicial":11.919595,
-        "valor_final":4.420848,
-        "percentual_preenchido":78.688525
+        "valor_final":4.327084,
+        "percentual_preenchido":80.327869
     },
     {
         "variavel":"bcb_sgs_dif_selic_meta",
