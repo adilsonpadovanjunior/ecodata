@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-07-12 11:12:06",
+    "data_execucao": "2026-07-13 12:33:01",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -24,9 +24,11 @@
         "reservas_internacionais": 3546
     },
     "status": "concluido",
-    "erros": [],
+    "erros": [
+        "Erro na série igp_m | SGS 189: HTTPSConnectionPool(host='api.bcb.gov.br', port=443): Read timed out. (read timeout=30)"
+    ],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 1074,
+    "linhas_base_longa": 1014,
     "data_inicial_base": "2021-07-31 00:00:00",
     "data_final_base": "2026-07-31 00:00:00",
     "colunas_base_larga": [
@@ -35,7 +37,6 @@
         "selic_over",
         "cdi",
         "ipca",
-        "igp_m",
         "inpc",
         "ibc_br_sa",
         "ibc_br",
@@ -58,7 +59,6 @@
         "var_pct_saldo_credito_pf",
         "var_pct_reservas_internacionais",
         "ipca_acum_12m",
-        "igp_m_acum_12m",
         "inpc_acum_12m",
         "dif_selic_meta",
         "dif_selic_over",

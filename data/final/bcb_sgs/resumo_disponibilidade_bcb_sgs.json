@@ -32,14 +32,6 @@
         "valor_final":0.16
     },
     {
-        "variavel":"igp_m",
-        "primeira_data":"2021-07-31T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":0.78,
-        "valor_final":-0.5
-    },
-    {
         "variavel":"inpc",
         "primeira_data":"2021-07-31T00:00:00.000",
         "ultima_data":"2026-06-30T00:00:00.000",
@@ -214,14 +206,6 @@
         "observacoes":49,
         "valor_inicial":11.88673,
         "valor_final":4.641328
-    },
-    {
-        "variavel":"igp_m_acum_12m",
-        "primeira_data":"2022-06-30T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":49,
-        "valor_inicial":10.700862,
-        "valor_final":3.177699
     },
     {
         "variavel":"inpc_acum_12m",
