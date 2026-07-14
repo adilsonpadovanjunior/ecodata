@@ -32,6 +32,14 @@
         "valor_final":0.16
     },
     {
+        "variavel":"igp_m",
+        "primeira_data":"2021-07-31T00:00:00.000",
+        "ultima_data":"2026-06-30T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":0.78,
+        "valor_final":-0.5
+    },
+    {
         "variavel":"inpc",
         "primeira_data":"2021-07-31T00:00:00.000",
         "ultima_data":"2026-06-30T00:00:00.000",
@@ -61,7 +69,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1216,
-        "valor_final":5.1088
+        "valor_final":5.1183
     },
     {
         "variavel":"cambio_compra_usd",
@@ -69,7 +77,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.121,
-        "valor_final":5.1082
+        "valor_final":5.1177
     },
     {
         "variavel":"saldo_credito_total",
@@ -157,7 +165,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.423696,
-        "valor_final":-1.30974
+        "valor_final":-1.126222
     },
     {
         "variavel":"var_pct_cambio_compra_usd",
@@ -165,7 +173,7 @@
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.423745,
-        "valor_final":-1.309892
+        "valor_final":-1.126352
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -206,6 +214,14 @@
         "observacoes":49,
         "valor_inicial":11.88673,
         "valor_final":4.641328
+    },
+    {
+        "variavel":"igp_m_acum_12m",
+        "primeira_data":"2022-06-30T00:00:00.000",
+        "ultima_data":"2026-06-30T00:00:00.000",
+        "observacoes":49,
+        "valor_inicial":10.700862,
+        "valor_final":3.177699
     },
     {
         "variavel":"inpc_acum_12m",

@@ -1,10 +1,10 @@
 {
     "projeto": "ECODATA",
-    "ultima_atualizacao": "2026-07-13 12:33:51",
+    "ultima_atualizacao": "2026-07-14 11:27:09",
     "frequencia_principal": "mensal",
     "periodo_inicial": "2021-07-31",
     "periodo_final": "2026-07-31",
-    "total_variaveis_base": 62,
+    "total_variaveis_base": 64,
     "fontes_disponiveis": [
         "bcb_sgs",
         "yahoo"
