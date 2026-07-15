@@ -1,0 +1,1086 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta
+        name="viewport"
+        content="width=device-width, initial-scale=1.0"
+    >
+
+    <meta
+        name="description"
+        content="Dashboard individual de séries econômicas do EcoData."
+    >
+
+    <title>Dashboard | EcoData</title>
+
+    <!-- CSS principal do dashboard -->
+    <link
+        rel="stylesheet"
+        href="../css/dashboard.css"
+    >
+
+    <!-- Chart.js -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/chart.js"
+        defer
+    ></script>
+
+    <!-- Adaptador de datas para Chart.js -->
+    <script
+        src="https://cdn.jsdelivr.net/npm/chartjs-adapter-date-fns"
+        defer
+    ></script>
+
+    <!-- JavaScript do dashboard -->
+    <script
+        src="dashboard.js"
+        defer
+    ></script>
+
+</head>
+
+
+<body>
+
+    <!-- =====================================================
+         ESTRUTURA GERAL
+    ====================================================== -->
+
+    <div class="layout-dashboard">
+
+
+        <!-- =================================================
+             MENU LATERAL
+        ================================================== -->
+
+        <aside class="menu-lateral">
+
+            <!-- MARCA -->
+
+            <div class="menu-lateral-topo">
+
+                <a
+                    class="marca marca-lateral"
+                    href="../index.html"
+                    aria-label="Voltar para a página inicial do EcoData"
+                >
+                    <span class="marca-eco">Eco</span>Data
+                </a>
+
+                <p class="menu-descricao">
+                    Dados e análises da economia brasileira
+                </p>
+
+            </div>
+
+
+            <!-- NAVEGAÇÃO -->
+
+            <nav
+                class="menu-navegacao"
+                aria-label="Navegação do dashboard"
+            >
+
+                <div class="grupo-menu">
+
+                    <span class="menu-titulo">
+                        Navegação
+                    </span>
+
+                    <a
+                        class="item-menu"
+                        href="../index.html"
+                    >
+                        <span class="item-menu-icone">⌂</span>
+
+                        <span>Início</span>
+                    </a>
+
+                    <a
+                        class="item-menu item-menu-ativo"
+                        href="#visao-geral"
+                    >
+                        <span class="item-menu-icone">▦</span>
+
+                        <span>Painel econômico</span>
+                    </a>
+
+                </div>
+
+
+                <div class="grupo-menu">
+
+                    <span class="menu-titulo">
+                        Dashboard
+                    </span>
+
+                    <a
+                        class="item-menu"
+                        href="#visao-geral"
+                    >
+                        <span class="item-menu-icone">◉</span>
+
+                        <span>Visão geral</span>
+                    </a>
+
+                    <a
+                        class="item-menu"
+                        href="#serie-historica"
+                    >
+                        <span class="item-menu-icone">⌁</span>
+
+                        <span>Série histórica</span>
+                    </a>
+
+                    <a
+                        class="item-menu"
+                        href="#indicadores"
+                    >
+                        <span class="item-menu-icone">▤</span>
+
+                        <span>Indicadores</span>
+                    </a>
+
+                    <a
+                        class="item-menu"
+                        href="#medias-moveis"
+                    >
+                        <span class="item-menu-icone">⌇</span>
+
+                        <span>Médias móveis</span>
+                    </a>
+
+                    <a
+                        class="item-menu"
+                        href="#informacoes-serie"
+                    >
+                        <span class="item-menu-icone">ⓘ</span>
+
+                        <span>Informações da série</span>
+                    </a>
+
+                </div>
+
+
+                <div class="grupo-menu">
+
+                    <span class="menu-titulo">
+                        Sobre
+                    </span>
+
+                    <a
+                        class="item-menu"
+                        href="#metodologia"
+                    >
+                        <span class="item-menu-icone">◇</span>
+
+                        <span>Metodologia</span>
+                    </a>
+
+                    <a
+                        class="item-menu"
+                        href="../index.html#fontes"
+                    >
+                        <span class="item-menu-icone">◫</span>
+
+                        <span>Fontes dos dados</span>
+                    </a>
+
+                    <a
+                        class="item-menu"
+                        href="../index.html#sobre"
+                    >
+                        <span class="item-menu-icone">●</span>
+
+                        <span>Sobre o EcoData</span>
+                    </a>
+
+                </div>
+
+            </nav>
+
+
+            <!-- BLOCO API / AGENTES -->
+
+            <section class="menu-api">
+
+                <span class="menu-api-titulo">
+                    API / Agentes
+                </span>
+
+                <p>
+                    Acesse os dados estruturados para integração com
+                    agentes, aplicações e modelos de IA.
+                </p>
+
+                <a
+                    class="botao-menu-api"
+                    href="#dados-agentes"
+                >
+                    Ver acesso aos dados
+                </a>
+
+            </section>
+
+        </aside>
+
+
+        <!-- =================================================
+             CONTEÚDO DO DASHBOARD
+        ================================================== -->
+
+        <div class="conteudo-dashboard">
+
+
+            <!-- =============================================
+                 CABEÇALHO SUPERIOR
+            ============================================== -->
+
+            <header class="topo">
+
+                <div class="topo-conteudo">
+
+                    <!-- Marca exibida principalmente em telas menores -->
+
+                    <a
+                        class="marca marca-topo"
+                        href="../index.html"
+                        aria-label="Voltar para a página inicial do EcoData"
+                    >
+                        <span class="marca-eco">Eco</span>Data
+                    </a>
+
+
+                    <!-- Seletor e ações -->
+
+                    <div class="topo-acoes">
+
+                        <div class="seletor-serie-container">
+
+                            <label for="seletor-serie">
+                                Série
+                            </label>
+
+                            <select
+                                id="seletor-serie"
+                                aria-label="Selecionar série econômica"
+                            >
+                                <option value="">
+                                    Carregando séries...
+                                </option>
+                            </select>
+
+                        </div>
+
+
+                        <a
+                            class="botao-secundario"
+                            href="../index.html"
+                        >
+                            Voltar ao EcoData
+                        </a>
+
+
+                        <a
+                            id="link-baixar-json"
+                            class="botao-principal"
+                            href="#"
+                            download
+                        >
+                            Baixar JSON
+                        </a>
+
+                    </div>
+
+                </div>
+
+            </header>
+
+
+            <!-- =============================================
+                 MENSAGEM DE CARREGAMENTO
+            ============================================== -->
+
+            <div
+                id="estado-carregamento"
+                class="estado-pagina"
+            >
+
+                <div class="carregando"></div>
+
+                <p>
+                    Carregando informações da série...
+                </p>
+
+            </div>
+
+
+            <!-- =============================================
+                 MENSAGEM DE ERRO
+            ============================================== -->
+
+            <div
+                id="estado-erro"
+                class="estado-pagina oculto"
+            >
+
+                <h2>
+                    Não foi possível carregar o dashboard
+                </h2>
+
+                <p id="mensagem-erro">
+                    Verifique se o nome da série foi informado corretamente.
+                </p>
+
+                <a
+                    class="botao-principal"
+                    href="../index.html"
+                >
+                    Voltar ao EcoData
+                </a>
+
+            </div>
+
+
+            <!-- =============================================
+                 CONTEÚDO PRINCIPAL
+            ============================================== -->
+
+            <main
+                id="dashboard"
+                class="dashboard oculto"
+            >
+
+
+                <!-- =========================================
+                     IDENTIFICAÇÃO DA SÉRIE
+                ========================================== -->
+
+                <section
+                    id="visao-geral"
+                    class="cabecalho-serie"
+                >
+
+                    <div class="cabecalho-serie-conteudo">
+
+                        <p class="rotulo-secao">
+                            Dashboard de série econômica
+                        </p>
+
+                        <h1 id="titulo-serie">
+                            Série econômica
+                        </h1>
+
+                        <p
+                            id="descricao-serie"
+                            class="descricao-serie"
+                        >
+                            Indicadores calculados a partir da série histórica.
+                        </p>
+
+                        <div class="etiquetas">
+
+                            <span
+                                id="etiqueta-fonte"
+                                class="etiqueta"
+                            >
+                                Fonte
+                            </span>
+
+                            <span
+                                id="etiqueta-grupo"
+                                class="etiqueta"
+                            >
+                                Grupo
+                            </span>
+
+                            <span
+                                id="etiqueta-frequencia"
+                                class="etiqueta"
+                            >
+                                Frequência
+                            </span>
+
+                        </div>
+
+                    </div>
+
+
+                    <aside class="ultima-atualizacao">
+
+                        <span>
+                            Última observação
+                        </span>
+
+                        <strong id="ultima-data">
+                            —
+                        </strong>
+
+                        <small>
+                            JSON gerado em
+                            <span id="data-geracao">—</span>
+                        </small>
+
+                    </aside>
+
+                </section>
+
+
+                <!-- =========================================
+                     ABAS DE NAVEGAÇÃO
+                ========================================== -->
+
+                <nav
+                    class="abas-dashboard"
+                    aria-label="Seções do dashboard"
+                >
+
+                    <a
+                        class="aba-dashboard aba-ativa"
+                        href="#visao-geral"
+                    >
+                        Visão geral
+                    </a>
+
+                    <a
+                        class="aba-dashboard"
+                        href="#serie-historica"
+                    >
+                        Série histórica
+                    </a>
+
+                    <a
+                        class="aba-dashboard"
+                        href="#indicadores"
+                    >
+                        Indicadores
+                    </a>
+
+                    <a
+                        class="aba-dashboard"
+                        href="#medias-moveis"
+                    >
+                        Médias móveis
+                    </a>
+
+                    <a
+                        class="aba-dashboard"
+                        href="#metodologia"
+                    >
+                        Metodologia
+                    </a>
+
+                    <a
+                        class="aba-dashboard"
+                        href="#dados-agentes"
+                    >
+                        Downloads
+                    </a>
+
+                </nav>
+
+
+                <!-- =========================================
+                     CARTÕES PRINCIPAIS
+                ========================================== -->
+
+                <section
+                    id="indicadores"
+                    class="grade-cartoes"
+                >
+
+
+                    <article class="cartao-indicador">
+
+                        <span class="cartao-rotulo">
+                            Último valor
+                        </span>
+
+                        <strong
+                            id="indicador-ultimo-valor"
+                            class="cartao-valor"
+                        >
+                            —
+                        </strong>
+
+                        <small id="indicador-ultima-data">
+                            —
+                        </small>
+
+                    </article>
+
+
+                    <article class="cartao-indicador">
+
+                        <span class="cartao-rotulo">
+                            Variação mensal
+                        </span>
+
+                        <strong
+                            id="indicador-variacao-mensal"
+                            class="cartao-valor"
+                        >
+                            —
+                        </strong>
+
+                        <small>
+                            Comparação com o mês anterior
+                        </small>
+
+                    </article>
+
+
+                    <article class="cartao-indicador">
+
+                        <span class="cartao-rotulo">
+                            Variação em 12 meses
+                        </span>
+
+                        <strong
+                            id="indicador-variacao-12m"
+                            class="cartao-valor"
+                        >
+                            —
+                        </strong>
+
+                        <small>
+                            Comparação interanual
+                        </small>
+
+                    </article>
+
+
+                    <article class="cartao-indicador">
+
+                        <span class="cartao-rotulo">
+                            Tendência recente
+                        </span>
+
+                        <strong
+                            id="indicador-tendencia"
+                            class="cartao-texto"
+                        >
+                            —
+                        </strong>
+
+                        <small>
+                            Classificação descritiva
+                        </small>
+
+                    </article>
+
+                </section>
+
+
+                <!-- =========================================
+                     GRADE PRINCIPAL
+                ========================================== -->
+
+                <div class="grade-principal">
+
+
+                    <!-- =====================================
+                         COLUNA DOS GRÁFICOS
+                    ====================================== -->
+
+                    <div class="coluna-graficos">
+
+
+                        <!-- GRÁFICO 1 -->
+
+                        <section
+                            id="serie-historica"
+                            class="painel"
+                        >
+
+                            <div class="painel-cabecalho">
+
+                                <div>
+
+                                    <span class="numero-grafico">
+                                        1
+                                    </span>
+
+                                    <h2>
+                                        Série histórica
+                                    </h2>
+
+                                </div>
+
+                                <p>
+                                    Evolução do valor da série no período
+                                    disponível.
+                                </p>
+
+                            </div>
+
+                            <div class="grafico-container grafico-grande">
+
+                                <canvas
+                                    id="grafico-serie-historica"
+                                ></canvas>
+
+                            </div>
+
+                        </section>
+
+
+                        <!-- GRÁFICOS 2 E 3 -->
+
+                        <section class="grade-dois-graficos">
+
+
+                            <article class="painel">
+
+                                <div class="painel-cabecalho">
+
+                                    <div>
+
+                                        <span class="numero-grafico">
+                                            2
+                                        </span>
+
+                                        <h2>
+                                            Variação mensal
+                                        </h2>
+
+                                    </div>
+
+                                    <p>
+                                        Alteração percentual em relação ao
+                                        mês anterior.
+                                    </p>
+
+                                </div>
+
+                                <div class="grafico-container">
+
+                                    <canvas
+                                        id="grafico-variacao-mensal"
+                                    ></canvas>
+
+                                </div>
+
+                            </article>
+
+
+                            <article class="painel">
+
+                                <div class="painel-cabecalho">
+
+                                    <div>
+
+                                        <span class="numero-grafico">
+                                            3
+                                        </span>
+
+                                        <h2>
+                                            Variação em 12 meses
+                                        </h2>
+
+                                    </div>
+
+                                    <p>
+                                        Alteração percentual em relação ao
+                                        mesmo mês do ano anterior.
+                                    </p>
+
+                                </div>
+
+                                <div class="grafico-container">
+
+                                    <canvas
+                                        id="grafico-variacao-12m"
+                                    ></canvas>
+
+                                </div>
+
+                            </article>
+
+                        </section>
+
+
+                        <!-- GRÁFICO 4 -->
+
+                        <section
+                            id="medias-moveis"
+                            class="painel"
+                        >
+
+                            <div class="painel-cabecalho">
+
+                                <div>
+
+                                    <span class="numero-grafico">
+                                        4
+                                    </span>
+
+                                    <h2>
+                                        Médias móveis
+                                    </h2>
+
+                                </div>
+
+                                <p>
+                                    Comparação entre a série e médias móveis
+                                    de 3, 6 e 12 meses.
+                                </p>
+
+                            </div>
+
+                            <div class="grafico-container grafico-grande">
+
+                                <canvas
+                                    id="grafico-medias-moveis"
+                                ></canvas>
+
+                            </div>
+
+                        </section>
+
+
+                        <!-- GRÁFICOS 5 E 6 -->
+
+                        <section class="grade-dois-graficos">
+
+
+                            <article class="painel">
+
+                                <div class="painel-cabecalho">
+
+                                    <div>
+
+                                        <span class="numero-grafico">
+                                            5
+                                        </span>
+
+                                        <h2>
+                                            Desvio da média móvel
+                                        </h2>
+
+                                    </div>
+
+                                    <p>
+                                        Distância percentual em relação à
+                                        média móvel de 12 meses.
+                                    </p>
+
+                                </div>
+
+                                <div class="grafico-container">
+
+                                    <canvas
+                                        id="grafico-desvio-media"
+                                    ></canvas>
+
+                                </div>
+
+                            </article>
+
+
+                            <article class="painel">
+
+                                <div class="painel-cabecalho">
+
+                                    <div>
+
+                                        <span class="numero-grafico">
+                                            6
+                                        </span>
+
+                                        <h2>
+                                            Volatilidade móvel
+                                        </h2>
+
+                                    </div>
+
+                                    <p>
+                                        Desvio-padrão das variações mensais
+                                        em janela de 12 meses.
+                                    </p>
+
+                                </div>
+
+                                <div class="grafico-container">
+
+                                    <canvas
+                                        id="grafico-volatilidade"
+                                    ></canvas>
+
+                                </div>
+
+                            </article>
+
+                        </section>
+
+                    </div>
+
+
+                    <!-- =====================================
+                         COLUNA LATERAL
+                    ====================================== -->
+
+                    <aside class="coluna-lateral">
+
+
+                        <!-- RESUMO DOS INDICADORES -->
+
+                        <section
+                            id="resumo-indicadores"
+                            class="painel painel-lateral"
+                        >
+
+                            <h2>
+                                Resumo dos indicadores
+                            </h2>
+
+                            <dl class="lista-indicadores">
+
+                                <div>
+                                    <dt>Último valor</dt>
+                                    <dd id="resumo-ultimo-valor">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Variação mensal</dt>
+                                    <dd id="resumo-variacao-mensal">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Variação em 3 meses</dt>
+                                    <dd id="resumo-variacao-3m">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Variação em 6 meses</dt>
+                                    <dd id="resumo-variacao-6m">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Variação em 12 meses</dt>
+                                    <dd id="resumo-variacao-12m">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Média móvel de 3 meses</dt>
+                                    <dd id="resumo-media-3">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Média móvel de 6 meses</dt>
+                                    <dd id="resumo-media-6">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Média móvel de 12 meses</dt>
+                                    <dd id="resumo-media-12">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Volatilidade em 12 meses</dt>
+                                    <dd id="resumo-volatilidade">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Percentil histórico</dt>
+                                    <dd id="resumo-percentil">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Sequência atual</dt>
+                                    <dd id="resumo-sequencia">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Aceleração</dt>
+                                    <dd id="resumo-aceleracao">—</dd>
+                                </div>
+
+                            </dl>
+
+                        </section>
+
+
+                        <!-- INFORMAÇÕES DA SÉRIE -->
+
+                        <section
+                            id="informacoes-serie"
+                            class="painel painel-lateral"
+                        >
+
+                            <h2>
+                                Informações da série
+                            </h2>
+
+                            <dl class="lista-indicadores">
+
+                                <div>
+                                    <dt>Nome técnico</dt>
+                                    <dd id="info-nome-tecnico">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Código</dt>
+                                    <dd id="info-codigo">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Fonte</dt>
+                                    <dd id="info-fonte">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Grupo</dt>
+                                    <dd id="info-grupo">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Frequência</dt>
+                                    <dd id="info-frequencia">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Unidade</dt>
+                                    <dd id="info-unidade">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Primeira data</dt>
+                                    <dd id="info-primeira-data">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Última data</dt>
+                                    <dd id="info-ultima-data">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Observações</dt>
+                                    <dd id="info-observacoes">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Ajuste sazonal</dt>
+                                    <dd id="info-ajuste-sazonal">—</dd>
+                                </div>
+
+                            </dl>
+
+                        </section>
+
+
+                        <!-- EXTREMOS HISTÓRICOS -->
+
+                        <section class="painel painel-lateral">
+
+                            <h2>
+                                Extremos históricos
+                            </h2>
+
+                            <dl class="lista-indicadores">
+
+                                <div>
+                                    <dt>Mínimo histórico</dt>
+                                    <dd id="resumo-minimo-historico">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Data do mínimo</dt>
+                                    <dd id="resumo-data-minimo">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Máximo histórico</dt>
+                                    <dd id="resumo-maximo-historico">—</dd>
+                                </div>
+
+                                <div>
+                                    <dt>Data do máximo</dt>
+                                    <dd id="resumo-data-maximo">—</dd>
+                                </div>
+
+                            </dl>
+
+                        </section>
+
+
+                        <!-- DADOS PARA AGENTES -->
+
+                        <section
+                            id="dados-agentes"
+                            class="painel painel-lateral painel-agentes"
+                        >
+
+                            <h2>
+                                Dados para agentes e IA
+                            </h2>
+
+                            <p>
+                                O JSON reúne metadados, indicadores
+                                calculados e a série histórica estruturada.
+                            </p>
+
+                            <a
+                                id="link-ver-json"
+                                class="botao-principal largura-total"
+                                href="#"
+                                target="_blank"
+                                rel="noopener noreferrer"
+                            >
+                                Visualizar JSON
+                            </a>
+
+                        </section>
+
+                    </aside>
+
+                </div>
+
+
+                <!-- =========================================
+                     NOTA METODOLÓGICA
+                ========================================== -->
+
+                <section
+                    id="metodologia"
+                    class="nota-metodologica"
+                >
+
+                    <strong>
+                        Nota metodológica:
+                    </strong>
+
+                    <span id="nota-metodologica">
+                        Os indicadores são descritivos e não representam
+                        previsões.
+                    </span>
+
+                </section>
+
+            </main>
+
+
+            <!-- =============================================
+                 RODAPÉ
+            ============================================== -->
+
+            <footer class="rodape">
+
+                <p>
+                    EcoData — Colegiado de Ciências Econômicas —
+                    UNESPAR, Campus de Campo Mourão.
+                </p>
+
+            </footer>
+
+        </div>
+
+    </div>
+
+</body>
+
+</html>
