@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-07-15 11:37:01",
+    "data_execucao": "2026-07-15 16:29:43",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -24,9 +24,11 @@
         "reservas_internacionais": 3546
     },
     "status": "concluido",
-    "erros": [],
+    "erros": [
+        "Erro na série inadimplencia_pf | SGS 21084: HTTPSConnectionPool(host='api.bcb.gov.br', port=443): Read timed out. (read timeout=30)"
+    ],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 1074,
+    "linhas_base_longa": 1015,
     "data_inicial_base": "2021-07-31 00:00:00",
     "data_final_base": "2026-07-31 00:00:00",
     "colunas_base_larga": [
@@ -46,7 +48,6 @@
         "saldo_credito_pf",
         "inadimplencia_total",
         "inadimplencia_pj",
-        "inadimplencia_pf",
         "juros_credito_total",
         "reservas_internacionais",
         "var_pct_ibc_br_sa",
@@ -65,7 +66,6 @@
         "dif_cdi",
         "dif_inadimplencia_total",
         "dif_inadimplencia_pj",
-        "dif_inadimplencia_pf",
         "dif_juros_credito_total"
     ]
 }

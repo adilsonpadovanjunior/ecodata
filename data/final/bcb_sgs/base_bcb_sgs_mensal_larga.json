@@ -16,7 +16,6 @@
         "saldo_credito_pf":2438686.0,
         "inadimplencia_total":2.36,
         "inadimplencia_pj":1.58,
-        "inadimplencia_pf":2.94,
         "juros_credito_total":20.26,
         "reservas_internacionais":355671.0,
         "var_pct_ibc_br_sa":null,
@@ -35,7 +34,6 @@
         "dif_cdi":null,
         "dif_inadimplencia_total":null,
         "dif_inadimplencia_pj":null,
-        "dif_inadimplencia_pf":null,
         "dif_juros_credito_total":null
     },
     {
@@ -55,7 +53,6 @@
         "saldo_credito_pf":2495054.0,
         "inadimplencia_total":2.37,
         "inadimplencia_pj":1.56,
-        "inadimplencia_pf":2.96,
         "juros_credito_total":20.92,
         "reservas_internacionais":370395.0,
         "var_pct_ibc_br_sa":0.631159,
@@ -74,7 +71,6 @@
         "dif_cdi":0.003276,
         "dif_inadimplencia_total":0.01,
         "dif_inadimplencia_pj":-0.02,
-        "dif_inadimplencia_pf":0.02,
         "dif_juros_credito_total":0.66
     },
     {
@@ -94,7 +90,6 @@
         "saldo_credito_pf":2546936.0,
         "inadimplencia_total":2.34,
         "inadimplencia_pj":1.43,
-        "inadimplencia_pf":3.01,
         "juros_credito_total":21.42,
         "reservas_internacionais":368886.0,
         "var_pct_ibc_br_sa":-0.055529,
@@ -113,7 +108,6 @@
         "dif_cdi":0.001591,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":-0.13,
-        "dif_inadimplencia_pf":0.05,
         "dif_juros_credito_total":0.5
     },
     {
@@ -133,7 +127,6 @@
         "saldo_credito_pf":2601017.0,
         "inadimplencia_total":2.33,
         "inadimplencia_pj":1.43,
-        "inadimplencia_pf":2.99,
         "juros_credito_total":22.89,
         "reservas_internacionais":367927.0,
         "var_pct_ibc_br_sa":0.53429,
@@ -152,7 +145,6 @@
         "dif_cdi":0.00324,
         "dif_inadimplencia_total":-0.01,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":-0.02,
         "dif_juros_credito_total":1.47
     },
     {
@@ -172,7 +164,6 @@
         "saldo_credito_pf":2664395.0,
         "inadimplencia_total":2.36,
         "inadimplencia_pj":1.46,
-        "inadimplencia_pf":3.01,
         "juros_credito_total":23.91,
         "reservas_internacionais":367772.0,
         "var_pct_ibc_br_sa":1.599501,
@@ -191,7 +182,6 @@
         "dif_cdi":0.005012,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":0.02,
         "dif_juros_credito_total":1.02
     },
     {
@@ -211,7 +201,6 @@
         "saldo_credito_pf":2708461.0,
         "inadimplencia_total":2.35,
         "inadimplencia_pj":1.4,
-        "inadimplencia_pf":3.05,
         "juros_credito_total":24.21,
         "reservas_internacionais":362204.0,
         "var_pct_ibc_br_sa":0.250195,
@@ -230,7 +219,6 @@
         "dif_cdi":0.00406,
         "dif_inadimplencia_total":-0.01,
         "dif_inadimplencia_pj":-0.06,
-        "dif_inadimplencia_pf":0.04,
         "dif_juros_credito_total":0.3
     },
     {
@@ -250,7 +238,6 @@
         "saldo_credito_pf":2735096.0,
         "inadimplencia_total":2.51,
         "inadimplencia_pj":1.46,
-        "inadimplencia_pf":3.26,
         "juros_credito_total":25.23,
         "reservas_internacionais":358398.0,
         "var_pct_ibc_br_sa":-1.889415,
@@ -269,7 +256,6 @@
         "dif_cdi":0.001433,
         "dif_inadimplencia_total":0.16,
         "dif_inadimplencia_pj":0.06,
-        "dif_inadimplencia_pf":0.21,
         "dif_juros_credito_total":1.02
     },
     {
@@ -289,7 +275,6 @@
         "saldo_credito_pf":2756295.0,
         "inadimplencia_total":2.57,
         "inadimplencia_pj":1.44,
-        "inadimplencia_pf":3.38,
         "juros_credito_total":25.63,
         "reservas_internacionais":357740.0,
         "var_pct_ibc_br_sa":0.982105,
@@ -308,7 +293,6 @@
         "dif_cdi":0.004849,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":-0.02,
-        "dif_inadimplencia_pf":0.12,
         "dif_juros_credito_total":0.4
     },
     {
@@ -328,7 +312,6 @@
         "saldo_credito_pf":2800464.0,
         "inadimplencia_total":2.66,
         "inadimplencia_pj":1.55,
-        "inadimplencia_pf":3.45,
         "juros_credito_total":26.54,
         "reservas_internacionais":353169.0,
         "var_pct_ibc_br_sa":1.194746,
@@ -347,7 +330,6 @@
         "dif_cdi":0.002356,
         "dif_inadimplencia_total":0.09,
         "dif_inadimplencia_pj":0.11,
-        "dif_inadimplencia_pf":0.07,
         "dif_juros_credito_total":0.91
     },
     {
@@ -367,7 +349,6 @@
         "saldo_credito_pf":2830420.0,
         "inadimplencia_total":2.72,
         "inadimplencia_pj":1.57,
-        "inadimplencia_pf":3.54,
         "juros_credito_total":27.46,
         "reservas_internacionais":345097.0,
         "var_pct_ibc_br_sa":0.004178,
@@ -386,7 +367,6 @@
         "dif_cdi":0.001785,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":0.02,
-        "dif_inadimplencia_pf":0.09,
         "dif_juros_credito_total":0.92
     },
     {
@@ -406,7 +386,6 @@
         "saldo_credito_pf":2875671.0,
         "inadimplencia_total":2.79,
         "inadimplencia_pj":1.57,
-        "inadimplencia_pf":3.65,
         "juros_credito_total":27.42,
         "reservas_internacionais":346415.0,
         "var_pct_ibc_br_sa":0.112442,
@@ -425,7 +404,6 @@
         "dif_cdi":0.003057,
         "dif_inadimplencia_total":0.07,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":0.11,
         "dif_juros_credito_total":-0.04
     },
     {
@@ -445,7 +423,6 @@
         "saldo_credito_pf":2913035.0,
         "inadimplencia_total":2.73,
         "inadimplencia_pj":1.52,
-        "inadimplencia_pf":3.57,
         "juros_credito_total":27.88,
         "reservas_internacionais":341958.0,
         "var_pct_ibc_br_sa":-0.156589,
@@ -464,7 +441,6 @@
         "dif_cdi":0.00132,
         "dif_inadimplencia_total":-0.06,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":-0.08,
         "dif_juros_credito_total":0.46
     },
     {
@@ -484,7 +460,6 @@
         "saldo_credito_pf":2952207.0,
         "inadimplencia_total":2.84,
         "inadimplencia_pj":1.6,
-        "inadimplencia_pf":3.71,
         "juros_credito_total":29.24,
         "reservas_internacionais":346403.0,
         "var_pct_ibc_br_sa":1.9075,
@@ -503,7 +478,6 @@
         "dif_cdi":0.000921,
         "dif_inadimplencia_total":0.11,
         "dif_inadimplencia_pj":0.08,
-        "dif_inadimplencia_pf":0.14,
         "dif_juros_credito_total":1.36
     },
     {
@@ -523,7 +497,6 @@
         "saldo_credito_pf":3008528.0,
         "inadimplencia_total":2.9,
         "inadimplencia_pj":1.62,
-        "inadimplencia_pf":3.78,
         "juros_credito_total":28.6,
         "reservas_internacionais":339664.0,
         "var_pct_ibc_br_sa":-0.307887,
@@ -542,7 +515,6 @@
         "dif_cdi":0.001523,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":0.02,
-        "dif_inadimplencia_pf":0.07,
         "dif_juros_credito_total":-0.64
     },
     {
@@ -562,7 +534,6 @@
         "saldo_credito_pf":3054969.0,
         "inadimplencia_total":2.92,
         "inadimplencia_pj":1.65,
-        "inadimplencia_pf":3.8,
         "juros_credito_total":28.57,
         "reservas_internacionais":327580.0,
         "var_pct_ibc_br_sa":0.051214,
@@ -581,7 +552,6 @@
         "dif_cdi":0.000228,
         "dif_inadimplencia_total":0.02,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":0.02,
         "dif_juros_credito_total":-0.03
     },
     {
@@ -601,7 +571,6 @@
         "saldo_credito_pf":3110134.0,
         "inadimplencia_total":3.04,
         "inadimplencia_pj":1.77,
-        "inadimplencia_pf":3.89,
         "juros_credito_total":29.68,
         "reservas_internacionais":325546.0,
         "var_pct_ibc_br_sa":0.283274,
@@ -620,7 +589,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.12,
         "dif_inadimplencia_pj":0.12,
-        "dif_inadimplencia_pf":0.09,
         "dif_juros_credito_total":1.11
     },
     {
@@ -640,7 +608,6 @@
         "saldo_credito_pf":3155345.0,
         "inadimplencia_total":3.07,
         "inadimplencia_pj":1.81,
-        "inadimplencia_pf":3.92,
         "juros_credito_total":30.52,
         "reservas_internacionais":331505.0,
         "var_pct_ibc_br_sa":-0.725155,
@@ -659,7 +626,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.04,
-        "dif_inadimplencia_pf":0.03,
         "dif_juros_credito_total":0.84
     },
     {
@@ -679,7 +645,6 @@
         "saldo_credito_pf":3187833.0,
         "inadimplencia_total":3.07,
         "inadimplencia_pj":1.8,
-        "inadimplencia_pf":3.94,
         "juros_credito_total":29.64,
         "reservas_internacionais":324703.0,
         "var_pct_ibc_br_sa":-0.249038,
@@ -698,7 +663,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.0,
         "dif_inadimplencia_pj":-0.01,
-        "dif_inadimplencia_pf":0.02,
         "dif_juros_credito_total":-0.88
     },
     {
@@ -718,7 +682,6 @@
         "saldo_credito_pf":3221831.0,
         "inadimplencia_total":3.24,
         "inadimplencia_pj":1.94,
-        "inadimplencia_pf":4.11,
         "juros_credito_total":30.54,
         "reservas_internacionais":331122.0,
         "var_pct_ibc_br_sa":-0.342048,
@@ -737,7 +700,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.17,
         "dif_inadimplencia_pj":0.14,
-        "dif_inadimplencia_pf":0.17,
         "dif_juros_credito_total":0.9
     },
     {
@@ -757,7 +719,6 @@
         "saldo_credito_pf":3234845.0,
         "inadimplencia_total":3.36,
         "inadimplencia_pj":2.17,
-        "inadimplencia_pf":4.16,
         "juros_credito_total":30.48,
         "reservas_internacionais":328098.0,
         "var_pct_ibc_br_sa":2.881581,
@@ -776,7 +737,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.12,
         "dif_inadimplencia_pj":0.23,
-        "dif_inadimplencia_pf":0.05,
         "dif_juros_credito_total":-0.06
     },
     {
@@ -796,7 +756,6 @@
         "saldo_credito_pf":3269910.0,
         "inadimplencia_total":3.35,
         "inadimplencia_pj":2.2,
-        "inadimplencia_pf":4.11,
         "juros_credito_total":30.99,
         "reservas_internacionais":341158.0,
         "var_pct_ibc_br_sa":0.100866,
@@ -815,7 +774,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.01,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":-0.05,
         "dif_juros_credito_total":0.51
     },
     {
@@ -835,7 +793,6 @@
         "saldo_credito_pf":3281308.0,
         "inadimplencia_total":3.54,
         "inadimplencia_pj":2.45,
-        "inadimplencia_pf":4.26,
         "juros_credito_total":31.62,
         "reservas_internacionais":345725.0,
         "var_pct_ibc_br_sa":1.051427,
@@ -854,7 +811,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.19,
         "dif_inadimplencia_pj":0.25,
-        "dif_inadimplencia_pf":0.15,
         "dif_juros_credito_total":0.63
     },
     {
@@ -874,7 +830,6 @@
         "saldo_credito_pf":3308178.0,
         "inadimplencia_total":3.65,
         "inadimplencia_pj":2.58,
-        "inadimplencia_pf":4.35,
         "juros_credito_total":31.63,
         "reservas_internacionais":343489.0,
         "var_pct_ibc_br_sa":-1.655253,
@@ -893,7 +848,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.11,
         "dif_inadimplencia_pj":0.13,
-        "dif_inadimplencia_pf":0.09,
         "dif_juros_credito_total":0.01
     },
     {
@@ -913,7 +867,6 @@
         "saldo_credito_pf":3309846.0,
         "inadimplencia_total":3.61,
         "inadimplencia_pj":2.63,
-        "inadimplencia_pf":4.25,
         "juros_credito_total":30.85,
         "reservas_internacionais":343620.0,
         "var_pct_ibc_br_sa":-0.06297,
@@ -932,7 +885,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.04,
         "dif_inadimplencia_pj":0.05,
-        "dif_inadimplencia_pf":-0.1,
         "dif_juros_credito_total":-0.78
     },
     {
@@ -952,7 +904,6 @@
         "saldo_credito_pf":3331330.0,
         "inadimplencia_total":3.63,
         "inadimplencia_pj":2.73,
-        "inadimplencia_pf":4.22,
         "juros_credito_total":30.43,
         "reservas_internacionais":345476.0,
         "var_pct_ibc_br_sa":0.458481,
@@ -971,7 +922,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.02,
         "dif_inadimplencia_pj":0.1,
-        "dif_inadimplencia_pf":-0.03,
         "dif_juros_credito_total":-0.42
     },
     {
@@ -991,7 +941,6 @@
         "saldo_credito_pf":3386405.0,
         "inadimplencia_total":3.61,
         "inadimplencia_pj":2.82,
-        "inadimplencia_pf":4.12,
         "juros_credito_total":29.92,
         "reservas_internacionais":344177.0,
         "var_pct_ibc_br_sa":-0.374379,
@@ -1010,7 +959,6 @@
         "dif_cdi":-0.001599,
         "dif_inadimplencia_total":-0.02,
         "dif_inadimplencia_pj":0.09,
-        "dif_inadimplencia_pf":-0.1,
         "dif_juros_credito_total":-0.51
     },
     {
@@ -1030,7 +978,6 @@
         "saldo_credito_pf":3410769.0,
         "inadimplencia_total":3.54,
         "inadimplencia_pj":2.82,
-        "inadimplencia_pf":4.0,
         "juros_credito_total":29.66,
         "reservas_internacionais":340324.0,
         "var_pct_ibc_br_sa":0.012734,
@@ -1049,7 +996,6 @@
         "dif_cdi":-0.000768,
         "dif_inadimplencia_total":-0.07,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":-0.12,
         "dif_juros_credito_total":-0.26
     },
     {
@@ -1069,7 +1015,6 @@
         "saldo_credito_pf":3449000.0,
         "inadimplencia_total":3.56,
         "inadimplencia_pj":2.92,
-        "inadimplencia_pf":3.97,
         "juros_credito_total":29.24,
         "reservas_internacionais":340247.0,
         "var_pct_ibc_br_sa":0.313403,
@@ -1088,7 +1033,6 @@
         "dif_cdi":-0.001143,
         "dif_inadimplencia_total":0.02,
         "dif_inadimplencia_pj":0.1,
-        "dif_inadimplencia_pf":-0.03,
         "dif_juros_credito_total":-0.42
     },
     {
@@ -1108,7 +1052,6 @@
         "saldo_credito_pf":3490337.0,
         "inadimplencia_total":3.53,
         "inadimplencia_pj":2.99,
-        "inadimplencia_pf":3.88,
         "juros_credito_total":29.01,
         "reservas_internacionais":348406.0,
         "var_pct_ibc_br_sa":0.739043,
@@ -1127,7 +1070,6 @@
         "dif_cdi":-0.001678,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":0.07,
-        "dif_inadimplencia_pf":-0.09,
         "dif_juros_credito_total":-0.23
     },
     {
@@ -1147,7 +1089,6 @@
         "saldo_credito_pf":3521672.0,
         "inadimplencia_total":3.29,
         "inadimplencia_pj":2.59,
-        "inadimplencia_pf":3.75,
         "juros_credito_total":28.14,
         "reservas_internacionais":355034.0,
         "var_pct_ibc_br_sa":1.06955,
@@ -1166,7 +1107,6 @@
         "dif_cdi":-0.001064,
         "dif_inadimplencia_total":-0.24,
         "dif_inadimplencia_pj":-0.4,
-        "dif_inadimplencia_pf":-0.13,
         "dif_juros_credito_total":-0.87
     },
     {
@@ -1186,7 +1126,6 @@
         "saldo_credito_pf":3560345.0,
         "inadimplencia_total":3.38,
         "inadimplencia_pj":2.77,
-        "inadimplencia_pf":3.76,
         "juros_credito_total":28.0,
         "reservas_internacionais":355066.0,
         "var_pct_ibc_br_sa":-0.194024,
@@ -1205,7 +1144,6 @@
         "dif_cdi":-0.000798,
         "dif_inadimplencia_total":0.09,
         "dif_inadimplencia_pj":0.18,
-        "dif_inadimplencia_pf":0.01,
         "dif_juros_credito_total":-0.14
     },
     {
@@ -1225,7 +1163,6 @@
         "saldo_credito_pf":3580652.0,
         "inadimplencia_total":3.38,
         "inadimplencia_pj":2.76,
-        "inadimplencia_pf":3.76,
         "juros_credito_total":27.85,
         "reservas_internacionais":352705.0,
         "var_pct_ibc_br_sa":0.14777,
@@ -1244,7 +1181,6 @@
         "dif_cdi":-0.001782,
         "dif_inadimplencia_total":0.0,
         "dif_inadimplencia_pj":-0.01,
-        "dif_inadimplencia_pf":0.0,
         "dif_juros_credito_total":-0.15
     },
     {
@@ -1264,7 +1200,6 @@
         "saldo_credito_pf":3613967.0,
         "inadimplencia_total":3.33,
         "inadimplencia_pj":2.71,
-        "inadimplencia_pf":3.71,
         "juros_credito_total":28.14,
         "reservas_internacionais":355008.0,
         "var_pct_ibc_br_sa":0.081216,
@@ -1283,7 +1218,6 @@
         "dif_cdi":-0.000537,
         "dif_inadimplencia_total":-0.05,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":-0.05,
         "dif_juros_credito_total":0.29
     },
     {
@@ -1303,7 +1237,6 @@
         "saldo_credito_pf":3646659.0,
         "inadimplencia_total":3.37,
         "inadimplencia_pj":2.76,
-        "inadimplencia_pf":3.75,
         "juros_credito_total":27.86,
         "reservas_internacionais":351599.0,
         "var_pct_ibc_br_sa":0.236126,
@@ -1322,7 +1255,6 @@
         "dif_cdi":-0.001252,
         "dif_inadimplencia_total":0.04,
         "dif_inadimplencia_pj":0.05,
-        "dif_inadimplencia_pf":0.04,
         "dif_juros_credito_total":-0.28
     },
     {
@@ -1342,7 +1274,6 @@
         "saldo_credito_pf":3675652.0,
         "inadimplencia_total":3.43,
         "inadimplencia_pj":2.8,
-        "inadimplencia_pf":3.82,
         "juros_credito_total":27.75,
         "reservas_internacionais":355560.0,
         "var_pct_ibc_br_sa":0.664278,
@@ -1361,7 +1292,6 @@
         "dif_cdi":-0.000684,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":0.04,
-        "dif_inadimplencia_pf":0.07,
         "dif_juros_credito_total":-0.11
     },
     {
@@ -1381,7 +1311,6 @@
         "saldo_credito_pf":3705041.0,
         "inadimplencia_total":3.29,
         "inadimplencia_pj":2.64,
-        "inadimplencia_pf":3.71,
         "juros_credito_total":27.81,
         "reservas_internacionais":357827.0,
         "var_pct_ibc_br_sa":0.864098,
@@ -1400,7 +1329,6 @@
         "dif_cdi":-0.000214,
         "dif_inadimplencia_total":-0.14,
         "dif_inadimplencia_pj":-0.16,
-        "dif_inadimplencia_pf":-0.11,
         "dif_juros_credito_total":0.06
     },
     {
@@ -1420,7 +1348,6 @@
         "saldo_credito_pf":3745844.0,
         "inadimplencia_total":3.3,
         "inadimplencia_pj":2.52,
-        "inadimplencia_pf":3.78,
         "juros_credito_total":27.74,
         "reservas_internacionais":363282.0,
         "var_pct_ibc_br_sa":0.35244,
@@ -1439,7 +1366,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.01,
         "dif_inadimplencia_pj":-0.12,
-        "dif_inadimplencia_pf":0.07,
         "dif_juros_credito_total":-0.07
     },
     {
@@ -1459,7 +1385,6 @@
         "saldo_credito_pf":3790900.0,
         "inadimplencia_total":3.33,
         "inadimplencia_pj":2.55,
-        "inadimplencia_pf":3.82,
         "juros_credito_total":27.59,
         "reservas_internacionais":369214.0,
         "var_pct_ibc_br_sa":0.171599,
@@ -1478,7 +1403,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":0.04,
         "dif_juros_credito_total":-0.15
     },
     {
@@ -1498,7 +1422,6 @@
         "saldo_credito_pf":3831700.0,
         "inadimplencia_total":3.34,
         "inadimplencia_pj":2.56,
-        "inadimplencia_pf":3.83,
         "juros_credito_total":27.49,
         "reservas_internacionais":372016.0,
         "var_pct_ibc_br_sa":0.80633,
@@ -1517,7 +1440,6 @@
         "dif_cdi":0.000342,
         "dif_inadimplencia_total":0.01,
         "dif_inadimplencia_pj":0.01,
-        "dif_inadimplencia_pf":0.01,
         "dif_juros_credito_total":-0.1
     },
     {
@@ -1537,7 +1459,6 @@
         "saldo_credito_pf":3877584.0,
         "inadimplencia_total":3.3,
         "inadimplencia_pj":2.52,
-        "inadimplencia_pf":3.79,
         "juros_credito_total":27.94,
         "reservas_internacionais":366096.0,
         "var_pct_ibc_br_sa":0.192241,
@@ -1556,7 +1477,6 @@
         "dif_cdi":0.000556,
         "dif_inadimplencia_total":-0.04,
         "dif_inadimplencia_pj":-0.04,
-        "dif_inadimplencia_pf":-0.04,
         "dif_juros_credito_total":0.45
     },
     {
@@ -1576,7 +1496,6 @@
         "saldo_credito_pf":3929668.0,
         "inadimplencia_total":3.27,
         "inadimplencia_pj":2.5,
-        "inadimplencia_pf":3.75,
         "juros_credito_total":28.45,
         "reservas_internacionais":363003.0,
         "var_pct_ibc_br_sa":-0.221546,
@@ -1595,7 +1514,6 @@
         "dif_cdi":0.001412,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":-0.02,
-        "dif_inadimplencia_pf":-0.04,
         "dif_juros_credito_total":0.51
     },
     {
@@ -1615,7 +1533,6 @@
         "saldo_credito_pf":3965425.0,
         "inadimplencia_total":3.08,
         "inadimplencia_pj":2.21,
-        "inadimplencia_pf":3.63,
         "juros_credito_total":28.5,
         "reservas_internacionais":329730.0,
         "var_pct_ibc_br_sa":-0.76507,
@@ -1634,7 +1551,6 @@
         "dif_cdi":0.002578,
         "dif_inadimplencia_total":-0.19,
         "dif_inadimplencia_pj":-0.29,
-        "dif_inadimplencia_pf":-0.12,
         "dif_juros_credito_total":0.05
     },
     {
@@ -1654,7 +1570,6 @@
         "saldo_credito_pf":4013059.0,
         "inadimplencia_total":3.34,
         "inadimplencia_pj":2.43,
-        "inadimplencia_pf":3.89,
         "juros_credito_total":29.88,
         "reservas_internacionais":328303.0,
         "var_pct_ibc_br_sa":1.000655,
@@ -1673,7 +1588,6 @@
         "dif_cdi":0.001675,
         "dif_inadimplencia_total":0.26,
         "dif_inadimplencia_pj":0.22,
-        "dif_inadimplencia_pf":0.26,
         "dif_juros_credito_total":1.38
     },
     {
@@ -1693,7 +1607,6 @@
         "saldo_credito_pf":4034293.0,
         "inadimplencia_total":3.41,
         "inadimplencia_pj":2.52,
-        "inadimplencia_pf":3.96,
         "juros_credito_total":30.53,
         "reservas_internacionais":332508.0,
         "var_pct_ibc_br_sa":0.491628,
@@ -1712,7 +1625,6 @@
         "dif_cdi":0.003204,
         "dif_inadimplencia_total":0.07,
         "dif_inadimplencia_pj":0.09,
-        "dif_inadimplencia_pf":0.07,
         "dif_juros_credito_total":0.65
     },
     {
@@ -1732,7 +1644,6 @@
         "saldo_credito_pf":4078202.0,
         "inadimplencia_total":3.44,
         "inadimplencia_pj":2.49,
-        "inadimplencia_pf":4.03,
         "juros_credito_total":31.34,
         "reservas_internacionais":336157.0,
         "var_pct_ibc_br_sa":1.341273,
@@ -1751,7 +1662,6 @@
         "dif_cdi":0.001471,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":-0.03,
-        "dif_inadimplencia_pf":0.07,
         "dif_juros_credito_total":0.81
     },
     {
@@ -1771,7 +1681,6 @@
         "saldo_credito_pf":4111522.0,
         "inadimplencia_total":3.67,
         "inadimplencia_pj":2.72,
-        "inadimplencia_pf":4.25,
         "juros_credito_total":31.63,
         "reservas_internacionais":340789.0,
         "var_pct_ibc_br_sa":-0.131764,
@@ -1790,7 +1699,6 @@
         "dif_cdi":0.002023,
         "dif_inadimplencia_total":0.23,
         "dif_inadimplencia_pj":0.23,
-        "dif_inadimplencia_pf":0.22,
         "dif_juros_credito_total":0.29
     },
     {
@@ -1810,7 +1718,6 @@
         "saldo_credito_pf":4133579.0,
         "inadimplencia_total":3.72,
         "inadimplencia_pj":2.67,
-        "inadimplencia_pf":4.36,
         "juros_credito_total":31.7,
         "reservas_internacionais":341459.0,
         "var_pct_ibc_br_sa":-0.883188,
@@ -1829,7 +1736,6 @@
         "dif_cdi":0.001405,
         "dif_inadimplencia_total":0.05,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":0.11,
         "dif_juros_credito_total":0.07
     },
     {
@@ -1849,7 +1755,6 @@
         "saldo_credito_pf":4155970.0,
         "inadimplencia_total":3.75,
         "inadimplencia_pj":2.67,
-        "inadimplencia_pf":4.41,
         "juros_credito_total":31.85,
         "reservas_internacionais":344440.0,
         "var_pct_ibc_br_sa":-0.208448,
@@ -1868,7 +1773,6 @@
         "dif_cdi":0.000633,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":0.05,
         "dif_juros_credito_total":0.15
     },
     {
@@ -1888,7 +1792,6 @@
         "saldo_credito_pf":4188808.0,
         "inadimplencia_total":3.96,
         "inadimplencia_pj":2.79,
-        "inadimplencia_pf":4.66,
         "juros_credito_total":31.75,
         "reservas_internacionais":345111.0,
         "var_pct_ibc_br_sa":-0.410362,
@@ -1907,7 +1810,6 @@
         "dif_cdi":0.000562,
         "dif_inadimplencia_total":0.21,
         "dif_inadimplencia_pj":0.12,
-        "dif_inadimplencia_pf":0.25,
         "dif_juros_credito_total":-0.1
     },
     {
@@ -1927,7 +1829,6 @@
         "saldo_credito_pf":4228171.0,
         "inadimplencia_total":4.14,
         "inadimplencia_pj":2.85,
-        "inadimplencia_pf":4.92,
         "juros_credito_total":31.87,
         "reservas_internacionais":350767.0,
         "var_pct_ibc_br_sa":0.393384,
@@ -1946,7 +1847,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.18,
         "dif_inadimplencia_pj":0.06,
-        "dif_inadimplencia_pf":0.26,
         "dif_juros_credito_total":0.12
     },
     {
@@ -1966,7 +1866,6 @@
         "saldo_credito_pf":4262888.0,
         "inadimplencia_total":4.09,
         "inadimplencia_pj":2.77,
-        "inadimplencia_pf":4.89,
         "juros_credito_total":31.47,
         "reservas_internacionais":356582.0,
         "var_pct_ibc_br_sa":-0.070866,
@@ -1985,7 +1884,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.05,
         "dif_inadimplencia_pj":-0.08,
-        "dif_inadimplencia_pf":-0.03,
         "dif_juros_credito_total":-0.4
     },
     {
@@ -2005,7 +1903,6 @@
         "saldo_credito_pf":4326256.0,
         "inadimplencia_total":4.18,
         "inadimplencia_pj":2.82,
-        "inadimplencia_pf":4.99,
         "juros_credito_total":32.04,
         "reservas_internacionais":357103.0,
         "var_pct_ibc_br_sa":0.02339,
@@ -2024,7 +1921,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.09,
         "dif_inadimplencia_pj":0.05,
-        "dif_inadimplencia_pf":0.1,
         "dif_juros_credito_total":0.57
     },
     {
@@ -2044,7 +1940,6 @@
         "saldo_credito_pf":4387061.0,
         "inadimplencia_total":4.23,
         "inadimplencia_pj":2.74,
-        "inadimplencia_pf":5.12,
         "juros_credito_total":32.32,
         "reservas_internacionais":360578.0,
         "var_pct_ibc_br_sa":0.470751,
@@ -2063,7 +1958,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.05,
         "dif_inadimplencia_pj":-0.08,
-        "dif_inadimplencia_pf":0.13,
         "dif_juros_credito_total":0.28
     },
     {
@@ -2083,7 +1977,6 @@
         "saldo_credito_pf":4435290.0,
         "inadimplencia_total":4.2,
         "inadimplencia_pj":2.68,
-        "inadimplencia_pf":5.12,
         "juros_credito_total":31.99,
         "reservas_internacionais":358234.0,
         "var_pct_ibc_br_sa":-0.026441,
@@ -2102,7 +1995,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":-0.06,
-        "dif_inadimplencia_pf":0.0,
         "dif_juros_credito_total":-0.33
     },
     {
@@ -2122,7 +2014,6 @@
         "saldo_credito_pf":4476448.0,
         "inadimplencia_total":4.45,
         "inadimplencia_pj":2.87,
-        "inadimplencia_pf":5.38,
         "juros_credito_total":32.6,
         "reservas_internacionais":364367.0,
         "var_pct_ibc_br_sa":0.755789,
@@ -2141,7 +2032,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.25,
         "dif_inadimplencia_pj":0.19,
-        "dif_inadimplencia_pf":0.26,
         "dif_juros_credito_total":0.61
     },
     {
@@ -2161,7 +2051,6 @@
         "saldo_credito_pf":4501056.0,
         "inadimplencia_total":4.64,
         "inadimplencia_pj":3.07,
-        "inadimplencia_pf":5.56,
         "juros_credito_total":32.78,
         "reservas_internacionais":371074.0,
         "var_pct_ibc_br_sa":0.625412,
@@ -2180,7 +2069,6 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.19,
         "dif_inadimplencia_pj":0.2,
-        "dif_inadimplencia_pf":0.18,
         "dif_juros_credito_total":0.18
     },
     {
@@ -2200,7 +2088,6 @@
         "saldo_credito_pf":4551689.0,
         "inadimplencia_total":4.52,
         "inadimplencia_pj":3.04,
-        "inadimplencia_pf":5.4,
         "juros_credito_total":32.99,
         "reservas_internacionais":362002.0,
         "var_pct_ibc_br_sa":-0.180258,
@@ -2219,7 +2106,6 @@
         "dif_cdi":-0.000354,
         "dif_inadimplencia_total":-0.12,
         "dif_inadimplencia_pj":-0.03,
-        "dif_inadimplencia_pf":-0.16,
         "dif_juros_credito_total":0.21
     },
     {
@@ -2239,7 +2125,6 @@
         "saldo_credito_pf":4573976.0,
         "inadimplencia_total":4.63,
         "inadimplencia_pj":3.15,
-        "inadimplencia_pf":5.51,
         "juros_credito_total":33.51,
         "reservas_internacionais":366913.0,
         "var_pct_ibc_br_sa":0.511964,
@@ -2258,7 +2143,6 @@
         "dif_cdi":-0.000554,
         "dif_inadimplencia_total":0.11,
         "dif_inadimplencia_pj":0.11,
-        "dif_inadimplencia_pf":0.11,
         "dif_juros_credito_total":0.52
     },
     {
@@ -2278,7 +2162,6 @@
         "saldo_credito_pf":4595065.0,
         "inadimplencia_total":4.74,
         "inadimplencia_pj":3.24,
-        "inadimplencia_pf":5.62,
         "juros_credito_total":33.42,
         "reservas_internacionais":371137.0,
         "var_pct_ibc_br_sa":null,
@@ -2297,7 +2180,6 @@
         "dif_cdi":-0.000823,
         "dif_inadimplencia_total":0.11,
         "dif_inadimplencia_pj":0.09,
-        "dif_inadimplencia_pf":0.11,
         "dif_juros_credito_total":-0.09
     },
     {
@@ -2317,7 +2199,6 @@
         "saldo_credito_pf":null,
         "inadimplencia_total":null,
         "inadimplencia_pj":null,
-        "inadimplencia_pf":null,
         "juros_credito_total":null,
         "reservas_internacionais":367558.0,
         "var_pct_ibc_br_sa":null,
@@ -2336,7 +2217,6 @@
         "dif_cdi":-0.000372,
         "dif_inadimplencia_total":null,
         "dif_inadimplencia_pj":null,
-        "dif_inadimplencia_pf":null,
         "dif_juros_credito_total":null
     },
     {
@@ -2349,20 +2229,19 @@
         "inpc":null,
         "ibc_br_sa":null,
         "ibc_br":null,
-        "cambio_venda_usd":5.0742,
-        "cambio_compra_usd":5.0736,
+        "cambio_venda_usd":5.0727,
+        "cambio_compra_usd":5.0721,
         "saldo_credito_total":null,
         "saldo_credito_pj":null,
         "saldo_credito_pf":null,
         "inadimplencia_total":null,
         "inadimplencia_pj":null,
-        "inadimplencia_pf":null,
         "juros_credito_total":null,
         "reservas_internacionais":null,
         "var_pct_ibc_br_sa":null,
         "var_pct_ibc_br":null,
-        "var_pct_cambio_venda_usd":-1.978132,
-        "var_pct_cambio_compra_usd":-1.978362,
+        "var_pct_cambio_venda_usd":-2.007109,
+        "var_pct_cambio_compra_usd":-2.007342,
         "var_pct_saldo_credito_total":null,
         "var_pct_saldo_credito_pj":null,
         "var_pct_saldo_credito_pf":null,
@@ -2375,7 +2254,6 @@
         "dif_cdi":-0.000497,
         "dif_inadimplencia_total":null,
         "dif_inadimplencia_pj":null,
-        "dif_inadimplencia_pf":null,
         "dif_juros_credito_total":null
     }
 ]
