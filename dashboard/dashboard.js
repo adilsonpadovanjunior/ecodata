@@ -25,6 +25,9 @@ const CONFIG_DASHBOARD = {
     caminhoDados: "../data/final/dashboard/",
     extensaoArquivo: ".json",
 
+    caminhoListaDashboards:
+        "../data/final/documentacao/lista_dashboards.csv",
+    
     casasDecimaisValor: 4,
     casasDecimaisPercentual: 2,
 
@@ -77,6 +80,8 @@ async function inicializarDashboard() {
 
         const nomeSerie = obterSerieDaUrl();
 
+        await carregarEConfigurarSeletor(nomeSerie);
+        
         caminhoJsonAtual = montarCaminhoJson(nomeSerie);
 
         dadosDashboard = await carregarDadosDashboard(
@@ -181,6 +186,342 @@ async function carregarDadosDashboard(caminhoJson) {
     }
 }
 
+// ============================================================
+// SELETOR DE SÉRIES
+// ============================================================
+
+async function carregarEConfigurarSeletor(
+    serieAtual
+) {
+    const seletor = obterElemento(
+        "seletor-serie"
+    );
+
+    if (!seletor) {
+        return;
+    }
+
+    try {
+        const resposta = await fetch(
+            CONFIG_DASHBOARD
+                .caminhoListaDashboards,
+            {
+                cache: "no-store"
+            }
+        );
+
+        if (!resposta.ok) {
+            throw new Error(
+                `Erro HTTP ${resposta.status}`
+            );
+        }
+
+        const textoCsv = await resposta.text();
+
+        const registros =
+            converterCsvParaObjetos(
+                textoCsv
+            );
+
+        preencherSeletorSeries(
+            seletor,
+            registros,
+            serieAtual
+        );
+
+        configurarEventoSeletor(
+            seletor
+        );
+
+    } catch (erro) {
+        console.warn(
+            "Não foi possível carregar a lista de séries:",
+            erro
+        );
+
+        seletor.innerHTML = "";
+
+        const opcao = document.createElement(
+            "option"
+        );
+
+        opcao.value = serieAtual;
+        opcao.textContent =
+            "Série atual";
+
+        opcao.selected = true;
+
+        seletor.appendChild(
+            opcao
+        );
+    }
+}
+
+
+function converterCsvParaObjetos(
+    textoCsv
+) {
+    const linhas = textoCsv
+        .replace(/\r/g, "")
+        .split("\n")
+        .filter(
+            linha => linha.trim() !== ""
+        );
+
+    if (linhas.length < 2) {
+        return [];
+    }
+
+    const cabecalho = analisarLinhaCsv(
+        linhas[0]
+    );
+
+    return linhas
+        .slice(1)
+        .map(linha => {
+            const valores =
+                analisarLinhaCsv(
+                    linha
+                );
+
+            const registro = {};
+
+            cabecalho.forEach(
+                (coluna, indice) => {
+                    registro[coluna] =
+                        valores[indice] ?? "";
+                }
+            );
+
+            return registro;
+        });
+}
+
+
+function analisarLinhaCsv(
+    linha
+) {
+    const valores = [];
+
+    let valorAtual = "";
+    let dentroDeAspas = false;
+
+    for (
+        let indice = 0;
+        indice < linha.length;
+        indice += 1
+    ) {
+        const caractere = linha[indice];
+
+        if (caractere === "\"") {
+            const proximo =
+                linha[indice + 1];
+
+            if (
+                dentroDeAspas &&
+                proximo === "\""
+            ) {
+                valorAtual += "\"";
+                indice += 1;
+
+            } else {
+                dentroDeAspas =
+                    !dentroDeAspas;
+            }
+
+        } else if (
+            caractere === "," &&
+            !dentroDeAspas
+        ) {
+            valores.push(
+                valorAtual
+            );
+
+            valorAtual = "";
+
+        } else {
+            valorAtual += caractere;
+        }
+    }
+
+    valores.push(
+        valorAtual
+    );
+
+    return valores.map(
+        valor => valor.trim()
+    );
+}
+
+
+function preencherSeletorSeries(
+    seletor,
+    registros,
+    serieAtual
+) {
+    seletor.innerHTML = "";
+
+    if (!registros.length) {
+        const opcao =
+            document.createElement(
+                "option"
+            );
+
+        opcao.value = serieAtual;
+        opcao.textContent =
+            "Série atual";
+
+        opcao.selected = true;
+
+        seletor.appendChild(
+            opcao
+        );
+
+        return;
+    }
+
+    const registrosValidos =
+        registros.filter(
+            registro =>
+                registro.nome_serie
+        );
+
+    registrosValidos.sort(
+        (registroA, registroB) => {
+            const grupoA =
+                registroA.grupo || "";
+
+            const grupoB =
+                registroB.grupo || "";
+
+            const comparacaoGrupo =
+                grupoA.localeCompare(
+                    grupoB,
+                    "pt-BR"
+                );
+
+            if (comparacaoGrupo !== 0) {
+                return comparacaoGrupo;
+            }
+
+            const nomeA =
+                registroA.nome_exibicao ||
+                registroA.nome_serie;
+
+            const nomeB =
+                registroB.nome_exibicao ||
+                registroB.nome_serie;
+
+            return nomeA.localeCompare(
+                nomeB,
+                "pt-BR"
+            );
+        }
+    );
+
+    const grupos = agruparSeriesPorGrupo(
+        registrosValidos
+    );
+
+    Object.entries(grupos).forEach(
+        ([grupo, series]) => {
+            const optgroup =
+                document.createElement(
+                    "optgroup"
+                );
+
+            optgroup.label =
+                formatarNomeCategoria(
+                    grupo
+                );
+
+            series.forEach(
+                registro => {
+                    const opcao =
+                        document.createElement(
+                            "option"
+                        );
+
+                    opcao.value =
+                        registro.nome_serie;
+
+                    opcao.textContent =
+                        registro.nome_exibicao ||
+                        registro.nome_serie;
+
+                    if (
+                        registro.nome_serie ===
+                        serieAtual
+                    ) {
+                        opcao.selected = true;
+                    }
+
+                    optgroup.appendChild(
+                        opcao
+                    );
+                }
+            );
+
+            seletor.appendChild(
+                optgroup
+            );
+        }
+    );
+}
+
+
+function agruparSeriesPorGrupo(
+    registros
+) {
+    return registros.reduce(
+        (grupos, registro) => {
+            const grupo =
+                registro.grupo ||
+                "outros";
+
+            if (!grupos[grupo]) {
+                grupos[grupo] = [];
+            }
+
+            grupos[grupo].push(
+                registro
+            );
+
+            return grupos;
+        },
+        {}
+    );
+}
+
+
+function configurarEventoSeletor(
+    seletor
+) {
+    seletor.addEventListener(
+        "change",
+        () => {
+            const novaSerie =
+                seletor.value;
+
+            if (!novaSerie) {
+                return;
+            }
+
+            const novaUrl =
+                new URL(
+                    window.location.href
+                );
+
+            novaUrl.searchParams.set(
+                "serie",
+                novaSerie
+            );
+
+            window.location.href =
+                novaUrl.toString();
+        }
+    );
+}
 
 // ============================================================
 // 5. VALIDAÇÃO DA ESTRUTURA
