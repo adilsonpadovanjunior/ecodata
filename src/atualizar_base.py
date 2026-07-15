@@ -23,6 +23,7 @@ from consolidar_base import consolidar_bases
 from consolidar_dicionario import consolidar_dicionarios
 from gerar_metadados_site import gerar_metadados_site
 from gerar_series_individuais import gerar_series_individuais
+from gerar_indicadores_dashboard import gerar_indicadores_dashboard
 
 # ============================================================
 # 1. CONFIGURAÇÃO DAS FONTES ATIVAS
@@ -49,6 +50,7 @@ ETAPAS_ATIVAS = {
     "consolidar_dicionarios": True,
     "gerar_metadados_site": True,
     "gerar_series_individuais": True,
+    "gerar_indicadores_dashboard": True,
 }
 
 
@@ -209,6 +211,21 @@ def etapa_gerar_series_individuais(erros: list) -> None:
         erros=erros
     )
 
+def etapa_gerar_indicadores_dashboard(erros: list) -> None:
+    """
+    Gera os arquivos JSON com indicadores para os dashboards.
+    """
+
+    if not ETAPAS_ATIVAS["gerar_indicadores_dashboard"]:
+        print("Etapa de geração dos dashboards desativada.")
+        return
+
+    executar_etapa(
+        nome_etapa="Geração de indicadores dos dashboards",
+        funcao=gerar_indicadores_dashboard,
+        erros=erros
+    )
+    
 def etapa_gerar_metadados_site(erros: list) -> None:
     """
     Gera metadados auxiliares para o site/GitHub Pages.
@@ -242,6 +259,7 @@ def main() -> None:
     etapa_consolidar_bases(erros)
     etapa_consolidar_dicionarios(erros)
     etapa_gerar_series_individuais(erros)
+    etapa_gerar_indicadores_dashboard(erros)
     etapa_gerar_metadados_site(erros)
 
     imprimir_rodape(erros)
