@@ -392,3 +392,120 @@ footer {
     font-size: 0.98rem;
   }
 }
+
+/* ============================================================
+   SEÇÃO DE ACESSO AO DASHBOARD
+   ============================================================ */
+
+.dashboard-secao {
+  background:
+    linear-gradient(
+      135deg,
+      rgba(13, 148, 136, 0.08),
+      rgba(20, 184, 166, 0.025)
+    );
+
+  border:
+    1px solid rgba(13, 148, 136, 0.22);
+}
+
+.dashboard-secao-conteudo {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px;
+}
+
+.dashboard-secao-texto {
+  max-width: 850px;
+}
+
+.dashboard-secao-rotulo {
+  display: inline-block;
+  margin-bottom: 6px;
+
+  color: #0f766e;
+
+  font-size: 0.75rem;
+  font-weight: 800;
+
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+}
+
+.dashboard-secao h2 {
+  margin: 0 0 10px;
+
+  color: #16324f;
+
+  font-size: 1.55rem;
+}
+
+.dashboard-secao p {
+  margin: 0;
+
+  color: #5f6f7f;
+
+  line-height: 1.65;
+}
+
+.dashboard-secao-botao {
+  min-width: 170px;
+  min-height: 46px;
+  padding: 0 22px;
+
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  color: #ffffff;
+
+  background:
+    linear-gradient(
+      135deg,
+      #0f766e,
+      #14b8a6
+    );
+
+  border:
+    1px solid rgba(255, 255, 255, 0.18);
+
+  border-radius: 9px;
+
+  font-weight: 700;
+  white-space: nowrap;
+
+  box-shadow:
+    0 6px 16px rgba(15, 118, 110, 0.18);
+
+  transition:
+    transform 0.18s ease,
+    box-shadow 0.18s ease,
+    background 0.18s ease;
+}
+
+.dashboard-secao-botao:hover {
+  transform: translateY(-1px);
+
+  background:
+    linear-gradient(
+      135deg,
+      #115e59,
+      #0d9488
+    );
+
+  box-shadow:
+    0 8px 20px rgba(15, 118, 110, 0.24);
+}
+
+@media (max-width: 720px) {
+  .dashboard-secao-conteudo {
+    flex-direction: column;
+    align-items: stretch;
+    gap: 20px;
+  }
+
+  .dashboard-secao-botao {
+    width: 100%;
+  }
+}
