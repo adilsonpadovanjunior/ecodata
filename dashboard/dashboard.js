@@ -1601,12 +1601,6 @@ function obterOpcoesGraficoLinha({
                     }
                 }
             },
-
-            decimation: {
-                enabled: true,
-                algorithm: "lttb",
-                samples: 300
-            }
         },
 
         scales: {
