@@ -1528,7 +1528,6 @@ function obterOpcoesGraficoLinha({
     return {
         responsive: true,
         maintainAspectRatio: false,
-        parsing: false,
         normalized: true,
         interaction: {
             mode: "index",
@@ -1667,7 +1666,6 @@ function obterOpcoesGraficoBarra({
     return {
         responsive: true,
         maintainAspectRatio: false,
-        parsing: false,
         normalized: true,
 
         interaction: {
