@@ -1,8 +1,8 @@
 ﻿nome_serie,nome_exibicao,codigo,fonte,grupo,frequencia,observacoes,primeira_data,ultima_data,arquivo_dashboard,arquivo_serie_origem
-bcb_sgs_ibc_br,IBC BR,,bcb_sgs,atividade,mensal,58,2021-07-31,2026-04-30,data/final/dashboard/bcb_sgs_ibc_br.json,data/final/series/bcb_sgs_ibc_br.csv
-bcb_sgs_ibc_br_sa,IBC BR SA,,bcb_sgs,atividade,mensal,58,2021-07-31,2026-04-30,data/final/dashboard/bcb_sgs_ibc_br_sa.json,data/final/series/bcb_sgs_ibc_br_sa.csv
-bcb_sgs_var_pct_ibc_br,VAR PCT IBC BR,,bcb_sgs,atividade,mensal,57,2021-08-31,2026-04-30,data/final/dashboard/bcb_sgs_var_pct_ibc_br.json,data/final/series/bcb_sgs_var_pct_ibc_br.csv
-bcb_sgs_var_pct_ibc_br_sa,VAR PCT IBC BR SA,,bcb_sgs,atividade,mensal,57,2021-08-31,2026-04-30,data/final/dashboard/bcb_sgs_var_pct_ibc_br_sa.json,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv
+bcb_sgs_ibc_br,IBC BR,,bcb_sgs,atividade,mensal,59,2021-07-31,2026-05-31,data/final/dashboard/bcb_sgs_ibc_br.json,data/final/series/bcb_sgs_ibc_br.csv
+bcb_sgs_ibc_br_sa,IBC BR SA,,bcb_sgs,atividade,mensal,59,2021-07-31,2026-05-31,data/final/dashboard/bcb_sgs_ibc_br_sa.json,data/final/series/bcb_sgs_ibc_br_sa.csv
+bcb_sgs_var_pct_ibc_br,VAR PCT IBC BR,,bcb_sgs,atividade,mensal,58,2021-08-31,2026-05-31,data/final/dashboard/bcb_sgs_var_pct_ibc_br.json,data/final/series/bcb_sgs_var_pct_ibc_br.csv
+bcb_sgs_var_pct_ibc_br_sa,VAR PCT IBC BR SA,,bcb_sgs,atividade,mensal,58,2021-08-31,2026-05-31,data/final/dashboard/bcb_sgs_var_pct_ibc_br_sa.json,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv
 bcb_sgs_cambio_compra_usd,Cambio Compra USD,,bcb_sgs,cambio,mensal,61,2021-07-31,2026-07-31,data/final/dashboard/bcb_sgs_cambio_compra_usd.json,data/final/series/bcb_sgs_cambio_compra_usd.csv
 bcb_sgs_cambio_venda_usd,Cambio Venda USD,,bcb_sgs,cambio,mensal,61,2021-07-31,2026-07-31,data/final/dashboard/bcb_sgs_cambio_venda_usd.json,data/final/series/bcb_sgs_cambio_venda_usd.csv
 bcb_sgs_var_pct_cambio_compra_usd,VAR PCT Cambio Compra USD,,bcb_sgs,cambio,mensal,60,2021-08-31,2026-07-31,data/final/dashboard/bcb_sgs_var_pct_cambio_compra_usd.json,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.csv
