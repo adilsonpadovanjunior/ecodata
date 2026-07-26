@@ -16,6 +16,14 @@
         "valor_final":0.052531
     },
     {
+        "variavel":"cdi",
+        "primeira_data":"2021-07-31T00:00:00.000",
+        "ultima_data":"2026-07-31T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":0.016137,
+        "valor_final":0.052531
+    },
+    {
         "variavel":"ipca",
         "primeira_data":"2021-07-31T00:00:00.000",
         "ultima_data":"2026-06-30T00:00:00.000",
@@ -233,6 +241,14 @@
     },
     {
         "variavel":"dif_selic_over",
+        "primeira_data":"2021-08-31T00:00:00.000",
+        "ultima_data":"2026-07-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":0.003276,
+        "valor_final":-0.000497
+    },
+    {
+        "variavel":"dif_cdi",
         "primeira_data":"2021-08-31T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
         "observacoes":60,
