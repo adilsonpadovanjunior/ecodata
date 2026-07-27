@@ -1943,13 +1943,13 @@
         "grupo":"cambio",
         "tipo":"cambio",
         "moeda":"BRL_por_USD",
-        "valor":5.0751,
+        "valor":5.0846,
         "descricao":"Taxa de câmbio R$\/US$ aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-2.058886
+        "retorno_mensal_pct":-1.875551
     },
     {
         "data":"2021-07-31T00:00:00.000",
@@ -3895,13 +3895,13 @@
         "grupo":"cambio",
         "tipo":"cambio",
         "moeda":"BRL_por_EUR",
-        "valor":5.7816,
+        "valor":5.7877,
         "descricao":"Taxa de câmbio R$\/EUR aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-2.290964
+        "retorno_mensal_pct":-2.187871
     },
     {
         "data":"2021-07-31T00:00:00.000",
@@ -6823,13 +6823,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":487.25,
+        "valor":473.75,
         "descricao":"Contrato futuro de milho.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":18.049667
+        "retorno_mensal_pct":14.778922
     },
     {
         "data":"2021-07-31T00:00:00.000",
@@ -8775,13 +8775,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":4070.800049,
+        "valor":4089.899902,
         "descricao":"Contrato futuro de ouro.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":1.190687
+        "retorno_mensal_pct":1.665465
     },
     {
         "data":"2021-07-31T00:00:00.000",
@@ -9751,13 +9751,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":96.779999,
+        "valor":90.550003,
         "descricao":"Contrato futuro de petróleo Brent.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":32.720792
+        "retorno_mensal_pct":24.177188
     },
     {
         "data":"2021-07-31T00:00:00.000",
@@ -10727,13 +10727,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":89.309998,
+        "valor":83.93,
         "descricao":"Contrato futuro de petróleo WTI.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":28.503594
+        "retorno_mensal_pct":20.76259
     },
     {
         "data":"2021-07-31T00:00:00.000",
@@ -12679,13 +12679,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":1253.5,
+        "valor":1220.25,
         "descricao":"Contrato futuro de soja.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":12.245355
+        "retorno_mensal_pct":9.267965
     },
     {
         "data":"2021-07-31T00:00:00.000",
