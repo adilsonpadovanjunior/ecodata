@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-07-30 11:53:06",
+    "data_execucao": "2026-07-31 12:01:14",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -25,10 +25,11 @@
     },
     "status": "concluido",
     "erros": [
-        "Erro na série inadimplencia_pj | SGS 21083: 502 Server Error: Bad Gateway for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.21083/dados?formato=json&dataInicial=30%2F07%2F2021&dataFinal=30%2F07%2F2026"
+        "Erro na série ibc_br_sa | SGS 24364: HTTPSConnectionPool(host='api.bcb.gov.br', port=443): Read timed out. (read timeout=30)",
+        "Erro na série ibc_br | SGS 24363: 502 Server Error: Bad Gateway for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.24363/dados?formato=json&dataInicial=31%2F07%2F2021&dataFinal=31%2F07%2F2026"
     ],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 1023,
+    "linhas_base_longa": 962,
     "data_inicial_base": "2021-07-31 00:00:00",
     "data_final_base": "2026-07-31 00:00:00",
     "colunas_base_larga": [
@@ -39,19 +40,16 @@
         "ipca",
         "igp_m",
         "inpc",
-        "ibc_br_sa",
-        "ibc_br",
         "cambio_venda_usd",
         "cambio_compra_usd",
         "saldo_credito_total",
         "saldo_credito_pj",
         "saldo_credito_pf",
         "inadimplencia_total",
+        "inadimplencia_pj",
         "inadimplencia_pf",
         "juros_credito_total",
         "reservas_internacionais",
-        "var_pct_ibc_br_sa",
-        "var_pct_ibc_br",
         "var_pct_cambio_venda_usd",
         "var_pct_cambio_compra_usd",
         "var_pct_saldo_credito_total",
@@ -65,6 +63,7 @@
         "dif_selic_over",
         "dif_cdi",
         "dif_inadimplencia_total",
+        "dif_inadimplencia_pj",
         "dif_inadimplencia_pf",
         "dif_juros_credito_total"
     ]

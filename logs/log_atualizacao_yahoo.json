@@ -1,6 +1,6 @@
 {
     "fonte": "Yahoo Finance via yfinance",
-    "data_execucao": "2026-07-30 11:53:03",
+    "data_execucao": "2026-07-31 12:01:12",
     "periodo": "5y",
     "intervalo_original": "1d",
     "frequencia_final": "mensal",
@@ -24,7 +24,7 @@
     "status": "concluido",
     "erros": [],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 854,
+    "linhas_base_longa": 844,
     "data_inicial_base": "2021-07-31 00:00:00",
     "data_final_base": "2026-07-31 00:00:00",
     "variaveis_base_mensal": [
