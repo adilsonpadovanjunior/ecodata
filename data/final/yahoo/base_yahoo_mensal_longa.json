@@ -6727,13 +6727,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":440.75,
+        "valor":464.0,
         "descricao":"Contrato futuro de milho.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":6.783767
+        "retorno_mensal_pct":12.416717
     },
     {
         "data":"2021-08-31T00:00:00.000",
@@ -8647,13 +8647,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":4049.100098,
+        "valor":4107.0,
         "descricao":"Contrato futuro de ouro.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":0.651276
+        "retorno_mensal_pct":2.090534
     },
     {
         "data":"2021-08-31T00:00:00.000",
@@ -12487,13 +12487,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":1172.0,
+        "valor":1187.5,
         "descricao":"Contrato futuro de soja.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":4.947392
+        "retorno_mensal_pct":6.335348
     },
     {
         "data":"2021-08-31T00:00:00.000",
