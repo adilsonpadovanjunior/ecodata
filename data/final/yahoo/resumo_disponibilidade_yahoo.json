@@ -37,15 +37,15 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1829,
-        "valor_final":5.0747
+        "valor_final":5.0598
     },
     {
         "variavel":"euro_real",
         "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":6.1119,
-        "valor_final":5.8536
+        "valor_final":5.8308
     },
     {
         "variavel":"sp500",
@@ -74,41 +74,41 @@
     {
         "variavel":"ouro",
         "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":1815.0,
-        "valor_final":4107.0
+        "valor_final":4101.899902
     },
     {
         "variavel":"petroleo_wti",
         "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":68.5,
-        "valor_final":84.669998
+        "valor_final":78.849998
     },
     {
         "variavel":"petroleo_brent",
         "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":72.989998,
-        "valor_final":90.120003
+        "valor_final":82.839996
     },
     {
         "variavel":"soja",
         "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":1298.75,
-        "valor_final":1187.5
+        "valor_final":1179.75
     },
     {
         "variavel":"milho",
         "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":534.0,
-        "valor_final":464.0
+        "valor_final":461.5
     }
 ]
