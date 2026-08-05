@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-08-04 12:04:39",
+    "data_execucao": "2026-08-05 12:00:58",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -10,6 +10,7 @@
         "yahoo_dolar_real",
         "yahoo_euro_real",
         "yahoo_sp500",
+        "yahoo_nasdaq",
         "yahoo_dow_jones",
         "yahoo_ouro",
         "yahoo_petroleo_wti",
@@ -23,6 +24,7 @@
         "yahoo_ret_dolar_real",
         "yahoo_ret_euro_real",
         "yahoo_ret_sp500",
+        "yahoo_ret_nasdaq",
         "yahoo_ret_dow_jones",
         "yahoo_ret_ouro",
         "yahoo_ret_petroleo_wti",
@@ -35,20 +37,22 @@
         "bcb_sgs_ipca",
         "bcb_sgs_igp_m",
         "bcb_sgs_inpc",
+        "bcb_sgs_ibc_br_sa",
         "bcb_sgs_ibc_br",
         "bcb_sgs_cambio_venda_usd",
-        "bcb_sgs_cambio_compra_usd",
         "bcb_sgs_saldo_credito_total",
+        "bcb_sgs_saldo_credito_pj",
         "bcb_sgs_saldo_credito_pf",
         "bcb_sgs_inadimplencia_total",
         "bcb_sgs_inadimplencia_pj",
         "bcb_sgs_inadimplencia_pf",
         "bcb_sgs_juros_credito_total",
         "bcb_sgs_reservas_internacionais",
+        "bcb_sgs_var_pct_ibc_br_sa",
         "bcb_sgs_var_pct_ibc_br",
         "bcb_sgs_var_pct_cambio_venda_usd",
-        "bcb_sgs_var_pct_cambio_compra_usd",
         "bcb_sgs_var_pct_saldo_credito_total",
+        "bcb_sgs_var_pct_saldo_credito_pj",
         "bcb_sgs_var_pct_saldo_credito_pf",
         "bcb_sgs_var_pct_reservas_internacionais",
         "bcb_sgs_ipca_acum_12m",
@@ -63,5 +67,5 @@
         "bcb_sgs_dif_juros_credito_total"
     ],
     "erros": [],
-    "total_series_exportadas": 58
+    "total_series_exportadas": 62
 }
