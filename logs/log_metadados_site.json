@@ -1,12 +1,12 @@
 {
-    "data_execucao": "2026-08-09 10:37:12",
+    "data_execucao": "2026-08-10 11:10:47",
     "status": "concluido",
     "erros": [],
     "resumo_site": {
         "projeto": "ECODATA",
         "descricao": "Base automatizada de dados econômicos, financeiros e fiscais para acompanhamento de conjuntura econômica.",
         "frequencia_principal": "mensal",
-        "data_geracao_metadados": "2026-08-09 10:37:12",
+        "data_geracao_metadados": "2026-08-10 11:10:47",
         "base_consolidada_disponivel": true,
         "dicionario_disponivel": true,
         "resumo_disponibilidade_disponivel": true,
