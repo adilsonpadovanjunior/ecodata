@@ -21,10 +21,10 @@ bcb_sgs_var_pct_saldo_credito_pj,bcb_sgs,credito,mensal,58,2021-09-30,2026-06-30
 bcb_sgs_var_pct_saldo_credito_total,bcb_sgs,credito,mensal,58,2021-09-30,2026-06-30,data/final/series/bcb_sgs_var_pct_saldo_credito_total.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_total.xlsx
 bcb_sgs_igp_m,bcb_sgs,inflacao,mensal,60,2021-08-31,2026-07-31,data/final/series/bcb_sgs_igp_m.csv,data/final/series/bcb_sgs_igp_m.xlsx
 bcb_sgs_igp_m_acum_12m,bcb_sgs,inflacao,mensal,49,2022-07-31,2026-07-31,data/final/series/bcb_sgs_igp_m_acum_12m.csv,data/final/series/bcb_sgs_igp_m_acum_12m.xlsx
-bcb_sgs_inpc,bcb_sgs,inflacao,mensal,59,2021-08-31,2026-06-30,data/final/series/bcb_sgs_inpc.csv,data/final/series/bcb_sgs_inpc.xlsx
-bcb_sgs_inpc_acum_12m,bcb_sgs,inflacao,mensal,48,2022-07-31,2026-06-30,data/final/series/bcb_sgs_inpc_acum_12m.csv,data/final/series/bcb_sgs_inpc_acum_12m.xlsx
-bcb_sgs_ipca,bcb_sgs,inflacao,mensal,59,2021-08-31,2026-06-30,data/final/series/bcb_sgs_ipca.csv,data/final/series/bcb_sgs_ipca.xlsx
-bcb_sgs_ipca_acum_12m,bcb_sgs,inflacao,mensal,48,2022-07-31,2026-06-30,data/final/series/bcb_sgs_ipca_acum_12m.csv,data/final/series/bcb_sgs_ipca_acum_12m.xlsx
+bcb_sgs_inpc,bcb_sgs,inflacao,mensal,60,2021-08-31,2026-07-31,data/final/series/bcb_sgs_inpc.csv,data/final/series/bcb_sgs_inpc.xlsx
+bcb_sgs_inpc_acum_12m,bcb_sgs,inflacao,mensal,49,2022-07-31,2026-07-31,data/final/series/bcb_sgs_inpc_acum_12m.csv,data/final/series/bcb_sgs_inpc_acum_12m.xlsx
+bcb_sgs_ipca,bcb_sgs,inflacao,mensal,60,2021-08-31,2026-07-31,data/final/series/bcb_sgs_ipca.csv,data/final/series/bcb_sgs_ipca.xlsx
+bcb_sgs_ipca_acum_12m,bcb_sgs,inflacao,mensal,49,2022-07-31,2026-07-31,data/final/series/bcb_sgs_ipca_acum_12m.csv,data/final/series/bcb_sgs_ipca_acum_12m.xlsx
 yahoo_bova11,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/series/yahoo_bova11.csv,data/final/series/yahoo_bova11.xlsx
 yahoo_dolar_real,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/series/yahoo_dolar_real.csv,data/final/series/yahoo_dolar_real.xlsx
 yahoo_dow_jones,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/series/yahoo_dow_jones.csv,data/final/series/yahoo_dow_jones.xlsx
@@ -56,10 +56,8 @@ yahoo_sp500,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/
 bcb_sgs_cdi,bcb_sgs,politica_monetaria,mensal,61,2021-08-31,2026-08-31,data/final/series/bcb_sgs_cdi.csv,data/final/series/bcb_sgs_cdi.xlsx
 bcb_sgs_dif_cdi,bcb_sgs,politica_monetaria,mensal,60,2021-09-30,2026-08-31,data/final/series/bcb_sgs_dif_cdi.csv,data/final/series/bcb_sgs_dif_cdi.xlsx
 bcb_sgs_dif_juros_credito_total,bcb_sgs,politica_monetaria,mensal,58,2021-09-30,2026-06-30,data/final/series/bcb_sgs_dif_juros_credito_total.csv,data/final/series/bcb_sgs_dif_juros_credito_total.xlsx
-bcb_sgs_dif_selic_meta,bcb_sgs,politica_monetaria,mensal,60,2021-09-30,2026-08-31,data/final/series/bcb_sgs_dif_selic_meta.csv,data/final/series/bcb_sgs_dif_selic_meta.xlsx
 bcb_sgs_dif_selic_over,bcb_sgs,politica_monetaria,mensal,60,2021-09-30,2026-08-31,data/final/series/bcb_sgs_dif_selic_over.csv,data/final/series/bcb_sgs_dif_selic_over.xlsx
 bcb_sgs_juros_credito_total,bcb_sgs,politica_monetaria,mensal,59,2021-08-31,2026-06-30,data/final/series/bcb_sgs_juros_credito_total.csv,data/final/series/bcb_sgs_juros_credito_total.xlsx
-bcb_sgs_selic_meta,bcb_sgs,politica_monetaria,mensal,61,2021-08-31,2026-08-31,data/final/series/bcb_sgs_selic_meta.csv,data/final/series/bcb_sgs_selic_meta.xlsx
 bcb_sgs_selic_over,bcb_sgs,politica_monetaria,mensal,61,2021-08-31,2026-08-31,data/final/series/bcb_sgs_selic_over.csv,data/final/series/bcb_sgs_selic_over.xlsx
 bcb_sgs_reservas_internacionais,bcb_sgs,setor_externo,mensal,60,2021-08-31,2026-07-31,data/final/series/bcb_sgs_reservas_internacionais.csv,data/final/series/bcb_sgs_reservas_internacionais.xlsx
 bcb_sgs_var_pct_reservas_internacionais,bcb_sgs,setor_externo,mensal,59,2021-09-30,2026-07-31,data/final/series/bcb_sgs_var_pct_reservas_internacionais.csv,data/final/series/bcb_sgs_var_pct_reservas_internacionais.xlsx

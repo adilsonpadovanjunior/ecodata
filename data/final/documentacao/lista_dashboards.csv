@@ -21,10 +21,10 @@ bcb_sgs_var_pct_saldo_credito_pj,VAR PCT Saldo Credito PJ,,bcb_sgs,credito,mensa
 bcb_sgs_var_pct_saldo_credito_total,VAR PCT Saldo Credito Total,,bcb_sgs,credito,mensal,58,2021-09-30,2026-06-30,data/final/dashboard/bcb_sgs_var_pct_saldo_credito_total.json,data/final/series/bcb_sgs_var_pct_saldo_credito_total.csv
 bcb_sgs_igp_m,IGP M,,bcb_sgs,inflacao,mensal,60,2021-08-31,2026-07-31,data/final/dashboard/bcb_sgs_igp_m.json,data/final/series/bcb_sgs_igp_m.csv
 bcb_sgs_igp_m_acum_12m,IGP M ACUM 12M,,bcb_sgs,inflacao,mensal,49,2022-07-31,2026-07-31,data/final/dashboard/bcb_sgs_igp_m_acum_12m.json,data/final/series/bcb_sgs_igp_m_acum_12m.csv
-bcb_sgs_inpc,INPC,,bcb_sgs,inflacao,mensal,59,2021-08-31,2026-06-30,data/final/dashboard/bcb_sgs_inpc.json,data/final/series/bcb_sgs_inpc.csv
-bcb_sgs_inpc_acum_12m,INPC ACUM 12M,,bcb_sgs,inflacao,mensal,48,2022-07-31,2026-06-30,data/final/dashboard/bcb_sgs_inpc_acum_12m.json,data/final/series/bcb_sgs_inpc_acum_12m.csv
-bcb_sgs_ipca,IPCA,,bcb_sgs,inflacao,mensal,59,2021-08-31,2026-06-30,data/final/dashboard/bcb_sgs_ipca.json,data/final/series/bcb_sgs_ipca.csv
-bcb_sgs_ipca_acum_12m,IPCA ACUM 12M,,bcb_sgs,inflacao,mensal,48,2022-07-31,2026-06-30,data/final/dashboard/bcb_sgs_ipca_acum_12m.json,data/final/series/bcb_sgs_ipca_acum_12m.csv
+bcb_sgs_inpc,INPC,,bcb_sgs,inflacao,mensal,60,2021-08-31,2026-07-31,data/final/dashboard/bcb_sgs_inpc.json,data/final/series/bcb_sgs_inpc.csv
+bcb_sgs_inpc_acum_12m,INPC ACUM 12M,,bcb_sgs,inflacao,mensal,49,2022-07-31,2026-07-31,data/final/dashboard/bcb_sgs_inpc_acum_12m.json,data/final/series/bcb_sgs_inpc_acum_12m.csv
+bcb_sgs_ipca,IPCA,,bcb_sgs,inflacao,mensal,60,2021-08-31,2026-07-31,data/final/dashboard/bcb_sgs_ipca.json,data/final/series/bcb_sgs_ipca.csv
+bcb_sgs_ipca_acum_12m,IPCA ACUM 12M,,bcb_sgs,inflacao,mensal,49,2022-07-31,2026-07-31,data/final/dashboard/bcb_sgs_ipca_acum_12m.json,data/final/series/bcb_sgs_ipca_acum_12m.csv
 yahoo_bova11,Bova11,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_bova11.json,data/final/series/yahoo_bova11.csv
 yahoo_dow_jones,DOW Jones,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_dow_jones.json,data/final/series/yahoo_dow_jones.csv
 yahoo_dolar_real,Dolar REAL,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_dolar_real.json,data/final/series/yahoo_dolar_real.csv

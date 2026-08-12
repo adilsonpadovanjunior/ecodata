@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-08-11 10:51:45",
+    "data_execucao": "2026-08-12 11:01:30",
     "status": "concluido",
     "fontes_solicitadas": [
         {
@@ -65,7 +65,6 @@
         "yahoo_ret_petroleo_brent",
         "yahoo_ret_soja",
         "yahoo_ret_milho",
-        "bcb_sgs_selic_meta",
         "bcb_sgs_selic_over",
         "bcb_sgs_cdi",
         "bcb_sgs_ipca",
@@ -94,7 +93,6 @@
         "bcb_sgs_ipca_acum_12m",
         "bcb_sgs_igp_m_acum_12m",
         "bcb_sgs_inpc_acum_12m",
-        "bcb_sgs_dif_selic_meta",
         "bcb_sgs_dif_selic_over",
         "bcb_sgs_dif_cdi",
         "bcb_sgs_dif_inadimplencia_total",
