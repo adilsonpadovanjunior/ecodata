@@ -1,19 +1,19 @@
 [
     {
+        "variavel":"selic_meta",
+        "primeira_data":"2021-08-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":5.25,
+        "valor_final":14.0
+    },
+    {
         "variavel":"selic_over",
         "primeira_data":"2021-08-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":0.01993,
-        "valor_final":0.052033
-    },
-    {
-        "variavel":"cdi",
-        "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":0.01993,
-        "valor_final":0.052095
+        "valor_final":0.051987
     },
     {
         "variavel":"ipca",
@@ -61,7 +61,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1433,
-        "valor_final":5.1285
+        "valor_final":5.1639
     },
     {
         "variavel":"cambio_compra_usd",
@@ -69,7 +69,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1427,
-        "valor_final":5.1279
+        "valor_final":5.1632
     },
     {
         "variavel":"saldo_credito_total",
@@ -104,30 +104,6 @@
         "valor_final":4.68
     },
     {
-        "variavel":"inadimplencia_pj",
-        "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1.56,
-        "valor_final":3.19
-    },
-    {
-        "variavel":"inadimplencia_pf",
-        "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":2.96,
-        "valor_final":5.57
-    },
-    {
-        "variavel":"juros_credito_total",
-        "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":20.92,
-        "valor_final":33.44
-    },
-    {
         "variavel":"reservas_internacionais",
         "primeira_data":"2021-08-31T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
@@ -157,7 +133,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.757004,
-        "valor_final":1.00841
+        "valor_final":1.705631
     },
     {
         "variavel":"var_pct_cambio_compra_usd",
@@ -165,7 +141,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.757676,
-        "valor_final":1.008529
+        "valor_final":1.703863
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -224,20 +200,20 @@
         "valor_final":4.098046
     },
     {
+        "variavel":"dif_selic_meta",
+        "primeira_data":"2021-09-30T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":1.0,
+        "valor_final":-0.25
+    },
+    {
         "variavel":"dif_selic_over",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.001073,
-        "valor_final":-0.000498
-    },
-    {
-        "variavel":"dif_cdi",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":0.001073,
-        "valor_final":-0.000436
+        "valor_final":-0.000544
     },
     {
         "variavel":"dif_inadimplencia_total",
@@ -246,29 +222,5 @@
         "observacoes":58,
         "valor_inicial":-0.03,
         "valor_final":-0.06
-    },
-    {
-        "variavel":"dif_inadimplencia_pj",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":-0.13,
-        "valor_final":-0.06
-    },
-    {
-        "variavel":"dif_inadimplencia_pf",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":0.05,
-        "valor_final":-0.05
-    },
-    {
-        "variavel":"dif_juros_credito_total",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":0.5,
-        "valor_final":0.22
     }
 ]

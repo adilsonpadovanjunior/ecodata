@@ -10,7 +10,7 @@
         "primeira_data": "2021-09-30",
         "ultima_data": "2026-08-31",
         "observacoes": 60,
-        "data_geracao": "2026-08-12 11:01:31",
+        "data_geracao": "2026-08-13 11:03:01",
         "arquivo_origem": "data/final/series/bcb_sgs_dif_cdi.csv",
         "unidade": null,
         "descricao": null,
@@ -41,7 +41,7 @@
         "maximo_historico": 0.005012,
         "data_maximo_historico": "2021-11-30",
         "minimo_ultimos_12_meses": -0.000823,
-        "maximo_ultimos_12_meses": 0.0,
+        "maximo_ultimos_12_meses": -0.0,
         "percentil_historico": 23.333333,
         "sequencia_atual": {
             "direcao": "alta",
