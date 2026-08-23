@@ -59,7 +59,7 @@
 2026-05-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,170.75,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-7.246454
 2026-06-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,169.050003,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.995606
 2026-07-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,175.020004,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,3.5315
-2026-08-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,165.0,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-5.725062
+2026-08-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,168.330002,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-3.822422
 2021-08-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.1829,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.4143,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,4.464682
 2021-10-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.6449,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,4.259089
@@ -364,7 +364,7 @@
 2026-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,430.399994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,6.931676
 2026-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,435.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.219796
 2026-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,428.390015,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-1.666471
-2026-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,448.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.577601
+2026-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,445.850006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.075723
 2021-08-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,534.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,536.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,0.514981
 2021-10-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,568.25,Contrato futuro de milho.,1d,mensal,ultimo,Close,5.868654
@@ -425,7 +425,7 @@
 2026-05-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,446.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,-3.87305
 2026-06-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,412.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,-7.61052
 2026-07-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,440.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,6.783767
-2026-08-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,483.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,9.756098
+2026-08-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,508.5,Contrato futuro de milho.,1d,mensal,ultimo,Close,15.371526
 2021-08-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,15259.240234,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,14448.580078,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,-5.312585
 2021-10-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,15498.389648,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,7.265832
@@ -547,7 +547,7 @@
 2026-05-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4560.5,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-1.174512
 2026-06-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4022.899902,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-11.788183
 2026-07-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4049.100098,Contrato futuro de ouro.,1d,mensal,ultimo,Close,0.651276
-2026-08-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4624.100098,Contrato futuro de ouro.,1d,mensal,ultimo,Close,14.200686
+2026-08-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4680.600098,Contrato futuro de ouro.,1d,mensal,ultimo,Close,15.596058
 2021-08-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,72.989998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,78.519997,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,7.576379
 2021-10-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,84.379997,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,7.463068
@@ -609,67 +609,7 @@
 2026-06-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,72.919998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-20.782188
 2026-07-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,90.120003,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,23.5875
 2026-08-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,94.389999,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,4.738123
-2021-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,68.5,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,
-2021-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.029999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,9.532845
-2021-10-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,83.57,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,11.382115
-2021-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,66.18,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-20.808902
-2021-12-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.209999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,13.644604
-2022-01-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,88.150002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,17.205162
-2022-02-28,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,95.720001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,8.587634
-2022-03-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,100.279999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,4.763892
-2022-04-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,104.690002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,4.39769
-2022-05-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,114.669998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,9.532902
-2022-06-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,105.760002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-7.77012
-2022-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,98.620003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-6.751134
-2022-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,89.550003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-9.196917
-2022-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,79.489998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-11.233953
-2022-10-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,86.529999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,8.856461
-2022-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,80.550003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-6.910893
-2022-12-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,80.260002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-0.360026
-2023-01-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,78.870003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-1.731871
-2023-02-28,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,77.050003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-2.307594
-2023-03-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.669998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-1.791051
-2023-04-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,76.779999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,1.466897
-2023-05-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,68.089996,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-11.318055
-2023-06-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,70.639999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,3.745048
-2023-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,81.800003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,15.79842
-2023-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,83.629997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,2.237157
-2023-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,90.790001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,8.561526
-2023-10-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,81.019997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-10.761102
-2023-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.959999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-6.245369
-2023-12-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,71.650002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-5.674036
-2024-01-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.849998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,5.861824
-2024-02-29,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,78.260002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,3.177329
-2024-03-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,83.169998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,6.273953
-2024-04-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,81.93,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-1.49092
-2024-05-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,76.989998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-6.02954
-2024-06-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,81.540001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,5.909863
-2024-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,77.910004,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-4.451799
-2024-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,73.550003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-5.596201
-2024-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,68.169998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-7.314758
-2024-10-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,69.260002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,1.59895
-2024-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,68.0,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-1.819235
-2024-12-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,71.720001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,5.47059
-2025-01-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,72.529999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,1.129389
-2025-02-28,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,69.760002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-3.819105
-2025-03-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,71.480003,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,2.465598
-2025-04-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,58.209999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-18.564639
-2025-05-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,60.790001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,4.432231
-2025-06-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,65.110001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,7.106431
-2025-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,69.260002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,6.373831
-2025-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,64.010002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-7.580133
-2025-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,62.369999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-2.562105
-2025-10-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,60.98,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-2.228635
-2025-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,58.549999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-3.984914
-2025-12-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,57.419998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-1.929976
-2026-01-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,65.209999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,13.566704
-2026-02-28,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,67.019997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,2.775644
-2026-03-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,101.379997,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,51.268282
-2026-04-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,105.07,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,3.639774
-2026-05-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,87.360001,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-16.855429
-2026-06-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,69.5,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-20.44414
-2026-07-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,84.669998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,21.827335
-2026-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,87.059998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,2.822723
+2026-08-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,87.059998,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,
 2021-08-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,136.330002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,127.400002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-6.550283
 2021-10-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,111.199997,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-12.715859
@@ -730,7 +670,7 @@
 2026-05-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,110.989998,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-4.120598
 2026-06-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,107.980003,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-2.711951
 2026-07-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,107.25,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-0.676054
-2026-08-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,99.25,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-7.459207
+2026-08-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,102.25,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-4.662005
 2021-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1298.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1256.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,-3.291627
 2021-10-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1235.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-1.612261
@@ -791,7 +731,7 @@
 2026-05-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1186.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,0.401861
 2026-06-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1116.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-5.898462
 2026-07-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1172.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,4.947392
-2026-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1225.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,4.522184
+2026-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1239.5,Contrato futuro de soja.,1d,mensal,ultimo,Close,5.759386
 2021-08-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4522.680176,Índice S&P 500.,1d,mensal,ultimo,Close,
 2021-09-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4307.540039,Índice S&P 500.,1d,mensal,ultimo,Close,-4.756917
 2021-10-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4605.379883,Índice S&P 500.,1d,mensal,ultimo,Close,6.914384

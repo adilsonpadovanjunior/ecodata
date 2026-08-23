@@ -13,7 +13,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":114.080002,
-        "valor_final":165.0
+        "valor_final":168.330002
     },
     {
         "variavel":"smal11",
@@ -21,7 +21,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":136.330002,
-        "valor_final":99.25
+        "valor_final":102.25
     },
     {
         "variavel":"ivvb11",
@@ -29,7 +29,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":254.0,
-        "valor_final":448.0
+        "valor_final":445.850006
     },
     {
         "variavel":"dolar_real",
@@ -77,14 +77,14 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1815.0,
-        "valor_final":4624.100098
+        "valor_final":4680.600098
     },
     {
         "variavel":"petroleo_wti",
-        "primeira_data":"2021-08-31T00:00:00.000",
+        "primeira_data":"2026-08-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":68.5,
+        "observacoes":1,
+        "valor_inicial":87.059998,
         "valor_final":87.059998
     },
     {
@@ -101,7 +101,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1298.75,
-        "valor_final":1225.0
+        "valor_final":1239.5
     },
     {
         "variavel":"milho",
@@ -109,6 +109,6 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":534.0,
-        "valor_final":483.75
+        "valor_final":508.5
     }
 ]

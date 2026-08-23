@@ -14,7 +14,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":114.080002,
-        "valor_final":165.0,
+        "valor_final":168.330002,
         "percentual_preenchido":100.0
     },
     {
@@ -23,7 +23,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":136.330002,
-        "valor_final":99.25,
+        "valor_final":102.25,
         "percentual_preenchido":100.0
     },
     {
@@ -32,7 +32,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":254.0,
-        "valor_final":448.0,
+        "valor_final":445.850006,
         "percentual_preenchido":100.0
     },
     {
@@ -86,17 +86,17 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1815.0,
-        "valor_final":4624.100098,
+        "valor_final":4680.600098,
         "percentual_preenchido":100.0
     },
     {
         "variavel":"yahoo_petroleo_wti",
-        "primeira_data":"2021-08-31T00:00:00.000",
+        "primeira_data":"2026-08-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":68.5,
+        "observacoes":1,
+        "valor_inicial":87.059998,
         "valor_final":87.059998,
-        "percentual_preenchido":100.0
+        "percentual_preenchido":1.639344
     },
     {
         "variavel":"yahoo_petroleo_brent",
@@ -113,7 +113,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1298.75,
-        "valor_final":1225.0,
+        "valor_final":1239.5,
         "percentual_preenchido":100.0
     },
     {
@@ -122,7 +122,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":534.0,
-        "valor_final":483.75,
+        "valor_final":508.5,
         "percentual_preenchido":100.0
     },
     {
@@ -140,7 +140,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-6.653229,
-        "valor_final":-5.725062,
+        "valor_final":-3.822422,
         "percentual_preenchido":98.360656
     },
     {
@@ -149,7 +149,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-6.550283,
-        "valor_final":-7.459207,
+        "valor_final":-4.662005,
         "percentual_preenchido":98.360656
     },
     {
@@ -158,7 +158,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.393701,
-        "valor_final":4.577601,
+        "valor_final":4.075723,
         "percentual_preenchido":98.360656
     },
     {
@@ -212,17 +212,17 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-3.289254,
-        "valor_final":14.200686,
+        "valor_final":15.596058,
         "percentual_preenchido":98.360656
     },
     {
         "variavel":"yahoo_ret_petroleo_wti",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":9.532845,
-        "valor_final":2.822723,
-        "percentual_preenchido":98.360656
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_ret_petroleo_brent",
@@ -239,7 +239,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-3.291627,
-        "valor_final":4.522184,
+        "valor_final":5.759386,
         "percentual_preenchido":98.360656
     },
     {
@@ -248,7 +248,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.514981,
-        "valor_final":9.756098,
+        "valor_final":15.371526,
         "percentual_preenchido":98.360656
     },
     {
