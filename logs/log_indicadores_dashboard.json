@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-08-23 10:26:11",
+    "data_execucao": "2026-08-24 10:39:11",
     "status": "concluido",
     "diretorio_entrada": "data/final/series",
     "diretorio_saida": "data/final/dashboard",
@@ -50,6 +50,7 @@
         "yahoo_nasdaq",
         "yahoo_ouro",
         "yahoo_petroleo_brent",
+        "yahoo_petroleo_wti",
         "yahoo_ret_bova11",
         "yahoo_ret_dolar_real",
         "yahoo_ret_dow_jones",
@@ -68,14 +69,9 @@
         "yahoo_soja",
         "yahoo_sp500"
     ],
-    "series_ignoradas": [
-        {
-            "arquivo": "data/final/series/yahoo_petroleo_wti.csv",
-            "erro": "A série yahoo_petroleo_wti possui apenas 1 observação(ões)."
-        }
-    ],
+    "series_ignoradas": [],
     "erros": [],
     "total_arquivos_encontrados": 64,
-    "total_dashboards_gerados": 63,
-    "total_series_ignoradas": 1
+    "total_dashboards_gerados": 64,
+    "total_series_ignoradas": 0
 }

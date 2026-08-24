@@ -2,7 +2,7 @@
     "projeto": "ECODATA",
     "descricao": "Base automatizada de dados econômicos, financeiros e fiscais para acompanhamento de conjuntura econômica.",
     "frequencia_principal": "mensal",
-    "data_geracao_metadados": "2026-08-23 10:26:12",
+    "data_geracao_metadados": "2026-08-24 10:39:13",
     "base_consolidada_disponivel": true,
     "dicionario_disponivel": true,
     "resumo_disponibilidade_disponivel": true,

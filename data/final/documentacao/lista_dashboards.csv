@@ -35,6 +35,7 @@ yahoo_milho,Milho,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data
 yahoo_nasdaq,Nasdaq,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_nasdaq.json,data/final/series/yahoo_nasdaq.csv
 yahoo_ouro,OURO,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_ouro.json,data/final/series/yahoo_ouro.csv
 yahoo_petroleo_brent,Petroleo Brent,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_petroleo_brent.json,data/final/series/yahoo_petroleo_brent.csv
+yahoo_petroleo_wti,Petroleo WTI,,yahoo,mercado_financeiro,mensal,61,2021-08-31,2026-08-31,data/final/dashboard/yahoo_petroleo_wti.json,data/final/series/yahoo_petroleo_wti.csv
 yahoo_ret_bova11,RET Bova11,,yahoo,mercado_financeiro,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/yahoo_ret_bova11.json,data/final/series/yahoo_ret_bova11.csv
 yahoo_ret_dow_jones,RET DOW Jones,,yahoo,mercado_financeiro,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/yahoo_ret_dow_jones.json,data/final/series/yahoo_ret_dow_jones.csv
 yahoo_ret_dolar_real,RET Dolar REAL,,yahoo,mercado_financeiro,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/yahoo_ret_dolar_real.json,data/final/series/yahoo_ret_dolar_real.csv
