@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-08-25 10:35:18",
+    "data_execucao": "2026-08-26 10:37:14",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -32,6 +32,7 @@
         "yahoo_ret_soja",
         "yahoo_ret_milho",
         "bcb_sgs_selic_meta",
+        "bcb_sgs_selic_over",
         "bcb_sgs_cdi",
         "bcb_sgs_ipca",
         "bcb_sgs_igp_m",
@@ -60,6 +61,7 @@
         "bcb_sgs_igp_m_acum_12m",
         "bcb_sgs_inpc_acum_12m",
         "bcb_sgs_dif_selic_meta",
+        "bcb_sgs_dif_selic_over",
         "bcb_sgs_dif_cdi",
         "bcb_sgs_dif_inadimplencia_total",
         "bcb_sgs_dif_inadimplencia_pj",
@@ -67,5 +69,5 @@
         "bcb_sgs_dif_juros_credito_total"
     ],
     "erros": [],
-    "total_series_exportadas": 62
+    "total_series_exportadas": 64
 }

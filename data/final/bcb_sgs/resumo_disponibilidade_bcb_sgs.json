@@ -8,12 +8,20 @@
         "valor_final":14.0
     },
     {
+        "variavel":"selic_over",
+        "primeira_data":"2021-08-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":0.01993,
+        "valor_final":0.051814
+    },
+    {
         "variavel":"cdi",
         "primeira_data":"2021-08-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":0.01993,
-        "valor_final":0.051834
+        "valor_final":0.051823
     },
     {
         "variavel":"ipca",
@@ -61,7 +69,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1433,
-        "valor_final":5.1512
+        "valor_final":5.149
     },
     {
         "variavel":"cambio_compra_usd",
@@ -69,7 +77,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1427,
-        "valor_final":5.1506
+        "valor_final":5.1484
     },
     {
         "variavel":"saldo_credito_total",
@@ -157,7 +165,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.757004,
-        "valor_final":1.455498
+        "valor_final":1.412168
     },
     {
         "variavel":"var_pct_cambio_compra_usd",
@@ -165,7 +173,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.757676,
-        "valor_final":1.45567
+        "valor_final":1.412335
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -232,12 +240,20 @@
         "valor_final":-0.25
     },
     {
+        "variavel":"dif_selic_over",
+        "primeira_data":"2021-09-30T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":0.001073,
+        "valor_final":-0.000717
+    },
+    {
         "variavel":"dif_cdi",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.001073,
-        "valor_final":-0.000697
+        "valor_final":-0.000708
     },
     {
         "variavel":"dif_inadimplencia_total",
