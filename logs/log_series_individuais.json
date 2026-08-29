@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-08-28 21:08:36",
+    "data_execucao": "2026-08-29 14:57:49",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -47,7 +47,6 @@
         "bcb_sgs_inadimplencia_total",
         "bcb_sgs_inadimplencia_pj",
         "bcb_sgs_inadimplencia_pf",
-        "bcb_sgs_juros_credito_total",
         "bcb_sgs_reservas_internacionais",
         "bcb_sgs_var_pct_ibc_br_sa",
         "bcb_sgs_var_pct_ibc_br",
@@ -65,9 +64,8 @@
         "bcb_sgs_dif_cdi",
         "bcb_sgs_dif_inadimplencia_total",
         "bcb_sgs_dif_inadimplencia_pj",
-        "bcb_sgs_dif_inadimplencia_pf",
-        "bcb_sgs_dif_juros_credito_total"
+        "bcb_sgs_dif_inadimplencia_pf"
     ],
     "erros": [],
-    "total_series_exportadas": 64
+    "total_series_exportadas": 62
 }

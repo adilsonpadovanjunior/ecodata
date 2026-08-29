@@ -17,7 +17,6 @@
         "inadimplencia_total":2.37,
         "inadimplencia_pj":1.56,
         "inadimplencia_pf":2.96,
-        "juros_credito_total":20.92,
         "reservas_internacionais":370395.0,
         "var_pct_ibc_br_sa":null,
         "var_pct_ibc_br":null,
@@ -35,8 +34,7 @@
         "dif_cdi":null,
         "dif_inadimplencia_total":null,
         "dif_inadimplencia_pj":null,
-        "dif_inadimplencia_pf":null,
-        "dif_juros_credito_total":null
+        "dif_inadimplencia_pf":null
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -56,7 +54,6 @@
         "inadimplencia_total":2.34,
         "inadimplencia_pj":1.43,
         "inadimplencia_pf":3.01,
-        "juros_credito_total":21.42,
         "reservas_internacionais":368886.0,
         "var_pct_ibc_br_sa":-0.064886,
         "var_pct_ibc_br":-2.103216,
@@ -74,8 +71,7 @@
         "dif_cdi":0.001073,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":-0.13,
-        "dif_inadimplencia_pf":0.05,
-        "dif_juros_credito_total":0.5
+        "dif_inadimplencia_pf":0.05
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -95,7 +91,6 @@
         "inadimplencia_total":2.33,
         "inadimplencia_pj":1.43,
         "inadimplencia_pf":2.99,
-        "juros_credito_total":22.89,
         "reservas_internacionais":367927.0,
         "var_pct_ibc_br_sa":0.541272,
         "var_pct_ibc_br":-0.59426,
@@ -113,8 +108,7 @@
         "dif_cdi":0.00324,
         "dif_inadimplencia_total":-0.01,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":-0.02,
-        "dif_juros_credito_total":1.47
+        "dif_inadimplencia_pf":-0.02
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -134,7 +128,6 @@
         "inadimplencia_total":2.36,
         "inadimplencia_pj":1.46,
         "inadimplencia_pf":3.01,
-        "juros_credito_total":23.91,
         "reservas_internacionais":367772.0,
         "var_pct_ibc_br_sa":1.615792,
         "var_pct_ibc_br":1.373375,
@@ -152,8 +145,7 @@
         "dif_cdi":0.005012,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":0.02,
-        "dif_juros_credito_total":1.02
+        "dif_inadimplencia_pf":0.02
     },
     {
         "data":"2021-12-31T00:00:00.000",
@@ -173,7 +165,6 @@
         "inadimplencia_total":2.35,
         "inadimplencia_pj":1.4,
         "inadimplencia_pf":3.05,
-        "juros_credito_total":24.21,
         "reservas_internacionais":362204.0,
         "var_pct_ibc_br_sa":0.317648,
         "var_pct_ibc_br":1.500312,
@@ -191,8 +182,7 @@
         "dif_cdi":0.00406,
         "dif_inadimplencia_total":-0.01,
         "dif_inadimplencia_pj":-0.06,
-        "dif_inadimplencia_pf":0.04,
-        "dif_juros_credito_total":0.3
+        "dif_inadimplencia_pf":0.04
     },
     {
         "data":"2022-01-31T00:00:00.000",
@@ -212,7 +202,6 @@
         "inadimplencia_total":2.51,
         "inadimplencia_pj":1.46,
         "inadimplencia_pf":3.26,
-        "juros_credito_total":25.23,
         "reservas_internacionais":358398.0,
         "var_pct_ibc_br_sa":-1.96241,
         "var_pct_ibc_br":-7.700102,
@@ -230,8 +219,7 @@
         "dif_cdi":0.001433,
         "dif_inadimplencia_total":0.16,
         "dif_inadimplencia_pj":0.06,
-        "dif_inadimplencia_pf":0.21,
-        "dif_juros_credito_total":1.02
+        "dif_inadimplencia_pf":0.21
     },
     {
         "data":"2022-02-28T00:00:00.000",
@@ -251,7 +239,6 @@
         "inadimplencia_total":2.57,
         "inadimplencia_pj":1.44,
         "inadimplencia_pf":3.38,
-        "juros_credito_total":25.63,
         "reservas_internacionais":357740.0,
         "var_pct_ibc_br_sa":1.093519,
         "var_pct_ibc_br":4.326098,
@@ -269,8 +256,7 @@
         "dif_cdi":0.004849,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":-0.02,
-        "dif_inadimplencia_pf":0.12,
-        "dif_juros_credito_total":0.4
+        "dif_inadimplencia_pf":0.12
     },
     {
         "data":"2022-03-31T00:00:00.000",
@@ -290,7 +276,6 @@
         "inadimplencia_total":2.66,
         "inadimplencia_pj":1.55,
         "inadimplencia_pf":3.45,
-        "juros_credito_total":26.54,
         "reservas_internacionais":353169.0,
         "var_pct_ibc_br_sa":1.076776,
         "var_pct_ibc_br":9.297102,
@@ -308,8 +293,7 @@
         "dif_cdi":0.002356,
         "dif_inadimplencia_total":0.09,
         "dif_inadimplencia_pj":0.11,
-        "dif_inadimplencia_pf":0.07,
-        "dif_juros_credito_total":0.91
+        "dif_inadimplencia_pf":0.07
     },
     {
         "data":"2022-04-30T00:00:00.000",
@@ -329,7 +313,6 @@
         "inadimplencia_total":2.72,
         "inadimplencia_pj":1.57,
         "inadimplencia_pf":3.54,
-        "juros_credito_total":27.46,
         "reservas_internacionais":345097.0,
         "var_pct_ibc_br_sa":-0.096491,
         "var_pct_ibc_br":-4.120958,
@@ -347,8 +330,7 @@
         "dif_cdi":0.001785,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":0.02,
-        "dif_inadimplencia_pf":0.09,
-        "dif_juros_credito_total":0.92
+        "dif_inadimplencia_pf":0.09
     },
     {
         "data":"2022-05-31T00:00:00.000",
@@ -368,7 +350,6 @@
         "inadimplencia_total":2.79,
         "inadimplencia_pj":1.57,
         "inadimplencia_pf":3.65,
-        "juros_credito_total":27.42,
         "reservas_internacionais":346415.0,
         "var_pct_ibc_br_sa":0.206371,
         "var_pct_ibc_br":-0.477049,
@@ -386,8 +367,7 @@
         "dif_cdi":0.003057,
         "dif_inadimplencia_total":0.07,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":0.11,
-        "dif_juros_credito_total":-0.04
+        "dif_inadimplencia_pf":0.11
     },
     {
         "data":"2022-06-30T00:00:00.000",
@@ -407,7 +387,6 @@
         "inadimplencia_total":2.73,
         "inadimplencia_pj":1.52,
         "inadimplencia_pf":3.57,
-        "juros_credito_total":27.88,
         "reservas_internacionais":341958.0,
         "var_pct_ibc_br_sa":-0.122134,
         "var_pct_ibc_br":-0.426943,
@@ -425,8 +404,7 @@
         "dif_cdi":0.00132,
         "dif_inadimplencia_total":-0.06,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":-0.08,
-        "dif_juros_credito_total":0.46
+        "dif_inadimplencia_pf":-0.08
     },
     {
         "data":"2022-07-31T00:00:00.000",
@@ -446,7 +424,6 @@
         "inadimplencia_total":2.84,
         "inadimplencia_pj":1.6,
         "inadimplencia_pf":3.71,
-        "juros_credito_total":29.24,
         "reservas_internacionais":346403.0,
         "var_pct_ibc_br_sa":1.910705,
         "var_pct_ibc_br":4.665299,
@@ -464,8 +441,7 @@
         "dif_cdi":0.000921,
         "dif_inadimplencia_total":0.11,
         "dif_inadimplencia_pj":0.08,
-        "dif_inadimplencia_pf":0.14,
-        "dif_juros_credito_total":1.36
+        "dif_inadimplencia_pf":0.14
     },
     {
         "data":"2022-08-31T00:00:00.000",
@@ -485,7 +461,6 @@
         "inadimplencia_total":2.9,
         "inadimplencia_pj":1.62,
         "inadimplencia_pf":3.78,
-        "juros_credito_total":28.6,
         "reservas_internacionais":339664.0,
         "var_pct_ibc_br_sa":-0.328948,
         "var_pct_ibc_br":0.538824,
@@ -503,8 +478,7 @@
         "dif_cdi":0.001523,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":0.02,
-        "dif_inadimplencia_pf":0.07,
-        "dif_juros_credito_total":-0.64
+        "dif_inadimplencia_pf":0.07
     },
     {
         "data":"2022-09-30T00:00:00.000",
@@ -524,7 +498,6 @@
         "inadimplencia_total":2.92,
         "inadimplencia_pj":1.65,
         "inadimplencia_pf":3.8,
-        "juros_credito_total":28.57,
         "reservas_internacionais":327580.0,
         "var_pct_ibc_br_sa":0.052651,
         "var_pct_ibc_br":-3.179174,
@@ -542,8 +515,7 @@
         "dif_cdi":0.000228,
         "dif_inadimplencia_total":0.02,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":0.02,
-        "dif_juros_credito_total":-0.03
+        "dif_inadimplencia_pf":0.02
     },
     {
         "data":"2022-10-31T00:00:00.000",
@@ -563,7 +535,6 @@
         "inadimplencia_total":3.04,
         "inadimplencia_pj":1.77,
         "inadimplencia_pf":3.89,
-        "juros_credito_total":29.68,
         "reservas_internacionais":325546.0,
         "var_pct_ibc_br_sa":0.275674,
         "var_pct_ibc_br":-1.103679,
@@ -581,8 +552,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.12,
         "dif_inadimplencia_pj":0.12,
-        "dif_inadimplencia_pf":0.09,
-        "dif_juros_credito_total":1.11
+        "dif_inadimplencia_pf":0.09
     },
     {
         "data":"2022-11-30T00:00:00.000",
@@ -602,7 +572,6 @@
         "inadimplencia_total":3.07,
         "inadimplencia_pj":1.81,
         "inadimplencia_pf":3.92,
-        "juros_credito_total":30.52,
         "reservas_internacionais":331505.0,
         "var_pct_ibc_br_sa":-0.709488,
         "var_pct_ibc_br":-0.920772,
@@ -620,8 +589,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.04,
-        "dif_inadimplencia_pf":0.03,
-        "dif_juros_credito_total":0.84
+        "dif_inadimplencia_pf":0.03
     },
     {
         "data":"2022-12-31T00:00:00.000",
@@ -641,7 +609,6 @@
         "inadimplencia_total":3.07,
         "inadimplencia_pj":1.8,
         "inadimplencia_pf":3.94,
-        "juros_credito_total":29.64,
         "reservas_internacionais":324703.0,
         "var_pct_ibc_br_sa":-0.124753,
         "var_pct_ibc_br":0.827113,
@@ -659,8 +626,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.0,
         "dif_inadimplencia_pj":-0.01,
-        "dif_inadimplencia_pf":0.02,
-        "dif_juros_credito_total":-0.88
+        "dif_inadimplencia_pf":0.02
     },
     {
         "data":"2023-01-31T00:00:00.000",
@@ -680,7 +646,6 @@
         "inadimplencia_total":3.24,
         "inadimplencia_pj":1.94,
         "inadimplencia_pf":4.11,
-        "juros_credito_total":30.54,
         "reservas_internacionais":331122.0,
         "var_pct_ibc_br_sa":-0.473517,
         "var_pct_ibc_br":-4.880959,
@@ -698,8 +663,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.17,
         "dif_inadimplencia_pj":0.14,
-        "dif_inadimplencia_pf":0.17,
-        "dif_juros_credito_total":0.9
+        "dif_inadimplencia_pf":0.17
     },
     {
         "data":"2023-02-28T00:00:00.000",
@@ -719,7 +683,6 @@
         "inadimplencia_total":3.36,
         "inadimplencia_pj":2.17,
         "inadimplencia_pf":4.16,
-        "juros_credito_total":30.48,
         "reservas_internacionais":328098.0,
         "var_pct_ibc_br_sa":2.970821,
         "var_pct_ibc_br":3.73991,
@@ -737,8 +700,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.12,
         "dif_inadimplencia_pj":0.23,
-        "dif_inadimplencia_pf":0.05,
-        "dif_juros_credito_total":-0.06
+        "dif_inadimplencia_pf":0.05
     },
     {
         "data":"2023-03-31T00:00:00.000",
@@ -758,7 +720,6 @@
         "inadimplencia_total":3.35,
         "inadimplencia_pj":2.2,
         "inadimplencia_pf":4.11,
-        "juros_credito_total":30.99,
         "reservas_internacionais":341158.0,
         "var_pct_ibc_br_sa":0.001766,
         "var_pct_ibc_br":12.134092,
@@ -776,8 +737,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.01,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":-0.05,
-        "dif_juros_credito_total":0.51
+        "dif_inadimplencia_pf":-0.05
     },
     {
         "data":"2023-04-30T00:00:00.000",
@@ -797,7 +757,6 @@
         "inadimplencia_total":3.54,
         "inadimplencia_pj":2.45,
         "inadimplencia_pf":4.26,
-        "juros_credito_total":31.62,
         "reservas_internacionais":345725.0,
         "var_pct_ibc_br_sa":0.848618,
         "var_pct_ibc_br":-5.952841,
@@ -815,8 +774,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.19,
         "dif_inadimplencia_pj":0.25,
-        "dif_inadimplencia_pf":0.15,
-        "dif_juros_credito_total":0.63
+        "dif_inadimplencia_pf":0.15
     },
     {
         "data":"2023-05-31T00:00:00.000",
@@ -836,7 +794,6 @@
         "inadimplencia_total":3.65,
         "inadimplencia_pj":2.58,
         "inadimplencia_pf":4.35,
-        "juros_credito_total":31.63,
         "reservas_internacionais":343489.0,
         "var_pct_ibc_br_sa":-1.496142,
         "var_pct_ibc_br":-1.267588,
@@ -854,8 +811,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.11,
         "dif_inadimplencia_pj":0.13,
-        "dif_inadimplencia_pf":0.09,
-        "dif_juros_credito_total":0.01
+        "dif_inadimplencia_pf":0.09
     },
     {
         "data":"2023-06-30T00:00:00.000",
@@ -875,7 +831,6 @@
         "inadimplencia_total":3.61,
         "inadimplencia_pj":2.63,
         "inadimplencia_pf":4.25,
-        "juros_credito_total":30.85,
         "reservas_internacionais":343620.0,
         "var_pct_ibc_br_sa":0.034305,
         "var_pct_ibc_br":-0.420234,
@@ -893,8 +848,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.04,
         "dif_inadimplencia_pj":0.05,
-        "dif_inadimplencia_pf":-0.1,
-        "dif_juros_credito_total":-0.78
+        "dif_inadimplencia_pf":-0.1
     },
     {
         "data":"2023-07-31T00:00:00.000",
@@ -914,7 +868,6 @@
         "inadimplencia_total":3.63,
         "inadimplencia_pj":2.73,
         "inadimplencia_pf":4.22,
-        "juros_credito_total":30.43,
         "reservas_internacionais":345476.0,
         "var_pct_ibc_br_sa":0.448214,
         "var_pct_ibc_br":2.985912,
@@ -932,8 +885,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.02,
         "dif_inadimplencia_pj":0.1,
-        "dif_inadimplencia_pf":-0.03,
-        "dif_juros_credito_total":-0.42
+        "dif_inadimplencia_pf":-0.03
     },
     {
         "data":"2023-08-31T00:00:00.000",
@@ -953,7 +905,6 @@
         "inadimplencia_total":3.61,
         "inadimplencia_pj":2.82,
         "inadimplencia_pf":4.12,
-        "juros_credito_total":29.92,
         "reservas_internacionais":344177.0,
         "var_pct_ibc_br_sa":-0.399402,
         "var_pct_ibc_br":0.683801,
@@ -971,8 +922,7 @@
         "dif_cdi":-0.001599,
         "dif_inadimplencia_total":-0.02,
         "dif_inadimplencia_pj":0.09,
-        "dif_inadimplencia_pf":-0.1,
-        "dif_juros_credito_total":-0.51
+        "dif_inadimplencia_pf":-0.1
     },
     {
         "data":"2023-09-30T00:00:00.000",
@@ -992,7 +942,6 @@
         "inadimplencia_total":3.54,
         "inadimplencia_pj":2.82,
         "inadimplencia_pf":4.0,
-        "juros_credito_total":29.66,
         "reservas_internacionais":340324.0,
         "var_pct_ibc_br_sa":0.013953,
         "var_pct_ibc_br":-4.05153,
@@ -1010,8 +959,7 @@
         "dif_cdi":-0.000768,
         "dif_inadimplencia_total":-0.07,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":-0.12,
-        "dif_juros_credito_total":-0.26
+        "dif_inadimplencia_pf":-0.12
     },
     {
         "data":"2023-10-31T00:00:00.000",
@@ -1031,7 +979,6 @@
         "inadimplencia_total":3.56,
         "inadimplencia_pj":2.92,
         "inadimplencia_pf":3.97,
-        "juros_credito_total":29.24,
         "reservas_internacionais":340247.0,
         "var_pct_ibc_br_sa":0.32009,
         "var_pct_ibc_br":0.163194,
@@ -1049,8 +996,7 @@
         "dif_cdi":-0.001143,
         "dif_inadimplencia_total":0.02,
         "dif_inadimplencia_pj":0.1,
-        "dif_inadimplencia_pf":-0.03,
-        "dif_juros_credito_total":-0.42
+        "dif_inadimplencia_pf":-0.03
     },
     {
         "data":"2023-11-30T00:00:00.000",
@@ -1070,7 +1016,6 @@
         "inadimplencia_total":3.53,
         "inadimplencia_pj":2.99,
         "inadimplencia_pf":3.88,
-        "juros_credito_total":29.01,
         "reservas_internacionais":348406.0,
         "var_pct_ibc_br_sa":0.736767,
         "var_pct_ibc_br":-0.241748,
@@ -1088,8 +1033,7 @@
         "dif_cdi":-0.001678,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":0.07,
-        "dif_inadimplencia_pf":-0.09,
-        "dif_juros_credito_total":-0.23
+        "dif_inadimplencia_pf":-0.09
     },
     {
         "data":"2023-12-31T00:00:00.000",
@@ -1109,7 +1053,6 @@
         "inadimplencia_total":3.29,
         "inadimplencia_pj":2.59,
         "inadimplencia_pf":3.75,
-        "juros_credito_total":28.14,
         "reservas_internacionais":355034.0,
         "var_pct_ibc_br_sa":1.249788,
         "var_pct_ibc_br":0.004367,
@@ -1127,8 +1070,7 @@
         "dif_cdi":-0.001064,
         "dif_inadimplencia_total":-0.24,
         "dif_inadimplencia_pj":-0.4,
-        "dif_inadimplencia_pf":-0.13,
-        "dif_juros_credito_total":-0.87
+        "dif_inadimplencia_pf":-0.13
     },
     {
         "data":"2024-01-31T00:00:00.000",
@@ -1148,7 +1090,6 @@
         "inadimplencia_total":3.38,
         "inadimplencia_pj":2.77,
         "inadimplencia_pf":3.76,
-        "juros_credito_total":28.0,
         "reservas_internacionais":355066.0,
         "var_pct_ibc_br_sa":-0.387795,
         "var_pct_ibc_br":-2.355435,
@@ -1166,8 +1107,7 @@
         "dif_cdi":-0.000798,
         "dif_inadimplencia_total":0.09,
         "dif_inadimplencia_pj":0.18,
-        "dif_inadimplencia_pf":0.01,
-        "dif_juros_credito_total":-0.14
+        "dif_inadimplencia_pf":0.01
     },
     {
         "data":"2024-02-29T00:00:00.000",
@@ -1187,7 +1127,6 @@
         "inadimplencia_total":3.38,
         "inadimplencia_pj":2.76,
         "inadimplencia_pf":3.76,
-        "juros_credito_total":27.85,
         "reservas_internacionais":352705.0,
         "var_pct_ibc_br_sa":0.188579,
         "var_pct_ibc_br":2.880633,
@@ -1205,8 +1144,7 @@
         "dif_cdi":-0.001782,
         "dif_inadimplencia_total":0.0,
         "dif_inadimplencia_pj":-0.01,
-        "dif_inadimplencia_pf":0.0,
-        "dif_juros_credito_total":-0.15
+        "dif_inadimplencia_pf":0.0
     },
     {
         "data":"2024-03-31T00:00:00.000",
@@ -1226,7 +1164,6 @@
         "inadimplencia_total":3.33,
         "inadimplencia_pj":2.71,
         "inadimplencia_pf":3.71,
-        "juros_credito_total":28.14,
         "reservas_internacionais":355008.0,
         "var_pct_ibc_br_sa":0.014216,
         "var_pct_ibc_br":7.264557,
@@ -1244,8 +1181,7 @@
         "dif_cdi":-0.000537,
         "dif_inadimplencia_total":-0.05,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":-0.05,
-        "dif_juros_credito_total":0.29
+        "dif_inadimplencia_pf":-0.05
     },
     {
         "data":"2024-04-30T00:00:00.000",
@@ -1265,7 +1201,6 @@
         "inadimplencia_total":3.37,
         "inadimplencia_pj":2.76,
         "inadimplencia_pf":3.75,
-        "juros_credito_total":27.86,
         "reservas_internacionais":351599.0,
         "var_pct_ibc_br_sa":-0.012122,
         "var_pct_ibc_br":-0.292209,
@@ -1283,8 +1218,7 @@
         "dif_cdi":-0.001252,
         "dif_inadimplencia_total":0.04,
         "dif_inadimplencia_pj":0.05,
-        "dif_inadimplencia_pf":0.04,
-        "dif_juros_credito_total":-0.28
+        "dif_inadimplencia_pf":0.04
     },
     {
         "data":"2024-05-31T00:00:00.000",
@@ -1304,7 +1238,6 @@
         "inadimplencia_total":3.43,
         "inadimplencia_pj":2.8,
         "inadimplencia_pf":3.82,
-        "juros_credito_total":27.75,
         "reservas_internacionais":355560.0,
         "var_pct_ibc_br_sa":0.837831,
         "var_pct_ibc_br":-4.155585,
@@ -1322,8 +1255,7 @@
         "dif_cdi":-0.000684,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":0.04,
-        "dif_inadimplencia_pf":0.07,
-        "dif_juros_credito_total":-0.11
+        "dif_inadimplencia_pf":0.07
     },
     {
         "data":"2024-06-30T00:00:00.000",
@@ -1343,7 +1275,6 @@
         "inadimplencia_total":3.29,
         "inadimplencia_pj":2.64,
         "inadimplencia_pf":3.71,
-        "juros_credito_total":27.81,
         "reservas_internacionais":357827.0,
         "var_pct_ibc_br_sa":1.04753,
         "var_pct_ibc_br":1.108973,
@@ -1361,8 +1292,7 @@
         "dif_cdi":-0.000214,
         "dif_inadimplencia_total":-0.14,
         "dif_inadimplencia_pj":-0.16,
-        "dif_inadimplencia_pf":-0.11,
-        "dif_juros_credito_total":0.06
+        "dif_inadimplencia_pf":-0.11
     },
     {
         "data":"2024-07-31T00:00:00.000",
@@ -1382,7 +1312,6 @@
         "inadimplencia_total":3.3,
         "inadimplencia_pj":2.52,
         "inadimplencia_pf":3.78,
-        "juros_credito_total":27.74,
         "reservas_internacionais":363282.0,
         "var_pct_ibc_br_sa":0.338409,
         "var_pct_ibc_br":5.318521,
@@ -1400,8 +1329,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.01,
         "dif_inadimplencia_pj":-0.12,
-        "dif_inadimplencia_pf":0.07,
-        "dif_juros_credito_total":-0.07
+        "dif_inadimplencia_pf":0.07
     },
     {
         "data":"2024-08-31T00:00:00.000",
@@ -1421,7 +1349,6 @@
         "inadimplencia_total":3.33,
         "inadimplencia_pj":2.55,
         "inadimplencia_pf":3.82,
-        "juros_credito_total":27.59,
         "reservas_internacionais":369214.0,
         "var_pct_ibc_br_sa":0.138518,
         "var_pct_ibc_br":-1.292936,
@@ -1439,8 +1366,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.03,
-        "dif_inadimplencia_pf":0.04,
-        "dif_juros_credito_total":-0.15
+        "dif_inadimplencia_pf":0.04
     },
     {
         "data":"2024-09-30T00:00:00.000",
@@ -1460,7 +1386,6 @@
         "inadimplencia_total":3.34,
         "inadimplencia_pj":2.56,
         "inadimplencia_pf":3.83,
-        "juros_credito_total":27.49,
         "reservas_internacionais":372016.0,
         "var_pct_ibc_br_sa":0.799855,
         "var_pct_ibc_br":-2.707476,
@@ -1478,8 +1403,7 @@
         "dif_cdi":0.000342,
         "dif_inadimplencia_total":0.01,
         "dif_inadimplencia_pj":0.01,
-        "dif_inadimplencia_pf":0.01,
-        "dif_juros_credito_total":-0.1
+        "dif_inadimplencia_pf":0.01
     },
     {
         "data":"2024-10-31T00:00:00.000",
@@ -1499,7 +1423,6 @@
         "inadimplencia_total":3.3,
         "inadimplencia_pj":2.52,
         "inadimplencia_pf":3.79,
-        "juros_credito_total":27.94,
         "reservas_internacionais":366096.0,
         "var_pct_ibc_br_sa":0.193086,
         "var_pct_ibc_br":1.957468,
@@ -1517,8 +1440,7 @@
         "dif_cdi":0.000556,
         "dif_inadimplencia_total":-0.04,
         "dif_inadimplencia_pj":-0.04,
-        "dif_inadimplencia_pf":-0.04,
-        "dif_juros_credito_total":0.45
+        "dif_inadimplencia_pf":-0.04
     },
     {
         "data":"2024-11-30T00:00:00.000",
@@ -1538,7 +1460,6 @@
         "inadimplencia_total":3.27,
         "inadimplencia_pj":2.5,
         "inadimplencia_pf":3.75,
-        "juros_credito_total":28.45,
         "reservas_internacionais":363003.0,
         "var_pct_ibc_br_sa":-0.219287,
         "var_pct_ibc_br":-3.378769,
@@ -1556,8 +1477,7 @@
         "dif_cdi":0.001412,
         "dif_inadimplencia_total":-0.03,
         "dif_inadimplencia_pj":-0.02,
-        "dif_inadimplencia_pf":-0.04,
-        "dif_juros_credito_total":0.51
+        "dif_inadimplencia_pf":-0.04
     },
     {
         "data":"2024-12-31T00:00:00.000",
@@ -1577,7 +1497,6 @@
         "inadimplencia_total":3.08,
         "inadimplencia_pj":2.21,
         "inadimplencia_pf":3.63,
-        "juros_credito_total":28.5,
         "reservas_internacionais":329730.0,
         "var_pct_ibc_br_sa":-0.577052,
         "var_pct_ibc_br":-1.263097,
@@ -1595,8 +1514,7 @@
         "dif_cdi":0.002578,
         "dif_inadimplencia_total":-0.19,
         "dif_inadimplencia_pj":-0.29,
-        "dif_inadimplencia_pf":-0.12,
-        "dif_juros_credito_total":0.05
+        "dif_inadimplencia_pf":-0.12
     },
     {
         "data":"2025-01-31T00:00:00.000",
@@ -1616,7 +1534,6 @@
         "inadimplencia_total":3.34,
         "inadimplencia_pj":2.43,
         "inadimplencia_pf":3.89,
-        "juros_credito_total":29.88,
         "reservas_internacionais":328303.0,
         "var_pct_ibc_br_sa":0.67971,
         "var_pct_ibc_br":-1.472655,
@@ -1634,8 +1551,7 @@
         "dif_cdi":0.001675,
         "dif_inadimplencia_total":0.26,
         "dif_inadimplencia_pj":0.22,
-        "dif_inadimplencia_pf":0.26,
-        "dif_juros_credito_total":1.38
+        "dif_inadimplencia_pf":0.26
     },
     {
         "data":"2025-02-28T00:00:00.000",
@@ -1655,7 +1571,6 @@
         "inadimplencia_total":3.41,
         "inadimplencia_pj":2.52,
         "inadimplencia_pf":3.96,
-        "juros_credito_total":30.53,
         "reservas_internacionais":332508.0,
         "var_pct_ibc_br_sa":0.500869,
         "var_pct_ibc_br":4.09588,
@@ -1673,8 +1588,7 @@
         "dif_cdi":0.003204,
         "dif_inadimplencia_total":0.07,
         "dif_inadimplencia_pj":0.09,
-        "dif_inadimplencia_pf":0.07,
-        "dif_juros_credito_total":0.65
+        "dif_inadimplencia_pf":0.07
     },
     {
         "data":"2025-03-31T00:00:00.000",
@@ -1694,7 +1608,6 @@
         "inadimplencia_total":3.44,
         "inadimplencia_pj":2.49,
         "inadimplencia_pf":4.03,
-        "juros_credito_total":31.34,
         "reservas_internacionais":336157.0,
         "var_pct_ibc_br_sa":1.302545,
         "var_pct_ibc_br":6.739292,
@@ -1712,8 +1625,7 @@
         "dif_cdi":0.001471,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":-0.03,
-        "dif_inadimplencia_pf":0.07,
-        "dif_juros_credito_total":0.81
+        "dif_inadimplencia_pf":0.07
     },
     {
         "data":"2025-04-30T00:00:00.000",
@@ -1733,7 +1645,6 @@
         "inadimplencia_total":3.67,
         "inadimplencia_pj":2.72,
         "inadimplencia_pf":4.25,
-        "juros_credito_total":31.63,
         "reservas_internacionais":340789.0,
         "var_pct_ibc_br_sa":-0.416951,
         "var_pct_ibc_br":-1.260911,
@@ -1751,8 +1662,7 @@
         "dif_cdi":0.002023,
         "dif_inadimplencia_total":0.23,
         "dif_inadimplencia_pj":0.23,
-        "dif_inadimplencia_pf":0.22,
-        "dif_juros_credito_total":0.29
+        "dif_inadimplencia_pf":0.22
     },
     {
         "data":"2025-05-31T00:00:00.000",
@@ -1772,7 +1682,6 @@
         "inadimplencia_total":3.72,
         "inadimplencia_pj":2.67,
         "inadimplencia_pf":4.36,
-        "juros_credito_total":31.7,
         "reservas_internacionais":341459.0,
         "var_pct_ibc_br_sa":-0.725787,
         "var_pct_ibc_br":-3.581128,
@@ -1790,8 +1699,7 @@
         "dif_cdi":0.001405,
         "dif_inadimplencia_total":0.05,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":0.11,
-        "dif_juros_credito_total":0.07
+        "dif_inadimplencia_pf":0.11
     },
     {
         "data":"2025-06-30T00:00:00.000",
@@ -1811,7 +1719,6 @@
         "inadimplencia_total":3.75,
         "inadimplencia_pj":2.67,
         "inadimplencia_pf":4.41,
-        "juros_credito_total":31.85,
         "reservas_internacionais":344440.0,
         "var_pct_ibc_br_sa":0.089546,
         "var_pct_ibc_br":-1.094212,
@@ -1829,8 +1736,7 @@
         "dif_cdi":0.000633,
         "dif_inadimplencia_total":0.03,
         "dif_inadimplencia_pj":0.0,
-        "dif_inadimplencia_pf":0.05,
-        "dif_juros_credito_total":0.15
+        "dif_inadimplencia_pf":0.05
     },
     {
         "data":"2025-07-31T00:00:00.000",
@@ -1850,7 +1756,6 @@
         "inadimplencia_total":3.96,
         "inadimplencia_pj":2.79,
         "inadimplencia_pf":4.66,
-        "juros_credito_total":31.75,
         "reservas_internacionais":345111.0,
         "var_pct_ibc_br_sa":-0.460691,
         "var_pct_ibc_br":5.341227,
@@ -1868,8 +1773,7 @@
         "dif_cdi":0.000562,
         "dif_inadimplencia_total":0.21,
         "dif_inadimplencia_pj":0.12,
-        "dif_inadimplencia_pf":0.25,
-        "dif_juros_credito_total":-0.1
+        "dif_inadimplencia_pf":0.25
     },
     {
         "data":"2025-08-31T00:00:00.000",
@@ -1889,7 +1793,6 @@
         "inadimplencia_total":4.14,
         "inadimplencia_pj":2.85,
         "inadimplencia_pf":4.92,
-        "juros_credito_total":31.87,
         "reservas_internacionais":350767.0,
         "var_pct_ibc_br_sa":0.368026,
         "var_pct_ibc_br":-2.407934,
@@ -1907,8 +1810,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.18,
         "dif_inadimplencia_pj":0.06,
-        "dif_inadimplencia_pf":0.26,
-        "dif_juros_credito_total":0.12
+        "dif_inadimplencia_pf":0.26
     },
     {
         "data":"2025-09-30T00:00:00.000",
@@ -1928,7 +1830,6 @@
         "inadimplencia_total":4.09,
         "inadimplencia_pj":2.77,
         "inadimplencia_pf":4.89,
-        "juros_credito_total":31.47,
         "reservas_internacionais":356582.0,
         "var_pct_ibc_br_sa":-0.07171,
         "var_pct_ibc_br":-0.807491,
@@ -1946,8 +1847,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.05,
         "dif_inadimplencia_pj":-0.08,
-        "dif_inadimplencia_pf":-0.03,
-        "dif_juros_credito_total":-0.4
+        "dif_inadimplencia_pf":-0.03
     },
     {
         "data":"2025-10-31T00:00:00.000",
@@ -1967,7 +1867,6 @@
         "inadimplencia_total":4.18,
         "inadimplencia_pj":2.82,
         "inadimplencia_pf":4.99,
-        "juros_credito_total":32.04,
         "reservas_internacionais":357103.0,
         "var_pct_ibc_br_sa":0.011718,
         "var_pct_ibc_br":0.525396,
@@ -1985,8 +1884,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.09,
         "dif_inadimplencia_pj":0.05,
-        "dif_inadimplencia_pf":0.1,
-        "dif_juros_credito_total":0.57
+        "dif_inadimplencia_pf":0.1
     },
     {
         "data":"2025-11-30T00:00:00.000",
@@ -2006,7 +1904,6 @@
         "inadimplencia_total":4.24,
         "inadimplencia_pj":2.75,
         "inadimplencia_pf":5.12,
-        "juros_credito_total":32.2,
         "reservas_internacionais":360578.0,
         "var_pct_ibc_br_sa":0.467077,
         "var_pct_ibc_br":-3.151492,
@@ -2024,8 +1921,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.06,
         "dif_inadimplencia_pj":-0.07,
-        "dif_inadimplencia_pf":0.13,
-        "dif_juros_credito_total":0.16
+        "dif_inadimplencia_pf":0.13
     },
     {
         "data":"2025-12-31T00:00:00.000",
@@ -2045,7 +1941,6 @@
         "inadimplencia_total":4.2,
         "inadimplencia_pj":2.7,
         "inadimplencia_pf":5.12,
-        "juros_credito_total":31.87,
         "reservas_internacionais":358234.0,
         "var_pct_ibc_br_sa":0.201306,
         "var_pct_ibc_br":0.560793,
@@ -2063,8 +1958,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":-0.04,
         "dif_inadimplencia_pj":-0.05,
-        "dif_inadimplencia_pf":0.0,
-        "dif_juros_credito_total":-0.33
+        "dif_inadimplencia_pf":0.0
     },
     {
         "data":"2026-01-31T00:00:00.000",
@@ -2084,7 +1978,6 @@
         "inadimplencia_total":4.44,
         "inadimplencia_pj":2.87,
         "inadimplencia_pf":5.38,
-        "juros_credito_total":32.45,
         "reservas_internacionais":364367.0,
         "var_pct_ibc_br_sa":0.562015,
         "var_pct_ibc_br":-3.182366,
@@ -2102,8 +1995,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.24,
         "dif_inadimplencia_pj":0.17,
-        "dif_inadimplencia_pf":0.26,
-        "dif_juros_credito_total":0.58
+        "dif_inadimplencia_pf":0.26
     },
     {
         "data":"2026-02-28T00:00:00.000",
@@ -2123,7 +2015,6 @@
         "inadimplencia_total":4.64,
         "inadimplencia_pj":3.07,
         "inadimplencia_pf":5.56,
-        "juros_credito_total":32.63,
         "reservas_internacionais":371074.0,
         "var_pct_ibc_br_sa":0.635194,
         "var_pct_ibc_br":2.880001,
@@ -2141,8 +2032,7 @@
         "dif_cdi":0.0,
         "dif_inadimplencia_total":0.2,
         "dif_inadimplencia_pj":0.2,
-        "dif_inadimplencia_pf":0.18,
-        "dif_juros_credito_total":0.18
+        "dif_inadimplencia_pf":0.18
     },
     {
         "data":"2026-03-31T00:00:00.000",
@@ -2162,7 +2052,6 @@
         "inadimplencia_total":4.52,
         "inadimplencia_pj":3.06,
         "inadimplencia_pf":5.39,
-        "juros_credito_total":32.84,
         "reservas_internacionais":362002.0,
         "var_pct_ibc_br_sa":-0.151802,
         "var_pct_ibc_br":10.517667,
@@ -2180,8 +2069,7 @@
         "dif_cdi":-0.000354,
         "dif_inadimplencia_total":-0.12,
         "dif_inadimplencia_pj":-0.01,
-        "dif_inadimplencia_pf":-0.17,
-        "dif_juros_credito_total":0.21
+        "dif_inadimplencia_pf":-0.17
     },
     {
         "data":"2026-04-30T00:00:00.000",
@@ -2201,7 +2089,6 @@
         "inadimplencia_total":4.64,
         "inadimplencia_pj":3.15,
         "inadimplencia_pf":5.51,
-        "juros_credito_total":33.36,
         "reservas_internacionais":366913.0,
         "var_pct_ibc_br_sa":0.26509,
         "var_pct_ibc_br":-3.475583,
@@ -2219,8 +2106,7 @@
         "dif_cdi":-0.000554,
         "dif_inadimplencia_total":0.12,
         "dif_inadimplencia_pj":0.09,
-        "dif_inadimplencia_pf":0.12,
-        "dif_juros_credito_total":0.52
+        "dif_inadimplencia_pf":0.12
     },
     {
         "data":"2026-05-31T00:00:00.000",
@@ -2240,7 +2126,6 @@
         "inadimplencia_total":4.74,
         "inadimplencia_pj":3.25,
         "inadimplencia_pf":5.62,
-        "juros_credito_total":33.1,
         "reservas_internacionais":371137.0,
         "var_pct_ibc_br_sa":0.027195,
         "var_pct_ibc_br":-3.836192,
@@ -2258,8 +2143,7 @@
         "dif_cdi":-0.000823,
         "dif_inadimplencia_total":0.1,
         "dif_inadimplencia_pj":0.1,
-        "dif_inadimplencia_pf":0.11,
-        "dif_juros_credito_total":-0.26
+        "dif_inadimplencia_pf":0.11
     },
     {
         "data":"2026-06-30T00:00:00.000",
@@ -2279,7 +2163,6 @@
         "inadimplencia_total":4.58,
         "inadimplencia_pj":3.18,
         "inadimplencia_pf":5.42,
-        "juros_credito_total":33.33,
         "reservas_internacionais":367558.0,
         "var_pct_ibc_br_sa":-0.639569,
         "var_pct_ibc_br":0.332557,
@@ -2297,8 +2180,7 @@
         "dif_cdi":-0.000372,
         "dif_inadimplencia_total":-0.16,
         "dif_inadimplencia_pj":-0.07,
-        "dif_inadimplencia_pf":-0.2,
-        "dif_juros_credito_total":0.23
+        "dif_inadimplencia_pf":-0.2
     },
     {
         "data":"2026-07-31T00:00:00.000",
@@ -2318,7 +2200,6 @@
         "inadimplencia_total":4.88,
         "inadimplencia_pj":3.31,
         "inadimplencia_pf":5.81,
-        "juros_credito_total":32.08,
         "reservas_internacionais":369742.0,
         "var_pct_ibc_br_sa":null,
         "var_pct_ibc_br":null,
@@ -2336,13 +2217,12 @@
         "dif_cdi":-0.000497,
         "dif_inadimplencia_total":0.3,
         "dif_inadimplencia_pj":0.13,
-        "dif_inadimplencia_pf":0.39,
-        "dif_juros_credito_total":-1.25
+        "dif_inadimplencia_pf":0.39
     },
     {
         "data":"2026-08-31T00:00:00.000",
         "selic_meta":14.0,
-        "selic_over":0.051798,
+        "selic_over":0.051791,
         "cdi":0.051798,
         "ipca":null,
         "igp_m":-0.22,
@@ -2357,7 +2237,6 @@
         "inadimplencia_total":null,
         "inadimplencia_pj":null,
         "inadimplencia_pf":null,
-        "juros_credito_total":null,
         "reservas_internacionais":null,
         "var_pct_ibc_br_sa":null,
         "var_pct_ibc_br":null,
@@ -2371,11 +2250,10 @@
         "igp_m_acum_12m":2.178243,
         "inpc_acum_12m":null,
         "dif_selic_meta":-0.25,
-        "dif_selic_over":-0.000733,
+        "dif_selic_over":-0.00074,
         "dif_cdi":-0.000733,
         "dif_inadimplencia_total":null,
         "dif_inadimplencia_pj":null,
-        "dif_inadimplencia_pf":null,
-        "dif_juros_credito_total":null
+        "dif_inadimplencia_pf":null
     }
 ]
