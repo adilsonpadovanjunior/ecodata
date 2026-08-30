@@ -45,6 +45,7 @@
         "bcb_sgs_inadimplencia_total":2.37,
         "bcb_sgs_inadimplencia_pj":1.56,
         "bcb_sgs_inadimplencia_pf":2.96,
+        "bcb_sgs_juros_credito_total":20.92,
         "bcb_sgs_reservas_internacionais":370395.0,
         "bcb_sgs_var_pct_ibc_br_sa":null,
         "bcb_sgs_var_pct_ibc_br":null,
@@ -62,7 +63,8 @@
         "bcb_sgs_dif_cdi":null,
         "bcb_sgs_dif_inadimplencia_total":null,
         "bcb_sgs_dif_inadimplencia_pj":null,
-        "bcb_sgs_dif_inadimplencia_pf":null
+        "bcb_sgs_dif_inadimplencia_pf":null,
+        "bcb_sgs_dif_juros_credito_total":null
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -110,6 +112,7 @@
         "bcb_sgs_inadimplencia_total":2.34,
         "bcb_sgs_inadimplencia_pj":1.43,
         "bcb_sgs_inadimplencia_pf":3.01,
+        "bcb_sgs_juros_credito_total":21.42,
         "bcb_sgs_reservas_internacionais":368886.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.064886,
         "bcb_sgs_var_pct_ibc_br":-2.103216,
@@ -127,7 +130,8 @@
         "bcb_sgs_dif_cdi":0.001073,
         "bcb_sgs_dif_inadimplencia_total":-0.03,
         "bcb_sgs_dif_inadimplencia_pj":-0.13,
-        "bcb_sgs_dif_inadimplencia_pf":0.05
+        "bcb_sgs_dif_inadimplencia_pf":0.05,
+        "bcb_sgs_dif_juros_credito_total":0.5
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -175,6 +179,7 @@
         "bcb_sgs_inadimplencia_total":2.33,
         "bcb_sgs_inadimplencia_pj":1.43,
         "bcb_sgs_inadimplencia_pf":2.99,
+        "bcb_sgs_juros_credito_total":22.89,
         "bcb_sgs_reservas_internacionais":367927.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.541272,
         "bcb_sgs_var_pct_ibc_br":-0.59426,
@@ -192,7 +197,8 @@
         "bcb_sgs_dif_cdi":0.00324,
         "bcb_sgs_dif_inadimplencia_total":-0.01,
         "bcb_sgs_dif_inadimplencia_pj":0.0,
-        "bcb_sgs_dif_inadimplencia_pf":-0.02
+        "bcb_sgs_dif_inadimplencia_pf":-0.02,
+        "bcb_sgs_dif_juros_credito_total":1.47
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -240,6 +246,7 @@
         "bcb_sgs_inadimplencia_total":2.36,
         "bcb_sgs_inadimplencia_pj":1.46,
         "bcb_sgs_inadimplencia_pf":3.01,
+        "bcb_sgs_juros_credito_total":23.91,
         "bcb_sgs_reservas_internacionais":367772.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.615792,
         "bcb_sgs_var_pct_ibc_br":1.373375,
@@ -257,7 +264,8 @@
         "bcb_sgs_dif_cdi":0.005012,
         "bcb_sgs_dif_inadimplencia_total":0.03,
         "bcb_sgs_dif_inadimplencia_pj":0.03,
-        "bcb_sgs_dif_inadimplencia_pf":0.02
+        "bcb_sgs_dif_inadimplencia_pf":0.02,
+        "bcb_sgs_dif_juros_credito_total":1.02
     },
     {
         "data":"2021-12-31T00:00:00.000",
@@ -305,6 +313,7 @@
         "bcb_sgs_inadimplencia_total":2.35,
         "bcb_sgs_inadimplencia_pj":1.4,
         "bcb_sgs_inadimplencia_pf":3.05,
+        "bcb_sgs_juros_credito_total":24.21,
         "bcb_sgs_reservas_internacionais":362204.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.317648,
         "bcb_sgs_var_pct_ibc_br":1.500312,
@@ -322,7 +331,8 @@
         "bcb_sgs_dif_cdi":0.00406,
         "bcb_sgs_dif_inadimplencia_total":-0.01,
         "bcb_sgs_dif_inadimplencia_pj":-0.06,
-        "bcb_sgs_dif_inadimplencia_pf":0.04
+        "bcb_sgs_dif_inadimplencia_pf":0.04,
+        "bcb_sgs_dif_juros_credito_total":0.3
     },
     {
         "data":"2022-01-31T00:00:00.000",
@@ -370,6 +380,7 @@
         "bcb_sgs_inadimplencia_total":2.51,
         "bcb_sgs_inadimplencia_pj":1.46,
         "bcb_sgs_inadimplencia_pf":3.26,
+        "bcb_sgs_juros_credito_total":25.23,
         "bcb_sgs_reservas_internacionais":358398.0,
         "bcb_sgs_var_pct_ibc_br_sa":-1.96241,
         "bcb_sgs_var_pct_ibc_br":-7.700102,
@@ -387,7 +398,8 @@
         "bcb_sgs_dif_cdi":0.001433,
         "bcb_sgs_dif_inadimplencia_total":0.16,
         "bcb_sgs_dif_inadimplencia_pj":0.06,
-        "bcb_sgs_dif_inadimplencia_pf":0.21
+        "bcb_sgs_dif_inadimplencia_pf":0.21,
+        "bcb_sgs_dif_juros_credito_total":1.02
     },
     {
         "data":"2022-02-28T00:00:00.000",
@@ -435,6 +447,7 @@
         "bcb_sgs_inadimplencia_total":2.57,
         "bcb_sgs_inadimplencia_pj":1.44,
         "bcb_sgs_inadimplencia_pf":3.38,
+        "bcb_sgs_juros_credito_total":25.63,
         "bcb_sgs_reservas_internacionais":357740.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.093519,
         "bcb_sgs_var_pct_ibc_br":4.326098,
@@ -452,7 +465,8 @@
         "bcb_sgs_dif_cdi":0.004849,
         "bcb_sgs_dif_inadimplencia_total":0.06,
         "bcb_sgs_dif_inadimplencia_pj":-0.02,
-        "bcb_sgs_dif_inadimplencia_pf":0.12
+        "bcb_sgs_dif_inadimplencia_pf":0.12,
+        "bcb_sgs_dif_juros_credito_total":0.4
     },
     {
         "data":"2022-03-31T00:00:00.000",
@@ -500,6 +514,7 @@
         "bcb_sgs_inadimplencia_total":2.66,
         "bcb_sgs_inadimplencia_pj":1.55,
         "bcb_sgs_inadimplencia_pf":3.45,
+        "bcb_sgs_juros_credito_total":26.54,
         "bcb_sgs_reservas_internacionais":353169.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.076776,
         "bcb_sgs_var_pct_ibc_br":9.297102,
@@ -517,7 +532,8 @@
         "bcb_sgs_dif_cdi":0.002356,
         "bcb_sgs_dif_inadimplencia_total":0.09,
         "bcb_sgs_dif_inadimplencia_pj":0.11,
-        "bcb_sgs_dif_inadimplencia_pf":0.07
+        "bcb_sgs_dif_inadimplencia_pf":0.07,
+        "bcb_sgs_dif_juros_credito_total":0.91
     },
     {
         "data":"2022-04-30T00:00:00.000",
@@ -565,6 +581,7 @@
         "bcb_sgs_inadimplencia_total":2.72,
         "bcb_sgs_inadimplencia_pj":1.57,
         "bcb_sgs_inadimplencia_pf":3.54,
+        "bcb_sgs_juros_credito_total":27.46,
         "bcb_sgs_reservas_internacionais":345097.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.096491,
         "bcb_sgs_var_pct_ibc_br":-4.120958,
@@ -582,7 +599,8 @@
         "bcb_sgs_dif_cdi":0.001785,
         "bcb_sgs_dif_inadimplencia_total":0.06,
         "bcb_sgs_dif_inadimplencia_pj":0.02,
-        "bcb_sgs_dif_inadimplencia_pf":0.09
+        "bcb_sgs_dif_inadimplencia_pf":0.09,
+        "bcb_sgs_dif_juros_credito_total":0.92
     },
     {
         "data":"2022-05-31T00:00:00.000",
@@ -630,6 +648,7 @@
         "bcb_sgs_inadimplencia_total":2.79,
         "bcb_sgs_inadimplencia_pj":1.57,
         "bcb_sgs_inadimplencia_pf":3.65,
+        "bcb_sgs_juros_credito_total":27.42,
         "bcb_sgs_reservas_internacionais":346415.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.206371,
         "bcb_sgs_var_pct_ibc_br":-0.477049,
@@ -647,7 +666,8 @@
         "bcb_sgs_dif_cdi":0.003057,
         "bcb_sgs_dif_inadimplencia_total":0.07,
         "bcb_sgs_dif_inadimplencia_pj":0.0,
-        "bcb_sgs_dif_inadimplencia_pf":0.11
+        "bcb_sgs_dif_inadimplencia_pf":0.11,
+        "bcb_sgs_dif_juros_credito_total":-0.04
     },
     {
         "data":"2022-06-30T00:00:00.000",
@@ -695,6 +715,7 @@
         "bcb_sgs_inadimplencia_total":2.73,
         "bcb_sgs_inadimplencia_pj":1.52,
         "bcb_sgs_inadimplencia_pf":3.57,
+        "bcb_sgs_juros_credito_total":27.88,
         "bcb_sgs_reservas_internacionais":341958.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.122134,
         "bcb_sgs_var_pct_ibc_br":-0.426943,
@@ -712,7 +733,8 @@
         "bcb_sgs_dif_cdi":0.00132,
         "bcb_sgs_dif_inadimplencia_total":-0.06,
         "bcb_sgs_dif_inadimplencia_pj":-0.05,
-        "bcb_sgs_dif_inadimplencia_pf":-0.08
+        "bcb_sgs_dif_inadimplencia_pf":-0.08,
+        "bcb_sgs_dif_juros_credito_total":0.46
     },
     {
         "data":"2022-07-31T00:00:00.000",
@@ -760,6 +782,7 @@
         "bcb_sgs_inadimplencia_total":2.84,
         "bcb_sgs_inadimplencia_pj":1.6,
         "bcb_sgs_inadimplencia_pf":3.71,
+        "bcb_sgs_juros_credito_total":29.24,
         "bcb_sgs_reservas_internacionais":346403.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.910705,
         "bcb_sgs_var_pct_ibc_br":4.665299,
@@ -777,7 +800,8 @@
         "bcb_sgs_dif_cdi":0.000921,
         "bcb_sgs_dif_inadimplencia_total":0.11,
         "bcb_sgs_dif_inadimplencia_pj":0.08,
-        "bcb_sgs_dif_inadimplencia_pf":0.14
+        "bcb_sgs_dif_inadimplencia_pf":0.14,
+        "bcb_sgs_dif_juros_credito_total":1.36
     },
     {
         "data":"2022-08-31T00:00:00.000",
@@ -825,6 +849,7 @@
         "bcb_sgs_inadimplencia_total":2.9,
         "bcb_sgs_inadimplencia_pj":1.62,
         "bcb_sgs_inadimplencia_pf":3.78,
+        "bcb_sgs_juros_credito_total":28.6,
         "bcb_sgs_reservas_internacionais":339664.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.328948,
         "bcb_sgs_var_pct_ibc_br":0.538824,
@@ -842,7 +867,8 @@
         "bcb_sgs_dif_cdi":0.001523,
         "bcb_sgs_dif_inadimplencia_total":0.06,
         "bcb_sgs_dif_inadimplencia_pj":0.02,
-        "bcb_sgs_dif_inadimplencia_pf":0.07
+        "bcb_sgs_dif_inadimplencia_pf":0.07,
+        "bcb_sgs_dif_juros_credito_total":-0.64
     },
     {
         "data":"2022-09-30T00:00:00.000",
@@ -890,6 +916,7 @@
         "bcb_sgs_inadimplencia_total":2.92,
         "bcb_sgs_inadimplencia_pj":1.65,
         "bcb_sgs_inadimplencia_pf":3.8,
+        "bcb_sgs_juros_credito_total":28.57,
         "bcb_sgs_reservas_internacionais":327580.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.052651,
         "bcb_sgs_var_pct_ibc_br":-3.179174,
@@ -907,7 +934,8 @@
         "bcb_sgs_dif_cdi":0.000228,
         "bcb_sgs_dif_inadimplencia_total":0.02,
         "bcb_sgs_dif_inadimplencia_pj":0.03,
-        "bcb_sgs_dif_inadimplencia_pf":0.02
+        "bcb_sgs_dif_inadimplencia_pf":0.02,
+        "bcb_sgs_dif_juros_credito_total":-0.03
     },
     {
         "data":"2022-10-31T00:00:00.000",
@@ -955,6 +983,7 @@
         "bcb_sgs_inadimplencia_total":3.04,
         "bcb_sgs_inadimplencia_pj":1.77,
         "bcb_sgs_inadimplencia_pf":3.89,
+        "bcb_sgs_juros_credito_total":29.68,
         "bcb_sgs_reservas_internacionais":325546.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.275674,
         "bcb_sgs_var_pct_ibc_br":-1.103679,
@@ -972,7 +1001,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.12,
         "bcb_sgs_dif_inadimplencia_pj":0.12,
-        "bcb_sgs_dif_inadimplencia_pf":0.09
+        "bcb_sgs_dif_inadimplencia_pf":0.09,
+        "bcb_sgs_dif_juros_credito_total":1.11
     },
     {
         "data":"2022-11-30T00:00:00.000",
@@ -1020,6 +1050,7 @@
         "bcb_sgs_inadimplencia_total":3.07,
         "bcb_sgs_inadimplencia_pj":1.81,
         "bcb_sgs_inadimplencia_pf":3.92,
+        "bcb_sgs_juros_credito_total":30.52,
         "bcb_sgs_reservas_internacionais":331505.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.709488,
         "bcb_sgs_var_pct_ibc_br":-0.920772,
@@ -1037,7 +1068,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.03,
         "bcb_sgs_dif_inadimplencia_pj":0.04,
-        "bcb_sgs_dif_inadimplencia_pf":0.03
+        "bcb_sgs_dif_inadimplencia_pf":0.03,
+        "bcb_sgs_dif_juros_credito_total":0.84
     },
     {
         "data":"2022-12-31T00:00:00.000",
@@ -1085,6 +1117,7 @@
         "bcb_sgs_inadimplencia_total":3.07,
         "bcb_sgs_inadimplencia_pj":1.8,
         "bcb_sgs_inadimplencia_pf":3.94,
+        "bcb_sgs_juros_credito_total":29.64,
         "bcb_sgs_reservas_internacionais":324703.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.124753,
         "bcb_sgs_var_pct_ibc_br":0.827113,
@@ -1102,7 +1135,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.0,
         "bcb_sgs_dif_inadimplencia_pj":-0.01,
-        "bcb_sgs_dif_inadimplencia_pf":0.02
+        "bcb_sgs_dif_inadimplencia_pf":0.02,
+        "bcb_sgs_dif_juros_credito_total":-0.88
     },
     {
         "data":"2023-01-31T00:00:00.000",
@@ -1150,6 +1184,7 @@
         "bcb_sgs_inadimplencia_total":3.24,
         "bcb_sgs_inadimplencia_pj":1.94,
         "bcb_sgs_inadimplencia_pf":4.11,
+        "bcb_sgs_juros_credito_total":30.54,
         "bcb_sgs_reservas_internacionais":331122.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.473517,
         "bcb_sgs_var_pct_ibc_br":-4.880959,
@@ -1167,7 +1202,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.17,
         "bcb_sgs_dif_inadimplencia_pj":0.14,
-        "bcb_sgs_dif_inadimplencia_pf":0.17
+        "bcb_sgs_dif_inadimplencia_pf":0.17,
+        "bcb_sgs_dif_juros_credito_total":0.9
     },
     {
         "data":"2023-02-28T00:00:00.000",
@@ -1215,6 +1251,7 @@
         "bcb_sgs_inadimplencia_total":3.36,
         "bcb_sgs_inadimplencia_pj":2.17,
         "bcb_sgs_inadimplencia_pf":4.16,
+        "bcb_sgs_juros_credito_total":30.48,
         "bcb_sgs_reservas_internacionais":328098.0,
         "bcb_sgs_var_pct_ibc_br_sa":2.970821,
         "bcb_sgs_var_pct_ibc_br":3.73991,
@@ -1232,7 +1269,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.12,
         "bcb_sgs_dif_inadimplencia_pj":0.23,
-        "bcb_sgs_dif_inadimplencia_pf":0.05
+        "bcb_sgs_dif_inadimplencia_pf":0.05,
+        "bcb_sgs_dif_juros_credito_total":-0.06
     },
     {
         "data":"2023-03-31T00:00:00.000",
@@ -1280,6 +1318,7 @@
         "bcb_sgs_inadimplencia_total":3.35,
         "bcb_sgs_inadimplencia_pj":2.2,
         "bcb_sgs_inadimplencia_pf":4.11,
+        "bcb_sgs_juros_credito_total":30.99,
         "bcb_sgs_reservas_internacionais":341158.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.001766,
         "bcb_sgs_var_pct_ibc_br":12.134092,
@@ -1297,7 +1336,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":-0.01,
         "bcb_sgs_dif_inadimplencia_pj":0.03,
-        "bcb_sgs_dif_inadimplencia_pf":-0.05
+        "bcb_sgs_dif_inadimplencia_pf":-0.05,
+        "bcb_sgs_dif_juros_credito_total":0.51
     },
     {
         "data":"2023-04-30T00:00:00.000",
@@ -1345,6 +1385,7 @@
         "bcb_sgs_inadimplencia_total":3.54,
         "bcb_sgs_inadimplencia_pj":2.45,
         "bcb_sgs_inadimplencia_pf":4.26,
+        "bcb_sgs_juros_credito_total":31.62,
         "bcb_sgs_reservas_internacionais":345725.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.848618,
         "bcb_sgs_var_pct_ibc_br":-5.952841,
@@ -1362,7 +1403,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.19,
         "bcb_sgs_dif_inadimplencia_pj":0.25,
-        "bcb_sgs_dif_inadimplencia_pf":0.15
+        "bcb_sgs_dif_inadimplencia_pf":0.15,
+        "bcb_sgs_dif_juros_credito_total":0.63
     },
     {
         "data":"2023-05-31T00:00:00.000",
@@ -1410,6 +1452,7 @@
         "bcb_sgs_inadimplencia_total":3.65,
         "bcb_sgs_inadimplencia_pj":2.58,
         "bcb_sgs_inadimplencia_pf":4.35,
+        "bcb_sgs_juros_credito_total":31.63,
         "bcb_sgs_reservas_internacionais":343489.0,
         "bcb_sgs_var_pct_ibc_br_sa":-1.496142,
         "bcb_sgs_var_pct_ibc_br":-1.267588,
@@ -1427,7 +1470,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.11,
         "bcb_sgs_dif_inadimplencia_pj":0.13,
-        "bcb_sgs_dif_inadimplencia_pf":0.09
+        "bcb_sgs_dif_inadimplencia_pf":0.09,
+        "bcb_sgs_dif_juros_credito_total":0.01
     },
     {
         "data":"2023-06-30T00:00:00.000",
@@ -1475,6 +1519,7 @@
         "bcb_sgs_inadimplencia_total":3.61,
         "bcb_sgs_inadimplencia_pj":2.63,
         "bcb_sgs_inadimplencia_pf":4.25,
+        "bcb_sgs_juros_credito_total":30.85,
         "bcb_sgs_reservas_internacionais":343620.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.034305,
         "bcb_sgs_var_pct_ibc_br":-0.420234,
@@ -1492,7 +1537,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":-0.04,
         "bcb_sgs_dif_inadimplencia_pj":0.05,
-        "bcb_sgs_dif_inadimplencia_pf":-0.1
+        "bcb_sgs_dif_inadimplencia_pf":-0.1,
+        "bcb_sgs_dif_juros_credito_total":-0.78
     },
     {
         "data":"2023-07-31T00:00:00.000",
@@ -1540,6 +1586,7 @@
         "bcb_sgs_inadimplencia_total":3.63,
         "bcb_sgs_inadimplencia_pj":2.73,
         "bcb_sgs_inadimplencia_pf":4.22,
+        "bcb_sgs_juros_credito_total":30.43,
         "bcb_sgs_reservas_internacionais":345476.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.448214,
         "bcb_sgs_var_pct_ibc_br":2.985912,
@@ -1557,7 +1604,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.02,
         "bcb_sgs_dif_inadimplencia_pj":0.1,
-        "bcb_sgs_dif_inadimplencia_pf":-0.03
+        "bcb_sgs_dif_inadimplencia_pf":-0.03,
+        "bcb_sgs_dif_juros_credito_total":-0.42
     },
     {
         "data":"2023-08-31T00:00:00.000",
@@ -1605,6 +1653,7 @@
         "bcb_sgs_inadimplencia_total":3.61,
         "bcb_sgs_inadimplencia_pj":2.82,
         "bcb_sgs_inadimplencia_pf":4.12,
+        "bcb_sgs_juros_credito_total":29.92,
         "bcb_sgs_reservas_internacionais":344177.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.399402,
         "bcb_sgs_var_pct_ibc_br":0.683801,
@@ -1622,7 +1671,8 @@
         "bcb_sgs_dif_cdi":-0.001599,
         "bcb_sgs_dif_inadimplencia_total":-0.02,
         "bcb_sgs_dif_inadimplencia_pj":0.09,
-        "bcb_sgs_dif_inadimplencia_pf":-0.1
+        "bcb_sgs_dif_inadimplencia_pf":-0.1,
+        "bcb_sgs_dif_juros_credito_total":-0.51
     },
     {
         "data":"2023-09-30T00:00:00.000",
@@ -1670,6 +1720,7 @@
         "bcb_sgs_inadimplencia_total":3.54,
         "bcb_sgs_inadimplencia_pj":2.82,
         "bcb_sgs_inadimplencia_pf":4.0,
+        "bcb_sgs_juros_credito_total":29.66,
         "bcb_sgs_reservas_internacionais":340324.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.013953,
         "bcb_sgs_var_pct_ibc_br":-4.05153,
@@ -1687,7 +1738,8 @@
         "bcb_sgs_dif_cdi":-0.000768,
         "bcb_sgs_dif_inadimplencia_total":-0.07,
         "bcb_sgs_dif_inadimplencia_pj":0.0,
-        "bcb_sgs_dif_inadimplencia_pf":-0.12
+        "bcb_sgs_dif_inadimplencia_pf":-0.12,
+        "bcb_sgs_dif_juros_credito_total":-0.26
     },
     {
         "data":"2023-10-31T00:00:00.000",
@@ -1735,6 +1787,7 @@
         "bcb_sgs_inadimplencia_total":3.56,
         "bcb_sgs_inadimplencia_pj":2.92,
         "bcb_sgs_inadimplencia_pf":3.97,
+        "bcb_sgs_juros_credito_total":29.24,
         "bcb_sgs_reservas_internacionais":340247.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.32009,
         "bcb_sgs_var_pct_ibc_br":0.163194,
@@ -1752,7 +1805,8 @@
         "bcb_sgs_dif_cdi":-0.001143,
         "bcb_sgs_dif_inadimplencia_total":0.02,
         "bcb_sgs_dif_inadimplencia_pj":0.1,
-        "bcb_sgs_dif_inadimplencia_pf":-0.03
+        "bcb_sgs_dif_inadimplencia_pf":-0.03,
+        "bcb_sgs_dif_juros_credito_total":-0.42
     },
     {
         "data":"2023-11-30T00:00:00.000",
@@ -1800,6 +1854,7 @@
         "bcb_sgs_inadimplencia_total":3.53,
         "bcb_sgs_inadimplencia_pj":2.99,
         "bcb_sgs_inadimplencia_pf":3.88,
+        "bcb_sgs_juros_credito_total":29.01,
         "bcb_sgs_reservas_internacionais":348406.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.736767,
         "bcb_sgs_var_pct_ibc_br":-0.241748,
@@ -1817,7 +1872,8 @@
         "bcb_sgs_dif_cdi":-0.001678,
         "bcb_sgs_dif_inadimplencia_total":-0.03,
         "bcb_sgs_dif_inadimplencia_pj":0.07,
-        "bcb_sgs_dif_inadimplencia_pf":-0.09
+        "bcb_sgs_dif_inadimplencia_pf":-0.09,
+        "bcb_sgs_dif_juros_credito_total":-0.23
     },
     {
         "data":"2023-12-31T00:00:00.000",
@@ -1865,6 +1921,7 @@
         "bcb_sgs_inadimplencia_total":3.29,
         "bcb_sgs_inadimplencia_pj":2.59,
         "bcb_sgs_inadimplencia_pf":3.75,
+        "bcb_sgs_juros_credito_total":28.14,
         "bcb_sgs_reservas_internacionais":355034.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.249788,
         "bcb_sgs_var_pct_ibc_br":0.004367,
@@ -1882,7 +1939,8 @@
         "bcb_sgs_dif_cdi":-0.001064,
         "bcb_sgs_dif_inadimplencia_total":-0.24,
         "bcb_sgs_dif_inadimplencia_pj":-0.4,
-        "bcb_sgs_dif_inadimplencia_pf":-0.13
+        "bcb_sgs_dif_inadimplencia_pf":-0.13,
+        "bcb_sgs_dif_juros_credito_total":-0.87
     },
     {
         "data":"2024-01-31T00:00:00.000",
@@ -1930,6 +1988,7 @@
         "bcb_sgs_inadimplencia_total":3.38,
         "bcb_sgs_inadimplencia_pj":2.77,
         "bcb_sgs_inadimplencia_pf":3.76,
+        "bcb_sgs_juros_credito_total":28.0,
         "bcb_sgs_reservas_internacionais":355066.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.387795,
         "bcb_sgs_var_pct_ibc_br":-2.355435,
@@ -1947,7 +2006,8 @@
         "bcb_sgs_dif_cdi":-0.000798,
         "bcb_sgs_dif_inadimplencia_total":0.09,
         "bcb_sgs_dif_inadimplencia_pj":0.18,
-        "bcb_sgs_dif_inadimplencia_pf":0.01
+        "bcb_sgs_dif_inadimplencia_pf":0.01,
+        "bcb_sgs_dif_juros_credito_total":-0.14
     },
     {
         "data":"2024-02-29T00:00:00.000",
@@ -1995,6 +2055,7 @@
         "bcb_sgs_inadimplencia_total":3.38,
         "bcb_sgs_inadimplencia_pj":2.76,
         "bcb_sgs_inadimplencia_pf":3.76,
+        "bcb_sgs_juros_credito_total":27.85,
         "bcb_sgs_reservas_internacionais":352705.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.188579,
         "bcb_sgs_var_pct_ibc_br":2.880633,
@@ -2012,7 +2073,8 @@
         "bcb_sgs_dif_cdi":-0.001782,
         "bcb_sgs_dif_inadimplencia_total":0.0,
         "bcb_sgs_dif_inadimplencia_pj":-0.01,
-        "bcb_sgs_dif_inadimplencia_pf":0.0
+        "bcb_sgs_dif_inadimplencia_pf":0.0,
+        "bcb_sgs_dif_juros_credito_total":-0.15
     },
     {
         "data":"2024-03-31T00:00:00.000",
@@ -2060,6 +2122,7 @@
         "bcb_sgs_inadimplencia_total":3.33,
         "bcb_sgs_inadimplencia_pj":2.71,
         "bcb_sgs_inadimplencia_pf":3.71,
+        "bcb_sgs_juros_credito_total":28.14,
         "bcb_sgs_reservas_internacionais":355008.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.014216,
         "bcb_sgs_var_pct_ibc_br":7.264557,
@@ -2077,7 +2140,8 @@
         "bcb_sgs_dif_cdi":-0.000537,
         "bcb_sgs_dif_inadimplencia_total":-0.05,
         "bcb_sgs_dif_inadimplencia_pj":-0.05,
-        "bcb_sgs_dif_inadimplencia_pf":-0.05
+        "bcb_sgs_dif_inadimplencia_pf":-0.05,
+        "bcb_sgs_dif_juros_credito_total":0.29
     },
     {
         "data":"2024-04-30T00:00:00.000",
@@ -2125,6 +2189,7 @@
         "bcb_sgs_inadimplencia_total":3.37,
         "bcb_sgs_inadimplencia_pj":2.76,
         "bcb_sgs_inadimplencia_pf":3.75,
+        "bcb_sgs_juros_credito_total":27.86,
         "bcb_sgs_reservas_internacionais":351599.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.012122,
         "bcb_sgs_var_pct_ibc_br":-0.292209,
@@ -2142,7 +2207,8 @@
         "bcb_sgs_dif_cdi":-0.001252,
         "bcb_sgs_dif_inadimplencia_total":0.04,
         "bcb_sgs_dif_inadimplencia_pj":0.05,
-        "bcb_sgs_dif_inadimplencia_pf":0.04
+        "bcb_sgs_dif_inadimplencia_pf":0.04,
+        "bcb_sgs_dif_juros_credito_total":-0.28
     },
     {
         "data":"2024-05-31T00:00:00.000",
@@ -2190,6 +2256,7 @@
         "bcb_sgs_inadimplencia_total":3.43,
         "bcb_sgs_inadimplencia_pj":2.8,
         "bcb_sgs_inadimplencia_pf":3.82,
+        "bcb_sgs_juros_credito_total":27.75,
         "bcb_sgs_reservas_internacionais":355560.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.837831,
         "bcb_sgs_var_pct_ibc_br":-4.155585,
@@ -2207,7 +2274,8 @@
         "bcb_sgs_dif_cdi":-0.000684,
         "bcb_sgs_dif_inadimplencia_total":0.06,
         "bcb_sgs_dif_inadimplencia_pj":0.04,
-        "bcb_sgs_dif_inadimplencia_pf":0.07
+        "bcb_sgs_dif_inadimplencia_pf":0.07,
+        "bcb_sgs_dif_juros_credito_total":-0.11
     },
     {
         "data":"2024-06-30T00:00:00.000",
@@ -2255,6 +2323,7 @@
         "bcb_sgs_inadimplencia_total":3.29,
         "bcb_sgs_inadimplencia_pj":2.64,
         "bcb_sgs_inadimplencia_pf":3.71,
+        "bcb_sgs_juros_credito_total":27.81,
         "bcb_sgs_reservas_internacionais":357827.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.04753,
         "bcb_sgs_var_pct_ibc_br":1.108973,
@@ -2272,7 +2341,8 @@
         "bcb_sgs_dif_cdi":-0.000214,
         "bcb_sgs_dif_inadimplencia_total":-0.14,
         "bcb_sgs_dif_inadimplencia_pj":-0.16,
-        "bcb_sgs_dif_inadimplencia_pf":-0.11
+        "bcb_sgs_dif_inadimplencia_pf":-0.11,
+        "bcb_sgs_dif_juros_credito_total":0.06
     },
     {
         "data":"2024-07-31T00:00:00.000",
@@ -2320,6 +2390,7 @@
         "bcb_sgs_inadimplencia_total":3.3,
         "bcb_sgs_inadimplencia_pj":2.52,
         "bcb_sgs_inadimplencia_pf":3.78,
+        "bcb_sgs_juros_credito_total":27.74,
         "bcb_sgs_reservas_internacionais":363282.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.338409,
         "bcb_sgs_var_pct_ibc_br":5.318521,
@@ -2337,7 +2408,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.01,
         "bcb_sgs_dif_inadimplencia_pj":-0.12,
-        "bcb_sgs_dif_inadimplencia_pf":0.07
+        "bcb_sgs_dif_inadimplencia_pf":0.07,
+        "bcb_sgs_dif_juros_credito_total":-0.07
     },
     {
         "data":"2024-08-31T00:00:00.000",
@@ -2385,6 +2457,7 @@
         "bcb_sgs_inadimplencia_total":3.33,
         "bcb_sgs_inadimplencia_pj":2.55,
         "bcb_sgs_inadimplencia_pf":3.82,
+        "bcb_sgs_juros_credito_total":27.59,
         "bcb_sgs_reservas_internacionais":369214.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.138518,
         "bcb_sgs_var_pct_ibc_br":-1.292936,
@@ -2402,7 +2475,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.03,
         "bcb_sgs_dif_inadimplencia_pj":0.03,
-        "bcb_sgs_dif_inadimplencia_pf":0.04
+        "bcb_sgs_dif_inadimplencia_pf":0.04,
+        "bcb_sgs_dif_juros_credito_total":-0.15
     },
     {
         "data":"2024-09-30T00:00:00.000",
@@ -2450,6 +2524,7 @@
         "bcb_sgs_inadimplencia_total":3.34,
         "bcb_sgs_inadimplencia_pj":2.56,
         "bcb_sgs_inadimplencia_pf":3.83,
+        "bcb_sgs_juros_credito_total":27.49,
         "bcb_sgs_reservas_internacionais":372016.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.799855,
         "bcb_sgs_var_pct_ibc_br":-2.707476,
@@ -2467,7 +2542,8 @@
         "bcb_sgs_dif_cdi":0.000342,
         "bcb_sgs_dif_inadimplencia_total":0.01,
         "bcb_sgs_dif_inadimplencia_pj":0.01,
-        "bcb_sgs_dif_inadimplencia_pf":0.01
+        "bcb_sgs_dif_inadimplencia_pf":0.01,
+        "bcb_sgs_dif_juros_credito_total":-0.1
     },
     {
         "data":"2024-10-31T00:00:00.000",
@@ -2515,6 +2591,7 @@
         "bcb_sgs_inadimplencia_total":3.3,
         "bcb_sgs_inadimplencia_pj":2.52,
         "bcb_sgs_inadimplencia_pf":3.79,
+        "bcb_sgs_juros_credito_total":27.94,
         "bcb_sgs_reservas_internacionais":366096.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.193086,
         "bcb_sgs_var_pct_ibc_br":1.957468,
@@ -2532,7 +2609,8 @@
         "bcb_sgs_dif_cdi":0.000556,
         "bcb_sgs_dif_inadimplencia_total":-0.04,
         "bcb_sgs_dif_inadimplencia_pj":-0.04,
-        "bcb_sgs_dif_inadimplencia_pf":-0.04
+        "bcb_sgs_dif_inadimplencia_pf":-0.04,
+        "bcb_sgs_dif_juros_credito_total":0.45
     },
     {
         "data":"2024-11-30T00:00:00.000",
@@ -2580,6 +2658,7 @@
         "bcb_sgs_inadimplencia_total":3.27,
         "bcb_sgs_inadimplencia_pj":2.5,
         "bcb_sgs_inadimplencia_pf":3.75,
+        "bcb_sgs_juros_credito_total":28.45,
         "bcb_sgs_reservas_internacionais":363003.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.219287,
         "bcb_sgs_var_pct_ibc_br":-3.378769,
@@ -2597,7 +2676,8 @@
         "bcb_sgs_dif_cdi":0.001412,
         "bcb_sgs_dif_inadimplencia_total":-0.03,
         "bcb_sgs_dif_inadimplencia_pj":-0.02,
-        "bcb_sgs_dif_inadimplencia_pf":-0.04
+        "bcb_sgs_dif_inadimplencia_pf":-0.04,
+        "bcb_sgs_dif_juros_credito_total":0.51
     },
     {
         "data":"2024-12-31T00:00:00.000",
@@ -2645,6 +2725,7 @@
         "bcb_sgs_inadimplencia_total":3.08,
         "bcb_sgs_inadimplencia_pj":2.21,
         "bcb_sgs_inadimplencia_pf":3.63,
+        "bcb_sgs_juros_credito_total":28.5,
         "bcb_sgs_reservas_internacionais":329730.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.577052,
         "bcb_sgs_var_pct_ibc_br":-1.263097,
@@ -2662,7 +2743,8 @@
         "bcb_sgs_dif_cdi":0.002578,
         "bcb_sgs_dif_inadimplencia_total":-0.19,
         "bcb_sgs_dif_inadimplencia_pj":-0.29,
-        "bcb_sgs_dif_inadimplencia_pf":-0.12
+        "bcb_sgs_dif_inadimplencia_pf":-0.12,
+        "bcb_sgs_dif_juros_credito_total":0.05
     },
     {
         "data":"2025-01-31T00:00:00.000",
@@ -2710,6 +2792,7 @@
         "bcb_sgs_inadimplencia_total":3.34,
         "bcb_sgs_inadimplencia_pj":2.43,
         "bcb_sgs_inadimplencia_pf":3.89,
+        "bcb_sgs_juros_credito_total":29.88,
         "bcb_sgs_reservas_internacionais":328303.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.67971,
         "bcb_sgs_var_pct_ibc_br":-1.472655,
@@ -2727,7 +2810,8 @@
         "bcb_sgs_dif_cdi":0.001675,
         "bcb_sgs_dif_inadimplencia_total":0.26,
         "bcb_sgs_dif_inadimplencia_pj":0.22,
-        "bcb_sgs_dif_inadimplencia_pf":0.26
+        "bcb_sgs_dif_inadimplencia_pf":0.26,
+        "bcb_sgs_dif_juros_credito_total":1.38
     },
     {
         "data":"2025-02-28T00:00:00.000",
@@ -2775,6 +2859,7 @@
         "bcb_sgs_inadimplencia_total":3.41,
         "bcb_sgs_inadimplencia_pj":2.52,
         "bcb_sgs_inadimplencia_pf":3.96,
+        "bcb_sgs_juros_credito_total":30.53,
         "bcb_sgs_reservas_internacionais":332508.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.500869,
         "bcb_sgs_var_pct_ibc_br":4.09588,
@@ -2792,7 +2877,8 @@
         "bcb_sgs_dif_cdi":0.003204,
         "bcb_sgs_dif_inadimplencia_total":0.07,
         "bcb_sgs_dif_inadimplencia_pj":0.09,
-        "bcb_sgs_dif_inadimplencia_pf":0.07
+        "bcb_sgs_dif_inadimplencia_pf":0.07,
+        "bcb_sgs_dif_juros_credito_total":0.65
     },
     {
         "data":"2025-03-31T00:00:00.000",
@@ -2840,6 +2926,7 @@
         "bcb_sgs_inadimplencia_total":3.44,
         "bcb_sgs_inadimplencia_pj":2.49,
         "bcb_sgs_inadimplencia_pf":4.03,
+        "bcb_sgs_juros_credito_total":31.34,
         "bcb_sgs_reservas_internacionais":336157.0,
         "bcb_sgs_var_pct_ibc_br_sa":1.302545,
         "bcb_sgs_var_pct_ibc_br":6.739292,
@@ -2857,7 +2944,8 @@
         "bcb_sgs_dif_cdi":0.001471,
         "bcb_sgs_dif_inadimplencia_total":0.03,
         "bcb_sgs_dif_inadimplencia_pj":-0.03,
-        "bcb_sgs_dif_inadimplencia_pf":0.07
+        "bcb_sgs_dif_inadimplencia_pf":0.07,
+        "bcb_sgs_dif_juros_credito_total":0.81
     },
     {
         "data":"2025-04-30T00:00:00.000",
@@ -2905,6 +2993,7 @@
         "bcb_sgs_inadimplencia_total":3.67,
         "bcb_sgs_inadimplencia_pj":2.72,
         "bcb_sgs_inadimplencia_pf":4.25,
+        "bcb_sgs_juros_credito_total":31.63,
         "bcb_sgs_reservas_internacionais":340789.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.416951,
         "bcb_sgs_var_pct_ibc_br":-1.260911,
@@ -2922,7 +3011,8 @@
         "bcb_sgs_dif_cdi":0.002023,
         "bcb_sgs_dif_inadimplencia_total":0.23,
         "bcb_sgs_dif_inadimplencia_pj":0.23,
-        "bcb_sgs_dif_inadimplencia_pf":0.22
+        "bcb_sgs_dif_inadimplencia_pf":0.22,
+        "bcb_sgs_dif_juros_credito_total":0.29
     },
     {
         "data":"2025-05-31T00:00:00.000",
@@ -2970,6 +3060,7 @@
         "bcb_sgs_inadimplencia_total":3.72,
         "bcb_sgs_inadimplencia_pj":2.67,
         "bcb_sgs_inadimplencia_pf":4.36,
+        "bcb_sgs_juros_credito_total":31.7,
         "bcb_sgs_reservas_internacionais":341459.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.725787,
         "bcb_sgs_var_pct_ibc_br":-3.581128,
@@ -2987,7 +3078,8 @@
         "bcb_sgs_dif_cdi":0.001405,
         "bcb_sgs_dif_inadimplencia_total":0.05,
         "bcb_sgs_dif_inadimplencia_pj":-0.05,
-        "bcb_sgs_dif_inadimplencia_pf":0.11
+        "bcb_sgs_dif_inadimplencia_pf":0.11,
+        "bcb_sgs_dif_juros_credito_total":0.07
     },
     {
         "data":"2025-06-30T00:00:00.000",
@@ -3035,6 +3127,7 @@
         "bcb_sgs_inadimplencia_total":3.75,
         "bcb_sgs_inadimplencia_pj":2.67,
         "bcb_sgs_inadimplencia_pf":4.41,
+        "bcb_sgs_juros_credito_total":31.85,
         "bcb_sgs_reservas_internacionais":344440.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.089546,
         "bcb_sgs_var_pct_ibc_br":-1.094212,
@@ -3052,7 +3145,8 @@
         "bcb_sgs_dif_cdi":0.000633,
         "bcb_sgs_dif_inadimplencia_total":0.03,
         "bcb_sgs_dif_inadimplencia_pj":0.0,
-        "bcb_sgs_dif_inadimplencia_pf":0.05
+        "bcb_sgs_dif_inadimplencia_pf":0.05,
+        "bcb_sgs_dif_juros_credito_total":0.15
     },
     {
         "data":"2025-07-31T00:00:00.000",
@@ -3100,6 +3194,7 @@
         "bcb_sgs_inadimplencia_total":3.96,
         "bcb_sgs_inadimplencia_pj":2.79,
         "bcb_sgs_inadimplencia_pf":4.66,
+        "bcb_sgs_juros_credito_total":31.75,
         "bcb_sgs_reservas_internacionais":345111.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.460691,
         "bcb_sgs_var_pct_ibc_br":5.341227,
@@ -3117,7 +3212,8 @@
         "bcb_sgs_dif_cdi":0.000562,
         "bcb_sgs_dif_inadimplencia_total":0.21,
         "bcb_sgs_dif_inadimplencia_pj":0.12,
-        "bcb_sgs_dif_inadimplencia_pf":0.25
+        "bcb_sgs_dif_inadimplencia_pf":0.25,
+        "bcb_sgs_dif_juros_credito_total":-0.1
     },
     {
         "data":"2025-08-31T00:00:00.000",
@@ -3165,6 +3261,7 @@
         "bcb_sgs_inadimplencia_total":4.14,
         "bcb_sgs_inadimplencia_pj":2.85,
         "bcb_sgs_inadimplencia_pf":4.92,
+        "bcb_sgs_juros_credito_total":31.87,
         "bcb_sgs_reservas_internacionais":350767.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.368026,
         "bcb_sgs_var_pct_ibc_br":-2.407934,
@@ -3182,7 +3279,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.18,
         "bcb_sgs_dif_inadimplencia_pj":0.06,
-        "bcb_sgs_dif_inadimplencia_pf":0.26
+        "bcb_sgs_dif_inadimplencia_pf":0.26,
+        "bcb_sgs_dif_juros_credito_total":0.12
     },
     {
         "data":"2025-09-30T00:00:00.000",
@@ -3230,6 +3328,7 @@
         "bcb_sgs_inadimplencia_total":4.09,
         "bcb_sgs_inadimplencia_pj":2.77,
         "bcb_sgs_inadimplencia_pf":4.89,
+        "bcb_sgs_juros_credito_total":31.47,
         "bcb_sgs_reservas_internacionais":356582.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.07171,
         "bcb_sgs_var_pct_ibc_br":-0.807491,
@@ -3247,7 +3346,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":-0.05,
         "bcb_sgs_dif_inadimplencia_pj":-0.08,
-        "bcb_sgs_dif_inadimplencia_pf":-0.03
+        "bcb_sgs_dif_inadimplencia_pf":-0.03,
+        "bcb_sgs_dif_juros_credito_total":-0.4
     },
     {
         "data":"2025-10-31T00:00:00.000",
@@ -3295,6 +3395,7 @@
         "bcb_sgs_inadimplencia_total":4.18,
         "bcb_sgs_inadimplencia_pj":2.82,
         "bcb_sgs_inadimplencia_pf":4.99,
+        "bcb_sgs_juros_credito_total":32.04,
         "bcb_sgs_reservas_internacionais":357103.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.011718,
         "bcb_sgs_var_pct_ibc_br":0.525396,
@@ -3312,7 +3413,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.09,
         "bcb_sgs_dif_inadimplencia_pj":0.05,
-        "bcb_sgs_dif_inadimplencia_pf":0.1
+        "bcb_sgs_dif_inadimplencia_pf":0.1,
+        "bcb_sgs_dif_juros_credito_total":0.57
     },
     {
         "data":"2025-11-30T00:00:00.000",
@@ -3360,6 +3462,7 @@
         "bcb_sgs_inadimplencia_total":4.24,
         "bcb_sgs_inadimplencia_pj":2.75,
         "bcb_sgs_inadimplencia_pf":5.12,
+        "bcb_sgs_juros_credito_total":32.2,
         "bcb_sgs_reservas_internacionais":360578.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.467077,
         "bcb_sgs_var_pct_ibc_br":-3.151492,
@@ -3377,7 +3480,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.06,
         "bcb_sgs_dif_inadimplencia_pj":-0.07,
-        "bcb_sgs_dif_inadimplencia_pf":0.13
+        "bcb_sgs_dif_inadimplencia_pf":0.13,
+        "bcb_sgs_dif_juros_credito_total":0.16
     },
     {
         "data":"2025-12-31T00:00:00.000",
@@ -3425,6 +3529,7 @@
         "bcb_sgs_inadimplencia_total":4.2,
         "bcb_sgs_inadimplencia_pj":2.7,
         "bcb_sgs_inadimplencia_pf":5.12,
+        "bcb_sgs_juros_credito_total":31.87,
         "bcb_sgs_reservas_internacionais":358234.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.201306,
         "bcb_sgs_var_pct_ibc_br":0.560793,
@@ -3442,7 +3547,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":-0.04,
         "bcb_sgs_dif_inadimplencia_pj":-0.05,
-        "bcb_sgs_dif_inadimplencia_pf":0.0
+        "bcb_sgs_dif_inadimplencia_pf":0.0,
+        "bcb_sgs_dif_juros_credito_total":-0.33
     },
     {
         "data":"2026-01-31T00:00:00.000",
@@ -3490,6 +3596,7 @@
         "bcb_sgs_inadimplencia_total":4.44,
         "bcb_sgs_inadimplencia_pj":2.87,
         "bcb_sgs_inadimplencia_pf":5.38,
+        "bcb_sgs_juros_credito_total":32.45,
         "bcb_sgs_reservas_internacionais":364367.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.562015,
         "bcb_sgs_var_pct_ibc_br":-3.182366,
@@ -3507,7 +3614,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.24,
         "bcb_sgs_dif_inadimplencia_pj":0.17,
-        "bcb_sgs_dif_inadimplencia_pf":0.26
+        "bcb_sgs_dif_inadimplencia_pf":0.26,
+        "bcb_sgs_dif_juros_credito_total":0.58
     },
     {
         "data":"2026-02-28T00:00:00.000",
@@ -3555,6 +3663,7 @@
         "bcb_sgs_inadimplencia_total":4.64,
         "bcb_sgs_inadimplencia_pj":3.07,
         "bcb_sgs_inadimplencia_pf":5.56,
+        "bcb_sgs_juros_credito_total":32.63,
         "bcb_sgs_reservas_internacionais":371074.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.635194,
         "bcb_sgs_var_pct_ibc_br":2.880001,
@@ -3572,7 +3681,8 @@
         "bcb_sgs_dif_cdi":0.0,
         "bcb_sgs_dif_inadimplencia_total":0.2,
         "bcb_sgs_dif_inadimplencia_pj":0.2,
-        "bcb_sgs_dif_inadimplencia_pf":0.18
+        "bcb_sgs_dif_inadimplencia_pf":0.18,
+        "bcb_sgs_dif_juros_credito_total":0.18
     },
     {
         "data":"2026-03-31T00:00:00.000",
@@ -3620,6 +3730,7 @@
         "bcb_sgs_inadimplencia_total":4.52,
         "bcb_sgs_inadimplencia_pj":3.06,
         "bcb_sgs_inadimplencia_pf":5.39,
+        "bcb_sgs_juros_credito_total":32.84,
         "bcb_sgs_reservas_internacionais":362002.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.151802,
         "bcb_sgs_var_pct_ibc_br":10.517667,
@@ -3637,7 +3748,8 @@
         "bcb_sgs_dif_cdi":-0.000354,
         "bcb_sgs_dif_inadimplencia_total":-0.12,
         "bcb_sgs_dif_inadimplencia_pj":-0.01,
-        "bcb_sgs_dif_inadimplencia_pf":-0.17
+        "bcb_sgs_dif_inadimplencia_pf":-0.17,
+        "bcb_sgs_dif_juros_credito_total":0.21
     },
     {
         "data":"2026-04-30T00:00:00.000",
@@ -3685,6 +3797,7 @@
         "bcb_sgs_inadimplencia_total":4.64,
         "bcb_sgs_inadimplencia_pj":3.15,
         "bcb_sgs_inadimplencia_pf":5.51,
+        "bcb_sgs_juros_credito_total":33.36,
         "bcb_sgs_reservas_internacionais":366913.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.26509,
         "bcb_sgs_var_pct_ibc_br":-3.475583,
@@ -3702,7 +3815,8 @@
         "bcb_sgs_dif_cdi":-0.000554,
         "bcb_sgs_dif_inadimplencia_total":0.12,
         "bcb_sgs_dif_inadimplencia_pj":0.09,
-        "bcb_sgs_dif_inadimplencia_pf":0.12
+        "bcb_sgs_dif_inadimplencia_pf":0.12,
+        "bcb_sgs_dif_juros_credito_total":0.52
     },
     {
         "data":"2026-05-31T00:00:00.000",
@@ -3750,6 +3864,7 @@
         "bcb_sgs_inadimplencia_total":4.74,
         "bcb_sgs_inadimplencia_pj":3.25,
         "bcb_sgs_inadimplencia_pf":5.62,
+        "bcb_sgs_juros_credito_total":33.1,
         "bcb_sgs_reservas_internacionais":371137.0,
         "bcb_sgs_var_pct_ibc_br_sa":0.027195,
         "bcb_sgs_var_pct_ibc_br":-3.836192,
@@ -3767,7 +3882,8 @@
         "bcb_sgs_dif_cdi":-0.000823,
         "bcb_sgs_dif_inadimplencia_total":0.1,
         "bcb_sgs_dif_inadimplencia_pj":0.1,
-        "bcb_sgs_dif_inadimplencia_pf":0.11
+        "bcb_sgs_dif_inadimplencia_pf":0.11,
+        "bcb_sgs_dif_juros_credito_total":-0.26
     },
     {
         "data":"2026-06-30T00:00:00.000",
@@ -3815,6 +3931,7 @@
         "bcb_sgs_inadimplencia_total":4.58,
         "bcb_sgs_inadimplencia_pj":3.18,
         "bcb_sgs_inadimplencia_pf":5.42,
+        "bcb_sgs_juros_credito_total":33.33,
         "bcb_sgs_reservas_internacionais":367558.0,
         "bcb_sgs_var_pct_ibc_br_sa":-0.639569,
         "bcb_sgs_var_pct_ibc_br":0.332557,
@@ -3832,7 +3949,8 @@
         "bcb_sgs_dif_cdi":-0.000372,
         "bcb_sgs_dif_inadimplencia_total":-0.16,
         "bcb_sgs_dif_inadimplencia_pj":-0.07,
-        "bcb_sgs_dif_inadimplencia_pf":-0.2
+        "bcb_sgs_dif_inadimplencia_pf":-0.2,
+        "bcb_sgs_dif_juros_credito_total":0.23
     },
     {
         "data":"2026-07-31T00:00:00.000",
@@ -3880,6 +3998,7 @@
         "bcb_sgs_inadimplencia_total":4.88,
         "bcb_sgs_inadimplencia_pj":3.31,
         "bcb_sgs_inadimplencia_pf":5.81,
+        "bcb_sgs_juros_credito_total":32.08,
         "bcb_sgs_reservas_internacionais":369742.0,
         "bcb_sgs_var_pct_ibc_br_sa":null,
         "bcb_sgs_var_pct_ibc_br":null,
@@ -3897,38 +4016,39 @@
         "bcb_sgs_dif_cdi":-0.000497,
         "bcb_sgs_dif_inadimplencia_total":0.3,
         "bcb_sgs_dif_inadimplencia_pj":0.13,
-        "bcb_sgs_dif_inadimplencia_pf":0.39
+        "bcb_sgs_dif_inadimplencia_pf":0.39,
+        "bcb_sgs_dif_juros_credito_total":-1.25
     },
     {
         "data":"2026-08-31T00:00:00.000",
-        "yahoo_ibovespa":175135.0,
+        "yahoo_ibovespa":175665.0,
         "yahoo_bova11":172.399994,
         "yahoo_smal11":105.169998,
         "yahoo_ivvb11":450.0,
-        "yahoo_dolar_real":5.2054,
+        "yahoo_dolar_real":5.185,
         "yahoo_euro_real":6.0054,
-        "yahoo_sp500":7730.990234,
-        "yahoo_nasdaq":26541.349609,
-        "yahoo_dow_jones":53569.441406,
-        "yahoo_ouro":4609.700195,
-        "yahoo_petroleo_wti":83.529999,
-        "yahoo_petroleo_brent":89.699997,
-        "yahoo_soja":1256.5,
-        "yahoo_milho":510.25,
-        "yahoo_ret_ibovespa":-1.608998,
+        "yahoo_sp500":7711.759766,
+        "yahoo_nasdaq":26402.419922,
+        "yahoo_dow_jones":53559.988281,
+        "yahoo_ouro":4529.899902,
+        "yahoo_petroleo_wti":83.400002,
+        "yahoo_petroleo_brent":88.099998,
+        "yahoo_soja":1288.0,
+        "yahoo_milho":536.5,
+        "yahoo_ret_ibovespa":-1.311243,
         "yahoo_ret_bova11":-1.496978,
         "yahoo_ret_smal11":-1.939396,
         "yahoo_ret_ivvb11":5.044465,
-        "yahoo_ret_dolar_real":2.506839,
+        "yahoo_ret_dolar_real":2.105113,
         "yahoo_ret_euro_real":2.69235,
-        "yahoo_ret_sp500":3.221349,
-        "yahoo_ret_nasdaq":4.601194,
-        "yahoo_ret_dow_jones":2.066132,
-        "yahoo_ret_ouro":13.845054,
-        "yahoo_ret_petroleo_wti":-1.346403,
-        "yahoo_ret_petroleo_brent":-0.466052,
-        "yahoo_ret_soja":7.209898,
-        "yahoo_ret_milho":15.768576,
+        "yahoo_ret_sp500":2.964591,
+        "yahoo_ret_nasdaq":4.053663,
+        "yahoo_ret_dow_jones":2.048121,
+        "yahoo_ret_ouro":11.874239,
+        "yahoo_ret_petroleo_wti":-1.499937,
+        "yahoo_ret_petroleo_brent":-2.241461,
+        "yahoo_ret_soja":9.897611,
+        "yahoo_ret_milho":21.724334,
         "bcb_sgs_selic_meta":14.0,
         "bcb_sgs_selic_over":0.051791,
         "bcb_sgs_cdi":0.051798,
@@ -3945,6 +4065,7 @@
         "bcb_sgs_inadimplencia_total":null,
         "bcb_sgs_inadimplencia_pj":null,
         "bcb_sgs_inadimplencia_pf":null,
+        "bcb_sgs_juros_credito_total":null,
         "bcb_sgs_reservas_internacionais":null,
         "bcb_sgs_var_pct_ibc_br_sa":null,
         "bcb_sgs_var_pct_ibc_br":null,
@@ -3962,6 +4083,7 @@
         "bcb_sgs_dif_cdi":-0.000733,
         "bcb_sgs_dif_inadimplencia_total":null,
         "bcb_sgs_dif_inadimplencia_pj":null,
-        "bcb_sgs_dif_inadimplencia_pf":null
+        "bcb_sgs_dif_inadimplencia_pf":null,
+        "bcb_sgs_dif_juros_credito_total":null
     }
 ]
