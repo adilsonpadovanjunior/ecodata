@@ -21,7 +21,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":0.01993,
-        "valor_final":0.051798
+        "valor_final":0.051791
     },
     {
         "variavel":"ipca",
@@ -69,7 +69,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1433,
-        "valor_final":5.2005
+        "valor_final":5.1816
     },
     {
         "variavel":"cambio_compra_usd",
@@ -77,7 +77,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.1427,
-        "valor_final":5.1999
+        "valor_final":5.181
     },
     {
         "variavel":"saldo_credito_total",
@@ -102,14 +102,6 @@
         "observacoes":60,
         "valor_inicial":2495054.0,
         "valor_final":4640730.0
-    },
-    {
-        "variavel":"inadimplencia_total",
-        "primeira_data":"2021-08-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":2.37,
-        "valor_final":4.88
     },
     {
         "variavel":"inadimplencia_pj",
@@ -165,7 +157,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.757004,
-        "valor_final":2.426487
+        "valor_final":2.054241
     },
     {
         "variavel":"var_pct_cambio_compra_usd",
@@ -173,7 +165,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.757676,
-        "valor_final":2.426773
+        "valor_final":2.054484
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -253,15 +245,7 @@
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.001073,
-        "valor_final":-0.000733
-    },
-    {
-        "variavel":"dif_inadimplencia_total",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":-0.03,
-        "valor_final":0.3
+        "valor_final":-0.00074
     },
     {
         "variavel":"dif_inadimplencia_pj",
