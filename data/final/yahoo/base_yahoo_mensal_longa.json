@@ -1,21 +1,5 @@
 [
     {
-        "data":"2021-08-31T00:00:00.000",
-        "fonte":"Yahoo Finance via yfinance",
-        "ticker":"BOVA11.SA",
-        "nome":"bova11",
-        "grupo":"bolsa_brasil",
-        "tipo":"etf",
-        "moeda":"BRL",
-        "valor":114.080002,
-        "descricao":"ETF brasileiro associado ao desempenho do Ibovespa.",
-        "frequencia_original":"1d",
-        "frequencia_final":"mensal",
-        "agregacao_mensal":"ultimo",
-        "campo_preco":"Close",
-        "retorno_mensal_pct":null
-    },
-    {
         "data":"2021-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
         "ticker":"BOVA11.SA",
@@ -29,7 +13,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-6.653229
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -967,29 +951,29 @@
         "grupo":"bolsa_brasil",
         "tipo":"etf",
         "moeda":"BRL",
-        "valor":174.800003,
+        "valor":172.720001,
         "descricao":"ETF brasileiro associado ao desempenho do Ibovespa.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-0.125701
+        "retorno_mensal_pct":-1.314137
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"BRL=X",
-        "nome":"dolar_real",
-        "grupo":"cambio",
-        "tipo":"cambio",
-        "moeda":"BRL_por_USD",
-        "valor":5.1829,
-        "descricao":"Taxa de câmbio R$\/US$ aproximada pelo Yahoo Finance.",
+        "ticker":"BOVA11.SA",
+        "nome":"bova11",
+        "grupo":"bolsa_brasil",
+        "tipo":"etf",
+        "moeda":"BRL",
+        "valor":177.610001,
+        "descricao":"ETF brasileiro associado ao desempenho do Ibovespa.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":2.831171
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -1005,7 +989,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":4.464682
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -1943,29 +1927,29 @@
         "grupo":"cambio",
         "tipo":"cambio",
         "moeda":"BRL_por_USD",
-        "valor":5.1834,
+        "valor":5.1912,
         "descricao":"Taxa de câmbio R$\/US$ aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":2.073609
+        "retorno_mensal_pct":2.227203
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"^DJI",
-        "nome":"dow_jones",
-        "grupo":"bolsa_internacional",
-        "tipo":"indice",
-        "moeda":"USD",
-        "valor":35360.730469,
-        "descricao":"Índice Dow Jones Industrial Average.",
+        "ticker":"BRL=X",
+        "nome":"dolar_real",
+        "grupo":"cambio",
+        "tipo":"cambio",
+        "moeda":"BRL_por_USD",
+        "valor":5.1434,
+        "descricao":"Taxa de câmbio R$\/US$ aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":-0.920781
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -1981,7 +1965,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-4.289528
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -2919,29 +2903,29 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":53199.460938,
+        "valor":53185.898438,
         "descricao":"Índice Dow Jones Industrial Average.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":1.361207
+        "retorno_mensal_pct":1.335366
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"EURBRL=X",
-        "nome":"euro_real",
-        "grupo":"cambio",
-        "tipo":"cambio",
-        "moeda":"BRL_por_EUR",
-        "valor":6.1119,
-        "descricao":"Taxa de câmbio R$\/EUR aproximada pelo Yahoo Finance.",
+        "ticker":"^DJI",
+        "nome":"dow_jones",
+        "grupo":"bolsa_internacional",
+        "tipo":"indice",
+        "moeda":"USD",
+        "valor":53141.730469,
+        "descricao":"Índice Dow Jones Industrial Average.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":-0.083045
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -2957,7 +2941,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":2.725834
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -3895,29 +3879,29 @@
         "grupo":"cambio",
         "tipo":"cambio",
         "moeda":"BRL_por_EUR",
-        "valor":6.0184,
+        "valor":6.009615,
         "descricao":"Taxa de câmbio R$\/EUR aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":2.91465
+        "retorno_mensal_pct":2.764422
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"^BVSP",
-        "nome":"ibovespa",
-        "grupo":"bolsa_brasil",
-        "tipo":"indice",
-        "moeda":"BRL",
-        "valor":118781.0,
-        "descricao":"Índice Ibovespa.",
+        "ticker":"EURBRL=X",
+        "nome":"euro_real",
+        "grupo":"cambio",
+        "tipo":"cambio",
+        "moeda":"BRL_por_EUR",
+        "valor":5.9697,
+        "descricao":"Taxa de câmbio R$\/EUR aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":-0.664187
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -3933,7 +3917,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-6.568391
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -4871,29 +4855,29 @@
         "grupo":"bolsa_brasil",
         "tipo":"indice",
         "moeda":"BRL",
-        "valor":177580.765625,
+        "valor":177419.0,
         "descricao":"Índice Ibovespa.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-0.234964
+        "retorno_mensal_pct":-0.325845
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"IVVB11.SA",
-        "nome":"ivvb11",
+        "ticker":"^BVSP",
+        "nome":"ibovespa",
         "grupo":"bolsa_brasil",
-        "tipo":"etf",
+        "tipo":"indice",
         "moeda":"BRL",
-        "valor":254.0,
-        "descricao":"ETF brasileiro com exposição ao índice S&P 500.",
+        "valor":180393.8125,
+        "descricao":"Índice Ibovespa.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":1.676716
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -4909,7 +4893,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":0.393701
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -5847,29 +5831,29 @@
         "grupo":"bolsa_brasil",
         "tipo":"etf",
         "moeda":"BRL",
-        "valor":449.230011,
+        "valor":452.049988,
         "descricao":"ETF brasileiro com exposição ao índice S&P 500.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":4.864725
+        "retorno_mensal_pct":5.522998
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"ZC=F",
-        "nome":"milho",
-        "grupo":"commodities",
-        "tipo":"futuro",
-        "moeda":"USD",
-        "valor":534.0,
-        "descricao":"Contrato futuro de milho.",
+        "ticker":"IVVB11.SA",
+        "nome":"ivvb11",
+        "grupo":"bolsa_brasil",
+        "tipo":"etf",
+        "moeda":"BRL",
+        "valor":444.790009,
+        "descricao":"ETF brasileiro com exposição ao índice S&P 500.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":-1.606012
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -5885,7 +5869,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":0.514981
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -6823,29 +6807,29 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":538.0,
+        "valor":515.0,
         "descricao":"Contrato futuro de milho.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":22.064663
+        "retorno_mensal_pct":16.846285
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"^IXIC",
-        "nome":"nasdaq",
-        "grupo":"bolsa_internacional",
-        "tipo":"indice",
+        "ticker":"ZC=F",
+        "nome":"milho",
+        "grupo":"commodities",
+        "tipo":"futuro",
         "moeda":"USD",
-        "valor":15259.240234,
-        "descricao":"Índice Nasdaq Composite.",
+        "valor":542.25,
+        "descricao":"Contrato futuro de milho.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":5.291262
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -6861,7 +6845,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-5.312585
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -7799,29 +7783,29 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":26289.875,
+        "valor":26370.890625,
         "descricao":"Índice Nasdaq Composite.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":3.610116
+        "retorno_mensal_pct":3.929404
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"GC=F",
-        "nome":"ouro",
-        "grupo":"commodities",
-        "tipo":"futuro",
+        "ticker":"^IXIC",
+        "nome":"nasdaq",
+        "grupo":"bolsa_internacional",
+        "tipo":"indice",
         "moeda":"USD",
-        "valor":1815.0,
-        "descricao":"Contrato futuro de ouro.",
+        "valor":26179.060547,
+        "descricao":"Índice Nasdaq Composite.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":-0.727431
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -7837,7 +7821,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-3.289254
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -8775,29 +8759,29 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":4483.399902,
+        "valor":4431.100098,
         "descricao":"Contrato futuro de ouro.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":10.725835
+        "retorno_mensal_pct":9.434195
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"BZ=F",
-        "nome":"petroleo_brent",
+        "ticker":"GC=F",
+        "nome":"ouro",
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":72.989998,
-        "descricao":"Contrato futuro de petróleo Brent.",
+        "valor":4419.100098,
+        "descricao":"Contrato futuro de ouro.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":-0.270813
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -8813,7 +8797,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":7.576379
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -9751,29 +9735,29 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":88.269997,
+        "valor":90.489998,
         "descricao":"Contrato futuro de petróleo Brent.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-2.052825
+        "retorno_mensal_pct":0.410558
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"CL=F",
-        "nome":"petroleo_wti",
+        "ticker":"BZ=F",
+        "nome":"petroleo_brent",
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":68.5,
-        "descricao":"Contrato futuro de petróleo WTI.",
+        "valor":92.07,
+        "descricao":"Contrato futuro de petróleo Brent.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":1.746051
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -9789,7 +9773,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":9.532845
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -10727,29 +10711,29 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":85.68,
+        "valor":85.760002,
         "descricao":"Contrato futuro de petróleo WTI.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":1.192869
+        "retorno_mensal_pct":1.287356
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"SMAL11.SA",
-        "nome":"smal11",
-        "grupo":"bolsa_brasil",
-        "tipo":"etf",
-        "moeda":"BRL",
-        "valor":136.330002,
-        "descricao":"ETF brasileiro associado ao segmento de small caps.",
+        "ticker":"CL=F",
+        "nome":"petroleo_wti",
+        "grupo":"commodities",
+        "tipo":"futuro",
+        "moeda":"USD",
+        "valor":87.650002,
+        "descricao":"Contrato futuro de petróleo WTI.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":2.203824
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -10765,7 +10749,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-6.550283
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -11703,29 +11687,29 @@
         "grupo":"bolsa_brasil",
         "tipo":"etf",
         "moeda":"BRL",
-        "valor":106.550003,
+        "valor":104.580002,
         "descricao":"ETF brasileiro associado ao segmento de small caps.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-0.652678
+        "retorno_mensal_pct":-2.489509
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"ZS=F",
-        "nome":"soja",
-        "grupo":"commodities",
-        "tipo":"futuro",
-        "moeda":"USD",
-        "valor":1298.75,
-        "descricao":"Contrato futuro de soja.",
+        "ticker":"SMAL11.SA",
+        "nome":"smal11",
+        "grupo":"bolsa_brasil",
+        "tipo":"etf",
+        "moeda":"BRL",
+        "valor":108.040001,
+        "descricao":"ETF brasileiro associado ao segmento de small caps.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":3.308471
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -11741,7 +11725,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-3.291627
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -12679,29 +12663,29 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":1290.0,
+        "valor":1275.25,
         "descricao":"Contrato futuro de soja.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":10.068259
+        "retorno_mensal_pct":8.809727
     },
     {
-        "data":"2021-08-31T00:00:00.000",
+        "data":"2026-09-30T00:00:00.000",
         "fonte":"Yahoo Finance via yfinance",
-        "ticker":"^GSPC",
-        "nome":"sp500",
-        "grupo":"bolsa_internacional",
-        "tipo":"indice",
+        "ticker":"ZS=F",
+        "nome":"soja",
+        "grupo":"commodities",
+        "tipo":"futuro",
         "moeda":"USD",
-        "valor":4522.680176,
-        "descricao":"Índice S&P 500.",
+        "valor":1312.0,
+        "descricao":"Contrato futuro de soja.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":null
+        "retorno_mensal_pct":2.881788
     },
     {
         "data":"2021-09-30T00:00:00.000",
@@ -12717,7 +12701,7 @@
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-4.756917
+        "retorno_mensal_pct":null
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -13655,12 +13639,28 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":7672.839844,
+        "valor":7686.140137,
         "descricao":"Índice S&P 500.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":2.444946
+        "retorno_mensal_pct":2.622527
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fonte":"Yahoo Finance via yfinance",
+        "ticker":"^GSPC",
+        "nome":"sp500",
+        "grupo":"bolsa_internacional",
+        "tipo":"indice",
+        "moeda":"USD",
+        "valor":7659.640137,
+        "descricao":"Índice S&P 500.",
+        "frequencia_original":"1d",
+        "frequencia_final":"mensal",
+        "agregacao_mensal":"ultimo",
+        "campo_preco":"Close",
+        "retorno_mensal_pct":-0.344776
     }
 ]
