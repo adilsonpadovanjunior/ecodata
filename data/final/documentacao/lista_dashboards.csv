@@ -3,10 +3,10 @@ bcb_sgs_ibc_br,IBC BR,,bcb_sgs,atividade,mensal,58,2021-09-30,2026-06-30,data/fi
 bcb_sgs_ibc_br_sa,IBC BR SA,,bcb_sgs,atividade,mensal,58,2021-09-30,2026-06-30,data/final/dashboard/bcb_sgs_ibc_br_sa.json,data/final/series/bcb_sgs_ibc_br_sa.csv
 bcb_sgs_var_pct_ibc_br,VAR PCT IBC BR,,bcb_sgs,atividade,mensal,57,2021-10-31,2026-06-30,data/final/dashboard/bcb_sgs_var_pct_ibc_br.json,data/final/series/bcb_sgs_var_pct_ibc_br.csv
 bcb_sgs_var_pct_ibc_br_sa,VAR PCT IBC BR SA,,bcb_sgs,atividade,mensal,57,2021-10-31,2026-06-30,data/final/dashboard/bcb_sgs_var_pct_ibc_br_sa.json,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv
-bcb_sgs_cambio_compra_usd,Cambio Compra USD,,bcb_sgs,cambio,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/bcb_sgs_cambio_compra_usd.json,data/final/series/bcb_sgs_cambio_compra_usd.csv
-bcb_sgs_cambio_venda_usd,Cambio Venda USD,,bcb_sgs,cambio,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/bcb_sgs_cambio_venda_usd.json,data/final/series/bcb_sgs_cambio_venda_usd.csv
-bcb_sgs_var_pct_cambio_compra_usd,VAR PCT Cambio Compra USD,,bcb_sgs,cambio,mensal,59,2021-10-31,2026-08-31,data/final/dashboard/bcb_sgs_var_pct_cambio_compra_usd.json,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.csv
-bcb_sgs_var_pct_cambio_venda_usd,VAR PCT Cambio Venda USD,,bcb_sgs,cambio,mensal,59,2021-10-31,2026-08-31,data/final/dashboard/bcb_sgs_var_pct_cambio_venda_usd.json,data/final/series/bcb_sgs_var_pct_cambio_venda_usd.csv
+bcb_sgs_cambio_compra_usd,Cambio Compra USD,,bcb_sgs,cambio,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/bcb_sgs_cambio_compra_usd.json,data/final/series/bcb_sgs_cambio_compra_usd.csv
+bcb_sgs_cambio_venda_usd,Cambio Venda USD,,bcb_sgs,cambio,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/bcb_sgs_cambio_venda_usd.json,data/final/series/bcb_sgs_cambio_venda_usd.csv
+bcb_sgs_var_pct_cambio_compra_usd,VAR PCT Cambio Compra USD,,bcb_sgs,cambio,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_var_pct_cambio_compra_usd.json,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.csv
+bcb_sgs_var_pct_cambio_venda_usd,VAR PCT Cambio Venda USD,,bcb_sgs,cambio,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_var_pct_cambio_venda_usd.json,data/final/series/bcb_sgs_var_pct_cambio_venda_usd.csv
 bcb_sgs_dif_inadimplencia_pf,DIF Inadimplencia PF,,bcb_sgs,credito,mensal,58,2021-10-31,2026-07-31,data/final/dashboard/bcb_sgs_dif_inadimplencia_pf.json,data/final/series/bcb_sgs_dif_inadimplencia_pf.csv
 bcb_sgs_dif_inadimplencia_pj,DIF Inadimplencia PJ,,bcb_sgs,credito,mensal,58,2021-10-31,2026-07-31,data/final/dashboard/bcb_sgs_dif_inadimplencia_pj.json,data/final/series/bcb_sgs_dif_inadimplencia_pj.csv
 bcb_sgs_dif_inadimplencia_total,DIF Inadimplencia Total,,bcb_sgs,credito,mensal,58,2021-10-31,2026-07-31,data/final/dashboard/bcb_sgs_dif_inadimplencia_total.json,data/final/series/bcb_sgs_dif_inadimplencia_total.csv
@@ -53,13 +53,13 @@ yahoo_ret_sp500,RET Sp500,,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09
 yahoo_soja,SOJA,,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/yahoo_soja.json,data/final/series/yahoo_soja.csv
 yahoo_smal11,Smal11,,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/yahoo_smal11.json,data/final/series/yahoo_smal11.csv
 yahoo_sp500,Sp500,,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/yahoo_sp500.json,data/final/series/yahoo_sp500.csv
-bcb_sgs_cdi,CDI,,bcb_sgs,politica_monetaria,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/bcb_sgs_cdi.json,data/final/series/bcb_sgs_cdi.csv
-bcb_sgs_dif_cdi,DIF CDI,,bcb_sgs,politica_monetaria,mensal,59,2021-10-31,2026-08-31,data/final/dashboard/bcb_sgs_dif_cdi.json,data/final/series/bcb_sgs_dif_cdi.csv
+bcb_sgs_cdi,CDI,,bcb_sgs,politica_monetaria,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/bcb_sgs_cdi.json,data/final/series/bcb_sgs_cdi.csv
+bcb_sgs_dif_cdi,DIF CDI,,bcb_sgs,politica_monetaria,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_dif_cdi.json,data/final/series/bcb_sgs_dif_cdi.csv
 bcb_sgs_dif_juros_credito_total,DIF Juros Credito Total,,bcb_sgs,politica_monetaria,mensal,58,2021-10-31,2026-07-31,data/final/dashboard/bcb_sgs_dif_juros_credito_total.json,data/final/series/bcb_sgs_dif_juros_credito_total.csv
 bcb_sgs_dif_selic_meta,DIF Selic META,,bcb_sgs,politica_monetaria,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_dif_selic_meta.json,data/final/series/bcb_sgs_dif_selic_meta.csv
-bcb_sgs_dif_selic_over,DIF Selic OVER,,bcb_sgs,politica_monetaria,mensal,59,2021-10-31,2026-08-31,data/final/dashboard/bcb_sgs_dif_selic_over.json,data/final/series/bcb_sgs_dif_selic_over.csv
+bcb_sgs_dif_selic_over,DIF Selic OVER,,bcb_sgs,politica_monetaria,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_dif_selic_over.json,data/final/series/bcb_sgs_dif_selic_over.csv
 bcb_sgs_juros_credito_total,Juros Credito Total,,bcb_sgs,politica_monetaria,mensal,59,2021-09-30,2026-07-31,data/final/dashboard/bcb_sgs_juros_credito_total.json,data/final/series/bcb_sgs_juros_credito_total.csv
 bcb_sgs_selic_meta,Selic META,,bcb_sgs,politica_monetaria,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/bcb_sgs_selic_meta.json,data/final/series/bcb_sgs_selic_meta.csv
-bcb_sgs_selic_over,Selic OVER,,bcb_sgs,politica_monetaria,mensal,60,2021-09-30,2026-08-31,data/final/dashboard/bcb_sgs_selic_over.json,data/final/series/bcb_sgs_selic_over.csv
+bcb_sgs_selic_over,Selic OVER,,bcb_sgs,politica_monetaria,mensal,61,2021-09-30,2026-09-30,data/final/dashboard/bcb_sgs_selic_over.json,data/final/series/bcb_sgs_selic_over.csv
 bcb_sgs_reservas_internacionais,Reservas Internacionais,,bcb_sgs,setor_externo,mensal,59,2021-09-30,2026-07-31,data/final/dashboard/bcb_sgs_reservas_internacionais.json,data/final/series/bcb_sgs_reservas_internacionais.csv
 bcb_sgs_var_pct_reservas_internacionais,VAR PCT Reservas Internacionais,,bcb_sgs,setor_externo,mensal,58,2021-10-31,2026-07-31,data/final/dashboard/bcb_sgs_var_pct_reservas_internacionais.json,data/final/series/bcb_sgs_var_pct_reservas_internacionais.csv

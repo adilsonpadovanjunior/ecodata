@@ -59,6 +59,7 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.176,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2026-07-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.0767,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2026-08-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.181,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
+2026-09-30,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.1564,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2021-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.4394,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2021-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.643,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2021-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6199,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
@@ -119,7 +120,8 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1766,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2026-07-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0773,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2026-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1816,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
-2021-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.021003,Taxa CDI.,diaria,mensal,media
+2026-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.157,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2021-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.021057,Taxa CDI.,diaria,mensal,media
 2021-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.024244,Taxa CDI.,diaria,mensal,media
 2021-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.029256,Taxa CDI.,diaria,mensal,media
 2021-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.033316,Taxa CDI.,diaria,mensal,media
@@ -179,6 +181,7 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.053028,Taxa CDI.,diaria,mensal,media
 2026-07-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.052531,Taxa CDI.,diaria,mensal,media
 2026-08-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.051784,Taxa CDI.,diaria,mensal,media
+2026-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.05166,Taxa CDI.,diaria,mensal,media
 2021-09-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,97.10569,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
 2021-10-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,96.52863,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,97.85433,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
@@ -1006,7 +1009,7 @@
 2026-07-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2026-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2026-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2021-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.021003,Taxa Selic over.,diaria,mensal,media
+2021-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.021057,Taxa Selic over.,diaria,mensal,media
 2021-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.024244,Taxa Selic over.,diaria,mensal,media
 2021-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.029256,Taxa Selic over.,diaria,mensal,media
 2021-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.033316,Taxa Selic over.,diaria,mensal,media
@@ -1066,3 +1069,4 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.053028,Taxa Selic over.,diaria,mensal,media
 2026-07-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.052531,Taxa Selic over.,diaria,mensal,media
 2026-08-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.051784,Taxa Selic over.,diaria,mensal,media
+2026-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.05166,Taxa Selic over.,diaria,mensal,media
