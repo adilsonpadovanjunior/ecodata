@@ -1390,7 +1390,6 @@ canvas {
     }
 }
 
-
 /* ============================================================
    25. CELULARES
    ============================================================ */
@@ -1419,6 +1418,21 @@ canvas {
         gap: 10px;
     }
 
+
+    /* ========================================================
+       CABEÇALHO MOBILE
+       ======================================================== */
+
+    .marca-topo {
+        width: 100%;
+
+        display: flex;
+        justify-content: center;
+
+        font-size: 1.75rem;
+        text-align: center;
+    }
+
     .topo-acoes {
         width: 100%;
         margin-left: 0;
@@ -1429,6 +1443,9 @@ canvas {
             repeat(2, minmax(0, 1fr));
 
         gap: 9px;
+
+        align-items: center;
+        justify-items: center;
     }
 
     .seletor-serie-container {
@@ -1436,10 +1453,33 @@ canvas {
         min-width: 0;
 
         grid-column: 1 / -1;
+
+        align-items: center;
+    }
+
+    .seletor-serie-container label {
+        width: 100%;
+
+        text-align: center;
     }
 
     .seletor-serie-container select {
         width: 100%;
+
+        appearance: none;
+        -webkit-appearance: none;
+
+        color: var(--cor-texto);
+
+        text-align: center;
+        text-align-last: center;
+
+        background-image:
+            url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='14' height='14' viewBox='0 0 24 24' fill='none' stroke='%23ffffff' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E");
+
+        background-repeat: no-repeat;
+        background-position: right 13px center;
+        background-size: 13px;
     }
 
     .botao-principal,
@@ -1448,6 +1488,11 @@ canvas {
         min-height: 40px;
         padding: 0 10px;
     }
+
+
+    /* ========================================================
+       CONTEÚDO DO DASHBOARD
+       ======================================================== */
 
     .dashboard {
         padding-top: 10px;
@@ -1546,7 +1591,6 @@ canvas {
         font-size: 0.72rem;
     }
 }
-
 
 /* ============================================================
    26. CELULARES PEQUENOS
