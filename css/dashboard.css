@@ -1590,6 +1590,16 @@ canvas {
 
         font-size: 0.72rem;
     }
+
+   .marca.marca-topo {
+    width: 100%;
+    justify-content: center;
+
+    font-size: 2.2rem !important;
+    line-height: 1.1;
+
+    text-align: center;
+   }
 }
 
 /* ============================================================
@@ -1598,7 +1608,7 @@ canvas {
 
 @media (max-width: 390px) {
     .marca-topo {
-        font-size: 1.8rem;
+        font-size: 2rem !important;
     }
 
     .topo-acoes {
