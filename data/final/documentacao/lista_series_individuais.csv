@@ -31,7 +31,6 @@ yahoo_dow_jones,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/fi
 yahoo_euro_real,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_euro_real.csv,data/final/series/yahoo_euro_real.xlsx
 yahoo_ibovespa,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_ibovespa.csv,data/final/series/yahoo_ibovespa.xlsx
 yahoo_ivvb11,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_ivvb11.csv,data/final/series/yahoo_ivvb11.xlsx
-yahoo_milho,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_milho.csv,data/final/series/yahoo_milho.xlsx
 yahoo_nasdaq,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_nasdaq.csv,data/final/series/yahoo_nasdaq.xlsx
 yahoo_ouro,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_ouro.csv,data/final/series/yahoo_ouro.xlsx
 yahoo_petroleo_brent,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_petroleo_brent.csv,data/final/series/yahoo_petroleo_brent.xlsx
@@ -42,7 +41,6 @@ yahoo_ret_dow_jones,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,dat
 yahoo_ret_euro_real,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_euro_real.csv,data/final/series/yahoo_ret_euro_real.xlsx
 yahoo_ret_ibovespa,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_ibovespa.csv,data/final/series/yahoo_ret_ibovespa.xlsx
 yahoo_ret_ivvb11,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_ivvb11.csv,data/final/series/yahoo_ret_ivvb11.xlsx
-yahoo_ret_milho,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_milho.csv,data/final/series/yahoo_ret_milho.xlsx
 yahoo_ret_nasdaq,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_nasdaq.csv,data/final/series/yahoo_ret_nasdaq.xlsx
 yahoo_ret_ouro,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_ouro.csv,data/final/series/yahoo_ret_ouro.xlsx
 yahoo_ret_petroleo_brent,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/final/series/yahoo_ret_petroleo_brent.csv,data/final/series/yahoo_ret_petroleo_brent.xlsx
