@@ -2,20 +2,20 @@
     "projeto": "ECODATA",
     "descricao": "Base automatizada de dados econômicos, financeiros e fiscais para acompanhamento de conjuntura econômica.",
     "frequencia_principal": "mensal",
-    "data_geracao_metadados": "2026-09-05 20:39:39",
+    "data_geracao_metadados": "2026-09-05 22:46:10",
     "base_consolidada_disponivel": true,
     "dicionario_disponivel": true,
     "resumo_disponibilidade_disponivel": true,
-    "periodo_inicial": "1997-01-31",
+    "periodo_inicial": "2020-01-31",
     "periodo_final": "2026-09-30",
-    "total_linhas_base": 357,
-    "total_colunas_base": 74,
-    "total_variaveis_base": 73,
-    "total_variaveis_dicionario": 68,
+    "total_linhas_base": 81,
+    "total_colunas_base": 112,
+    "total_variaveis_base": 111,
+    "total_variaveis_dicionario": 108,
     "fontes_disponiveis": [
         "bcb_sgs",
         "comexstat",
         "yahoo"
     ],
-    "total_series_resumo": 73
+    "total_series_resumo": 111
 }

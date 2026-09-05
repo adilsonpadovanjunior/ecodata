@@ -1,0 +1,11 @@
+﻿codigo_ncm,nome_curto,descricao_configurada,descricao_oficial_comexstat,grupo_produto,ativo,escopo_geografico
+02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas.","Carnes desossadas de bovino, congeladas",proteina_animal,True,Brasil-mundo
+09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão.","Café não torrado, não descafeinado, em grão",agropecuaria,True,Brasil-mundo
+10059010,milho_em_grao,"Milho em grão, exceto para semeadura.","Milho em grão, exceto para semeadura",agropecuaria,True,Brasil-mundo
+12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura.","Soja, mesmo triturada, exceto para semeadura",agropecuaria,True,Brasil-mundo
+17011400,acucares_cana,Outros açúcares de cana.,Outros açúcares de cana,agroindustria,True,Brasil-mundo
+23040090,residuos_oleo_soja,Bagaços e outros resíduos sólidos da extração do óleo de soja.,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,True,Brasil-mundo
+26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, não aglomerados.","Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,True,Brasil-mundo
+27090010,oleos_brutos_petroleo,Óleos brutos de petróleo.,Óleos brutos de petróleo,energia,True,Brasil-mundo
+27101922,fuel_oil,Fuel oil.,Fuel oil,energia,True,Brasil-mundo
+47032900,celulose_nao_coniferas,"Pastas químicas de madeira, semibranqueadas ou branqueadas, de não coníferas.","Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,True,Brasil-mundo

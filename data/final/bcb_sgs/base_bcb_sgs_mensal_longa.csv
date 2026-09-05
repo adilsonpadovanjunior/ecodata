@@ -948,67 +948,6 @@
 2026-05-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7305306.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2026-06-30,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7353293.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7372243.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
-2021-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,6.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2021-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,7.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2021-11-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,7.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2021-12-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,9.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-01-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,9.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-02-28,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-03-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,11.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-04-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,11.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-05-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,12.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-06-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-07-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-11-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2022-12-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-01-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-02-28,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-03-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-04-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-05-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-06-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-07-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,12.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,12.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-11-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,12.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2023-12-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,11.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-01-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,11.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-02-29,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,11.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-03-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-04-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-05-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.5,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-06-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.5,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-07-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.5,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.5,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,10.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-11-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,11.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2024-12-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,12.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-01-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-02-28,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-03-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-04-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-05-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-06-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-07-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-11-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2025-12-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-01-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-02-28,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,15.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-03-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-04-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.5,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-05-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.5,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-06-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-07-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2026-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2021-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.021182,Taxa Selic over.,diaria,mensal,media
 2021-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.024244,Taxa Selic over.,diaria,mensal,media
 2021-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.029256,Taxa Selic over.,diaria,mensal,media

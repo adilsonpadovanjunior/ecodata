@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-09-05 20:35:36",
+    "data_execucao": "2026-09-05 22:43:28",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -24,14 +24,15 @@
         "reservas_internacionais": 3546
     },
     "status": "concluido",
-    "erros": [],
+    "erros": [
+        "Erro na série selic_meta | SGS 432: HTTPSConnectionPool(host='api.bcb.gov.br', port=443): Read timed out. (read timeout=30)"
+    ],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 1071,
+    "linhas_base_longa": 1010,
     "data_inicial_base": "2021-09-30 00:00:00",
     "data_final_base": "2026-09-30 00:00:00",
     "colunas_base_larga": [
         "data",
-        "selic_meta",
         "selic_over",
         "cdi",
         "ipca",
@@ -60,7 +61,6 @@
         "ipca_acum_12m",
         "igp_m_acum_12m",
         "inpc_acum_12m",
-        "dif_selic_meta",
         "dif_selic_over",
         "dif_cdi",
         "dif_inadimplencia_total",

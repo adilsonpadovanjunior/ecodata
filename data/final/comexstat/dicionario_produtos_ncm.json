@@ -1,0 +1,92 @@
+[
+    {
+        "codigo_ncm":"02023000",
+        "nome_curto":"carne_bovina_congelada",
+        "descricao_configurada":"Carnes desossadas de bovino, congeladas.",
+        "descricao_oficial_comexstat":"Carnes desossadas de bovino, congeladas",
+        "grupo_produto":"proteina_animal",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"09011110",
+        "nome_curto":"cafe_nao_torrado",
+        "descricao_configurada":"Café não torrado, não descafeinado, em grão.",
+        "descricao_oficial_comexstat":"Café não torrado, não descafeinado, em grão",
+        "grupo_produto":"agropecuaria",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"10059010",
+        "nome_curto":"milho_em_grao",
+        "descricao_configurada":"Milho em grão, exceto para semeadura.",
+        "descricao_oficial_comexstat":"Milho em grão, exceto para semeadura",
+        "grupo_produto":"agropecuaria",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"12019000",
+        "nome_curto":"soja_exceto_semeadura",
+        "descricao_configurada":"Soja, mesmo triturada, exceto para semeadura.",
+        "descricao_oficial_comexstat":"Soja, mesmo triturada, exceto para semeadura",
+        "grupo_produto":"agropecuaria",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"17011400",
+        "nome_curto":"acucares_cana",
+        "descricao_configurada":"Outros açúcares de cana.",
+        "descricao_oficial_comexstat":"Outros açúcares de cana",
+        "grupo_produto":"agroindustria",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"23040090",
+        "nome_curto":"residuos_oleo_soja",
+        "descricao_configurada":"Bagaços e outros resíduos sólidos da extração do óleo de soja.",
+        "descricao_oficial_comexstat":"Bagaços e outros resíduos sólidos, da extração do óleo de soja",
+        "grupo_produto":"agroindustria",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"26011100",
+        "nome_curto":"minerio_ferro_nao_aglomerado",
+        "descricao_configurada":"Minérios de ferro e seus concentrados, não aglomerados.",
+        "descricao_oficial_comexstat":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
+        "grupo_produto":"mineracao",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"27090010",
+        "nome_curto":"oleos_brutos_petroleo",
+        "descricao_configurada":"Óleos brutos de petróleo.",
+        "descricao_oficial_comexstat":"Óleos brutos de petróleo",
+        "grupo_produto":"energia",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"27101922",
+        "nome_curto":"fuel_oil",
+        "descricao_configurada":"Fuel oil.",
+        "descricao_oficial_comexstat":"Fuel oil",
+        "grupo_produto":"energia",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    },
+    {
+        "codigo_ncm":"47032900",
+        "nome_curto":"celulose_nao_coniferas",
+        "descricao_configurada":"Pastas químicas de madeira, semibranqueadas ou branqueadas, de não coníferas.",
+        "descricao_oficial_comexstat":"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
+        "grupo_produto":"celulose",
+        "ativo":true,
+        "escopo_geografico":"Brasil-mundo"
+    }
+]
