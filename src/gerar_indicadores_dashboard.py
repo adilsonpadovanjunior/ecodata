@@ -238,6 +238,9 @@ def obter_fonte_por_nome_serie(nome_serie: str) -> str:
     """
     nome = nome_serie.lower()
 
+    if nome.startswith("comex_"):
+        return "comexstat"
+    
     if nome.startswith("yahoo_"):
         return "yahoo"
 
@@ -262,6 +265,9 @@ def obter_grupo_por_nome_serie(nome_serie: str) -> str:
     """
     nome = nome_serie.lower()
 
+    if nome.startswith("comex_"):
+        return "comercio_exterior"
+    
     if nome.startswith("yahoo_"):
         return "mercado_financeiro"
 
@@ -343,6 +349,7 @@ def formatar_nome_exibicao(nome_serie: str) -> str:
     nome = nome_serie
 
     prefixos = [
+        "comex_",
         "bcb_sgs_",
         "yahoo_",
         "ibge_sidra_",
@@ -435,9 +442,33 @@ def carregar_serie(
 # 5. CÁLCULO DOS INDICADORES
 # ============================================================
 
+def serie_permite_variacao_percentual(
+    nome_serie: str | None
+) -> bool:
+    """
+    Verifica se a variação percentual possui interpretação
+    adequada para a série.
+
+    O saldo comercial pode assumir valores negativos ou
+    atravessar zero. Por isso, suas mudanças devem ser
+    apresentadas prioritariamente em valores absolutos.
+    """
+    if nome_serie is None:
+        return True
+
+    series_sem_variacao_percentual = {
+        "comex_saldo_comercial_usd",
+    }
+
+    return (
+        nome_serie.lower()
+        not in series_sem_variacao_percentual
+    )
+
 def calcular_indicadores_serie(
     serie: pd.DataFrame,
-    config: dict
+    config: dict,
+    nome_serie: str | None = None
 ) -> pd.DataFrame:
     """
     Calcula indicadores para toda a série histórica.
@@ -473,34 +504,41 @@ def calcular_indicadores_serie(
     # Variações percentuais
     # --------------------------------------------------------
 
-    df["variacao_1_mes_pct"] = (
-        df["valor"].pct_change(
-            periods=1,
-            fill_method=None
-        ) * 100
-    )
+    if serie_permite_variacao_percentual(nome_serie):
+        df["variacao_1_mes_pct"] = (
+            df["valor"].pct_change(
+                periods=1,
+                fill_method=None
+            ) * 100
+        )
 
-    df["variacao_3_meses_pct"] = (
-        df["valor"].pct_change(
-            periods=3,
-            fill_method=None
-        ) * 100
-    )
+        df["variacao_3_meses_pct"] = (
+            df["valor"].pct_change(
+                periods=3,
+                fill_method=None
+            ) * 100
+        )
 
-    df["variacao_6_meses_pct"] = (
-        df["valor"].pct_change(
-            periods=6,
-            fill_method=None
-        ) * 100
-    )
+        df["variacao_6_meses_pct"] = (
+            df["valor"].pct_change(
+                periods=6,
+                fill_method=None
+            ) * 100
+        )
 
-    df["variacao_12_meses_pct"] = (
-        df["valor"].pct_change(
-            periods=12,
-            fill_method=None
-        ) * 100
-    )
+        df["variacao_12_meses_pct"] = (
+            df["valor"].pct_change(
+                periods=12,
+                fill_method=None
+            ) * 100
+        )
 
+    else:
+        df["variacao_1_mes_pct"] = None
+        df["variacao_3_meses_pct"] = None
+        df["variacao_6_meses_pct"] = None
+        df["variacao_12_meses_pct"] = None
+    
     # --------------------------------------------------------
     # Médias móveis
     # --------------------------------------------------------
@@ -1011,7 +1049,8 @@ def gerar_json_dashboard(
 
     serie_calculada = calcular_indicadores_serie(
         serie=serie_original,
-        config=config
+        config=config,
+        nome_serie=nome_arquivo
     )
 
     fonte = obter_fonte_por_nome_serie(
