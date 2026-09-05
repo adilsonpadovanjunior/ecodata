@@ -2103,41 +2103,45 @@ function formatarNomeCategoria(
     const mapa = {
         "bcb_sgs": "Banco Central / SGS",
         "yahoo": "Yahoo Finance",
+        "comexstat": "Comex Stat / MDIC",
         "ibge_sidra": "IBGE / SIDRA",
         "ipeadata": "IpeaData",
         "tesouro": "Tesouro Nacional",
-
+    
         "mercado_financeiro":
             "Mercado financeiro",
-
+    
+        "comercio_exterior":
+            "Comércio exterior",
+    
         "politica_monetaria":
             "Política monetária",
-
+    
         "mercado_de_trabalho":
             "Mercado de trabalho",
-
+    
         "setor_externo":
             "Setor externo",
-
+    
         "credito":
             "Crédito",
-
+    
         "atividade":
             "Atividade econômica",
-
+    
         "cambio":
             "Câmbio",
-
+    
         "inflacao":
             "Inflação",
-
+    
         "fiscal":
             "Fiscal",
-
+    
         "outros":
             "Outros"
     };
-
+    
     const chave = String(valor)
         .trim()
         .toLowerCase();
