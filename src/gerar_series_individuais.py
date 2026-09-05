@@ -166,6 +166,9 @@ def obter_grupo_por_nome_serie(nome_serie: str) -> str:
     """
     nome = nome_serie.lower()
 
+    if nome.startswith("comex_"):
+        return "comercio_exterior"
+    
     if nome.startswith("yahoo_"):
         return "mercado_financeiro"
 
