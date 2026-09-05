@@ -65,7 +65,7 @@ CONFIG_COMEXSTAT = {
     "idioma": "pt",
 
     # Período
-    "data_inicial": "1997-01",
+    "data_inicial": "2020-01",
     "frequencia_final": "mensal",
 
     # Partes da coleta
