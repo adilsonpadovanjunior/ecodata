@@ -25,6 +25,8 @@ from gerar_metadados_site import gerar_metadados_site
 from gerar_series_individuais import gerar_series_individuais
 from gerar_indicadores_dashboard import gerar_indicadores_dashboard
 
+from coleta_comexstat import atualizar_base_comexstat
+
 # ============================================================
 # 1. CONFIGURAÇÃO DAS FONTES ATIVAS
 # ============================================================
@@ -32,6 +34,7 @@ from gerar_indicadores_dashboard import gerar_indicadores_dashboard
 FONTES_ATIVAS = {
     "yahoo": True,
     "bcb_sgs": True,
+    "comexstat": True,
 
     # Futuras fontes:
     "ibge_sidra": False,
@@ -139,6 +142,13 @@ def etapa_coletar_dados(erros: list) -> None:
             nome_etapa="Coleta BCB/SGS",
             funcao=atualizar_base_bcb_sgs,
             erros=erros
+        )
+
+    if FONTES_ATIVAS.get("comexstat", False):
+        executar_etapa(
+            nome_etapa="Atualização da base Comex Stat",
+            funcao=atualizar_base_comexstat,
+            erros=erros,
         )
 
     # Futuramente:
