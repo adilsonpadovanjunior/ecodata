@@ -252,6 +252,15 @@
         "percentual_preenchido":74.074074
     },
     {
+        "variavel":"bcb_sgs_selic_meta",
+        "primeira_data":"2021-09-30T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":6.25,
+        "valor_final":14.0,
+        "percentual_preenchido":75.308642
+    },
+    {
         "variavel":"bcb_sgs_selic_over",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -504,6 +513,15 @@
         "percentual_preenchido":59.259259
     },
     {
+        "variavel":"bcb_sgs_dif_selic_meta",
+        "primeira_data":"2021-10-31T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":1.5,
+        "valor_final":0.0,
+        "percentual_preenchido":74.074074
+    },
+    {
         "variavel":"bcb_sgs_dif_selic_over",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -639,151 +657,7 @@
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_02023000_carne_bovina_congelada_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":500185177.0,
-        "valor_final":967242706.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_02023000_carne_bovina_congelada_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":103909023.0,
-        "valor_final":162300453.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_02023000_carne_bovina_congelada_importacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":9788257.0,
-        "valor_final":9868969.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_02023000_carne_bovina_congelada_importacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":1182973.0,
-        "valor_final":942383.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_09011110_cafe_nao_torrado_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":357877575.0,
-        "valor_final":1094109253.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_09011110_cafe_nao_torrado_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":163332129.0,
-        "valor_final":206264157.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_09011110_cafe_nao_torrado_importacoes_fob_usd",
-        "primeira_data":"2020-07-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":22,
-        "valor_inicial":31418.0,
-        "valor_final":6294.0,
-        "percentual_preenchido":27.160494
-    },
-    {
-        "variavel":"comexstat_comex_ncm_09011110_cafe_nao_torrado_importacoes_kg",
-        "primeira_data":"2020-07-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":22,
-        "valor_inicial":20000.0,
-        "valor_final":1560.0,
-        "percentual_preenchido":27.160494
-    },
-    {
-        "variavel":"comexstat_comex_ncm_10059010_milho_em_grao_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":349915062.0,
-        "valor_final":1002656682.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_10059010_milho_em_grao_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":2083530104.0,
-        "valor_final":4653100189.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_10059010_milho_em_grao_importacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":26216991.0,
-        "valor_final":33273820.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_10059010_milho_em_grao_importacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":196178640.0,
-        "valor_final":199281400.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_12019000_soja_exceto_semeadura_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":504774218.0,
-        "valor_final":4410039153.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_12019000_soja_exceto_semeadura_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":1397018249.0,
-        "valor_final":9808807495.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_12019000_soja_exceto_semeadura_importacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":76,
-        "valor_inicial":6305340.0,
-        "valor_final":44621019.0,
-        "percentual_preenchido":93.82716
-    },
-    {
-        "variavel":"comexstat_comex_ncm_12019000_soja_exceto_semeadura_importacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":76,
-        "valor_inicial":19690000.0,
-        "valor_final":109088024.0,
-        "percentual_preenchido":93.82716
-    },
-    {
-        "variavel":"comexstat_comex_ncm_17011400_acucares_cana_exportacoes_fob_usd",
+        "variavel":"comexstat_acucares_cana_exp_fob",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":80,
@@ -792,7 +666,7 @@
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_17011400_acucares_cana_exportacoes_kg",
+        "variavel":"comexstat_acucares_cana_exp_kg",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":80,
@@ -801,7 +675,7 @@
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_17011400_acucares_cana_importacoes_fob_usd",
+        "variavel":"comexstat_acucares_cana_imp_fob",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":79,
@@ -810,7 +684,7 @@
         "percentual_preenchido":97.530864
     },
     {
-        "variavel":"comexstat_comex_ncm_17011400_acucares_cana_importacoes_kg",
+        "variavel":"comexstat_acucares_cana_imp_kg",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":79,
@@ -819,151 +693,79 @@
         "percentual_preenchido":97.530864
     },
     {
-        "variavel":"comexstat_comex_ncm_23040090_residuos_oleo_soja_exportacoes_fob_usd",
+        "variavel":"comexstat_cafe_nao_torrado_exp_fob",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":80,
-        "valor_inicial":281324952.0,
-        "valor_final":646488066.0,
+        "valor_inicial":357877575.0,
+        "valor_final":1094109253.0,
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_23040090_residuos_oleo_soja_exportacoes_kg",
+        "variavel":"comexstat_cafe_nao_torrado_exp_kg",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":80,
-        "valor_inicial":831821378.0,
-        "valor_final":1790486389.0,
+        "valor_inicial":163332129.0,
+        "valor_final":206264157.0,
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_23040090_residuos_oleo_soja_importacoes_fob_usd",
-        "primeira_data":"2020-02-29T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":5,
-        "valor_inicial":2282.0,
-        "valor_final":360.0,
-        "percentual_preenchido":6.17284
-    },
-    {
-        "variavel":"comexstat_comex_ncm_23040090_residuos_oleo_soja_importacoes_kg",
-        "primeira_data":"2020-02-29T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":5,
-        "valor_inicial":2500.0,
-        "valor_final":0.0,
-        "percentual_preenchido":6.17284
-    },
-    {
-        "variavel":"comexstat_comex_ncm_26011100_minerio_ferro_nao_aglomerado_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":1627139024.0,
-        "valor_final":2051566400.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_26011100_minerio_ferro_nao_aglomerado_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":25418986258.0,
-        "valor_final":34406447895.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_26011100_minerio_ferro_nao_aglomerado_importacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":66,
-        "valor_inicial":6207.0,
-        "valor_final":6950029.0,
-        "percentual_preenchido":81.481481
-    },
-    {
-        "variavel":"comexstat_comex_ncm_26011100_minerio_ferro_nao_aglomerado_importacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":66,
-        "valor_inicial":7200.0,
-        "valor_final":78331372.0,
-        "percentual_preenchido":81.481481
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27090010_oleos_brutos_petroleo_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":1707992437.0,
-        "valor_final":4828191084.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27090010_oleos_brutos_petroleo_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":4221906804.0,
-        "valor_final":8379911835.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27090010_oleos_brutos_petroleo_importacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":207990371.0,
-        "valor_final":547298813.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27090010_oleos_brutos_petroleo_importacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":432290309.0,
-        "valor_final":797225701.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27101922_fuel_oil_exportacoes_fob_usd",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":401663716.0,
-        "valor_final":893582419.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27101922_fuel_oil_exportacoes_kg",
-        "primeira_data":"2020-01-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":80,
-        "valor_inicial":955961547.0,
-        "valor_final":1438094595.0,
-        "percentual_preenchido":98.765432
-    },
-    {
-        "variavel":"comexstat_comex_ncm_27101922_fuel_oil_importacoes_fob_usd",
-        "primeira_data":"2020-12-31T00:00:00.000",
+        "variavel":"comexstat_cafe_nao_torrado_imp_fob",
+        "primeira_data":"2020-07-31T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":43,
-        "valor_inicial":13124930.0,
-        "valor_final":60.0,
-        "percentual_preenchido":53.08642
+        "observacoes":22,
+        "valor_inicial":31418.0,
+        "valor_final":6294.0,
+        "percentual_preenchido":27.160494
     },
     {
-        "variavel":"comexstat_comex_ncm_27101922_fuel_oil_importacoes_kg",
-        "primeira_data":"2020-12-31T00:00:00.000",
+        "variavel":"comexstat_cafe_nao_torrado_imp_kg",
+        "primeira_data":"2020-07-31T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":43,
-        "valor_inicial":40054409.0,
-        "valor_final":24.0,
-        "percentual_preenchido":53.08642
+        "observacoes":22,
+        "valor_inicial":20000.0,
+        "valor_final":1560.0,
+        "percentual_preenchido":27.160494
     },
     {
-        "variavel":"comexstat_comex_ncm_47032900_celulose_nao_coniferas_exportacoes_fob_usd",
+        "variavel":"comexstat_carne_bovina_congelada_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":500185177.0,
+        "valor_final":967242706.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_carne_bovina_congelada_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":103909023.0,
+        "valor_final":162300453.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_carne_bovina_congelada_imp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":9788257.0,
+        "valor_final":9868969.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_carne_bovina_congelada_imp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":1182973.0,
+        "valor_final":942383.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_celulose_nao_coniferas_exp_fob",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":80,
@@ -972,7 +774,7 @@
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_47032900_celulose_nao_coniferas_exportacoes_kg",
+        "variavel":"comexstat_celulose_nao_coniferas_exp_kg",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":80,
@@ -981,7 +783,7 @@
         "percentual_preenchido":98.765432
     },
     {
-        "variavel":"comexstat_comex_ncm_47032900_celulose_nao_coniferas_importacoes_fob_usd",
+        "variavel":"comexstat_celulose_nao_coniferas_imp_fob",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":70,
@@ -990,12 +792,228 @@
         "percentual_preenchido":86.419753
     },
     {
-        "variavel":"comexstat_comex_ncm_47032900_celulose_nao_coniferas_importacoes_kg",
+        "variavel":"comexstat_celulose_nao_coniferas_imp_kg",
         "primeira_data":"2020-01-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
         "observacoes":70,
         "valor_inicial":40720.0,
         "valor_final":1452782.0,
         "percentual_preenchido":86.419753
+    },
+    {
+        "variavel":"comexstat_fuel_oil_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":401663716.0,
+        "valor_final":893582419.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_fuel_oil_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":955961547.0,
+        "valor_final":1438094595.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_fuel_oil_imp_fob",
+        "primeira_data":"2020-12-31T00:00:00.000",
+        "ultima_data":"2026-07-31T00:00:00.000",
+        "observacoes":43,
+        "valor_inicial":13124930.0,
+        "valor_final":60.0,
+        "percentual_preenchido":53.08642
+    },
+    {
+        "variavel":"comexstat_fuel_oil_imp_kg",
+        "primeira_data":"2020-12-31T00:00:00.000",
+        "ultima_data":"2026-07-31T00:00:00.000",
+        "observacoes":43,
+        "valor_inicial":40054409.0,
+        "valor_final":24.0,
+        "percentual_preenchido":53.08642
+    },
+    {
+        "variavel":"comexstat_milho_em_grao_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":349915062.0,
+        "valor_final":1002656682.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_milho_em_grao_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":2083530104.0,
+        "valor_final":4653100189.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_milho_em_grao_imp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":26216991.0,
+        "valor_final":33273820.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_milho_em_grao_imp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":196178640.0,
+        "valor_final":199281400.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_minerio_ferro_nao_aglomerado_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":1627139024.0,
+        "valor_final":2051566400.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_minerio_ferro_nao_aglomerado_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":25418986258.0,
+        "valor_final":34406447895.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_minerio_ferro_nao_aglomerado_imp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":66,
+        "valor_inicial":6207.0,
+        "valor_final":6950029.0,
+        "percentual_preenchido":81.481481
+    },
+    {
+        "variavel":"comexstat_minerio_ferro_nao_aglomerado_imp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":66,
+        "valor_inicial":7200.0,
+        "valor_final":78331372.0,
+        "percentual_preenchido":81.481481
+    },
+    {
+        "variavel":"comexstat_oleos_brutos_petroleo_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":1707992437.0,
+        "valor_final":4828191084.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_oleos_brutos_petroleo_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":4221906804.0,
+        "valor_final":8379911835.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_oleos_brutos_petroleo_imp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":207990371.0,
+        "valor_final":547298813.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_oleos_brutos_petroleo_imp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":432290309.0,
+        "valor_final":797225701.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_residuos_oleo_soja_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":281324952.0,
+        "valor_final":646488066.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_residuos_oleo_soja_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":831821378.0,
+        "valor_final":1790486389.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_residuos_oleo_soja_imp_fob",
+        "primeira_data":"2020-02-29T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":5,
+        "valor_inicial":2282.0,
+        "valor_final":360.0,
+        "percentual_preenchido":6.17284
+    },
+    {
+        "variavel":"comexstat_residuos_oleo_soja_imp_kg",
+        "primeira_data":"2020-02-29T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":5,
+        "valor_inicial":2500.0,
+        "valor_final":0.0,
+        "percentual_preenchido":6.17284
+    },
+    {
+        "variavel":"comexstat_soja_exceto_semeadura_exp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":504774218.0,
+        "valor_final":4410039153.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_soja_exceto_semeadura_exp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":80,
+        "valor_inicial":1397018249.0,
+        "valor_final":9808807495.0,
+        "percentual_preenchido":98.765432
+    },
+    {
+        "variavel":"comexstat_soja_exceto_semeadura_imp_fob",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":76,
+        "valor_inicial":6305340.0,
+        "valor_final":44621019.0,
+        "percentual_preenchido":93.82716
+    },
+    {
+        "variavel":"comexstat_soja_exceto_semeadura_imp_kg",
+        "primeira_data":"2020-01-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":76,
+        "valor_inicial":19690000.0,
+        "valor_final":109088024.0,
+        "percentual_preenchido":93.82716
     }
 ]
