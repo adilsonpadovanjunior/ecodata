@@ -73,6 +73,15 @@ DICIONARIOS_FONTES = [
         "ativa": True,
     },
 
+    {
+        "nome": "comexstat",
+        "arquivo": (
+            "data/final/comexstat/"
+            "dicionario_variaveis_comexstat.csv"
+        ),
+        "ativa": True,
+    },
+    
     # Fontes futuras:
     {
         "nome": "ibge_sidra",
