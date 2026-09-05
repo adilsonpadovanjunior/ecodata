@@ -199,6 +199,9 @@ def obter_fonte_por_nome_serie(nome_serie: str) -> str:
     """
     nome = nome_serie.lower()
 
+    if nome.startswith("comex_"):
+        return "comexstat"
+    
     if nome.startswith("yahoo_"):
         return "yahoo"
 
