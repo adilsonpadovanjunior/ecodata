@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-09-05 13:18:00",
+    "data_execucao": "2026-09-05 20:39:36",
     "status": "concluido",
     "fontes_solicitadas": [
         {
@@ -10,6 +10,11 @@
         {
             "nome": "bcb_sgs",
             "arquivo": "data/final/bcb_sgs/base_bcb_sgs_mensal_larga.csv",
+            "ativa": true
+        },
+        {
+            "nome": "comexstat",
+            "arquivo": "data/final/comexstat/base_comexstat_total_mensal_larga.csv",
             "ativa": true
         },
         {
@@ -30,11 +35,12 @@
     ],
     "fontes_processadas": [
         "yahoo",
-        "bcb_sgs"
+        "bcb_sgs",
+        "comexstat"
     ],
     "fontes_ausentes": [],
     "erros": [],
-    "linhas_base_consolidada": 61,
+    "linhas_base_consolidada": 357,
     "colunas_base_consolidada": [
         "data",
         "yahoo_ibovespa",
@@ -100,8 +106,17 @@
         "bcb_sgs_dif_inadimplencia_total",
         "bcb_sgs_dif_inadimplencia_pj",
         "bcb_sgs_dif_inadimplencia_pf",
-        "bcb_sgs_dif_juros_credito_total"
+        "bcb_sgs_dif_juros_credito_total",
+        "comexstat_comex_exportacoes_fob_usd",
+        "comexstat_comex_importacoes_fob_usd",
+        "comexstat_comex_saldo_comercial_usd",
+        "comexstat_comex_corrente_comercio_usd",
+        "comexstat_comex_exportacoes_kg",
+        "comexstat_comex_importacoes_kg",
+        "comexstat_comex_importacoes_frete_usd",
+        "comexstat_comex_importacoes_seguro_usd",
+        "comexstat_comex_importacoes_cif_usd"
     ],
-    "data_inicial_base": "2021-09-30 00:00:00",
+    "data_inicial_base": "1997-01-31 00:00:00",
     "data_final_base": "2026-09-30 00:00:00"
 }

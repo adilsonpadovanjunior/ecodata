@@ -53,6 +53,15 @@ yahoo_ret_sp500,yahoo,mercado_financeiro,mensal,60,2021-10-31,2026-09-30,data/fi
 yahoo_smal11,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_smal11.csv,data/final/series/yahoo_smal11.xlsx
 yahoo_soja,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_soja.csv,data/final/series/yahoo_soja.xlsx
 yahoo_sp500,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_sp500.csv,data/final/series/yahoo_sp500.xlsx
+comexstat_comex_corrente_comercio_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_corrente_comercio_usd.csv,data/final/series/comexstat_comex_corrente_comercio_usd.xlsx
+comexstat_comex_exportacoes_fob_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_exportacoes_fob_usd.csv,data/final/series/comexstat_comex_exportacoes_fob_usd.xlsx
+comexstat_comex_exportacoes_kg,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_exportacoes_kg.csv,data/final/series/comexstat_comex_exportacoes_kg.xlsx
+comexstat_comex_importacoes_cif_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_importacoes_cif_usd.csv,data/final/series/comexstat_comex_importacoes_cif_usd.xlsx
+comexstat_comex_importacoes_fob_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_importacoes_fob_usd.csv,data/final/series/comexstat_comex_importacoes_fob_usd.xlsx
+comexstat_comex_importacoes_frete_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_importacoes_frete_usd.csv,data/final/series/comexstat_comex_importacoes_frete_usd.xlsx
+comexstat_comex_importacoes_kg,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_importacoes_kg.csv,data/final/series/comexstat_comex_importacoes_kg.xlsx
+comexstat_comex_importacoes_seguro_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_importacoes_seguro_usd.csv,data/final/series/comexstat_comex_importacoes_seguro_usd.xlsx
+comexstat_comex_saldo_comercial_usd,consolidada,outros,mensal,356,1997-01-31,2026-08-31,data/final/series/comexstat_comex_saldo_comercial_usd.csv,data/final/series/comexstat_comex_saldo_comercial_usd.xlsx
 bcb_sgs_cdi,bcb_sgs,politica_monetaria,mensal,61,2021-09-30,2026-09-30,data/final/series/bcb_sgs_cdi.csv,data/final/series/bcb_sgs_cdi.xlsx
 bcb_sgs_dif_cdi,bcb_sgs,politica_monetaria,mensal,60,2021-10-31,2026-09-30,data/final/series/bcb_sgs_dif_cdi.csv,data/final/series/bcb_sgs_dif_cdi.xlsx
 bcb_sgs_dif_juros_credito_total,bcb_sgs,politica_monetaria,mensal,58,2021-10-31,2026-07-31,data/final/series/bcb_sgs_dif_juros_credito_total.csv,data/final/series/bcb_sgs_dif_juros_credito_total.xlsx

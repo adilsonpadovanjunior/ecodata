@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-09-05 13:18:00",
+    "data_execucao": "2026-09-05 20:39:36",
     "status": "concluido",
     "dicionarios_solicitados": [
         {
@@ -10,6 +10,11 @@
         {
             "nome": "bcb_sgs",
             "arquivo": "data/final/bcb_sgs/dicionario_variaveis_bcb_sgs.csv",
+            "ativa": true
+        },
+        {
+            "nome": "comexstat",
+            "arquivo": "data/final/comexstat/dicionario_variaveis_comexstat.csv",
             "ativa": true
         },
         {
@@ -30,11 +35,12 @@
     ],
     "dicionarios_processados": [
         "yahoo",
-        "bcb_sgs"
+        "bcb_sgs",
+        "comexstat"
     ],
     "dicionarios_ausentes": [],
     "erros": [],
-    "linhas_dicionario_consolidado": 59,
+    "linhas_dicionario_consolidado": 68,
     "colunas_dicionario_consolidado": [
         "fonte_arquivo",
         "fonte",

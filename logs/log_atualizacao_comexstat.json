@@ -1,0 +1,17 @@
+{
+    "fonte": "Comex Stat/MDIC",
+    "inicio": "2026-09-05T20:36:07+00:00",
+    "status": "sucesso",
+    "escopo": "Brasil total",
+    "erros": [],
+    "avisos": [],
+    "fim": "2026-09-05T20:39:36+00:00",
+    "duracao_segundos": 209.17,
+    "ultima_atualizacao_fonte": "2026-09-04",
+    "ultimo_periodo_disponivel": "2026-08",
+    "primeiro_periodo_coletado": "1997-01",
+    "ultimo_periodo_coletado": "2026-08",
+    "observacoes": 356,
+    "variaveis": 9,
+    "usou_fallback_ssl": false
+}
