@@ -84,6 +84,15 @@ FONTES_CONSOLIDACAO = [
         "arquivo": "data/final/bcb_sgs/base_bcb_sgs_mensal_larga.csv",
         "ativa": True,
     },
+    
+    {
+        "nome": "comexstat",
+        "arquivo": (
+            "data/final/comexstat/"
+            "base_comexstat_total_mensal_larga.csv"
+        ),
+        "ativa": True,
+    },
 
     # Fontes futuras:
     {
