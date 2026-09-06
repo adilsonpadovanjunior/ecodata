@@ -1870,11 +1870,11 @@
         "sp500":7718.600098,
         "nasdaq":26506.990234,
         "dow_jones":53414.25,
-        "ouro":4429.799805,
+        "ouro":4476.600098,
         "petroleo_wti":91.480003,
         "petroleo_brent":96.279999,
-        "soja":1293.75,
-        "milho":512.0,
+        "soja":1309.75,
+        "milho":536.75,
         "ret_ibovespa":4.355791,
         "ret_bova11":4.096581,
         "ret_smal11":4.57929,
@@ -1884,10 +1884,10 @@
         "ret_sp500":0.422318,
         "ret_nasdaq":0.516098,
         "ret_dow_jones":0.429346,
-        "ret_ouro":-0.029345,
+        "ret_ouro":1.026833,
         "ret_petroleo_wti":6.669777,
         "ret_petroleo_brent":6.398498,
-        "ret_soja":1.450696,
-        "ret_milho":-0.582524
+        "ret_soja":2.705352,
+        "ret_milho":4.223301
     }
 ]

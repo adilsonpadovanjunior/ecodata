@@ -425,7 +425,7 @@
 2026-06-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,412.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,-7.61052
 2026-07-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,440.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,6.783767
 2026-08-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,515.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,16.846285
-2026-09-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,512.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,-0.582524
+2026-09-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,536.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,4.223301
 2021-09-30,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,14448.580078,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,15498.389648,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,7.265832
 2021-11-30,Yahoo Finance via yfinance,^IXIC,nasdaq,bolsa_internacional,indice,USD,15537.69043,Índice Nasdaq Composite.,1d,mensal,ultimo,Close,0.25358
@@ -547,7 +547,7 @@
 2026-06-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4022.899902,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-11.788183
 2026-07-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4049.100098,Contrato futuro de ouro.,1d,mensal,ultimo,Close,0.651276
 2026-08-31,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4431.100098,Contrato futuro de ouro.,1d,mensal,ultimo,Close,9.434195
-2026-09-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4429.799805,Contrato futuro de ouro.,1d,mensal,ultimo,Close,-0.029345
+2026-09-30,Yahoo Finance via yfinance,GC=F,ouro,commodities,futuro,USD,4476.600098,Contrato futuro de ouro.,1d,mensal,ultimo,Close,1.026833
 2021-09-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,78.519997,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,84.379997,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,7.463068
 2021-11-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,70.57,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-16.366435
@@ -791,7 +791,7 @@
 2026-06-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1116.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-5.898462
 2026-07-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1172.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,4.947392
 2026-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1275.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,8.809727
-2026-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1293.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,1.450696
+2026-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1309.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,2.705352
 2021-09-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4307.540039,Índice S&P 500.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4605.379883,Índice S&P 500.,1d,mensal,ultimo,Close,6.914384
 2021-11-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4567.0,Índice S&P 500.,1d,mensal,ultimo,Close,-0.833371
