@@ -12,7 +12,7 @@
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.021182,
+        "valor_inicial":0.021256,
         "valor_final":0.05166
     },
     {
@@ -20,7 +20,7 @@
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.021182,
+        "valor_inicial":0.021256,
         "valor_final":0.05166
     },
     {
@@ -244,7 +244,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.003062,
+        "valor_inicial":0.002988,
         "valor_final":-0.000124
     },
     {
@@ -252,7 +252,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.003062,
+        "valor_inicial":0.002988,
         "valor_final":-0.000124
     },
     {
