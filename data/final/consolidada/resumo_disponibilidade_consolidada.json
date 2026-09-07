@@ -50,7 +50,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":6.2785,
-        "valor_final":5.9594,
+        "valor_final":5.9606,
         "percentual_preenchido":75.308642
     },
     {
@@ -176,7 +176,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":5.009156,
-        "valor_final":-0.835574,
+        "valor_final":-0.81561,
         "percentual_preenchido":74.074074
     },
     {
