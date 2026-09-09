@@ -1,12 +1,12 @@
 {
     "fonte": "Comex Stat/MDIC",
-    "inicio": "2026-09-08T14:04:17+00:00",
+    "inicio": "2026-09-09T14:06:21+00:00",
     "status": "erro",
     "escopo": "Brasil total e produtos NCM Brasil-mundo",
     "erros": [
         "HTTPError: 429 Client Error: Too Many Requests for url: https://api-comexstat.mdic.gov.br/general?language=pt"
     ],
     "avisos": [],
-    "fim": "2026-09-08T14:07:41+00:00",
-    "duracao_segundos": 203.81
+    "fim": "2026-09-09T14:07:28+00:00",
+    "duracao_segundos": 67.59
 }
