@@ -1,10 +1,10 @@
 {
     "projeto": "ECODATA",
-    "ultima_atualizacao": "2026-09-11 14:04:09",
+    "ultima_atualizacao": "2026-09-11 14:10:11",
     "frequencia_principal": "mensal",
     "periodo_inicial": "2020-01-31",
     "periodo_final": "2026-09-30",
-    "total_variaveis_base": 113,
+    "total_variaveis_base": 109,
     "fontes_disponiveis": [
         "bcb_sgs",
         "comexstat",

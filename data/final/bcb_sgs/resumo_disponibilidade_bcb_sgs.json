@@ -56,14 +56,6 @@
         "valor_final":110.22154
     },
     {
-        "variavel":"ibc_br",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":97.10569,
-        "valor_final":109.89427
-    },
-    {
         "variavel":"cambio_venda_usd",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -112,14 +104,6 @@
         "valor_final":4.88
     },
     {
-        "variavel":"inadimplencia_pj",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1.43,
-        "valor_final":3.31
-    },
-    {
         "variavel":"inadimplencia_pf",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
@@ -150,14 +134,6 @@
         "observacoes":57,
         "valor_inicial":0.541272,
         "valor_final":-0.639569
-    },
-    {
-        "variavel":"var_pct_ibc_br",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-06-30T00:00:00.000",
-        "observacoes":57,
-        "valor_inicial":-0.59426,
-        "valor_final":0.332557
     },
     {
         "variavel":"var_pct_cambio_venda_usd",
@@ -262,14 +238,6 @@
         "observacoes":58,
         "valor_inicial":-0.01,
         "valor_final":0.3
-    },
-    {
-        "variavel":"dif_inadimplencia_pj",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":0.0,
-        "valor_final":0.13
     },
     {
         "variavel":"dif_inadimplencia_pf",
