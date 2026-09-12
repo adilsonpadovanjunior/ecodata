@@ -1,20 +1,12 @@
 {
     "fonte": "Comex Stat/MDIC",
-    "inicio": "2026-09-11T14:08:13+00:00",
-    "status": "sucesso",
+    "inicio": "2026-09-12T13:19:06+00:00",
+    "status": "erro",
     "escopo": "Brasil total e produtos NCM Brasil-mundo",
-    "erros": [],
+    "erros": [
+        "HTTPError: 403 Client Error: Forbidden for url: https://api-comexstat.mdic.gov.br/general/dates/updated?language=pt"
+    ],
     "avisos": [],
-    "fim": "2026-09-11T14:10:06+00:00",
-    "duracao_segundos": 112.57,
-    "ultima_atualizacao_fonte": "2026-09-04",
-    "ultimo_periodo_disponivel": "2026-08",
-    "primeiro_periodo_coletado": "2020-01",
-    "ultimo_periodo_coletado": "2026-08",
-    "observacoes_base_larga": 80,
-    "variaveis_gerais": 9,
-    "produtos_ncm_ativos": 10,
-    "series_ncm": 40,
-    "total_variaveis": 49,
-    "usou_fallback_ssl": false
+    "fim": "2026-09-12T13:19:06+00:00",
+    "duracao_segundos": 0.26
 }
