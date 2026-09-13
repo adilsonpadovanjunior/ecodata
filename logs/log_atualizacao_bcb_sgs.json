@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-09-13 14:01:29",
+    "data_execucao": "2026-09-13 14:10:05",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -24,9 +24,11 @@
         "reservas_internacionais": 3546
     },
     "status": "concluido",
-    "erros": [],
+    "erros": [
+        "Erro na série ipca | SGS 433: 502 Server Error: Bad Gateway for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.433/dados?formato=json&dataInicial=13%2F09%2F2021&dataFinal=13%2F09%2F2026"
+    ],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 1074,
+    "linhas_base_longa": 1014,
     "data_inicial_base": "2021-09-30 00:00:00",
     "data_final_base": "2026-09-30 00:00:00",
     "colunas_base_larga": [
@@ -34,7 +36,6 @@
         "selic_meta",
         "selic_over",
         "cdi",
-        "ipca",
         "igp_m",
         "inpc",
         "ibc_br_sa",
@@ -57,7 +58,6 @@
         "var_pct_saldo_credito_pj",
         "var_pct_saldo_credito_pf",
         "var_pct_reservas_internacionais",
-        "ipca_acum_12m",
         "igp_m_acum_12m",
         "inpc_acum_12m",
         "dif_selic_meta",

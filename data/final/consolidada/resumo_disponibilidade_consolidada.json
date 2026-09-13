@@ -279,15 +279,6 @@
         "percentual_preenchido":75.308642
     },
     {
-        "variavel":"bcb_sgs_ipca",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":1.16,
-        "valor_final":-0.32,
-        "percentual_preenchido":74.074074
-    },
-    {
         "variavel":"bcb_sgs_igp_m",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
@@ -484,15 +475,6 @@
         "valor_inicial":-0.259972,
         "valor_final":0.777299,
         "percentual_preenchido":72.839506
-    },
-    {
-        "variavel":"bcb_sgs_ipca_acum_12m",
-        "primeira_data":"2022-08-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":49,
-        "valor_inicial":8.727061,
-        "valor_final":4.223453,
-        "percentual_preenchido":60.493827
     },
     {
         "variavel":"bcb_sgs_igp_m_acum_12m",
