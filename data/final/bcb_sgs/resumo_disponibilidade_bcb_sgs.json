@@ -12,7 +12,7 @@
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.02154,
+        "valor_inicial":0.021664,
         "valor_final":0.05166
     },
     {
@@ -20,8 +20,16 @@
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.02154,
+        "valor_inicial":0.021664,
         "valor_final":0.05166
+    },
+    {
+        "variavel":"ipca",
+        "primeira_data":"2021-09-30T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":1.16,
+        "valor_final":-0.32
     },
     {
         "variavel":"igp_m",
@@ -200,6 +208,14 @@
         "valor_final":0.777299
     },
     {
+        "variavel":"ipca_acum_12m",
+        "primeira_data":"2022-08-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":49,
+        "valor_inicial":8.727061,
+        "valor_final":4.223453
+    },
+    {
         "variavel":"igp_m_acum_12m",
         "primeira_data":"2022-08-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
@@ -228,7 +244,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.002704,
+        "valor_inicial":0.00258,
         "valor_final":-0.000124
     },
     {
@@ -236,7 +252,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.002704,
+        "valor_inicial":0.00258,
         "valor_final":-0.000124
     },
     {
