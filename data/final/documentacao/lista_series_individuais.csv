@@ -21,8 +21,6 @@ bcb_sgs_var_pct_saldo_credito_pj,bcb_sgs,credito,mensal,58,2021-10-31,2026-07-31
 bcb_sgs_var_pct_saldo_credito_total,bcb_sgs,credito,mensal,58,2021-10-31,2026-07-31,data/final/series/bcb_sgs_var_pct_saldo_credito_total.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_total.xlsx
 bcb_sgs_igp_m,bcb_sgs,inflacao,mensal,60,2021-09-30,2026-08-31,data/final/series/bcb_sgs_igp_m.csv,data/final/series/bcb_sgs_igp_m.xlsx
 bcb_sgs_igp_m_acum_12m,bcb_sgs,inflacao,mensal,49,2022-08-31,2026-08-31,data/final/series/bcb_sgs_igp_m_acum_12m.csv,data/final/series/bcb_sgs_igp_m_acum_12m.xlsx
-bcb_sgs_inpc,bcb_sgs,inflacao,mensal,60,2021-09-30,2026-08-31,data/final/series/bcb_sgs_inpc.csv,data/final/series/bcb_sgs_inpc.xlsx
-bcb_sgs_inpc_acum_12m,bcb_sgs,inflacao,mensal,49,2022-08-31,2026-08-31,data/final/series/bcb_sgs_inpc_acum_12m.csv,data/final/series/bcb_sgs_inpc_acum_12m.xlsx
 bcb_sgs_ipca,bcb_sgs,inflacao,mensal,60,2021-09-30,2026-08-31,data/final/series/bcb_sgs_ipca.csv,data/final/series/bcb_sgs_ipca.xlsx
 bcb_sgs_ipca_acum_12m,bcb_sgs,inflacao,mensal,49,2022-08-31,2026-08-31,data/final/series/bcb_sgs_ipca_acum_12m.csv,data/final/series/bcb_sgs_ipca_acum_12m.xlsx
 yahoo_bova11,yahoo,mercado_financeiro,mensal,61,2021-09-30,2026-09-30,data/final/series/yahoo_bova11.csv,data/final/series/yahoo_bova11.xlsx

@@ -12,7 +12,7 @@
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.022435,
+        "valor_inicial":0.022748,
         "valor_final":0.051526
     },
     {
@@ -20,8 +20,8 @@
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.022435,
-        "valor_final":0.051587
+        "valor_inicial":0.022748,
+        "valor_final":0.051526
     },
     {
         "variavel":"ipca",
@@ -38,14 +38,6 @@
         "observacoes":60,
         "valor_inicial":-0.64,
         "valor_final":-0.22
-    },
-    {
-        "variavel":"inpc",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":1.2,
-        "valor_final":-0.32
     },
     {
         "variavel":"ibc_br_sa",
@@ -224,14 +216,6 @@
         "valor_final":2.178243
     },
     {
-        "variavel":"inpc_acum_12m",
-        "primeira_data":"2022-08-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":49,
-        "valor_inicial":8.825751,
-        "valor_final":3.983297
-    },
-    {
         "variavel":"dif_selic_meta",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -244,7 +228,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.001809,
+        "valor_inicial":0.001496,
         "valor_final":-0.000259
     },
     {
@@ -252,8 +236,8 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.001809,
-        "valor_final":-0.000197
+        "valor_inicial":0.001496,
+        "valor_final":-0.000259
     },
     {
         "variavel":"dif_inadimplencia_total",
