@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-09-22 14:22:45",
+    "data_execucao": "2026-09-22 14:31:31",
     "status": "concluido",
     "fontes_solicitadas": [
         {
@@ -82,7 +82,6 @@
         "bcb_sgs_cambio_venda_usd",
         "bcb_sgs_cambio_compra_usd",
         "bcb_sgs_saldo_credito_total",
-        "bcb_sgs_saldo_credito_pj",
         "bcb_sgs_saldo_credito_pf",
         "bcb_sgs_inadimplencia_total",
         "bcb_sgs_inadimplencia_pj",
@@ -94,7 +93,6 @@
         "bcb_sgs_var_pct_cambio_venda_usd",
         "bcb_sgs_var_pct_cambio_compra_usd",
         "bcb_sgs_var_pct_saldo_credito_total",
-        "bcb_sgs_var_pct_saldo_credito_pj",
         "bcb_sgs_var_pct_saldo_credito_pf",
         "bcb_sgs_var_pct_reservas_internacionais",
         "bcb_sgs_ipca_acum_12m",

@@ -88,14 +88,6 @@
         "valor_final":7372243.0
     },
     {
-        "variavel":"saldo_credito_pj",
-        "primeira_data":"2021-09-30T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1894119.0,
-        "valor_final":2731513.0
-    },
-    {
         "variavel":"saldo_credito_pf",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
@@ -182,14 +174,6 @@
         "observacoes":58,
         "valor_inicial":1.596467,
         "valor_final":0.257708
-    },
-    {
-        "variavel":"var_pct_saldo_credito_pj",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":0.888065,
-        "valor_final":-0.694824
     },
     {
         "variavel":"var_pct_saldo_credito_pf",
