@@ -333,6 +333,15 @@
         "percentual_preenchido":75.308642
     },
     {
+        "variavel":"bcb_sgs_cambio_compra_usd",
+        "primeira_data":"2021-09-30T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":5.4388,
+        "valor_final":5.1985,
+        "percentual_preenchido":75.308642
+    },
+    {
         "variavel":"bcb_sgs_saldo_credito_total",
         "primeira_data":"2021-09-30T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
@@ -429,6 +438,15 @@
         "observacoes":60,
         "valor_inicial":3.74306,
         "valor_final":0.337734,
+        "percentual_preenchido":74.074074
+    },
+    {
+        "variavel":"bcb_sgs_var_pct_cambio_compra_usd",
+        "primeira_data":"2021-10-31T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":3.743473,
+        "valor_final":0.337773,
         "percentual_preenchido":74.074074
     },
     {
