@@ -716,66 +716,6 @@
 2026-05-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,33.1,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
 2026-06-30,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,33.33,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.08,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
-2021-09-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,368886.0,Reservas internacionais.,diaria,mensal,ultimo
-2021-10-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,367927.0,Reservas internacionais.,diaria,mensal,ultimo
-2021-11-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,367772.0,Reservas internacionais.,diaria,mensal,ultimo
-2021-12-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,362204.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-01-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,358398.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-02-28,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,357740.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-03-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,353169.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-04-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,345097.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-05-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,346415.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-06-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,341958.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-07-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,346403.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-08-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,339664.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-09-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,327580.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-10-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,325546.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-11-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,331505.0,Reservas internacionais.,diaria,mensal,ultimo
-2022-12-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,324703.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-01-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,331122.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-02-28,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,328098.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-03-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,341158.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-04-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,345725.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-05-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,343489.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-06-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,343620.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-07-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,345476.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-08-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,344177.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-09-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,340324.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-10-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,340247.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-11-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,348406.0,Reservas internacionais.,diaria,mensal,ultimo
-2023-12-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,355034.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-01-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,355066.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-02-29,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,352705.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-03-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,355008.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-04-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,351599.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-05-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,355560.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-06-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,357827.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-07-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,363282.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-08-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,369214.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-09-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,372016.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-10-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,366096.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-11-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,363003.0,Reservas internacionais.,diaria,mensal,ultimo
-2024-12-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,329730.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-01-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,328303.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-02-28,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,332508.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-03-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,336157.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-04-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,340789.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-05-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,341459.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-06-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,344440.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-07-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,345111.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-08-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,350767.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-09-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,356582.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-10-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,357103.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-11-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,360578.0,Reservas internacionais.,diaria,mensal,ultimo
-2025-12-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,358234.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-01-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,364367.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-02-28,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,371074.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-03-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,362002.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-04-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,366913.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-05-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,371137.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-06-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,367558.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-07-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,369742.0,Reservas internacionais.,diaria,mensal,ultimo
-2026-08-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,372616.0,Reservas internacionais.,diaria,mensal,ultimo
 2021-09-30,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,2546936.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2021-10-31,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,2601017.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,2664395.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor

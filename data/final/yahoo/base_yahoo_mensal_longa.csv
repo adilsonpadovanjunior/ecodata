@@ -59,7 +59,7 @@
 2026-06-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,169.050003,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.995606
 2026-07-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,175.020004,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,3.5315
 2026-08-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,174.779999,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.13713
-2026-09-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,180.869995,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,3.484378
+2026-09-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,180.820007,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,3.455778
 2021-09-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.4143,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.6449,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,4.259089
 2021-11-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.6007,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-0.783007
@@ -364,7 +364,7 @@
 2026-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,435.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.219796
 2026-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,428.390015,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-1.666471
 2026-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,449.350006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.892736
-2026-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,451.149994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.400576
+2026-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,453.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.812283
 2021-09-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,536.75,Contrato futuro de milho.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,568.25,Contrato futuro de milho.,1d,mensal,ultimo,Close,5.868654
 2021-11-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,567.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,-0.219974
@@ -608,7 +608,7 @@
 2026-06-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,72.919998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-20.782188
 2026-07-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,90.120003,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,23.5875
 2026-08-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,90.489998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,0.410558
-2026-09-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,104.32,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,15.283459
+2026-09-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,97.440002,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,7.680412
 2021-09-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.029999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,83.57,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,11.382115
 2021-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,66.18,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,-20.808902
@@ -730,7 +730,7 @@
 2026-06-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,107.980003,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-2.711951
 2026-07-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,107.25,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-0.676054
 2026-08-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,106.129997,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-1.044292
-2026-09-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,109.949997,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,3.599359
+2026-09-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,110.449997,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,4.070479
 2021-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1256.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,
 2021-10-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1235.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-1.612261
 2021-11-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1217.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,-1.497067

@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-09-26 14:16:23",
+    "data_execucao": "2026-09-27 15:01:07",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -48,7 +48,6 @@
         "bcb_sgs_inadimplencia_pj",
         "bcb_sgs_inadimplencia_pf",
         "bcb_sgs_juros_credito_total",
-        "bcb_sgs_reservas_internacionais",
         "bcb_sgs_var_pct_ibc_br_sa",
         "bcb_sgs_var_pct_ibc_br",
         "bcb_sgs_var_pct_cambio_venda_usd",
@@ -56,7 +55,6 @@
         "bcb_sgs_var_pct_saldo_credito_total",
         "bcb_sgs_var_pct_saldo_credito_pj",
         "bcb_sgs_var_pct_saldo_credito_pf",
-        "bcb_sgs_var_pct_reservas_internacionais",
         "bcb_sgs_ipca_acum_12m",
         "bcb_sgs_igp_m_acum_12m",
         "bcb_sgs_inpc_acum_12m",
@@ -118,5 +116,5 @@
         "comexstat_soja_exceto_semeadura_imp_kg"
     ],
     "erros": [],
-    "total_series_exportadas": 113
+    "total_series_exportadas": 111
 }

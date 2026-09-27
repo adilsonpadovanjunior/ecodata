@@ -13,7 +13,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":106.489998,
-        "valor_final":180.869995
+        "valor_final":180.820007
     },
     {
         "variavel":"smal11",
@@ -21,7 +21,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":127.400002,
-        "valor_final":109.949997
+        "valor_final":110.449997
     },
     {
         "variavel":"ivvb11",
@@ -29,7 +29,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":255.0,
-        "valor_final":451.149994
+        "valor_final":453.0
     },
     {
         "variavel":"dolar_real",
@@ -93,7 +93,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":78.519997,
-        "valor_final":104.32
+        "valor_final":97.440002
     },
     {
         "variavel":"soja",

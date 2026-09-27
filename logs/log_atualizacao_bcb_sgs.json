@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-09-26 14:12:55",
+    "data_execucao": "2026-09-27 14:57:42",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -24,9 +24,11 @@
         "reservas_internacionais": 3546
     },
     "status": "concluido",
-    "erros": [],
+    "erros": [
+        "Erro na série reservas_internacionais | SGS 3546: 502 Server Error: Bad Gateway for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.3546/dados?formato=json&dataInicial=27%2F09%2F2021&dataFinal=27%2F09%2F2026"
+    ],
     "linhas_base_larga": 61,
-    "linhas_base_longa": 1076,
+    "linhas_base_longa": 1016,
     "data_inicial_base": "2021-09-30 00:00:00",
     "data_final_base": "2026-09-30 00:00:00",
     "colunas_base_larga": [
@@ -48,7 +50,6 @@
         "inadimplencia_pj",
         "inadimplencia_pf",
         "juros_credito_total",
-        "reservas_internacionais",
         "var_pct_ibc_br_sa",
         "var_pct_ibc_br",
         "var_pct_cambio_venda_usd",
@@ -56,7 +57,6 @@
         "var_pct_saldo_credito_total",
         "var_pct_saldo_credito_pj",
         "var_pct_saldo_credito_pf",
-        "var_pct_reservas_internacionais",
         "ipca_acum_12m",
         "igp_m_acum_12m",
         "inpc_acum_12m",
