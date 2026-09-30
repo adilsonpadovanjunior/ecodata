@@ -5,7 +5,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":110979.0,
-        "valor_final":182503.359375
+        "valor_final":185742.0625
     },
     {
         "variavel":"bova11",
@@ -13,7 +13,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":106.489998,
-        "valor_final":179.679993
+        "valor_final":182.880005
     },
     {
         "variavel":"smal11",
@@ -21,7 +21,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":127.400002,
-        "valor_final":108.690002
+        "valor_final":110.900002
     },
     {
         "variavel":"ivvb11",
@@ -29,7 +29,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":255.0,
-        "valor_final":452.390015
+        "valor_final":450.890015
     },
     {
         "variavel":"dolar_real",
@@ -37,7 +37,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.4143,
-        "valor_final":5.2357
+        "valor_final":5.1848
     },
     {
         "variavel":"euro_real",
@@ -45,7 +45,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":6.2785,
-        "valor_final":5.9313
+        "valor_final":5.8759
     },
     {
         "variavel":"sp500",
@@ -53,7 +53,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":4307.540039,
-        "valor_final":7660.899902
+        "valor_final":7715.97998
     },
     {
         "variavel":"nasdaq",
@@ -61,7 +61,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":14448.580078,
-        "valor_final":26779.210938
+        "valor_final":27077.017578
     },
     {
         "variavel":"dow_jones",
@@ -69,7 +69,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":33843.921875,
-        "valor_final":51162.320312
+        "valor_final":51323.691406
     },
     {
         "variavel":"ouro",
@@ -77,7 +77,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1757.0,
-        "valor_final":4185.399902
+        "valor_final":4191.299805
     },
     {
         "variavel":"petroleo_wti",
@@ -85,7 +85,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":75.029999,
-        "valor_final":90.440002
+        "valor_final":91.379997
     },
     {
         "variavel":"petroleo_brent",
@@ -93,7 +93,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":78.519997,
-        "valor_final":96.769997
+        "valor_final":98.830002
     },
     {
         "variavel":"soja",
@@ -101,7 +101,7 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1256.0,
-        "valor_final":1298.75
+        "valor_final":1309.75
     },
     {
         "variavel":"milho",
@@ -109,6 +109,6 @@
         "ultima_data":"2026-09-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":536.75,
-        "valor_final":522.0
+        "valor_final":513.5
     }
 ]
