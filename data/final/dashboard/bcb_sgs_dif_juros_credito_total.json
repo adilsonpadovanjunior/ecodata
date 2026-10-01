@@ -7,10 +7,10 @@
         "fonte": "bcb_sgs",
         "grupo": "politica_monetaria",
         "frequencia": "mensal",
-        "primeira_data": "2021-10-31",
+        "primeira_data": "2021-11-30",
         "ultima_data": "2026-08-31",
-        "observacoes": 59,
-        "data_geracao": "2026-09-30 16:24:25",
+        "observacoes": 58,
+        "data_geracao": "2026-10-01 16:54:34",
         "arquivo_origem": "data/final/series/bcb_sgs_dif_juros_credito_total.csv",
         "unidade": null,
         "descricao": null,
@@ -33,16 +33,16 @@
         "desvio_media_movel_3_pct": -184.507042,
         "desvio_media_movel_12_pct": 515.384615,
         "volatilidade_12_meses": 169.783838,
-        "media_historica": 0.183729,
-        "mediana_historica": 0.12,
-        "desvio_padrao_historico": 0.567912,
+        "media_historica": 0.161552,
+        "mediana_historica": 0.095,
+        "desvio_padrao_historico": 0.546494,
         "minimo_historico": -0.88,
         "data_minimo_historico": "2022-12-31",
-        "maximo_historico": 1.47,
-        "data_maximo_historico": "2021-10-31",
+        "maximo_historico": 1.38,
+        "data_maximo_historico": "2025-01-31",
         "minimo_ultimos_12_meses": -0.57,
         "maximo_ultimos_12_meses": 0.58,
-        "percentil_historico": 57.627119,
+        "percentil_historico": 58.62069,
         "sequencia_atual": {
             "direcao": "alta",
             "periodos": 1
@@ -53,8 +53,8 @@
     },
     "serie": [
         {
-            "data": "2021-10-31",
-            "valor": 1.47,
+            "data": "2021-11-30",
+            "valor": 1.02,
             "variacao_absoluta_1_mes": null,
             "variacao_absoluta_3_meses": null,
             "variacao_absoluta_12_meses": null,
@@ -68,28 +68,8 @@
             "desvio_media_movel_3_pct": null,
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
-            "minimo_movel_12_meses": 1.47,
-            "maximo_movel_12_meses": 1.47,
-            "aceleracao_variacao_mensal": null
-        },
-        {
-            "data": "2021-11-30",
-            "valor": 1.02,
-            "variacao_absoluta_1_mes": -0.45,
-            "variacao_absoluta_3_meses": null,
-            "variacao_absoluta_12_meses": null,
-            "variacao_1_mes_pct": -30.612245,
-            "variacao_3_meses_pct": null,
-            "variacao_6_meses_pct": null,
-            "variacao_12_meses_pct": null,
-            "media_movel_3": null,
-            "media_movel_6": null,
-            "media_movel_12": null,
-            "desvio_media_movel_3_pct": null,
-            "desvio_media_movel_12_pct": null,
-            "volatilidade_12_meses": null,
             "minimo_movel_12_meses": 1.02,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": null
         },
         {
@@ -102,24 +82,24 @@
             "variacao_3_meses_pct": null,
             "variacao_6_meses_pct": null,
             "variacao_12_meses_pct": null,
-            "media_movel_3": 0.93,
+            "media_movel_3": null,
             "media_movel_6": null,
             "media_movel_12": null,
-            "desvio_media_movel_3_pct": -67.741935,
+            "desvio_media_movel_3_pct": null,
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": 0.3,
-            "maximo_movel_12_meses": 1.47,
-            "aceleracao_variacao_mensal": -39.97599
+            "maximo_movel_12_meses": 1.02,
+            "aceleracao_variacao_mensal": null
         },
         {
             "data": "2022-01-31",
             "valor": 1.02,
             "variacao_absoluta_1_mes": 0.72,
-            "variacao_absoluta_3_meses": -0.45,
+            "variacao_absoluta_3_meses": null,
             "variacao_absoluta_12_meses": null,
             "variacao_1_mes_pct": 240.0,
-            "variacao_3_meses_pct": -30.612245,
+            "variacao_3_meses_pct": null,
             "variacao_6_meses_pct": null,
             "variacao_12_meses_pct": null,
             "media_movel_3": 0.78,
@@ -129,7 +109,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": 0.3,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": 310.588235
         },
         {
@@ -149,7 +129,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": 0.3,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": -300.784314
         },
         {
@@ -163,13 +143,13 @@
             "variacao_6_meses_pct": null,
             "variacao_12_meses_pct": null,
             "media_movel_3": 0.776667,
-            "media_movel_6": 0.853333,
+            "media_movel_6": null,
             "media_movel_12": null,
             "desvio_media_movel_3_pct": 17.167382,
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": 0.3,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": 188.284314
         },
         {
@@ -180,7 +160,7 @@
             "variacao_absoluta_12_meses": null,
             "variacao_1_mes_pct": 1.098901,
             "variacao_3_meses_pct": -9.803922,
-            "variacao_6_meses_pct": -37.414966,
+            "variacao_6_meses_pct": null,
             "variacao_12_meses_pct": null,
             "media_movel_3": 0.743333,
             "media_movel_6": 0.761667,
@@ -189,7 +169,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": 0.3,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": -126.401099
         },
         {
@@ -209,7 +189,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.04,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": -105.446727
         },
         {
@@ -229,7 +209,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.04,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.02,
             "aceleracao_variacao_mensal": -1145.652174
         },
         {
@@ -249,7 +229,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.04,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.36,
             "aceleracao_variacao_mensal": 1445.652174
         },
         {
@@ -269,7 +249,7 @@
             "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.64,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.36,
             "aceleracao_variacao_mensal": -342.710997
         },
         {
@@ -284,12 +264,12 @@
             "variacao_12_meses_pct": null,
             "media_movel_3": 0.23,
             "media_movel_6": 0.338333,
-            "media_movel_12": 0.595833,
+            "media_movel_12": null,
             "desvio_media_movel_3_pct": -113.043478,
-            "desvio_media_movel_12_pct": -105.034965,
+            "desvio_media_movel_12_pct": null,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.64,
-            "maximo_movel_12_meses": 1.47,
+            "maximo_movel_12_meses": 1.36,
             "aceleracao_variacao_mensal": 51.746324
         },
         {
@@ -297,17 +277,17 @@
             "valor": 1.11,
             "variacao_absoluta_1_mes": 1.14,
             "variacao_absoluta_3_meses": -0.25,
-            "variacao_absoluta_12_meses": -0.36,
+            "variacao_absoluta_12_meses": null,
             "variacao_1_mes_pct": -3800.0,
             "variacao_3_meses_pct": -18.382353,
             "variacao_6_meses_pct": 20.652174,
-            "variacao_12_meses_pct": -24.489796,
+            "variacao_12_meses_pct": null,
             "media_movel_3": 0.146667,
             "media_movel_6": 0.37,
             "media_movel_12": 0.565833,
             "desvio_media_movel_3_pct": 656.818182,
             "desvio_media_movel_12_pct": 96.170839,
-            "volatilidade_12_meses": 1131.657582,
+            "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.64,
             "maximo_movel_12_meses": 1.36,
             "aceleracao_variacao_mensal": -3704.6875
