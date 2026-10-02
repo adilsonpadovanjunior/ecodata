@@ -4,9 +4,9 @@ bcb_sgs_ibc_br_sa,IBC BR SA,,bcb_sgs,atividade,mensal,58,2021-10-31,2026-07-31,d
 bcb_sgs_var_pct_ibc_br,VAR PCT IBC BR,,bcb_sgs,atividade,mensal,57,2021-11-30,2026-07-31,data/final/dashboard/bcb_sgs_var_pct_ibc_br.json,data/final/series/bcb_sgs_var_pct_ibc_br.csv
 bcb_sgs_var_pct_ibc_br_sa,VAR PCT IBC BR SA,,bcb_sgs,atividade,mensal,57,2021-11-30,2026-07-31,data/final/dashboard/bcb_sgs_var_pct_ibc_br_sa.json,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv
 bcb_sgs_cambio_compra_usd,Cambio Compra USD,,bcb_sgs,cambio,mensal,61,2021-10-31,2026-10-31,data/final/dashboard/bcb_sgs_cambio_compra_usd.json,data/final/series/bcb_sgs_cambio_compra_usd.csv
-bcb_sgs_cambio_venda_usd,Cambio Venda USD,,bcb_sgs,cambio,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_cambio_venda_usd.json,data/final/series/bcb_sgs_cambio_venda_usd.csv
+bcb_sgs_cambio_venda_usd,Cambio Venda USD,,bcb_sgs,cambio,mensal,61,2021-10-31,2026-10-31,data/final/dashboard/bcb_sgs_cambio_venda_usd.json,data/final/series/bcb_sgs_cambio_venda_usd.csv
 bcb_sgs_var_pct_cambio_compra_usd,VAR PCT Cambio Compra USD,,bcb_sgs,cambio,mensal,60,2021-11-30,2026-10-31,data/final/dashboard/bcb_sgs_var_pct_cambio_compra_usd.json,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.csv
-bcb_sgs_var_pct_cambio_venda_usd,VAR PCT Cambio Venda USD,,bcb_sgs,cambio,mensal,59,2021-11-30,2026-09-30,data/final/dashboard/bcb_sgs_var_pct_cambio_venda_usd.json,data/final/series/bcb_sgs_var_pct_cambio_venda_usd.csv
+bcb_sgs_var_pct_cambio_venda_usd,VAR PCT Cambio Venda USD,,bcb_sgs,cambio,mensal,60,2021-11-30,2026-10-31,data/final/dashboard/bcb_sgs_var_pct_cambio_venda_usd.json,data/final/series/bcb_sgs_var_pct_cambio_venda_usd.csv
 comexstat_comex_corrente_comercio_usd,Comexstat Comex Corrente Comercio USD,,consolidada,cambio,mensal,80,2020-01-31,2026-08-31,data/final/dashboard/comexstat_comex_corrente_comercio_usd.json,data/final/series/comexstat_comex_corrente_comercio_usd.csv
 comexstat_comex_exportacoes_fob_usd,Comexstat Comex Exportacoes FOB USD,,consolidada,cambio,mensal,80,2020-01-31,2026-08-31,data/final/dashboard/comexstat_comex_exportacoes_fob_usd.json,data/final/series/comexstat_comex_exportacoes_fob_usd.csv
 comexstat_comex_importacoes_cif_usd,Comexstat Comex Importacoes CIF USD,,consolidada,cambio,mensal,80,2020-01-31,2026-08-31,data/final/dashboard/comexstat_comex_importacoes_cif_usd.json,data/final/series/comexstat_comex_importacoes_cif_usd.csv
@@ -142,13 +142,13 @@ comexstat_soja_exceto_semeadura_exp_fob,Comexstat SOJA Exceto Semeadura EXP FOB,
 comexstat_soja_exceto_semeadura_exp_kg,Comexstat SOJA Exceto Semeadura EXP KG,,consolidada,outros,mensal,80,2020-01-31,2026-08-31,data/final/dashboard/comexstat_soja_exceto_semeadura_exp_kg.json,data/final/series/comexstat_soja_exceto_semeadura_exp_kg.csv
 comexstat_soja_exceto_semeadura_imp_fob,Comexstat SOJA Exceto Semeadura IMP FOB,,consolidada,outros,mensal,76,2020-01-31,2026-08-31,data/final/dashboard/comexstat_soja_exceto_semeadura_imp_fob.json,data/final/series/comexstat_soja_exceto_semeadura_imp_fob.csv
 comexstat_soja_exceto_semeadura_imp_kg,Comexstat SOJA Exceto Semeadura IMP KG,,consolidada,outros,mensal,76,2020-01-31,2026-08-31,data/final/dashboard/comexstat_soja_exceto_semeadura_imp_kg.json,data/final/series/comexstat_soja_exceto_semeadura_imp_kg.csv
-bcb_sgs_cdi,CDI,,bcb_sgs,politica_monetaria,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_cdi.json,data/final/series/bcb_sgs_cdi.csv
-bcb_sgs_dif_cdi,DIF CDI,,bcb_sgs,politica_monetaria,mensal,59,2021-11-30,2026-09-30,data/final/dashboard/bcb_sgs_dif_cdi.json,data/final/series/bcb_sgs_dif_cdi.csv
+bcb_sgs_cdi,CDI,,bcb_sgs,politica_monetaria,mensal,61,2021-10-31,2026-10-31,data/final/dashboard/bcb_sgs_cdi.json,data/final/series/bcb_sgs_cdi.csv
+bcb_sgs_dif_cdi,DIF CDI,,bcb_sgs,politica_monetaria,mensal,60,2021-11-30,2026-10-31,data/final/dashboard/bcb_sgs_dif_cdi.json,data/final/series/bcb_sgs_dif_cdi.csv
 bcb_sgs_dif_juros_credito_total,DIF Juros Credito Total,,bcb_sgs,politica_monetaria,mensal,58,2021-11-30,2026-08-31,data/final/dashboard/bcb_sgs_dif_juros_credito_total.json,data/final/series/bcb_sgs_dif_juros_credito_total.csv
 bcb_sgs_dif_selic_meta,DIF Selic META,,bcb_sgs,politica_monetaria,mensal,60,2021-11-30,2026-10-31,data/final/dashboard/bcb_sgs_dif_selic_meta.json,data/final/series/bcb_sgs_dif_selic_meta.csv
-bcb_sgs_dif_selic_over,DIF Selic OVER,,bcb_sgs,politica_monetaria,mensal,59,2021-11-30,2026-09-30,data/final/dashboard/bcb_sgs_dif_selic_over.json,data/final/series/bcb_sgs_dif_selic_over.csv
+bcb_sgs_dif_selic_over,DIF Selic OVER,,bcb_sgs,politica_monetaria,mensal,60,2021-11-30,2026-10-31,data/final/dashboard/bcb_sgs_dif_selic_over.json,data/final/series/bcb_sgs_dif_selic_over.csv
 bcb_sgs_juros_credito_total,Juros Credito Total,,bcb_sgs,politica_monetaria,mensal,59,2021-10-31,2026-08-31,data/final/dashboard/bcb_sgs_juros_credito_total.json,data/final/series/bcb_sgs_juros_credito_total.csv
 bcb_sgs_selic_meta,Selic META,,bcb_sgs,politica_monetaria,mensal,61,2021-10-31,2026-10-31,data/final/dashboard/bcb_sgs_selic_meta.json,data/final/series/bcb_sgs_selic_meta.csv
-bcb_sgs_selic_over,Selic OVER,,bcb_sgs,politica_monetaria,mensal,60,2021-10-31,2026-09-30,data/final/dashboard/bcb_sgs_selic_over.json,data/final/series/bcb_sgs_selic_over.csv
+bcb_sgs_selic_over,Selic OVER,,bcb_sgs,politica_monetaria,mensal,61,2021-10-31,2026-10-31,data/final/dashboard/bcb_sgs_selic_over.json,data/final/series/bcb_sgs_selic_over.csv
 bcb_sgs_reservas_internacionais,Reservas Internacionais,,bcb_sgs,setor_externo,mensal,59,2021-10-31,2026-08-31,data/final/dashboard/bcb_sgs_reservas_internacionais.json,data/final/series/bcb_sgs_reservas_internacionais.csv
 bcb_sgs_var_pct_reservas_internacionais,VAR PCT Reservas Internacionais,,bcb_sgs,setor_externo,mensal,58,2021-11-30,2026-08-31,data/final/dashboard/bcb_sgs_var_pct_reservas_internacionais.json,data/final/series/bcb_sgs_var_pct_reservas_internacionais.csv
