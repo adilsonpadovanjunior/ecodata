@@ -76,9 +76,10 @@
 2026-03-31,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1146821637,201398416
 2026-04-30,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1377324044,223553179
 2026-05-31,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1524891494,237104347
-2026-06-30,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1602350318,248837040
-2026-07-31,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1201408088,193061335
-2026-08-31,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,967242706,162300453
+2026-06-30,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1604689886,248809399
+2026-07-31,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,1202269384,193061335
+2026-08-31,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,967264803,162300453
+2026-09-30,exportacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,950751177,156467198
 2020-01-31,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,9788257,1182973
 2020-02-29,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,5614443,789959
 2020-03-31,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,6883075,943236
@@ -159,6 +160,7 @@
 2026-06-30,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,8385042,709333
 2026-07-31,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,11239167,1022474
 2026-08-31,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,9868969,942383
+2026-09-30,importacao,02023000,carne_bovina_congelada,"Carnes desossadas de bovino, congeladas",proteina_animal,10523613,988603
 2020-01-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,357877575,163332129
 2020-02-29,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,380335045,168533489
 2020-03-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,409748404,182486761
@@ -231,14 +233,15 @@
 2025-10-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1521520760,233087155
 2025-11-30,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1496748219,212150727
 2025-12-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1537497035,210301796
-2026-01-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1013528628,141224032
+2026-01-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1013537659,141224032
 2026-02-28,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1020635732,141967940
 2026-03-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,997837015,151241226
-2026-04-30,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1072315176,171392428
-2026-05-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,912935086,155169290
-2026-06-30,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,934557701,167705205
-2026-07-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,813952881,152934524
-2026-08-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1094109253,206264157
+2026-04-30,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1072316499,171392428
+2026-05-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,912871064,155153890
+2026-06-30,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,934580723,167708805
+2026-07-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,814022100,152934524
+2026-08-31,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1094443369,206264157
+2026-09-30,exportacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1292800592,235659946
 2020-07-31,importacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,31418,20000
 2021-03-31,importacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,50626,36036
 2022-04-30,importacao,09011110,cafe_nao_torrado,"Café não torrado, não descafeinado, em grão",agropecuaria,1151531,597000
@@ -333,14 +336,15 @@
 2025-10-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,1325675240,6495640646
 2025-11-30,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,1048119059,5026865783
 2025-12-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,1305773548,6124177918
-2026-01-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,925674649,4245185990
+2026-01-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,913562892,4193768101
 2026-02-28,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,329104188,1512529636
 2026-03-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,219383824,981132619
 2026-04-30,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,110324742,470339259
 2026-05-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,61044053,249314295
 2026-06-30,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,97583401,434050383
 2026-07-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,406526270,1941216352
-2026-08-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,1002656682,4653100189
+2026-08-31,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,989881482,4648770261
+2026-09-30,exportacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,1228786726,5207728793
 2020-01-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,26216991,196178640
 2020-02-29,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,12586676,87550880
 2020-03-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,12143510,73944650
@@ -419,8 +423,9 @@
 2026-04-30,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,11267058,64056000
 2026-05-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,7128058,40053800
 2026-06-30,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,15449207,89731429
-2026-07-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,28986392,175804570
-2026-08-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,33273820,199281400
+2026-07-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,28970014,175710260
+2026-08-31,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,33267163,199242360
+2026-09-30,importacao,10059010,milho_em_grao,"Milho em grão, exceto para semeadura",agropecuaria,37058160,220704294
 2020-01-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,504774218,1397018249
 2020-02-29,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,1692755740,4833963765
 2020-03-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,3742530966,10853230037
@@ -494,13 +499,14 @@
 2025-11-30,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,1827759344,4197158548
 2025-12-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,1498479236,3383154737
 2026-01-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,821893814,1876528754
-2026-02-28,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,2897179100,7101012525
+2026-02-28,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,2897179101,7101012525
 2026-03-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,5898197640,14518012801
-2026-04-30,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6962355250,16750088436
-2026-05-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6290576208,14825071266
-2026-06-30,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6266776914,14505017737
-2026-07-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,5869552552,13405907808
-2026-08-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,4410039153,9808807495
+2026-04-30,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6962355252,16750088436
+2026-05-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6289797046,14825071267
+2026-06-30,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6265912842,14505017737
+2026-07-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,5870448703,13405907808
+2026-08-31,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,4414965758,9810807500
+2026-09-30,exportacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,3473089697,7358383641
 2020-01-31,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,6305340,19690000
 2020-02-29,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,18348101,58738809
 2020-03-31,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,8231479,27555840
@@ -575,8 +581,9 @@
 2026-04-30,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,32196150,89900000
 2026-05-31,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,33901960,92940000
 2026-06-30,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,23173174,62832000
-2026-07-31,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,24415856,62866000
+2026-07-31,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,23848605,61696410
 2026-08-31,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,44621019,109088024
+2026-09-30,importacao,12019000,soja_exceto_semeadura,"Soja, mesmo triturada, exceto para semeadura",agropecuaria,51965570,117130000
 2020-01-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,395907378,1403790404
 2020-02-29,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,315246552,1100829789
 2020-03-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,349154261,1210250230
@@ -649,14 +656,15 @@
 2025-10-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,1386420650,3604402385
 2025-11-30,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,1081503488,2924278368
 2025-12-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,906238964,2468804719
-2026-01-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,619967622,1693480220
-2026-02-28,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,713726654,1982573452
-2026-03-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,543861591,1551914338
-2026-04-30,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,344673367,958119849
-2026-05-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,617450435,1806544416
-2026-06-30,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,938953227,2770311509
-2026-07-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,844057652,2529930057
-2026-08-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,753147930,2221291720
+2026-01-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,621313185,1693480220
+2026-02-28,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,717030066,1982573452
+2026-03-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,545703069,1551914338
+2026-04-30,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,346153809,958119849
+2026-05-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,620395097,1806544416
+2026-06-30,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,950478133,2770311509
+2026-07-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,846757948,2529930057
+2026-08-31,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,752297715,2220715368
+2026-09-30,exportacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,809708916,2306235692
 2020-01-31,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,42579,41657
 2020-03-31,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,39459,41184
 2020-04-30,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,108517,113144
@@ -736,6 +744,7 @@
 2026-06-30,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,216074,184747
 2026-07-31,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,144209,122615
 2026-08-31,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,170442,143344
+2026-09-30,importacao,17011400,acucares_cana,Outros açúcares de cana,agroindustria,144681,122543
 2020-01-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,281324952,831821378
 2020-02-29,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,200091469,604759726
 2020-03-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,392837021,1178621604
@@ -811,11 +820,12 @@
 2026-01-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,514236235,1486068163
 2026-02-28,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,453018072,1323209217
 2026-03-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,512691101,1492590059
-2026-04-30,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,632395834,1822814124
-2026-05-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,735872995,2058375168
+2026-04-30,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,632395835,1822814124
+2026-05-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,731859065,2046900168
 2026-06-30,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,707759549,1980293916
 2026-07-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,647927068,1830589138
-2026-08-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,646488066,1790486389
+2026-08-31,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,644929294,1785896563
+2026-09-30,exportacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,755950210,1941525390
 2020-02-29,importacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,2282,2500
 2021-11-30,importacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,148800,240000
 2022-09-30,importacao,23040090,residuos_oleo_soja,"Bagaços e outros resíduos sólidos, da extração do óleo de soja",agroindustria,253625,288210
@@ -893,14 +903,15 @@
 2025-10-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2694565903,37996324985
 2025-11-30,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2403150648,32970050219
 2025-12-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2613454215,37425465360
-2026-01-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1843157505,26379004618
-2026-02-28,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1840522680,26187389970
-2026-03-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1779291584,25768212538
-2026-04-30,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2137280898,31609434000
-2026-05-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1683117561,25568797966
-2026-06-30,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2569324747,39666979151
-2026-07-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2131758139,35002833875
-2026-08-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2051566400,34406447895
+2026-01-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1843476386,26379004618
+2026-02-28,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1833120931,26187389970
+2026-03-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1774813115,25768212538
+2026-04-30,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2115096466,31609434000
+2026-05-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1657447109,25568797966
+2026-06-30,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2561140623,39666979151
+2026-07-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2132007782,34974584205
+2026-08-31,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,2037904434,34351503645
+2026-09-30,exportacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1771842975,31660490297
 2020-01-31,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,6207,7200
 2020-03-31,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,13333,167955
 2020-04-30,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1297,1200
@@ -967,6 +978,7 @@
 2026-06-30,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,3681,2518
 2026-07-31,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,1798,1000
 2026-08-31,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,6950029,78331372
+2026-09-30,importacao,26011100,minerio_ferro_nao_aglomerado,"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",mineracao,5139747,61011592
 2020-01-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,1707992437,4221906804
 2020-02-29,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,2316023766,5881213247
 2020-03-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,2023525022,6381916325
@@ -1045,8 +1057,9 @@
 2026-04-30,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,5116324272,8148992469
 2026-05-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,3632605695,5429955351
 2026-06-30,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,5722117993,8453060256
-2026-07-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,4737463030,7674971451
-2026-08-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,4828191084,8379911835
+2026-07-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,4629365093,7672032952
+2026-08-31,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,4588224684,8358755854
+2026-09-30,exportacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,6498868606,11689652591
 2020-01-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,207990371,432290309
 2020-02-29,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,333210945,689099760
 2020-03-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,301306165,664246199
@@ -1125,8 +1138,9 @@
 2026-04-30,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,667934481,867908929
 2026-05-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,346085097,430988678
 2026-06-30,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,765186840,910582185
-2026-07-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,736291615,1020215096
-2026-08-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,547298813,797225701
+2026-07-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,737457317,1020333259
+2026-08-31,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,561128509,798168982
+2026-09-30,importacao,27090010,oleos_brutos_petroleo,Óleos brutos de petróleo,energia,631617247,893774707
 2020-01-31,exportacao,27101922,fuel_oil,Fuel oil,energia,401663716,955961547
 2020-02-29,exportacao,27101922,fuel_oil,Fuel oil,energia,404649679,1059454064
 2020-03-31,exportacao,27101922,fuel_oil,Fuel oil,energia,402851250,1553966166
@@ -1205,8 +1219,9 @@
 2026-04-30,exportacao,27101922,fuel_oil,Fuel oil,energia,941665683,1385212710
 2026-05-31,exportacao,27101922,fuel_oil,Fuel oil,energia,626892212,953425998
 2026-06-30,exportacao,27101922,fuel_oil,Fuel oil,energia,878000457,1353692378
-2026-07-31,exportacao,27101922,fuel_oil,Fuel oil,energia,589861744,959864111
-2026-08-31,exportacao,27101922,fuel_oil,Fuel oil,energia,893582419,1438094595
+2026-07-31,exportacao,27101922,fuel_oil,Fuel oil,energia,547522432,927703584
+2026-08-31,exportacao,27101922,fuel_oil,Fuel oil,energia,852206570,1383886863
+2026-09-30,exportacao,27101922,fuel_oil,Fuel oil,energia,649437972,942054629
 2020-12-31,importacao,27101922,fuel_oil,Fuel oil,energia,13124930,40054409
 2021-08-31,importacao,27101922,fuel_oil,Fuel oil,energia,50718929,104382520
 2021-09-30,importacao,27101922,fuel_oil,Fuel oil,energia,74001330,147378059
@@ -1330,6 +1345,7 @@
 2026-06-30,exportacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,818149165,1661442904
 2026-07-31,exportacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,904164745,1733908493
 2026-08-31,exportacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,748163251,1412673002
+2026-09-30,exportacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,892280162,1801287673
 2020-01-31,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,23393,40720
 2020-03-31,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,12446,20480
 2020-04-30,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,29042,60480
@@ -1400,3 +1416,4 @@
 2026-06-30,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,1169186,1569142
 2026-07-31,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,1032668,904209
 2026-08-31,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,1381516,1452782
+2026-09-30,importacao,47032900,celulose_nao_coniferas,"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",celulose,1255725,1333748

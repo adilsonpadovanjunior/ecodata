@@ -1,11 +1,11 @@
 {
     "fonte": "Comex Stat/MDIC",
-    "coletado_em": "2026-10-06T16:29:53+00:00",
+    "coletado_em": "2026-10-07T17:11:56+00:00",
     "ultima_atualizacao": {
-        "data_atualizacao_fonte": "2026-09-04",
+        "data_atualizacao_fonte": "2026-10-06",
         "ano_ultimo_periodo": 2026,
-        "mes_ultimo_periodo": 8,
-        "ultimo_periodo": "2026-08"
+        "mes_ultimo_periodo": 9,
+        "ultimo_periodo": "2026-09"
     },
     "exportacao": {
         "fluxo": "export",
@@ -491,14 +491,14 @@
             {
                 "periodo": {
                     "from": "2026-01",
-                    "to": "2026-08"
+                    "to": "2026-09"
                 },
                 "payload": {
                     "flow": "export",
                     "monthDetail": true,
                     "period": {
                         "from": "2026-01",
-                        "to": "2026-08"
+                        "to": "2026-09"
                     },
                     "filters": [],
                     "details": [],
@@ -507,55 +507,61 @@
                         "metricKG"
                     ]
                 },
-                "quantidade_registros": 8,
+                "quantidade_registros": 9,
                 "dados": [
                     {
                         "year": "2026",
                         "monthNumber": "06",
-                        "metricFOB": "35492956607",
-                        "metricKG": "82860091366"
+                        "metricFOB": "35499628278",
+                        "metricKG": "82859912220"
+                    },
+                    {
+                        "year": "2026",
+                        "monthNumber": "09",
+                        "metricFOB": "34418070076",
+                        "metricKG": "76342513744"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "04",
-                        "metricFOB": "34303112660",
-                        "metricKG": "75020929456"
+                        "metricFOB": "34286658184",
+                        "metricKG": "75020841917"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "07",
-                        "metricFOB": "33723397019",
-                        "metricKG": "77871209960"
+                        "metricFOB": "33577433983",
+                        "metricKG": "77797817457"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "08",
-                        "metricFOB": "33157804370",
-                        "metricKG": "77119199389"
+                        "metricFOB": "32732183002",
+                        "metricKG": "76672534789"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "03",
-                        "metricFOB": "31767869262",
-                        "metricKG": "69086532981"
+                        "metricFOB": "31766018083",
+                        "metricKG": "69086215319"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "05",
-                        "metricFOB": "31557335963",
-                        "metricKG": "63575354725"
+                        "metricFOB": "31529852245",
+                        "metricKG": "63563467072"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "02",
-                        "metricFOB": "26276065434",
-                        "metricKG": "61246580653"
+                        "metricFOB": "26270542130",
+                        "metricKG": "61246448586"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "01",
-                        "metricFOB": "24576605744",
-                        "metricKG": "59812186143"
+                        "metricFOB": "24573982812",
+                        "metricKG": "59760718624"
                     }
                 ]
             }
@@ -1267,14 +1273,14 @@
             {
                 "periodo": {
                     "from": "2026-01",
-                    "to": "2026-08"
+                    "to": "2026-09"
                 },
                 "payload": {
                     "flow": "import",
                     "monthDetail": true,
                     "period": {
                         "from": "2026-01",
-                        "to": "2026-08"
+                        "to": "2026-09"
                     },
                     "filters": [],
                     "details": [],
@@ -1286,79 +1292,88 @@
                         "metricCIF"
                     ]
                 },
-                "quantidade_registros": 8,
+                "quantidade_registros": 9,
                 "dados": [
                     {
                         "year": "2026",
                         "monthNumber": "07",
-                        "metricFOB": "27158319765",
-                        "metricFreight": "1471041432",
-                        "metricInsurance": "26306646",
-                        "metricCIF": "28655667843",
-                        "metricKG": "16655220670"
+                        "metricFOB": "27159421177",
+                        "metricFreight": "1471017620",
+                        "metricInsurance": "26306641",
+                        "metricCIF": "28656745438",
+                        "metricKG": "16655525507"
+                    },
+                    {
+                        "year": "2026",
+                        "monthNumber": "09",
+                        "metricFOB": "26677510096",
+                        "metricFreight": "1611232587",
+                        "metricInsurance": "27463449",
+                        "metricCIF": "28316206132",
+                        "metricKG": "14665789542"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "06",
-                        "metricFOB": "26493857835",
-                        "metricFreight": "1322948542",
-                        "metricInsurance": "23910838",
-                        "metricCIF": "27840717215",
-                        "metricKG": "14024278044"
+                        "metricFOB": "26495200506",
+                        "metricFreight": "1322972352",
+                        "metricInsurance": "23834159",
+                        "metricCIF": "27842007017",
+                        "metricKG": "14023235066"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "08",
-                        "metricFOB": "25763862100",
-                        "metricFreight": "1548184686",
-                        "metricInsurance": "19241881",
-                        "metricCIF": "27331288667",
-                        "metricKG": "14073182023"
+                        "metricFOB": "25823660146",
+                        "metricFreight": "1546788681",
+                        "metricInsurance": "19260288",
+                        "metricCIF": "27389709115",
+                        "metricKG": "14050480944"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "03",
-                        "metricFOB": "25308911941",
-                        "metricFreight": "1095660149",
-                        "metricInsurance": "30697751",
-                        "metricCIF": "26435269841",
-                        "metricKG": "15883329662"
+                        "metricFOB": "25309170318",
+                        "metricFreight": "1095622190",
+                        "metricInsurance": "30697718",
+                        "metricCIF": "26435490226",
+                        "metricKG": "15883566500"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "05",
-                        "metricFOB": "24118232383",
-                        "metricFreight": "1222605122",
-                        "metricInsurance": "30748299",
-                        "metricCIF": "25371585804",
-                        "metricKG": "14126830781"
+                        "metricFOB": "24120363018",
+                        "metricFreight": "1222549479",
+                        "metricInsurance": "30748501",
+                        "metricCIF": "25373660998",
+                        "metricKG": "14124507396"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "04",
-                        "metricFOB": "23647082379",
-                        "metricFreight": "1093353315",
-                        "metricInsurance": "26781461",
-                        "metricCIF": "24767217155",
-                        "metricKG": "14068303977"
+                        "metricFOB": "23650669724",
+                        "metricFreight": "1093376528",
+                        "metricInsurance": "26781417",
+                        "metricCIF": "24770827669",
+                        "metricKG": "14068462213"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "02",
-                        "metricFOB": "22215553623",
-                        "metricFreight": "887917741",
-                        "metricInsurance": "21747059",
-                        "metricCIF": "23125218423",
-                        "metricKG": "13059952654"
+                        "metricFOB": "22218059385",
+                        "metricFreight": "887917882",
+                        "metricInsurance": "21747055",
+                        "metricCIF": "23127724322",
+                        "metricKG": "13059878341"
                     },
                     {
                         "year": "2026",
                         "monthNumber": "01",
-                        "metricFOB": "20831691725",
-                        "metricFreight": "946935529",
-                        "metricInsurance": "19491349",
-                        "metricCIF": "21798118603",
-                        "metricKG": "14315306356"
+                        "metricFOB": "20804455231",
+                        "metricFreight": "946779078",
+                        "metricInsurance": "19474260",
+                        "metricCIF": "21770708569",
+                        "metricKG": "14315300646"
                     }
                 ]
             }

@@ -776,8 +776,8 @@
         "nome_curto":"carne_bovina_congelada",
         "descricao_oficial_ncm":"Carnes desossadas de bovino, congeladas",
         "grupo_produto":"proteina_animal",
-        "valor_fob_usd":1602350318,
-        "peso_liquido_kg":248837040
+        "valor_fob_usd":1604689886,
+        "peso_liquido_kg":248809399
     },
     {
         "data":"2026-07-31T00:00:00.000",
@@ -786,7 +786,7 @@
         "nome_curto":"carne_bovina_congelada",
         "descricao_oficial_ncm":"Carnes desossadas de bovino, congeladas",
         "grupo_produto":"proteina_animal",
-        "valor_fob_usd":1201408088,
+        "valor_fob_usd":1202269384,
         "peso_liquido_kg":193061335
     },
     {
@@ -796,8 +796,18 @@
         "nome_curto":"carne_bovina_congelada",
         "descricao_oficial_ncm":"Carnes desossadas de bovino, congeladas",
         "grupo_produto":"proteina_animal",
-        "valor_fob_usd":967242706,
+        "valor_fob_usd":967264803,
         "peso_liquido_kg":162300453
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"02023000",
+        "nome_curto":"carne_bovina_congelada",
+        "descricao_oficial_ncm":"Carnes desossadas de bovino, congeladas",
+        "grupo_produto":"proteina_animal",
+        "valor_fob_usd":950751177,
+        "peso_liquido_kg":156467198
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -1600,6 +1610,16 @@
         "peso_liquido_kg":942383
     },
     {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"02023000",
+        "nome_curto":"carne_bovina_congelada",
+        "descricao_oficial_ncm":"Carnes desossadas de bovino, congeladas",
+        "grupo_produto":"proteina_animal",
+        "valor_fob_usd":10523613,
+        "peso_liquido_kg":988603
+    },
+    {
         "data":"2020-01-31T00:00:00.000",
         "fluxo":"exportacao",
         "codigo_ncm":"09011110",
@@ -2326,7 +2346,7 @@
         "nome_curto":"cafe_nao_torrado",
         "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":1013528628,
+        "valor_fob_usd":1013537659,
         "peso_liquido_kg":141224032
     },
     {
@@ -2356,7 +2376,7 @@
         "nome_curto":"cafe_nao_torrado",
         "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":1072315176,
+        "valor_fob_usd":1072316499,
         "peso_liquido_kg":171392428
     },
     {
@@ -2366,8 +2386,8 @@
         "nome_curto":"cafe_nao_torrado",
         "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":912935086,
-        "peso_liquido_kg":155169290
+        "valor_fob_usd":912871064,
+        "peso_liquido_kg":155153890
     },
     {
         "data":"2026-06-30T00:00:00.000",
@@ -2376,8 +2396,8 @@
         "nome_curto":"cafe_nao_torrado",
         "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":934557701,
-        "peso_liquido_kg":167705205
+        "valor_fob_usd":934580723,
+        "peso_liquido_kg":167708805
     },
     {
         "data":"2026-07-31T00:00:00.000",
@@ -2386,7 +2406,7 @@
         "nome_curto":"cafe_nao_torrado",
         "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":813952881,
+        "valor_fob_usd":814022100,
         "peso_liquido_kg":152934524
     },
     {
@@ -2396,8 +2416,18 @@
         "nome_curto":"cafe_nao_torrado",
         "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":1094109253,
+        "valor_fob_usd":1094443369,
         "peso_liquido_kg":206264157
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"09011110",
+        "nome_curto":"cafe_nao_torrado",
+        "descricao_oficial_ncm":"Café não torrado, não descafeinado, em grão",
+        "grupo_produto":"agropecuaria",
+        "valor_fob_usd":1292800592,
+        "peso_liquido_kg":235659946
     },
     {
         "data":"2020-07-31T00:00:00.000",
@@ -3346,8 +3376,8 @@
         "nome_curto":"milho_em_grao",
         "descricao_oficial_ncm":"Milho em grão, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":925674649,
-        "peso_liquido_kg":4245185990
+        "valor_fob_usd":913562892,
+        "peso_liquido_kg":4193768101
     },
     {
         "data":"2026-02-28T00:00:00.000",
@@ -3416,8 +3446,18 @@
         "nome_curto":"milho_em_grao",
         "descricao_oficial_ncm":"Milho em grão, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":1002656682,
-        "peso_liquido_kg":4653100189
+        "valor_fob_usd":989881482,
+        "peso_liquido_kg":4648770261
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"10059010",
+        "nome_curto":"milho_em_grao",
+        "descricao_oficial_ncm":"Milho em grão, exceto para semeadura",
+        "grupo_produto":"agropecuaria",
+        "valor_fob_usd":1228786726,
+        "peso_liquido_kg":5207728793
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -4206,8 +4246,8 @@
         "nome_curto":"milho_em_grao",
         "descricao_oficial_ncm":"Milho em grão, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":28986392,
-        "peso_liquido_kg":175804570
+        "valor_fob_usd":28970014,
+        "peso_liquido_kg":175710260
     },
     {
         "data":"2026-08-31T00:00:00.000",
@@ -4216,8 +4256,18 @@
         "nome_curto":"milho_em_grao",
         "descricao_oficial_ncm":"Milho em grão, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":33273820,
-        "peso_liquido_kg":199281400
+        "valor_fob_usd":33267163,
+        "peso_liquido_kg":199242360
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"10059010",
+        "nome_curto":"milho_em_grao",
+        "descricao_oficial_ncm":"Milho em grão, exceto para semeadura",
+        "grupo_produto":"agropecuaria",
+        "valor_fob_usd":37058160,
+        "peso_liquido_kg":220704294
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -4956,7 +5006,7 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":2897179100,
+        "valor_fob_usd":2897179101,
         "peso_liquido_kg":7101012525
     },
     {
@@ -4976,7 +5026,7 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":6962355250,
+        "valor_fob_usd":6962355252,
         "peso_liquido_kg":16750088436
     },
     {
@@ -4986,8 +5036,8 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":6290576208,
-        "peso_liquido_kg":14825071266
+        "valor_fob_usd":6289797046,
+        "peso_liquido_kg":14825071267
     },
     {
         "data":"2026-06-30T00:00:00.000",
@@ -4996,7 +5046,7 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":6266776914,
+        "valor_fob_usd":6265912842,
         "peso_liquido_kg":14505017737
     },
     {
@@ -5006,7 +5056,7 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":5869552552,
+        "valor_fob_usd":5870448703,
         "peso_liquido_kg":13405907808
     },
     {
@@ -5016,8 +5066,18 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":4410039153,
-        "peso_liquido_kg":9808807495
+        "valor_fob_usd":4414965758,
+        "peso_liquido_kg":9810807500
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"12019000",
+        "nome_curto":"soja_exceto_semeadura",
+        "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
+        "grupo_produto":"agropecuaria",
+        "valor_fob_usd":3473089697,
+        "peso_liquido_kg":7358383641
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -5766,8 +5826,8 @@
         "nome_curto":"soja_exceto_semeadura",
         "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
         "grupo_produto":"agropecuaria",
-        "valor_fob_usd":24415856,
-        "peso_liquido_kg":62866000
+        "valor_fob_usd":23848605,
+        "peso_liquido_kg":61696410
     },
     {
         "data":"2026-08-31T00:00:00.000",
@@ -5778,6 +5838,16 @@
         "grupo_produto":"agropecuaria",
         "valor_fob_usd":44621019,
         "peso_liquido_kg":109088024
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"12019000",
+        "nome_curto":"soja_exceto_semeadura",
+        "descricao_oficial_ncm":"Soja, mesmo triturada, exceto para semeadura",
+        "grupo_produto":"agropecuaria",
+        "valor_fob_usd":51965570,
+        "peso_liquido_kg":117130000
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -6506,7 +6576,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":619967622,
+        "valor_fob_usd":621313185,
         "peso_liquido_kg":1693480220
     },
     {
@@ -6516,7 +6586,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":713726654,
+        "valor_fob_usd":717030066,
         "peso_liquido_kg":1982573452
     },
     {
@@ -6526,7 +6596,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":543861591,
+        "valor_fob_usd":545703069,
         "peso_liquido_kg":1551914338
     },
     {
@@ -6536,7 +6606,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":344673367,
+        "valor_fob_usd":346153809,
         "peso_liquido_kg":958119849
     },
     {
@@ -6546,7 +6616,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":617450435,
+        "valor_fob_usd":620395097,
         "peso_liquido_kg":1806544416
     },
     {
@@ -6556,7 +6626,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":938953227,
+        "valor_fob_usd":950478133,
         "peso_liquido_kg":2770311509
     },
     {
@@ -6566,7 +6636,7 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":844057652,
+        "valor_fob_usd":846757948,
         "peso_liquido_kg":2529930057
     },
     {
@@ -6576,8 +6646,18 @@
         "nome_curto":"acucares_cana",
         "descricao_oficial_ncm":"Outros açúcares de cana",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":753147930,
-        "peso_liquido_kg":2221291720
+        "valor_fob_usd":752297715,
+        "peso_liquido_kg":2220715368
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"17011400",
+        "nome_curto":"acucares_cana",
+        "descricao_oficial_ncm":"Outros açúcares de cana",
+        "grupo_produto":"agroindustria",
+        "valor_fob_usd":809708916,
+        "peso_liquido_kg":2306235692
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -7370,6 +7450,16 @@
         "peso_liquido_kg":143344
     },
     {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"17011400",
+        "nome_curto":"acucares_cana",
+        "descricao_oficial_ncm":"Outros açúcares de cana",
+        "grupo_produto":"agroindustria",
+        "valor_fob_usd":144681,
+        "peso_liquido_kg":122543
+    },
+    {
         "data":"2020-01-31T00:00:00.000",
         "fluxo":"exportacao",
         "codigo_ncm":"23040090",
@@ -8126,7 +8216,7 @@
         "nome_curto":"residuos_oleo_soja",
         "descricao_oficial_ncm":"Bagaços e outros resíduos sólidos, da extração do óleo de soja",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":632395834,
+        "valor_fob_usd":632395835,
         "peso_liquido_kg":1822814124
     },
     {
@@ -8136,8 +8226,8 @@
         "nome_curto":"residuos_oleo_soja",
         "descricao_oficial_ncm":"Bagaços e outros resíduos sólidos, da extração do óleo de soja",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":735872995,
-        "peso_liquido_kg":2058375168
+        "valor_fob_usd":731859065,
+        "peso_liquido_kg":2046900168
     },
     {
         "data":"2026-06-30T00:00:00.000",
@@ -8166,8 +8256,18 @@
         "nome_curto":"residuos_oleo_soja",
         "descricao_oficial_ncm":"Bagaços e outros resíduos sólidos, da extração do óleo de soja",
         "grupo_produto":"agroindustria",
-        "valor_fob_usd":646488066,
-        "peso_liquido_kg":1790486389
+        "valor_fob_usd":644929294,
+        "peso_liquido_kg":1785896563
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"23040090",
+        "nome_curto":"residuos_oleo_soja",
+        "descricao_oficial_ncm":"Bagaços e outros resíduos sólidos, da extração do óleo de soja",
+        "grupo_produto":"agroindustria",
+        "valor_fob_usd":755950210,
+        "peso_liquido_kg":1941525390
     },
     {
         "data":"2020-02-29T00:00:00.000",
@@ -8946,7 +9046,7 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":1843157505,
+        "valor_fob_usd":1843476386,
         "peso_liquido_kg":26379004618
     },
     {
@@ -8956,7 +9056,7 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":1840522680,
+        "valor_fob_usd":1833120931,
         "peso_liquido_kg":26187389970
     },
     {
@@ -8966,7 +9066,7 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":1779291584,
+        "valor_fob_usd":1774813115,
         "peso_liquido_kg":25768212538
     },
     {
@@ -8976,7 +9076,7 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":2137280898,
+        "valor_fob_usd":2115096466,
         "peso_liquido_kg":31609434000
     },
     {
@@ -8986,7 +9086,7 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":1683117561,
+        "valor_fob_usd":1657447109,
         "peso_liquido_kg":25568797966
     },
     {
@@ -8996,7 +9096,7 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":2569324747,
+        "valor_fob_usd":2561140623,
         "peso_liquido_kg":39666979151
     },
     {
@@ -9006,8 +9106,8 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":2131758139,
-        "peso_liquido_kg":35002833875
+        "valor_fob_usd":2132007782,
+        "peso_liquido_kg":34974584205
     },
     {
         "data":"2026-08-31T00:00:00.000",
@@ -9016,8 +9116,18 @@
         "nome_curto":"minerio_ferro_nao_aglomerado",
         "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
         "grupo_produto":"mineracao",
-        "valor_fob_usd":2051566400,
-        "peso_liquido_kg":34406447895
+        "valor_fob_usd":2037904434,
+        "peso_liquido_kg":34351503645
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"26011100",
+        "nome_curto":"minerio_ferro_nao_aglomerado",
+        "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
+        "grupo_produto":"mineracao",
+        "valor_fob_usd":1771842975,
+        "peso_liquido_kg":31660490297
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -9678,6 +9788,16 @@
         "grupo_produto":"mineracao",
         "valor_fob_usd":6950029,
         "peso_liquido_kg":78331372
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"26011100",
+        "nome_curto":"minerio_ferro_nao_aglomerado",
+        "descricao_oficial_ncm":"Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
+        "grupo_produto":"mineracao",
+        "valor_fob_usd":5139747,
+        "peso_liquido_kg":61011592
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -10466,8 +10586,8 @@
         "nome_curto":"oleos_brutos_petroleo",
         "descricao_oficial_ncm":"Óleos brutos de petróleo",
         "grupo_produto":"energia",
-        "valor_fob_usd":4737463030,
-        "peso_liquido_kg":7674971451
+        "valor_fob_usd":4629365093,
+        "peso_liquido_kg":7672032952
     },
     {
         "data":"2026-08-31T00:00:00.000",
@@ -10476,8 +10596,18 @@
         "nome_curto":"oleos_brutos_petroleo",
         "descricao_oficial_ncm":"Óleos brutos de petróleo",
         "grupo_produto":"energia",
-        "valor_fob_usd":4828191084,
-        "peso_liquido_kg":8379911835
+        "valor_fob_usd":4588224684,
+        "peso_liquido_kg":8358755854
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"27090010",
+        "nome_curto":"oleos_brutos_petroleo",
+        "descricao_oficial_ncm":"Óleos brutos de petróleo",
+        "grupo_produto":"energia",
+        "valor_fob_usd":6498868606,
+        "peso_liquido_kg":11689652591
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -11266,8 +11396,8 @@
         "nome_curto":"oleos_brutos_petroleo",
         "descricao_oficial_ncm":"Óleos brutos de petróleo",
         "grupo_produto":"energia",
-        "valor_fob_usd":736291615,
-        "peso_liquido_kg":1020215096
+        "valor_fob_usd":737457317,
+        "peso_liquido_kg":1020333259
     },
     {
         "data":"2026-08-31T00:00:00.000",
@@ -11276,8 +11406,18 @@
         "nome_curto":"oleos_brutos_petroleo",
         "descricao_oficial_ncm":"Óleos brutos de petróleo",
         "grupo_produto":"energia",
-        "valor_fob_usd":547298813,
-        "peso_liquido_kg":797225701
+        "valor_fob_usd":561128509,
+        "peso_liquido_kg":798168982
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"27090010",
+        "nome_curto":"oleos_brutos_petroleo",
+        "descricao_oficial_ncm":"Óleos brutos de petróleo",
+        "grupo_produto":"energia",
+        "valor_fob_usd":631617247,
+        "peso_liquido_kg":893774707
     },
     {
         "data":"2020-01-31T00:00:00.000",
@@ -12066,8 +12206,8 @@
         "nome_curto":"fuel_oil",
         "descricao_oficial_ncm":"Fuel oil",
         "grupo_produto":"energia",
-        "valor_fob_usd":589861744,
-        "peso_liquido_kg":959864111
+        "valor_fob_usd":547522432,
+        "peso_liquido_kg":927703584
     },
     {
         "data":"2026-08-31T00:00:00.000",
@@ -12076,8 +12216,18 @@
         "nome_curto":"fuel_oil",
         "descricao_oficial_ncm":"Fuel oil",
         "grupo_produto":"energia",
-        "valor_fob_usd":893582419,
-        "peso_liquido_kg":1438094595
+        "valor_fob_usd":852206570,
+        "peso_liquido_kg":1383886863
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"27101922",
+        "nome_curto":"fuel_oil",
+        "descricao_oficial_ncm":"Fuel oil",
+        "grupo_produto":"energia",
+        "valor_fob_usd":649437972,
+        "peso_liquido_kg":942054629
     },
     {
         "data":"2020-12-31T00:00:00.000",
@@ -13310,6 +13460,16 @@
         "peso_liquido_kg":1412673002
     },
     {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"exportacao",
+        "codigo_ncm":"47032900",
+        "nome_curto":"celulose_nao_coniferas",
+        "descricao_oficial_ncm":"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
+        "grupo_produto":"celulose",
+        "valor_fob_usd":892280162,
+        "peso_liquido_kg":1801287673
+    },
+    {
         "data":"2020-01-31T00:00:00.000",
         "fluxo":"importacao",
         "codigo_ncm":"47032900",
@@ -14008,5 +14168,15 @@
         "grupo_produto":"celulose",
         "valor_fob_usd":1381516,
         "peso_liquido_kg":1452782
+    },
+    {
+        "data":"2026-09-30T00:00:00.000",
+        "fluxo":"importacao",
+        "codigo_ncm":"47032900",
+        "nome_curto":"celulose_nao_coniferas",
+        "descricao_oficial_ncm":"Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
+        "grupo_produto":"celulose",
+        "valor_fob_usd":1255725,
+        "peso_liquido_kg":1333748
     }
 ]
