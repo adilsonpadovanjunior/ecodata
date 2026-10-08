@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-10-08 17:10:11",
+    "data_execucao": "2026-10-08 17:20:14",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -33,7 +33,6 @@
         "yahoo_ret_milho",
         "bcb_sgs_selic_meta",
         "bcb_sgs_selic_over",
-        "bcb_sgs_cdi",
         "bcb_sgs_ipca",
         "bcb_sgs_igp_m",
         "bcb_sgs_inpc",
@@ -62,7 +61,6 @@
         "bcb_sgs_inpc_acum_12m",
         "bcb_sgs_dif_selic_meta",
         "bcb_sgs_dif_selic_over",
-        "bcb_sgs_dif_cdi",
         "bcb_sgs_dif_inadimplencia_total",
         "bcb_sgs_dif_inadimplencia_pj",
         "bcb_sgs_dif_inadimplencia_pf",
@@ -118,5 +116,5 @@
         "comexstat_soja_exceto_semeadura_imp_kg"
     ],
     "erros": [],
-    "total_series_exportadas": 113
+    "total_series_exportadas": 111
 }
