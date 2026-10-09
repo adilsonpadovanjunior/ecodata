@@ -136,6 +136,14 @@
         "valor_final":32.26
     },
     {
+        "variavel":"reservas_internacionais",
+        "primeira_data":"2021-10-31T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":367927.0,
+        "valor_final":362821.0
+    },
+    {
         "variavel":"var_pct_ibc_br_sa",
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
@@ -190,6 +198,14 @@
         "observacoes":58,
         "valor_inicial":2.436662,
         "valor_final":0.799177
+    },
+    {
+        "variavel":"var_pct_reservas_internacionais",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":59,
+        "valor_inicial":-0.042128,
+        "valor_final":-2.628712
     },
     {
         "variavel":"ipca_acum_12m",
