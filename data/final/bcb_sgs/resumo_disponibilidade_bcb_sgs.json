@@ -12,16 +12,24 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.02443,
+        "valor_inicial":0.024483,
+        "valor_final":0.050788
+    },
+    {
+        "variavel":"cdi",
+        "primeira_data":"2021-10-31T00:00:00.000",
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":0.024483,
         "valor_final":0.050788
     },
     {
         "variavel":"ipca",
         "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":1.25,
-        "valor_final":-0.32
+        "valor_final":0.82
     },
     {
         "variavel":"igp_m",
@@ -34,10 +42,10 @@
     {
         "variavel":"inpc",
         "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":1.16,
-        "valor_final":-0.32
+        "valor_final":0.82
     },
     {
         "variavel":"ibc_br_sa",
@@ -61,7 +69,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.643,
-        "valor_final":5.0119
+        "valor_final":4.9892
     },
     {
         "variavel":"cambio_compra_usd",
@@ -69,7 +77,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6424,
-        "valor_final":5.0113
+        "valor_final":4.9886
     },
     {
         "variavel":"saldo_credito_total",
@@ -128,14 +136,6 @@
         "valor_final":32.26
     },
     {
-        "variavel":"reservas_internacionais",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":367927.0,
-        "valor_final":362821.0
-    },
-    {
         "variavel":"var_pct_ibc_br_sa",
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-07-31T00:00:00.000",
@@ -157,7 +157,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.409357,
-        "valor_final":-3.261982
+        "valor_final":-3.700129
     },
     {
         "variavel":"var_pct_cambio_compra_usd",
@@ -165,7 +165,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.4094,
-        "valor_final":-3.262359
+        "valor_final":-3.700558
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -192,20 +192,12 @@
         "valor_final":0.799177
     },
     {
-        "variavel":"var_pct_reservas_internacionais",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":-0.042128,
-        "valor_final":-2.628712
-    },
-    {
         "variavel":"ipca_acum_12m",
         "primeira_data":"2022-09-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":48,
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":49,
         "valor_inicial":7.168596,
-        "valor_final":4.223453
+        "valor_final":4.57612
     },
     {
         "variavel":"igp_m_acum_12m",
@@ -218,10 +210,10 @@
     {
         "variavel":"inpc_acum_12m",
         "primeira_data":"2022-09-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":48,
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":49,
         "valor_inicial":7.191214,
-        "valor_final":3.983297
+        "valor_final":4.293633
     },
     {
         "variavel":"dif_selic_meta",
@@ -236,7 +228,15 @@
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.004826,
+        "valor_inicial":0.004773,
+        "valor_final":-0.000457
+    },
+    {
+        "variavel":"dif_cdi",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":0.004773,
         "valor_final":-0.000457
     },
     {
