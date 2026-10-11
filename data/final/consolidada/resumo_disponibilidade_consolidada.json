@@ -378,6 +378,15 @@
         "percentual_preenchido":71.95122
     },
     {
+        "variavel":"bcb_sgs_inadimplencia_pj",
+        "primeira_data":"2021-10-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":59,
+        "valor_inicial":1.43,
+        "valor_final":3.35,
+        "percentual_preenchido":71.95122
+    },
+    {
         "variavel":"bcb_sgs_inadimplencia_pf",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
@@ -537,6 +546,15 @@
         "observacoes":58,
         "valor_inicial":0.03,
         "valor_final":0.16,
+        "percentual_preenchido":70.731707
+    },
+    {
+        "variavel":"bcb_sgs_dif_inadimplencia_pj",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":58,
+        "valor_inicial":0.03,
+        "valor_final":0.03,
         "percentual_preenchido":70.731707
     },
     {
