@@ -121,7 +121,7 @@
 2026-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1816,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2026-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1809,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2026-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9892,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
-2021-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.024483,Taxa CDI.,diaria,mensal,media
+2021-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.024544,Taxa CDI.,diaria,mensal,media
 2021-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.029256,Taxa CDI.,diaria,mensal,media
 2021-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.033316,Taxa CDI.,diaria,mensal,media
 2022-01-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.034749,Taxa CDI.,diaria,mensal,media
@@ -1012,7 +1012,7 @@
 2026-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2026-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2026-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
-2021-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.024483,Taxa Selic over.,diaria,mensal,media
+2021-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.024544,Taxa Selic over.,diaria,mensal,media
 2021-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.029256,Taxa Selic over.,diaria,mensal,media
 2021-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.033316,Taxa Selic over.,diaria,mensal,media
 2022-01-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.034749,Taxa Selic over.,diaria,mensal,media
