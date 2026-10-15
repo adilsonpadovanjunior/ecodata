@@ -8,22 +8,6 @@
         "valor_final":13.75
     },
     {
-        "variavel":"selic_over",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":0.024615,
-        "valor_final":0.050788
-    },
-    {
-        "variavel":"cdi",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":0.024615,
-        "valor_final":0.050788
-    },
-    {
         "variavel":"ipca",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -56,28 +40,12 @@
         "valor_final":109.91611
     },
     {
-        "variavel":"ibc_br",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":96.53041,
-        "valor_final":114.40189
-    },
-    {
-        "variavel":"cambio_venda_usd",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":5.643,
-        "valor_final":5.0096
-    },
-    {
         "variavel":"cambio_compra_usd",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6424,
-        "valor_final":5.009
+        "valor_final":5.0435
     },
     {
         "variavel":"saldo_credito_total",
@@ -86,14 +54,6 @@
         "observacoes":59,
         "valor_inicial":4511956.0,
         "valor_final":7397669.0
-    },
-    {
-        "variavel":"saldo_credito_pj",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1910940.0,
-        "valor_final":2727499.0
     },
     {
         "variavel":"saldo_credito_pf",
@@ -152,28 +112,12 @@
         "valor_final":-0.219358
     },
     {
-        "variavel":"var_pct_ibc_br",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-07-31T00:00:00.000",
-        "observacoes":57,
-        "valor_inicial":1.36989,
-        "valor_final":4.057001
-    },
-    {
-        "variavel":"var_pct_cambio_venda_usd",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":-0.409357,
-        "valor_final":-3.306375
-    },
-    {
         "variavel":"var_pct_cambio_compra_usd",
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.4094,
-        "valor_final":-3.306758
+        "valor_final":-2.640774
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -182,14 +126,6 @@
         "observacoes":58,
         "valor_inicial":1.896096,
         "valor_final":0.480339
-    },
-    {
-        "variavel":"var_pct_saldo_credito_pj",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":1.160214,
-        "valor_final":-0.060934
     },
     {
         "variavel":"var_pct_saldo_credito_pf",
@@ -238,22 +174,6 @@
         "observacoes":60,
         "valor_inicial":0.0,
         "valor_final":0.0
-    },
-    {
-        "variavel":"dif_selic_over",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":0.004641,
-        "valor_final":-0.000457
-    },
-    {
-        "variavel":"dif_cdi",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":0.004641,
-        "valor_final":-0.000457
     },
     {
         "variavel":"dif_inadimplencia_total",
