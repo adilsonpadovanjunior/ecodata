@@ -59,65 +59,247 @@
 2026-07-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.0767,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2026-08-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.181,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2026-09-30,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.1803,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
-2026-10-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.0435,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
-2021-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,97.48671,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2021-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.05526,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2021-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.37716,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,97.4213,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,98.4804,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.54802,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.44118,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.6454,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.51048,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.43172,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.10583,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.16034,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.44171,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,100.7146,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2022-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,100.58818,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,100.10988,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.07987,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.08494,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.93573,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.42973,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.39935,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.90686,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.50239,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.5153,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.83959,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.59456,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2023-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.88818,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.473,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-02-29,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.65885,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.6738,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.62771,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,105.60427,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,106.5891,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,107.06237,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,107.19174,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.04382,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.2446,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.00109,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2024-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,107.37012,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.09524,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.62006,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.03287,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.52766,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.8862,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.80376,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.49869,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.82893,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.73548,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.75326,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.25005,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2025-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.4528,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.04992,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.7366,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.58808,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.90009,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,111.13846,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.15775,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
-2026-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.91611,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.0515,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
+2021-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.643,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2021-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6199,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2021-12-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.5805,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-01-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.3574,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-02-28,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1394,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-03-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.7378,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-04-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9191,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-05-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.7289,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-06-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.238,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-07-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1884,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.179,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.4066,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.257,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.2941,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2022-12-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.2177,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-01-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0993,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-02-28,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.2078,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-03-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0804,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-04-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0007,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-05-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0959,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-06-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.8192,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-07-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.7415,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9219,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0076,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0575,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9355,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2023-12-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.8413,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-01-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9535,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-02-29,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9833,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-03-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9962,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-04-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1718,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-05-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.2416,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-06-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.5589,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-07-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6621,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6562,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.4481,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.7779,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,6.0535,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2024-12-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,6.1923,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-01-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.8301,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-02-28,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.8488,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-03-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.7422,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-04-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6608,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-05-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.7087,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-06-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.4571,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-07-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6021,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.4264,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.3186,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.3843,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.3338,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2025-12-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.5024,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-01-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.2301,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-02-28,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1495,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-03-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.2194,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-04-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,4.9886,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-05-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0569,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-06-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1766,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-07-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0773,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-08-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1816,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-09-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.1809,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2026-10-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.0521,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
+2021-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.024801,Taxa CDI.,diaria,mensal,media
+2021-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.029256,Taxa CDI.,diaria,mensal,media
+2021-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.033316,Taxa CDI.,diaria,mensal,media
+2022-01-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.034749,Taxa CDI.,diaria,mensal,media
+2022-02-28,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.039598,Taxa CDI.,diaria,mensal,media
+2022-03-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.041954,Taxa CDI.,diaria,mensal,media
+2022-04-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.043739,Taxa CDI.,diaria,mensal,media
+2022-05-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.046796,Taxa CDI.,diaria,mensal,media
+2022-06-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.048116,Taxa CDI.,diaria,mensal,media
+2022-07-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.049037,Taxa CDI.,diaria,mensal,media
+2022-08-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.05056,Taxa CDI.,diaria,mensal,media
+2022-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2022-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2022-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2022-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-01-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-02-28,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-03-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-04-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-05-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-06-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-07-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2023-08-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.049189,Taxa CDI.,diaria,mensal,media
+2023-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.048422,Taxa CDI.,diaria,mensal,media
+2023-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.047279,Taxa CDI.,diaria,mensal,media
+2023-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.045601,Taxa CDI.,diaria,mensal,media
+2023-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.044537,Taxa CDI.,diaria,mensal,media
+2024-01-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.043739,Taxa CDI.,diaria,mensal,media
+2024-02-29,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.041957,Taxa CDI.,diaria,mensal,media
+2024-03-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.04142,Taxa CDI.,diaria,mensal,media
+2024-04-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.040168,Taxa CDI.,diaria,mensal,media
+2024-05-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.039484,Taxa CDI.,diaria,mensal,media
+2024-06-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.03927,Taxa CDI.,diaria,mensal,media
+2024-07-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.03927,Taxa CDI.,diaria,mensal,media
+2024-08-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.03927,Taxa CDI.,diaria,mensal,media
+2024-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.039612,Taxa CDI.,diaria,mensal,media
+2024-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.040168,Taxa CDI.,diaria,mensal,media
+2024-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.04158,Taxa CDI.,diaria,mensal,media
+2024-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.044158,Taxa CDI.,diaria,mensal,media
+2025-01-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.045833,Taxa CDI.,diaria,mensal,media
+2025-02-28,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.049037,Taxa CDI.,diaria,mensal,media
+2025-03-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050508,Taxa CDI.,diaria,mensal,media
+2025-04-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.052531,Taxa CDI.,diaria,mensal,media
+2025-05-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.053936,Taxa CDI.,diaria,mensal,media
+2025-06-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.054569,Taxa CDI.,diaria,mensal,media
+2025-07-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2025-08-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2025-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2025-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2025-11-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2025-12-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2026-01-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2026-02-28,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.055131,Taxa CDI.,diaria,mensal,media
+2026-03-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.054777,Taxa CDI.,diaria,mensal,media
+2026-04-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.054223,Taxa CDI.,diaria,mensal,media
+2026-05-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.0534,Taxa CDI.,diaria,mensal,media
+2026-06-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.053028,Taxa CDI.,diaria,mensal,media
+2026-07-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.052531,Taxa CDI.,diaria,mensal,media
+2026-08-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.051784,Taxa CDI.,diaria,mensal,media
+2026-09-30,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.051245,Taxa CDI.,diaria,mensal,media
+2026-10-31,Banco Central do Brasil - SGS/BCData,12,cdi,politica_monetaria,% a.d.,0.050788,Taxa CDI.,diaria,mensal,media
+2021-10-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,96.53555,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2021-11-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,97.85102,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2021-12-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,99.31835,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-01-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,91.68112,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-02-28,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,95.64317,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-03-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,104.54148,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-04-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,100.24567,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-05-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,99.74067,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-06-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,99.30903,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-07-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,103.96099,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-08-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,104.50684,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-09-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,101.17889,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-10-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,100.08276,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-11-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,99.14758,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2022-12-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,99.96181,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-01-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,95.10407,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-02-28,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,98.64819,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-03-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,110.61458,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-04-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,104.04532,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-05-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,102.71431,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-06-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,102.27877,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-07-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,105.3498,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-08-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,106.05633,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-09-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,101.75432,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-10-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,101.94034,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-11-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,101.67978,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2023-12-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,101.67778,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-01-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,99.30433,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-02-29,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,102.15308,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-03-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,109.56238,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-04-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,109.26273,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-05-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,104.70903,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-06-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,105.86342,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-07-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,111.51644,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-08-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,110.06495,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-09-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,107.07576,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-10-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,109.19299,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-11-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,105.49378,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2024-12-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,104.15073,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-01-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,102.6229,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-02-28,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,106.79048,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-03-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,113.99468,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-04-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,112.60116,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-05-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,108.58229,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-06-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,107.40511,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-07-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,113.20021,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-08-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,110.38311,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-09-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,109.45662,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-10-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,110.04186,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-11-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,106.5784,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2025-12-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,107.19091,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-01-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,103.91741,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-02-28,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,106.86101,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-03-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,118.06619,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-04-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,114.1592,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-05-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,109.79468,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-06-30,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,110.18456,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-07-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,114.48992,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2026-08-31,Banco Central do Brasil - SGS/BCData,24363,ibc_br,atividade,indice,111.71919,Índice de Atividade Econômica do Banco Central - IBC-Br sem ajuste sazonal.,mensal,mensal,valor
+2021-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,97.48845,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2021-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.05624,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2021-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.38482,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,97.4208,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,98.49135,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.56176,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.45421,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.64297,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,99.49797,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.41926,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.10264,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.1562,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,101.43769,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,100.71743,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2022-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,100.59088,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,100.10409,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.08488,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.09631,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.92975,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.42356,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.38761,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.90097,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.49883,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.5197,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,102.8499,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,103.60561,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2023-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.8968,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.46088,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-02-29,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.65783,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.68489,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,104.62189,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,105.5883,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,106.56647,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,107.07017,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,107.19578,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.05141,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.26621,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.02232,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2024-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,107.37891,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.05509,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.57481,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.03087,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.51799,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.88849,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.82565,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.60295,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.84223,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-09-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.7154,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-10-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,108.73877,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-11-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.25356,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2025-12-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,109.47578,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-01-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.15169,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-02-28,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.82485,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-03-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.65755,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-04-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,111.04254,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-05-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,111.25061,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-06-30,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.37352,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-07-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.03188,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
+2026-08-31,Banco Central do Brasil - SGS/BCData,24364,ibc_br_sa,atividade,indice,110.40624,Índice de Atividade Econômica do Banco Central - IBC-Br com ajuste sazonal.,mensal,mensal,valor
 2021-10-31,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,0.64,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,0.02,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,0.87,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
@@ -178,65 +360,6 @@
 2026-07-31,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,-1.16,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,-0.22,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2026-09-30,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,1.57,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
-2021-10-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,2.99,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2021-11-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.01,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2021-12-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.05,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-01-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.26,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-02-28,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.38,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-03-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.45,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-04-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.54,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-05-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.65,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-06-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.57,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-07-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.71,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-08-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.78,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-09-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.8,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-10-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.89,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-11-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.92,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2022-12-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.94,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-01-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.11,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-02-28,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.16,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-03-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.11,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-04-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.26,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-05-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.35,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-06-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.25,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-07-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.22,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-08-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.12,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-09-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.0,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-10-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.97,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-11-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.88,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2023-12-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.75,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-01-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.76,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-02-29,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.76,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-03-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.71,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-04-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.75,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-05-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.82,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-06-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.71,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-07-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.78,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-08-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.82,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-09-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.83,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-10-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.79,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-11-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.75,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2024-12-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.63,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-01-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.89,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-02-28,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.96,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-03-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.03,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-04-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.25,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-05-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.36,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-06-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.41,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-07-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.66,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-08-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.92,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-09-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.89,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-10-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,4.99,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-11-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.12,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2025-12-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.12,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-01-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.38,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-02-28,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.56,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-03-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.39,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-04-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.51,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-05-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.63,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-06-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.42,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-07-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.8,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-08-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,6.03,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2021-10-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,1.43,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,1.46,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,1.4,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
@@ -653,6 +776,65 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4602668.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4633143.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4670170.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
+2021-10-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1910940.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2021-11-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1933111.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2021-12-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1974391.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-01-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1947035.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-02-28,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1971524.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-03-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1994119.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-04-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2003312.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-05-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2013726.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-06-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2052569.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-07-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2047038.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-08-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2064183.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-09-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2109806.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-10-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2105856.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-11-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2130312.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2022-12-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2178236.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-01-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2151399.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-02-28,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2136105.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-03-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2154900.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-04-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2145000.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-05-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2145530.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-06-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2169613.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-07-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2153541.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-08-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2172658.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-09-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2215175.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-10-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2204808.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-11-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2220766.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2023-12-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2283485.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-01-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2234362.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-02-29,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2235302.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-03-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2285775.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-04-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2268879.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-05-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2278309.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-06-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2336858.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-07-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2323362.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-08-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2344397.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-09-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2384828.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-10-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2397533.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-11-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2436022.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2024-12-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2499177.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-01-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2451957.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-02-28,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2477151.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-03-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2498262.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-04-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2512426.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-05-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2532708.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-06-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2547693.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-07-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2544400.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-08-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2546265.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-09-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2589817.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-10-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2597630.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-11-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2616902.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2025-12-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2701735.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-01-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2654220.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-02-28,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2656484.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-03-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2687535.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-04-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2685397.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-05-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2708154.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-06-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2750634.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-07-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2729162.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-08-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2727499.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-10-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,4511956.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,4597507.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,4682852.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
@@ -773,3 +955,64 @@
 2026-08-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,14.0,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2026-09-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2026-10-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,13.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
+2021-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.024801,Taxa Selic over.,diaria,mensal,media
+2021-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.029256,Taxa Selic over.,diaria,mensal,media
+2021-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.033316,Taxa Selic over.,diaria,mensal,media
+2022-01-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.034749,Taxa Selic over.,diaria,mensal,media
+2022-02-28,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.039598,Taxa Selic over.,diaria,mensal,media
+2022-03-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.041954,Taxa Selic over.,diaria,mensal,media
+2022-04-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.043739,Taxa Selic over.,diaria,mensal,media
+2022-05-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.046796,Taxa Selic over.,diaria,mensal,media
+2022-06-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.048116,Taxa Selic over.,diaria,mensal,media
+2022-07-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.049037,Taxa Selic over.,diaria,mensal,media
+2022-08-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.05056,Taxa Selic over.,diaria,mensal,media
+2022-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2022-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2022-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2022-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-01-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-02-28,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-03-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-04-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-05-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-06-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-07-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
+2023-08-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.049189,Taxa Selic over.,diaria,mensal,media
+2023-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.048422,Taxa Selic over.,diaria,mensal,media
+2023-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.047279,Taxa Selic over.,diaria,mensal,media
+2023-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.045601,Taxa Selic over.,diaria,mensal,media
+2023-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.044537,Taxa Selic over.,diaria,mensal,media
+2024-01-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.043739,Taxa Selic over.,diaria,mensal,media
+2024-02-29,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.041957,Taxa Selic over.,diaria,mensal,media
+2024-03-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.04142,Taxa Selic over.,diaria,mensal,media
+2024-04-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.040168,Taxa Selic over.,diaria,mensal,media
+2024-05-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.039484,Taxa Selic over.,diaria,mensal,media
+2024-06-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.03927,Taxa Selic over.,diaria,mensal,media
+2024-07-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.03927,Taxa Selic over.,diaria,mensal,media
+2024-08-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.03927,Taxa Selic over.,diaria,mensal,media
+2024-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.039612,Taxa Selic over.,diaria,mensal,media
+2024-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.040168,Taxa Selic over.,diaria,mensal,media
+2024-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.04158,Taxa Selic over.,diaria,mensal,media
+2024-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.044158,Taxa Selic over.,diaria,mensal,media
+2025-01-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.045833,Taxa Selic over.,diaria,mensal,media
+2025-02-28,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.049037,Taxa Selic over.,diaria,mensal,media
+2025-03-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050508,Taxa Selic over.,diaria,mensal,media
+2025-04-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.052531,Taxa Selic over.,diaria,mensal,media
+2025-05-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.053936,Taxa Selic over.,diaria,mensal,media
+2025-06-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.054569,Taxa Selic over.,diaria,mensal,media
+2025-07-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2025-08-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2025-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2025-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2025-11-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2025-12-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2026-01-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2026-02-28,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.055131,Taxa Selic over.,diaria,mensal,media
+2026-03-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.054777,Taxa Selic over.,diaria,mensal,media
+2026-04-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.054223,Taxa Selic over.,diaria,mensal,media
+2026-05-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.0534,Taxa Selic over.,diaria,mensal,media
+2026-06-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.053028,Taxa Selic over.,diaria,mensal,media
+2026-07-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.052531,Taxa Selic over.,diaria,mensal,media
+2026-08-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.051784,Taxa Selic over.,diaria,mensal,media
+2026-09-30,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.051245,Taxa Selic over.,diaria,mensal,media
+2026-10-31,Banco Central do Brasil - SGS/BCData,11,selic_over,politica_monetaria,% a.d.,0.050788,Taxa Selic over.,diaria,mensal,media
