@@ -28,7 +28,6 @@ bcb_sgs_ipca_acum_12m,bcb_sgs,inflacao,mensal,49,2022-09-30,2026-09-30,data/fina
 yahoo_bova11,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_bova11.csv,data/final/series/yahoo_bova11.xlsx
 yahoo_dolar_real,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_dolar_real.csv,data/final/series/yahoo_dolar_real.xlsx
 yahoo_dow_jones,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_dow_jones.csv,data/final/series/yahoo_dow_jones.xlsx
-yahoo_euro_real,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_euro_real.csv,data/final/series/yahoo_euro_real.xlsx
 yahoo_ibovespa,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_ibovespa.csv,data/final/series/yahoo_ibovespa.xlsx
 yahoo_ivvb11,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_ivvb11.csv,data/final/series/yahoo_ivvb11.xlsx
 yahoo_milho,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data/final/series/yahoo_milho.csv,data/final/series/yahoo_milho.xlsx
@@ -39,7 +38,6 @@ yahoo_petroleo_wti,yahoo,mercado_financeiro,mensal,61,2021-10-31,2026-10-31,data
 yahoo_ret_bova11,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_bova11.csv,data/final/series/yahoo_ret_bova11.xlsx
 yahoo_ret_dolar_real,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_dolar_real.csv,data/final/series/yahoo_ret_dolar_real.xlsx
 yahoo_ret_dow_jones,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_dow_jones.csv,data/final/series/yahoo_ret_dow_jones.xlsx
-yahoo_ret_euro_real,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_euro_real.csv,data/final/series/yahoo_ret_euro_real.xlsx
 yahoo_ret_ibovespa,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_ibovespa.csv,data/final/series/yahoo_ret_ibovespa.xlsx
 yahoo_ret_ivvb11,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_ivvb11.csv,data/final/series/yahoo_ret_ivvb11.xlsx
 yahoo_ret_milho,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ret_milho.csv,data/final/series/yahoo_ret_milho.xlsx

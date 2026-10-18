@@ -14,7 +14,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":99.68,
-        "valor_final":201.389999,
+        "valor_final":202.300003,
         "percentual_preenchido":74.390244
     },
     {
@@ -23,7 +23,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":111.199997,
-        "valor_final":130.830002,
+        "valor_final":131.0,
         "percentual_preenchido":74.390244
     },
     {
@@ -32,7 +32,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":283.0,
-        "valor_final":444.450012,
+        "valor_final":438.549988,
         "percentual_preenchido":74.390244
     },
     {
@@ -46,12 +46,12 @@
     },
     {
         "variavel":"yahoo_euro_real",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":6.593,
-        "valor_final":5.7053,
-        "percentual_preenchido":74.390244
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_sp500",
@@ -95,7 +95,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":83.57,
-        "valor_final":101.410004,
+        "valor_final":99.019997,
         "percentual_preenchido":74.390244
     },
     {
@@ -140,7 +140,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-1.334271,
-        "valor_final":9.403519,
+        "valor_final":9.897871,
         "percentual_preenchido":73.170732
     },
     {
@@ -149,7 +149,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-2.158268,
-        "valor_final":16.885555,
+        "valor_final":17.037434,
         "percentual_preenchido":73.170732
     },
     {
@@ -158,7 +158,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.865729,
-        "valor_final":-0.6527,
+        "valor_final":-1.971524,
         "percentual_preenchido":73.170732
     },
     {
@@ -172,12 +172,12 @@
     },
     {
         "variavel":"yahoo_ret_euro_real",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":-4.10587,
-        "valor_final":-3.238106,
-        "percentual_preenchido":73.170732
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_ret_sp500",
@@ -221,7 +221,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-20.808902,
-        "valor_final":12.154397,
+        "valor_final":9.511169,
         "percentual_preenchido":73.170732
     },
     {
