@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-10-18 13:50:58",
+    "data_execucao": "2026-10-19 16:47:10",
     "status": "concluido",
     "fontes_solicitadas": [
         {
@@ -72,6 +72,7 @@
         "yahoo_ret_soja",
         "yahoo_ret_milho",
         "bcb_sgs_selic_meta",
+        "bcb_sgs_selic_over",
         "bcb_sgs_cdi",
         "bcb_sgs_ipca",
         "bcb_sgs_igp_m",
@@ -86,7 +87,6 @@
         "bcb_sgs_inadimplencia_total",
         "bcb_sgs_inadimplencia_pj",
         "bcb_sgs_inadimplencia_pf",
-        "bcb_sgs_juros_credito_total",
         "bcb_sgs_reservas_internacionais",
         "bcb_sgs_var_pct_ibc_br_sa",
         "bcb_sgs_var_pct_ibc_br",
@@ -100,11 +100,11 @@
         "bcb_sgs_igp_m_acum_12m",
         "bcb_sgs_inpc_acum_12m",
         "bcb_sgs_dif_selic_meta",
+        "bcb_sgs_dif_selic_over",
         "bcb_sgs_dif_cdi",
         "bcb_sgs_dif_inadimplencia_total",
         "bcb_sgs_dif_inadimplencia_pj",
         "bcb_sgs_dif_inadimplencia_pf",
-        "bcb_sgs_dif_juros_credito_total",
         "comexstat_comex_exportacoes_fob_usd",
         "comexstat_comex_importacoes_fob_usd",
         "comexstat_comex_saldo_comercial_usd",
