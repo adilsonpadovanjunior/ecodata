@@ -12,7 +12,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.024925,
+        "valor_inicial":0.025079,
         "valor_final":0.050788
     },
     {
@@ -20,7 +20,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.024925,
+        "valor_inicial":0.025079,
         "valor_final":0.050788
     },
     {
@@ -104,14 +104,6 @@
         "valor_final":4670170.0
     },
     {
-        "variavel":"inadimplencia_total",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":2.33,
-        "valor_final":5.04
-    },
-    {
         "variavel":"inadimplencia_pj",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
@@ -126,6 +118,14 @@
         "observacoes":59,
         "valor_inicial":2.99,
         "valor_final":6.03
+    },
+    {
+        "variavel":"juros_credito_total",
+        "primeira_data":"2021-10-31T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":59,
+        "valor_inicial":22.89,
+        "valor_final":32.26
     },
     {
         "variavel":"reservas_internacionais",
@@ -236,7 +236,7 @@
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.004331,
+        "valor_inicial":0.004177,
         "valor_final":-0.000457
     },
     {
@@ -244,16 +244,8 @@
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.004331,
+        "valor_inicial":0.004177,
         "valor_final":-0.000457
-    },
-    {
-        "variavel":"dif_inadimplencia_total",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":0.03,
-        "valor_final":0.16
     },
     {
         "variavel":"dif_inadimplencia_pj",
@@ -270,5 +262,13 @@
         "observacoes":58,
         "valor_inicial":0.02,
         "valor_final":0.23
+    },
+    {
+        "variavel":"dif_juros_credito_total",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-08-31T00:00:00.000",
+        "observacoes":58,
+        "valor_inicial":1.02,
+        "valor_final":0.2
     }
 ]

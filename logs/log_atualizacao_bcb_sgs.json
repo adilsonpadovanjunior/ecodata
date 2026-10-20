@@ -1,6 +1,6 @@
 {
     "fonte": "Banco Central do Brasil - SGS/BCData",
-    "data_execucao": "2026-10-19 16:45:12",
+    "data_execucao": "2026-10-20 14:37:11",
     "anos_historico": 5,
     "frequencia_final": "mensal",
     "series_solicitadas": {
@@ -25,7 +25,7 @@
     },
     "status": "concluido",
     "erros": [
-        "Erro na série juros_credito_total | SGS 20714: HTTPSConnectionPool(host='api.bcb.gov.br', port=443): Read timed out. (read timeout=30)"
+        "Erro na série inadimplencia_total | SGS 21082: 502 Server Error: Bad Gateway for url: https://api.bcb.gov.br/dados/serie/bcdata.sgs.21082/dados?formato=json&dataInicial=20%2F10%2F2021&dataFinal=20%2F10%2F2026"
     ],
     "linhas_base_larga": 61,
     "linhas_base_longa": 1017,
@@ -46,9 +46,9 @@
         "saldo_credito_total",
         "saldo_credito_pj",
         "saldo_credito_pf",
-        "inadimplencia_total",
         "inadimplencia_pj",
         "inadimplencia_pf",
+        "juros_credito_total",
         "reservas_internacionais",
         "var_pct_ibc_br_sa",
         "var_pct_ibc_br",
@@ -64,8 +64,8 @@
         "dif_selic_meta",
         "dif_selic_over",
         "dif_cdi",
-        "dif_inadimplencia_total",
         "dif_inadimplencia_pj",
-        "dif_inadimplencia_pf"
+        "dif_inadimplencia_pf",
+        "dif_juros_credito_total"
     ]
 }

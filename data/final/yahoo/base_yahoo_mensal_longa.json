@@ -967,13 +967,13 @@
         "grupo":"bolsa_brasil",
         "tipo":"etf",
         "moeda":"BRL",
-        "valor":201.429993,
+        "valor":204.220001,
         "descricao":"ETF brasileiro associado ao desempenho do Ibovespa.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":9.425245
+        "retorno_mensal_pct":10.940895
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -1943,13 +1943,13 @@
         "grupo":"cambio",
         "tipo":"cambio",
         "moeda":"BRL_por_USD",
-        "valor":5.0579,
+        "valor":5.01,
         "descricao":"Taxa de câmbio R$\/US$ aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-2.786907
+        "retorno_mensal_pct":-3.707542
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -2919,13 +2919,13 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":52020.359375,
+        "valor":52561.949219,
         "descricao":"Índice Dow Jones Industrial Average.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":2.188951
+        "retorno_mensal_pct":3.252852
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -3895,13 +3895,13 @@
         "grupo":"cambio",
         "tipo":"cambio",
         "moeda":"BRL_por_EUR",
-        "valor":5.673,
+        "valor":5.6383,
         "descricao":"Taxa de câmbio R$\/EUR aproximada pelo Yahoo Finance.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-3.785914
+        "retorno_mensal_pct":-4.374425
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -4871,13 +4871,13 @@
         "grupo":"bolsa_brasil",
         "tipo":"indice",
         "moeda":"BRL",
-        "valor":204667.15625,
+        "valor":207377.765625,
         "descricao":"Índice Ibovespa.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":9.835331
+        "retorno_mensal_pct":11.289989
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -5847,13 +5847,13 @@
         "grupo":"bolsa_brasil",
         "tipo":"etf",
         "moeda":"BRL",
-        "valor":440.230011,
+        "valor":437.529999,
         "descricao":"ETF brasileiro com exposição ao índice S&P 500.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-1.595991
+        "retorno_mensal_pct":-2.199521
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -6823,13 +6823,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":467.75,
+        "valor":462.75,
         "descricao":"Contrato futuro de milho.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-6.590115
+        "retorno_mensal_pct":-7.588617
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -7799,13 +7799,13 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":26522.501953,
+        "valor":26544.773438,
         "descricao":"Índice Nasdaq Composite.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-1.260407
+        "retorno_mensal_pct":-1.177493
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -8775,13 +8775,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":4161.899902,
+        "valor":4169.299805,
         "descricao":"Contrato futuro de ouro.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-0.592359
+        "retorno_mensal_pct":-0.415611
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -9751,13 +9751,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":109.400002,
+        "valor":107.0,
         "descricao":"Contrato futuro de petróleo Brent.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":5.669857
+        "retorno_mensal_pct":3.351687
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -10727,13 +10727,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":98.599998,
+        "valor":96.309998,
         "descricao":"Contrato futuro de petróleo WTI.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":9.046672
+        "retorno_mensal_pct":6.514045
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -11703,13 +11703,13 @@
         "grupo":"bolsa_brasil",
         "tipo":"etf",
         "moeda":"BRL",
-        "valor":133.410004,
+        "valor":137.440002,
         "descricao":"ETF brasileiro associado ao segmento de small caps.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":19.190568
+        "retorno_mensal_pct":22.791032
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -12679,13 +12679,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":1251.0,
+        "valor":1253.25,
         "descricao":"Contrato futuro de soja.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-3.24826
+        "retorno_mensal_pct":-3.074246
     },
     {
         "data":"2021-10-31T00:00:00.000",
@@ -13655,12 +13655,12 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":7708.77002,
+        "valor":7736.75,
         "descricao":"Índice S&P 500.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":0.747954
+        "retorno_mensal_pct":1.113632
     }
 ]
