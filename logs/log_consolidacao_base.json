@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-10-20 14:39:01",
+    "data_execucao": "2026-10-21 14:50:25",
     "status": "concluido",
     "fontes_solicitadas": [
         {
@@ -84,6 +84,7 @@
         "bcb_sgs_saldo_credito_total",
         "bcb_sgs_saldo_credito_pj",
         "bcb_sgs_saldo_credito_pf",
+        "bcb_sgs_inadimplencia_total",
         "bcb_sgs_inadimplencia_pj",
         "bcb_sgs_inadimplencia_pf",
         "bcb_sgs_juros_credito_total",
@@ -102,6 +103,7 @@
         "bcb_sgs_dif_selic_meta",
         "bcb_sgs_dif_selic_over",
         "bcb_sgs_dif_cdi",
+        "bcb_sgs_dif_inadimplencia_total",
         "bcb_sgs_dif_inadimplencia_pj",
         "bcb_sgs_dif_inadimplencia_pf",
         "bcb_sgs_dif_juros_credito_total",
