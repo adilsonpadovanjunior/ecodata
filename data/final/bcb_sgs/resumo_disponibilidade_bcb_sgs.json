@@ -12,7 +12,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.025543,
+        "valor_inicial":0.025915,
         "valor_final":0.050788
     },
     {
@@ -20,7 +20,7 @@
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
-        "valor_inicial":0.025543,
+        "valor_inicial":0.025915,
         "valor_final":0.050788
     },
     {
@@ -69,7 +69,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.643,
-        "valor_final":5.0277
+        "valor_final":5.0383
     },
     {
         "variavel":"cambio_compra_usd",
@@ -77,7 +77,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6424,
-        "valor_final":5.027
+        "valor_final":5.0377
     },
     {
         "variavel":"saldo_credito_total",
@@ -128,14 +128,6 @@
         "valor_final":6.03
     },
     {
-        "variavel":"juros_credito_total",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":22.89,
-        "valor_final":32.26
-    },
-    {
         "variavel":"reservas_internacionais",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -165,7 +157,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.409357,
-        "valor_final":-2.957015
+        "valor_final":-2.752418
     },
     {
         "variavel":"var_pct_cambio_compra_usd",
@@ -173,7 +165,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.4094,
-        "valor_final":-2.959288
+        "valor_final":-2.752736
     },
     {
         "variavel":"var_pct_saldo_credito_total",
@@ -244,7 +236,7 @@
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.003713,
+        "valor_inicial":0.003341,
         "valor_final":-0.000457
     },
     {
@@ -252,7 +244,7 @@
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.003713,
+        "valor_inicial":0.003341,
         "valor_final":-0.000457
     },
     {
@@ -278,13 +270,5 @@
         "observacoes":58,
         "valor_inicial":0.02,
         "valor_final":0.23
-    },
-    {
-        "variavel":"dif_juros_credito_total",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":1.02,
-        "valor_final":0.2
     }
 ]
