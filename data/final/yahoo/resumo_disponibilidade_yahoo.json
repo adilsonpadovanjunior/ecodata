@@ -37,7 +37,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6449,
-        "valor_final":4.9964
+        "valor_final":4.9652
     },
     {
         "variavel":"euro_real",
@@ -93,7 +93,7 @@
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":61,
         "valor_inicial":84.379997,
-        "valor_final":116.720001
+        "valor_final":111.699997
     },
     {
         "variavel":"soja",
