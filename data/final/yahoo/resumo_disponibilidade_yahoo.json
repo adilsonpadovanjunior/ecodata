@@ -1,114 +1,114 @@
 [
     {
         "variavel":"ibovespa",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":103501.0,
-        "valor_final":169332.734375
+        "observacoes":60,
+        "valor_inicial":101915.0,
+        "valor_final":168219.609375
     },
     {
         "variavel":"bova11",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":99.68,
-        "valor_final":166.600006
+        "observacoes":60,
+        "valor_inicial":98.349998,
+        "valor_final":165.490005
     },
     {
         "variavel":"smal11",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":111.199997,
-        "valor_final":93.900002
+        "observacoes":60,
+        "valor_inicial":108.800003,
+        "valor_final":91.82
     },
     {
         "variavel":"ivvb11",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":283.0,
-        "valor_final":471.0
+        "observacoes":60,
+        "valor_inicial":280.549988,
+        "valor_final":465.75
     },
     {
         "variavel":"dolar_real",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":5.6449,
-        "valor_final":5.4112
+        "observacoes":60,
+        "valor_inicial":5.6007,
+        "valor_final":5.4297
     },
     {
         "variavel":"euro_real",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":6.593,
-        "valor_final":6.0453
+        "observacoes":60,
+        "valor_inicial":6.3223,
+        "valor_final":6.0641
     },
     {
         "variavel":"sp500",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":4605.379883,
-        "valor_final":7711.899902
+        "observacoes":60,
+        "valor_inicial":4567.0,
+        "valor_final":7594.609863
     },
     {
         "variavel":"nasdaq",
-        "primeira_data":null,
-        "ultima_data":null,
-        "observacoes":0,
-        "valor_inicial":null,
-        "valor_final":null
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":15537.69043,
+        "valor_final":25479.597656
     },
     {
         "variavel":"dow_jones",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":35819.558594,
-        "valor_final":52266.71875
+        "observacoes":60,
+        "valor_inicial":34483.71875,
+        "valor_final":51957.371094
     },
     {
         "variavel":"ouro",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":1783.900024,
-        "valor_final":4027.5
+        "observacoes":60,
+        "valor_inicial":1773.599976,
+        "valor_final":3906.0
     },
     {
         "variavel":"petroleo_wti",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":83.57,
-        "valor_final":100.889999
+        "observacoes":60,
+        "valor_inicial":66.18,
+        "valor_final":104.360001
     },
     {
         "variavel":"petroleo_brent",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":84.379997,
-        "valor_final":109.889999
+        "observacoes":60,
+        "valor_inicial":70.57,
+        "valor_final":113.879997
     },
     {
         "variavel":"soja",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":1235.75,
-        "valor_final":1235.5
+        "observacoes":60,
+        "valor_inicial":1217.25,
+        "valor_final":1235.25
     },
     {
         "variavel":"milho",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":568.25,
-        "valor_final":452.5
+        "observacoes":60,
+        "valor_inicial":567.0,
+        "valor_final":447.75
     }
 ]
