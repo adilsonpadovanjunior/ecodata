@@ -270,6 +270,15 @@
         "percentual_preenchido":73.170732
     },
     {
+        "variavel":"bcb_sgs_cdi",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":0.029256,
+        "valor_final":0.050788,
+        "percentual_preenchido":73.170732
+    },
+    {
         "variavel":"bcb_sgs_ipca",
         "primeira_data":"2021-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -514,6 +523,15 @@
     },
     {
         "variavel":"bcb_sgs_dif_selic_over",
+        "primeira_data":"2021-12-31T00:00:00.000",
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
+        "valor_inicial":0.00406,
+        "valor_final":-0.000457,
+        "percentual_preenchido":71.95122
+    },
+    {
+        "variavel":"bcb_sgs_dif_cdi",
         "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
         "observacoes":59,
