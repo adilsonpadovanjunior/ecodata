@@ -1,8 +1,8 @@
 [
     {
         "variavel":"selic_meta",
-        "primeira_data":"2021-10-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":7.75,
         "valor_final":13.75
@@ -25,42 +25,42 @@
     },
     {
         "variavel":"ipca",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":1.25,
+        "observacoes":59,
+        "valor_inicial":0.95,
         "valor_final":0.82
     },
     {
         "variavel":"igp_m",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":0.64,
+        "observacoes":60,
+        "valor_inicial":0.02,
         "valor_final":1.47
     },
     {
         "variavel":"inpc",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":1.16,
+        "observacoes":59,
+        "valor_inicial":0.84,
         "valor_final":0.82
     },
     {
         "variavel":"ibc_br_sa",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":97.48845,
+        "observacoes":58,
+        "valor_inicial":99.05624,
         "valor_final":110.40624
     },
     {
         "variavel":"ibc_br",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":96.53555,
+        "observacoes":58,
+        "valor_inicial":97.85102,
         "valor_final":111.71919
     },
     {
@@ -81,82 +81,82 @@
     },
     {
         "variavel":"saldo_credito_total",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":4511956.0,
+        "observacoes":59,
+        "valor_inicial":4597507.0,
         "valor_final":7444208.0
     },
     {
         "variavel":"saldo_credito_pj",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":1910940.0,
+        "observacoes":59,
+        "valor_inicial":1933111.0,
         "valor_final":2759442.0
     },
     {
         "variavel":"saldo_credito_pf",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":2601017.0,
+        "observacoes":59,
+        "valor_inicial":2664395.0,
         "valor_final":4684766.0
     },
     {
         "variavel":"inadimplencia_total",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":2.33,
+        "observacoes":59,
+        "valor_inicial":2.36,
         "valor_final":4.98
     },
     {
         "variavel":"inadimplencia_pj",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":1.43,
+        "observacoes":59,
+        "valor_inicial":1.46,
         "valor_final":3.28
     },
     {
         "variavel":"inadimplencia_pf",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":2.99,
+        "observacoes":59,
+        "valor_inicial":3.01,
         "valor_final":5.99
     },
     {
         "variavel":"juros_credito_total",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":22.89,
+        "observacoes":59,
+        "valor_inicial":23.91,
         "valor_final":32.36
     },
     {
         "variavel":"reservas_internacionais",
-        "primeira_data":"2021-10-31T00:00:00.000",
+        "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":367927.0,
+        "observacoes":59,
+        "valor_inicial":367772.0,
         "valor_final":362821.0
     },
     {
         "variavel":"var_pct_ibc_br_sa",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":1.60818,
+        "observacoes":57,
+        "valor_inicial":0.331711,
         "valor_final":0.340229
     },
     {
         "variavel":"var_pct_ibc_br",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-08-31T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":1.362679,
+        "observacoes":57,
+        "valor_inicial":1.499555,
         "valor_final":-2.420065
     },
     {
@@ -177,66 +177,66 @@
     },
     {
         "variavel":"var_pct_saldo_credito_total",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1.896096,
+        "observacoes":58,
+        "valor_inicial":1.856332,
         "valor_final":0.429647
     },
     {
         "variavel":"var_pct_saldo_credito_pj",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1.160214,
+        "observacoes":58,
+        "valor_inicial":2.135418,
         "valor_final":1.008791
     },
     {
         "variavel":"var_pct_saldo_credito_pf",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":2.436662,
+        "observacoes":58,
+        "valor_inicial":1.653884,
         "valor_final":0.091615
     },
     {
         "variavel":"var_pct_reservas_internacionais",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":-0.042128,
+        "observacoes":58,
+        "valor_inicial":-1.513981,
         "valor_final":-2.628712
     },
     {
         "variavel":"ipca_acum_12m",
-        "primeira_data":"2022-09-30T00:00:00.000",
+        "primeira_data":"2022-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":49,
-        "valor_inicial":7.168596,
+        "observacoes":48,
+        "valor_inicial":6.470016,
         "valor_final":4.57612
     },
     {
         "variavel":"igp_m_acum_12m",
-        "primeira_data":"2022-09-30T00:00:00.000",
+        "primeira_data":"2022-10-31T00:00:00.000",
         "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":50,
-        "valor_inicial":8.24876,
+        "observacoes":49,
+        "valor_inicial":6.517038,
         "valor_final":5.246487
     },
     {
         "variavel":"inpc_acum_12m",
-        "primeira_data":"2022-09-30T00:00:00.000",
+        "primeira_data":"2022-10-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":49,
-        "valor_inicial":7.191214,
+        "observacoes":48,
+        "valor_inicial":6.460076,
         "valor_final":4.293633
     },
     {
         "variavel":"dif_selic_meta",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
+        "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
-        "valor_inicial":0.0,
+        "valor_inicial":1.5,
         "valor_final":0.0
     },
     {
@@ -257,34 +257,34 @@
     },
     {
         "variavel":"dif_inadimplencia_total",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":0.03,
+        "observacoes":58,
+        "valor_inicial":-0.01,
         "valor_final":-0.07
     },
     {
         "variavel":"dif_inadimplencia_pj",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":0.03,
+        "observacoes":58,
+        "valor_inicial":-0.06,
         "valor_final":-0.08
     },
     {
         "variavel":"dif_inadimplencia_pf",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":0.02,
+        "observacoes":58,
+        "valor_inicial":0.04,
         "valor_final":-0.05
     },
     {
         "variavel":"dif_juros_credito_total",
-        "primeira_data":"2021-11-30T00:00:00.000",
+        "primeira_data":"2021-12-31T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":1.02,
+        "observacoes":58,
+        "valor_inicial":0.3,
         "valor_final":0.13
     }
 ]

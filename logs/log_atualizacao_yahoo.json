@@ -1,6 +1,6 @@
 {
     "fonte": "Yahoo Finance via yfinance",
-    "data_execucao": "2026-10-31 15:38:05",
+    "data_execucao": "2026-11-01 16:32:43",
     "periodo": "5y",
     "intervalo_original": "1d",
     "frequencia_final": "mensal",
@@ -23,10 +23,10 @@
     ],
     "status": "concluido",
     "erros": [],
-    "linhas_base_larga": 60,
-    "linhas_base_longa": 840,
+    "linhas_base_larga": 61,
+    "linhas_base_longa": 841,
     "data_inicial_base": "2021-11-30 00:00:00",
-    "data_final_base": "2026-10-31 00:00:00",
+    "data_final_base": "2026-11-30 00:00:00",
     "variaveis_base_mensal": [
         "ibovespa",
         "bova11",
