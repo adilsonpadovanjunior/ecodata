@@ -34,7 +34,6 @@ yahoo_ivvb11,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final
 yahoo_milho,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_milho.csv,data/final/series/yahoo_milho.xlsx
 yahoo_nasdaq,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_nasdaq.csv,data/final/series/yahoo_nasdaq.xlsx
 yahoo_ouro,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_ouro.csv,data/final/series/yahoo_ouro.xlsx
-yahoo_petroleo_brent,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_petroleo_brent.csv,data/final/series/yahoo_petroleo_brent.xlsx
 yahoo_petroleo_wti,yahoo,mercado_financeiro,mensal,60,2021-11-30,2026-10-31,data/final/series/yahoo_petroleo_wti.csv,data/final/series/yahoo_petroleo_wti.xlsx
 yahoo_ret_bova11,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_bova11.csv,data/final/series/yahoo_ret_bova11.xlsx
 yahoo_ret_dolar_real,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_dolar_real.csv,data/final/series/yahoo_ret_dolar_real.xlsx
@@ -45,7 +44,6 @@ yahoo_ret_ivvb11,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/f
 yahoo_ret_milho,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_milho.csv,data/final/series/yahoo_ret_milho.xlsx
 yahoo_ret_nasdaq,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_nasdaq.csv,data/final/series/yahoo_ret_nasdaq.xlsx
 yahoo_ret_ouro,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_ouro.csv,data/final/series/yahoo_ret_ouro.xlsx
-yahoo_ret_petroleo_brent,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_petroleo_brent.csv,data/final/series/yahoo_ret_petroleo_brent.xlsx
 yahoo_ret_petroleo_wti,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_petroleo_wti.csv,data/final/series/yahoo_ret_petroleo_wti.xlsx
 yahoo_ret_smal11,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_smal11.csv,data/final/series/yahoo_ret_smal11.xlsx
 yahoo_ret_soja,yahoo,mercado_financeiro,mensal,59,2021-12-31,2026-10-31,data/final/series/yahoo_ret_soja.csv,data/final/series/yahoo_ret_soja.xlsx

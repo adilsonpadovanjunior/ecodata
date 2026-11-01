@@ -100,12 +100,12 @@
     },
     {
         "variavel":"yahoo_petroleo_brent",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":70.57,
-        "valor_final":113.43,
-        "percentual_preenchido":72.289157
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_soja",
@@ -226,12 +226,12 @@
     },
     {
         "variavel":"yahoo_ret_petroleo_brent",
-        "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":10.216805,
-        "valor_final":9.562447,
-        "percentual_preenchido":71.084337
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_ret_soja",
