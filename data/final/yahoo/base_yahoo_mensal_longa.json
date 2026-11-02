@@ -2903,13 +2903,13 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":52095.96875,
+        "valor":52131.050781,
         "descricao":"Índice Dow Jones Industrial Average.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":0.629048
+        "retorno_mensal_pct":0.696813
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -7751,13 +7751,13 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":25276.458984,
+        "valor":25317.220703,
         "descricao":"Índice Nasdaq Composite.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-0.631132
+        "retorno_mensal_pct":-0.470886
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -8727,13 +8727,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":3952.5,
+        "valor":3953.699951,
         "descricao":"Contrato futuro de ouro.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":1.374749
+        "retorno_mensal_pct":1.405526
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -9703,13 +9703,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":105.040001,
+        "valor":104.730003,
         "descricao":"Contrato futuro de petróleo Brent.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-10.710641
+        "retorno_mensal_pct":-10.974155
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -10679,13 +10679,13 @@
         "grupo":"commodities",
         "tipo":"futuro",
         "moeda":"USD",
-        "valor":96.800003,
+        "valor":96.510002,
         "descricao":"Contrato futuro de petróleo WTI.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-7.030349
+        "retorno_mensal_pct":-7.308875
     },
     {
         "data":"2021-11-30T00:00:00.000",
@@ -13591,12 +13591,12 @@
         "grupo":"bolsa_internacional",
         "tipo":"indice",
         "moeda":"USD",
-        "valor":7563.089844,
+        "valor":7571.990234,
         "descricao":"Índice S&P 500.",
         "frequencia_original":"1d",
         "frequencia_final":"mensal",
         "agregacao_mensal":"ultimo",
         "campo_preco":"Close",
-        "retorno_mensal_pct":-0.224008
+        "retorno_mensal_pct":-0.10659
     }
 ]
