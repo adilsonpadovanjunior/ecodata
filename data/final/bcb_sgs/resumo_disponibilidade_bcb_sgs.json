@@ -96,14 +96,6 @@
         "valor_final":2759442.0
     },
     {
-        "variavel":"saldo_credito_pf",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
-        "valor_inicial":2664395.0,
-        "valor_final":4684766.0
-    },
-    {
         "variavel":"inadimplencia_total",
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-09-30T00:00:00.000",
@@ -190,14 +182,6 @@
         "observacoes":58,
         "valor_inicial":2.135418,
         "valor_final":1.008791
-    },
-    {
-        "variavel":"var_pct_saldo_credito_pf",
-        "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
-        "valor_inicial":1.653884,
-        "valor_final":0.091615
     },
     {
         "variavel":"var_pct_reservas_internacionais",

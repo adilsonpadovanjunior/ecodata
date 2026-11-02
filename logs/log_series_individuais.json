@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-11-01 16:42:05",
+    "data_execucao": "2026-11-02 20:00:55",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -14,6 +14,7 @@
         "yahoo_dow_jones",
         "yahoo_ouro",
         "yahoo_petroleo_wti",
+        "yahoo_petroleo_brent",
         "yahoo_soja",
         "yahoo_milho",
         "yahoo_ret_ibovespa",
@@ -27,6 +28,7 @@
         "yahoo_ret_dow_jones",
         "yahoo_ret_ouro",
         "yahoo_ret_petroleo_wti",
+        "yahoo_ret_petroleo_brent",
         "yahoo_ret_soja",
         "yahoo_ret_milho",
         "bcb_sgs_selic_meta",
@@ -41,7 +43,6 @@
         "bcb_sgs_cambio_compra_usd",
         "bcb_sgs_saldo_credito_total",
         "bcb_sgs_saldo_credito_pj",
-        "bcb_sgs_saldo_credito_pf",
         "bcb_sgs_inadimplencia_total",
         "bcb_sgs_inadimplencia_pj",
         "bcb_sgs_inadimplencia_pf",
@@ -53,7 +54,6 @@
         "bcb_sgs_var_pct_cambio_compra_usd",
         "bcb_sgs_var_pct_saldo_credito_total",
         "bcb_sgs_var_pct_saldo_credito_pj",
-        "bcb_sgs_var_pct_saldo_credito_pf",
         "bcb_sgs_var_pct_reservas_internacionais",
         "bcb_sgs_ipca_acum_12m",
         "bcb_sgs_igp_m_acum_12m",
