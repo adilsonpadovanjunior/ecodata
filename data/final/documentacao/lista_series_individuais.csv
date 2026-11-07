@@ -19,6 +19,8 @@ bcb_sgs_saldo_credito_total,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data
 bcb_sgs_var_pct_saldo_credito_pf,bcb_sgs,credito,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_saldo_credito_pf.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_pf.xlsx
 bcb_sgs_var_pct_saldo_credito_pj,bcb_sgs,credito,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_saldo_credito_pj.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_pj.xlsx
 bcb_sgs_var_pct_saldo_credito_total,bcb_sgs,credito,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_saldo_credito_total.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_total.xlsx
+bcb_sgs_igp_m,bcb_sgs,inflacao,mensal,60,2021-11-30,2026-10-31,data/final/series/bcb_sgs_igp_m.csv,data/final/series/bcb_sgs_igp_m.xlsx
+bcb_sgs_igp_m_acum_12m,bcb_sgs,inflacao,mensal,49,2022-10-31,2026-10-31,data/final/series/bcb_sgs_igp_m_acum_12m.csv,data/final/series/bcb_sgs_igp_m_acum_12m.xlsx
 bcb_sgs_inpc,bcb_sgs,inflacao,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_inpc.csv,data/final/series/bcb_sgs_inpc.xlsx
 bcb_sgs_inpc_acum_12m,bcb_sgs,inflacao,mensal,48,2022-10-31,2026-09-30,data/final/series/bcb_sgs_inpc_acum_12m.csv,data/final/series/bcb_sgs_inpc_acum_12m.xlsx
 bcb_sgs_ipca,bcb_sgs,inflacao,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_ipca.csv,data/final/series/bcb_sgs_ipca.xlsx
@@ -46,8 +48,10 @@ yahoo_ret_ouro,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/fin
 yahoo_ret_petroleo_brent,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_petroleo_brent.csv,data/final/series/yahoo_ret_petroleo_brent.xlsx
 yahoo_ret_petroleo_wti,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_petroleo_wti.csv,data/final/series/yahoo_ret_petroleo_wti.xlsx
 yahoo_ret_smal11,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_smal11.csv,data/final/series/yahoo_ret_smal11.xlsx
+yahoo_ret_soja,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_soja.csv,data/final/series/yahoo_ret_soja.xlsx
 yahoo_ret_sp500,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_sp500.csv,data/final/series/yahoo_ret_sp500.xlsx
 yahoo_smal11,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_smal11.csv,data/final/series/yahoo_smal11.xlsx
+yahoo_soja,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_soja.csv,data/final/series/yahoo_soja.xlsx
 yahoo_sp500,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_sp500.csv,data/final/series/yahoo_sp500.xlsx
 comexstat_acucares_cana_exp_fob,consolidada,outros,mensal,81,2020-01-31,2026-09-30,data/final/series/comexstat_acucares_cana_exp_fob.csv,data/final/series/comexstat_acucares_cana_exp_fob.xlsx
 comexstat_acucares_cana_exp_kg,consolidada,outros,mensal,81,2020-01-31,2026-09-30,data/final/series/comexstat_acucares_cana_exp_kg.csv,data/final/series/comexstat_acucares_cana_exp_kg.xlsx

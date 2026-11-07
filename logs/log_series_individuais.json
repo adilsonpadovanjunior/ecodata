@@ -1,5 +1,5 @@
 {
-    "data_execucao": "2026-11-06 17:07:39",
+    "data_execucao": "2026-11-07 16:03:24",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
@@ -15,6 +15,7 @@
         "yahoo_ouro",
         "yahoo_petroleo_wti",
         "yahoo_petroleo_brent",
+        "yahoo_soja",
         "yahoo_milho",
         "yahoo_ret_ibovespa",
         "yahoo_ret_bova11",
@@ -28,11 +29,13 @@
         "yahoo_ret_ouro",
         "yahoo_ret_petroleo_wti",
         "yahoo_ret_petroleo_brent",
+        "yahoo_ret_soja",
         "yahoo_ret_milho",
         "bcb_sgs_selic_meta",
         "bcb_sgs_selic_over",
         "bcb_sgs_cdi",
         "bcb_sgs_ipca",
+        "bcb_sgs_igp_m",
         "bcb_sgs_inpc",
         "bcb_sgs_ibc_br_sa",
         "bcb_sgs_ibc_br",
@@ -55,6 +58,7 @@
         "bcb_sgs_var_pct_saldo_credito_pf",
         "bcb_sgs_var_pct_reservas_internacionais",
         "bcb_sgs_ipca_acum_12m",
+        "bcb_sgs_igp_m_acum_12m",
         "bcb_sgs_inpc_acum_12m",
         "bcb_sgs_dif_selic_meta",
         "bcb_sgs_dif_selic_over",
@@ -114,5 +118,5 @@
         "comexstat_soja_exceto_semeadura_imp_kg"
     ],
     "erros": [],
-    "total_series_exportadas": 109
+    "total_series_exportadas": 113
 }
