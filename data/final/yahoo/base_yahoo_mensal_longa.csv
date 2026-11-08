@@ -120,7 +120,7 @@
 2026-08-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.1912,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.227203
 2026-09-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.2029,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.225384
 2026-10-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.3848,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,3.496128
-2026-11-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.4959,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.063219
+2026-11-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.505,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.232212
 2021-11-30,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,34483.71875,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,36338.300781,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,5.378138
 2022-01-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,35131.859375,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,-3.320027
@@ -791,7 +791,7 @@
 2026-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1275.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,8.809727
 2026-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1293.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,1.391884
 2026-10-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1222.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,-5.471771
-2026-11-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1189.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,-2.720393
+2026-11-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1193.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,-2.331765
 2021-11-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4567.0,Índice S&P 500.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4766.180176,Índice S&P 500.,1d,mensal,ultimo,Close,4.361291
 2022-01-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4515.549805,Índice S&P 500.,1d,mensal,ultimo,Close,-5.258517
