@@ -1,11 +1,11 @@
 {
     "fonte": "Comex Stat/MDIC",
-    "coletado_em": "2026-11-03T17:41:40+00:00",
+    "coletado_em": "2026-11-11T17:39:10+00:00",
     "ultima_atualizacao": {
-        "data_atualizacao_fonte": "2026-10-06",
+        "data_atualizacao_fonte": "2026-11-06",
         "ano_ultimo_periodo": 2026,
-        "mes_ultimo_periodo": 9,
-        "ultimo_periodo": "2026-09"
+        "mes_ultimo_periodo": 10,
+        "ultimo_periodo": "2026-10"
     },
     "escopo_geografico": "Brasil-mundo",
     "codigos_ncm": [
@@ -5868,14 +5868,14 @@
             {
                 "periodo": {
                     "from": "2026-01",
-                    "to": "2026-09"
+                    "to": "2026-10"
                 },
                 "payload": {
                     "flow": "export",
                     "monthDetail": true,
                     "period": {
                         "from": "2026-01",
-                        "to": "2026-09"
+                        "to": "2026-10"
                     },
                     "filters": [
                         {
@@ -5902,14 +5902,22 @@
                         "metricKG"
                     ]
                 },
-                "quantidade_registros": 90,
+                "quantidade_registros": 100,
                 "dados": [
+                    {
+                        "coNcm": "27090010",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Óleos brutos de petróleo",
+                        "metricFOB": "8538614829",
+                        "metricKG": "14489695396"
+                    },
                     {
                         "coNcm": "12019000",
                         "year": "2026",
                         "monthNumber": "04",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
-                        "metricFOB": "6962355252",
+                        "metricFOB": "6962355254",
                         "metricKG": "16750088436"
                     },
                     {
@@ -5917,8 +5925,8 @@
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Óleos brutos de petróleo",
-                        "metricFOB": "6498868606",
-                        "metricKG": "11689652591"
+                        "metricFOB": "6517629512",
+                        "metricKG": "11707406796"
                     },
                     {
                         "coNcm": "12019000",
@@ -5933,7 +5941,7 @@
                         "year": "2026",
                         "monthNumber": "06",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
-                        "metricFOB": "6265912842",
+                        "metricFOB": "6265912841",
                         "metricKG": "14505017737"
                     },
                     {
@@ -5941,15 +5949,15 @@
                         "year": "2026",
                         "monthNumber": "03",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
-                        "metricFOB": "5898197640",
-                        "metricKG": "14518012801"
+                        "metricFOB": "5896140048",
+                        "metricKG": "14518012800"
                     },
                     {
                         "coNcm": "12019000",
                         "year": "2026",
                         "monthNumber": "07",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
-                        "metricFOB": "5870448703",
+                        "metricFOB": "5867148082",
                         "metricKG": "13405907808"
                     },
                     {
@@ -5989,15 +5997,15 @@
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Óleos brutos de petróleo",
-                        "metricFOB": "4588224684",
-                        "metricKG": "8358755854"
+                        "metricFOB": "4509331383",
+                        "metricKG": "8354889116"
                     },
                     {
                         "coNcm": "12019000",
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
-                        "metricFOB": "4414965758",
+                        "metricFOB": "4414965757",
                         "metricKG": "9810807500"
                     },
                     {
@@ -6005,7 +6013,7 @@
                         "year": "2026",
                         "monthNumber": "01",
                         "ncm": "Óleos brutos de petróleo",
-                        "metricFOB": "4038657819",
+                        "metricFOB": "4038657815",
                         "metricKG": "9958455242"
                     },
                     {
@@ -6013,7 +6021,7 @@
                         "year": "2026",
                         "monthNumber": "02",
                         "ncm": "Óleos brutos de petróleo",
-                        "metricFOB": "3772352332",
+                        "metricFOB": "3779528974",
                         "metricKG": "9010206653"
                     },
                     {
@@ -6029,8 +6037,16 @@
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
-                        "metricFOB": "3473089697",
-                        "metricKG": "7358383641"
+                        "metricFOB": "3470232873",
+                        "metricKG": "7358383643"
+                    },
+                    {
+                        "coNcm": "12019000",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Soja, mesmo triturada, exceto para semeadura",
+                        "metricFOB": "3135831461",
+                        "metricKG": "6343956723"
                     },
                     {
                         "coNcm": "12019000",
@@ -6045,31 +6061,31 @@
                         "year": "2026",
                         "monthNumber": "06",
                         "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
-                        "metricFOB": "2561140623",
+                        "metricFOB": "2523707273",
                         "metricKG": "39666979151"
-                    },
-                    {
-                        "coNcm": "26011100",
-                        "year": "2026",
-                        "monthNumber": "07",
-                        "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
-                        "metricFOB": "2132007782",
-                        "metricKG": "34974584205"
                     },
                     {
                         "coNcm": "26011100",
                         "year": "2026",
                         "monthNumber": "04",
                         "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
-                        "metricFOB": "2115096466",
+                        "metricFOB": "2111992483",
                         "metricKG": "31609434000"
+                    },
+                    {
+                        "coNcm": "26011100",
+                        "year": "2026",
+                        "monthNumber": "07",
+                        "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
+                        "metricFOB": "2111497932",
+                        "metricKG": "34974584205"
                     },
                     {
                         "coNcm": "26011100",
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
-                        "metricFOB": "2037904434",
+                        "metricFOB": "2038409517",
                         "metricKG": "34351503645"
                     },
                     {
@@ -6091,6 +6107,14 @@
                     {
                         "coNcm": "26011100",
                         "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
+                        "metricFOB": "1821073721",
+                        "metricKG": "33782347971"
+                    },
+                    {
+                        "coNcm": "26011100",
+                        "year": "2026",
                         "monthNumber": "03",
                         "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
                         "metricFOB": "1774813115",
@@ -6101,15 +6125,15 @@
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
-                        "metricFOB": "1771842975",
-                        "metricKG": "31660490297"
+                        "metricFOB": "1769531112",
+                        "metricKG": "31553577348"
                     },
                     {
                         "coNcm": "26011100",
                         "year": "2026",
                         "monthNumber": "05",
                         "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
-                        "metricFOB": "1657447109",
+                        "metricFOB": "1651595186",
                         "metricKG": "25568797966"
                     },
                     {
@@ -6117,8 +6141,16 @@
                         "year": "2026",
                         "monthNumber": "06",
                         "ncm": "Carnes desossadas de bovino, congeladas",
-                        "metricFOB": "1604689886",
+                        "metricFOB": "1604725787",
                         "metricKG": "248809399"
+                    },
+                    {
+                        "coNcm": "09011110",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Café não torrado, não descafeinado, em grão",
+                        "metricFOB": "1596842661",
+                        "metricKG": "286942467"
                     },
                     {
                         "coNcm": "02023000",
@@ -6137,28 +6169,36 @@
                         "metricKG": "223553179"
                     },
                     {
+                        "coNcm": "10059010",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Milho em grão, exceto para semeadura",
+                        "metricFOB": "1307099053",
+                        "metricKG": "5684116827"
+                    },
+                    {
                         "coNcm": "09011110",
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Café não torrado, não descafeinado, em grão",
-                        "metricFOB": "1292800592",
-                        "metricKG": "235659946"
-                    },
-                    {
-                        "coNcm": "10059010",
-                        "year": "2026",
-                        "monthNumber": "09",
-                        "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "1228786726",
-                        "metricKG": "5207728793"
+                        "metricFOB": "1292856033",
+                        "metricKG": "235659346"
                     },
                     {
                         "coNcm": "02023000",
                         "year": "2026",
                         "monthNumber": "07",
                         "ncm": "Carnes desossadas de bovino, congeladas",
-                        "metricFOB": "1202269384",
+                        "metricFOB": "1202337206",
                         "metricKG": "193061335"
+                    },
+                    {
+                        "coNcm": "10059010",
+                        "year": "2026",
+                        "monthNumber": "09",
+                        "ncm": "Milho em grão, exceto para semeadura",
+                        "metricFOB": "1175920740",
+                        "metricKG": "5207728794"
                     },
                     {
                         "coNcm": "02023000",
@@ -6189,7 +6229,7 @@
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Café não torrado, não descafeinado, em grão",
-                        "metricFOB": "1094443369",
+                        "metricFOB": "1094488015",
                         "metricKG": "206264157"
                     },
                     {
@@ -6199,6 +6239,22 @@
                         "ncm": "Café não torrado, não descafeinado, em grão",
                         "metricFOB": "1072316499",
                         "metricKG": "171392428"
+                    },
+                    {
+                        "coNcm": "02023000",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Carnes desossadas de bovino, congeladas",
+                        "metricFOB": "1038338316",
+                        "metricKG": "165380396"
+                    },
+                    {
+                        "coNcm": "27101922",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Fuel oil",
+                        "metricFOB": "1029849822",
+                        "metricKG": "1510571265"
                     },
                     {
                         "coNcm": "09011110",
@@ -6221,15 +6277,23 @@
                         "year": "2026",
                         "monthNumber": "03",
                         "ncm": "Café não torrado, não descafeinado, em grão",
-                        "metricFOB": "997837015",
-                        "metricKG": "151241226"
+                        "metricFOB": "997986862",
+                        "metricKG": "151260426"
+                    },
+                    {
+                        "coNcm": "17011400",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Outros açúcares de cana",
+                        "metricFOB": "990237409",
+                        "metricKG": "2764867089"
                     },
                     {
                         "coNcm": "10059010",
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "989881482",
+                        "metricFOB": "989858974",
                         "metricKG": "4648770261"
                     },
                     {
@@ -6237,23 +6301,23 @@
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Carnes desossadas de bovino, congeladas",
-                        "metricFOB": "967264803",
-                        "metricKG": "162300453"
+                        "metricFOB": "967117008",
+                        "metricKG": "162272961"
                     },
                     {
                         "coNcm": "02023000",
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Carnes desossadas de bovino, congeladas",
-                        "metricFOB": "950751177",
-                        "metricKG": "156467198"
+                        "metricFOB": "950617947",
+                        "metricKG": "156443201"
                     },
                     {
                         "coNcm": "17011400",
                         "year": "2026",
                         "monthNumber": "06",
                         "ncm": "Outros açúcares de cana",
-                        "metricFOB": "950478133",
+                        "metricFOB": "950609340",
                         "metricKG": "2770311509"
                     },
                     {
@@ -6277,7 +6341,7 @@
                         "year": "2026",
                         "monthNumber": "06",
                         "ncm": "Café não torrado, não descafeinado, em grão",
-                        "metricFOB": "934580723",
+                        "metricFOB": "934570665",
                         "metricKG": "167708805"
                     },
                     {
@@ -6285,7 +6349,7 @@
                         "year": "2026",
                         "monthNumber": "01",
                         "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "913562892",
+                        "metricFOB": "913562893",
                         "metricKG": "4193768101"
                     },
                     {
@@ -6305,6 +6369,14 @@
                         "metricKG": "1733908493"
                     },
                     {
+                        "coNcm": "27101922",
+                        "year": "2026",
+                        "monthNumber": "06",
+                        "ncm": "Fuel oil",
+                        "metricFOB": "899739033",
+                        "metricKG": "1353692378"
+                    },
+                    {
                         "coNcm": "47032900",
                         "year": "2026",
                         "monthNumber": "09",
@@ -6313,28 +6385,20 @@
                         "metricKG": "1801287673"
                     },
                     {
-                        "coNcm": "27101922",
+                        "coNcm": "17011400",
                         "year": "2026",
-                        "monthNumber": "06",
-                        "ncm": "Fuel oil",
-                        "metricFOB": "878000457",
-                        "metricKG": "1353692378"
+                        "monthNumber": "07",
+                        "ncm": "Outros açúcares de cana",
+                        "metricFOB": "848568950",
+                        "metricKG": "2529930057"
                     },
                     {
                         "coNcm": "27101922",
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Fuel oil",
-                        "metricFOB": "852206570",
-                        "metricKG": "1383886863"
-                    },
-                    {
-                        "coNcm": "17011400",
-                        "year": "2026",
-                        "monthNumber": "07",
-                        "ncm": "Outros açúcares de cana",
-                        "metricFOB": "846757948",
-                        "metricKG": "2529930057"
+                        "metricFOB": "826952558",
+                        "metricKG": "1347212911"
                     },
                     {
                         "coNcm": "12019000",
@@ -6361,12 +6425,12 @@
                         "metricKG": "152934524"
                     },
                     {
-                        "coNcm": "17011400",
+                        "coNcm": "47032900",
                         "year": "2026",
-                        "monthNumber": "09",
-                        "ncm": "Outros açúcares de cana",
-                        "metricFOB": "809708916",
-                        "metricKG": "2306235692"
+                        "monthNumber": "10",
+                        "ncm": "Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
+                        "metricFOB": "802915096",
+                        "metricKG": "1648754135"
                     },
                     {
                         "coNcm": "47032900",
@@ -6377,19 +6441,19 @@
                         "metricKG": "1704088618"
                     },
                     {
-                        "coNcm": "23040090",
+                        "coNcm": "17011400",
                         "year": "2026",
                         "monthNumber": "09",
-                        "ncm": "Bagaços e outros resíduos sólidos, da extração do óleo de soja",
-                        "metricFOB": "755950210",
-                        "metricKG": "1941525390"
+                        "ncm": "Outros açúcares de cana",
+                        "metricFOB": "794687101",
+                        "metricKG": "2302738132"
                     },
                     {
                         "coNcm": "17011400",
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Outros açúcares de cana",
-                        "metricFOB": "752297715",
+                        "metricFOB": "752545710",
                         "metricKG": "2220715368"
                     },
                     {
@@ -6399,6 +6463,14 @@
                         "ncm": "Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
                         "metricFOB": "748163251",
                         "metricKG": "1412673002"
+                    },
+                    {
+                        "coNcm": "23040090",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Bagaços e outros resíduos sólidos, da extração do óleo de soja",
+                        "metricFOB": "736332086",
+                        "metricKG": "1844079811"
                     },
                     {
                         "coNcm": "23040090",
@@ -6457,12 +6529,12 @@
                         "metricKG": "1441275578"
                     },
                     {
-                        "coNcm": "27101922",
+                        "coNcm": "23040090",
                         "year": "2026",
                         "monthNumber": "09",
-                        "ncm": "Fuel oil",
-                        "metricFOB": "649437972",
-                        "metricKG": "942054629"
+                        "ncm": "Bagaços e outros resíduos sólidos, da extração do óleo de soja",
+                        "metricFOB": "649857717",
+                        "metricKG": "1762574128"
                     },
                     {
                         "coNcm": "23040090",
@@ -6477,7 +6549,7 @@
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Bagaços e outros resíduos sólidos, da extração do óleo de soja",
-                        "metricFOB": "644929294",
+                        "metricFOB": "644929695",
                         "metricKG": "1785896563"
                     },
                     {
@@ -6487,6 +6559,14 @@
                         "ncm": "Bagaços e outros resíduos sólidos, da extração do óleo de soja",
                         "metricFOB": "632395835",
                         "metricKG": "1822814124"
+                    },
+                    {
+                        "coNcm": "27101922",
+                        "year": "2026",
+                        "monthNumber": "09",
+                        "ncm": "Fuel oil",
+                        "metricFOB": "631702497",
+                        "metricKG": "917771552"
                     },
                     {
                         "coNcm": "27101922",
@@ -6501,7 +6581,7 @@
                         "year": "2026",
                         "monthNumber": "01",
                         "ncm": "Outros açúcares de cana",
-                        "metricFOB": "621313185",
+                        "metricFOB": "624367307",
                         "metricKG": "1693480220"
                     },
                     {
@@ -6509,8 +6589,8 @@
                         "year": "2026",
                         "monthNumber": "05",
                         "ncm": "Outros açúcares de cana",
-                        "metricFOB": "620395097",
-                        "metricKG": "1806544416"
+                        "metricFOB": "617999273",
+                        "metricKG": "1802612863"
                     },
                     {
                         "coNcm": "27101922",
@@ -6525,7 +6605,7 @@
                         "year": "2026",
                         "monthNumber": "07",
                         "ncm": "Fuel oil",
-                        "metricFOB": "547522432",
+                        "metricFOB": "566389915",
                         "metricKG": "927703584"
                     },
                     {
@@ -6533,8 +6613,8 @@
                         "year": "2026",
                         "monthNumber": "03",
                         "ncm": "Outros açúcares de cana",
-                        "metricFOB": "545703069",
-                        "metricKG": "1551914338"
+                        "metricFOB": "563827021",
+                        "metricKG": "1602978518"
                     },
                     {
                         "coNcm": "23040090",
@@ -6573,7 +6653,7 @@
                         "year": "2026",
                         "monthNumber": "07",
                         "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "406526270",
+                        "metricFOB": "406526271",
                         "metricKG": "1941216352"
                     },
                     {
@@ -10988,14 +11068,14 @@
             {
                 "periodo": {
                     "from": "2026-01",
-                    "to": "2026-09"
+                    "to": "2026-10"
                 },
                 "payload": {
                     "flow": "import",
                     "monthDetail": true,
                     "period": {
                         "from": "2026-01",
-                        "to": "2026-09"
+                        "to": "2026-10"
                     },
                     "filters": [
                         {
@@ -11022,8 +11102,16 @@
                         "metricKG"
                     ]
                 },
-                "quantidade_registros": 74,
+                "quantidade_registros": 84,
                 "dados": [
+                    {
+                        "coNcm": "27090010",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Óleos brutos de petróleo",
+                        "metricFOB": "971706042",
+                        "metricKG": "1114159107"
+                    },
                     {
                         "coNcm": "27090010",
                         "year": "2026",
@@ -11037,7 +11125,7 @@
                         "year": "2026",
                         "monthNumber": "07",
                         "ncm": "Óleos brutos de petróleo",
-                        "metricFOB": "737457317",
+                        "metricFOB": "737729471",
                         "metricKG": "1020333259"
                     },
                     {
@@ -11061,8 +11149,8 @@
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Óleos brutos de petróleo",
-                        "metricFOB": "631617247",
-                        "metricKG": "893774707"
+                        "metricFOB": "633963547",
+                        "metricKG": "894723588"
                     },
                     {
                         "coNcm": "27090010",
@@ -11099,6 +11187,14 @@
                     {
                         "coNcm": "12019000",
                         "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Soja, mesmo triturada, exceto para semeadura",
+                        "metricFOB": "57965200",
+                        "metricKG": "130668980"
+                    },
+                    {
+                        "coNcm": "12019000",
+                        "year": "2026",
                         "monthNumber": "03",
                         "ncm": "Soja, mesmo triturada, exceto para semeadura",
                         "metricFOB": "56613693",
@@ -11113,6 +11209,14 @@
                         "metricKG": "117130000"
                     },
                     {
+                        "coNcm": "10059010",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Milho em grão, exceto para semeadura",
+                        "metricFOB": "45017273",
+                        "metricKG": "265166300"
+                    },
+                    {
                         "coNcm": "12019000",
                         "year": "2026",
                         "monthNumber": "08",
@@ -11125,8 +11229,8 @@
                         "year": "2026",
                         "monthNumber": "09",
                         "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "37058160",
-                        "metricKG": "220704294"
+                        "metricFOB": "36980133",
+                        "metricKG": "220253564"
                     },
                     {
                         "coNcm": "12019000",
@@ -11141,8 +11245,8 @@
                         "year": "2026",
                         "monthNumber": "08",
                         "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "33267163",
-                        "metricKG": "199242360"
+                        "metricFOB": "33226536",
+                        "metricKG": "198994830"
                     },
                     {
                         "coNcm": "12019000",
@@ -11157,8 +11261,8 @@
                         "year": "2026",
                         "monthNumber": "07",
                         "ncm": "Milho em grão, exceto para semeadura",
-                        "metricFOB": "28970014",
-                        "metricKG": "175710260"
+                        "metricFOB": "28967689",
+                        "metricKG": "175696340"
                     },
                     {
                         "coNcm": "12019000",
@@ -11207,6 +11311,14 @@
                         "ncm": "Milho em grão, exceto para semeadura",
                         "metricFOB": "18356006",
                         "metricKG": "103043600"
+                    },
+                    {
+                        "coNcm": "02023000",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Carnes desossadas de bovino, congeladas",
+                        "metricFOB": "16227682",
+                        "metricKG": "1364890"
                     },
                     {
                         "coNcm": "10059010",
@@ -11361,6 +11473,14 @@
                         "metricKG": "6000000"
                     },
                     {
+                        "coNcm": "26011100",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Minérios de ferro e seus concentrados, exceto as piritas de ferro ustuladas (cinzas de piritas), não aglomerados",
+                        "metricFOB": "4897176",
+                        "metricKG": "58028651"
+                    },
+                    {
                         "coNcm": "27101922",
                         "year": "2026",
                         "monthNumber": "02",
@@ -11451,6 +11571,14 @@
                     {
                         "coNcm": "47032900",
                         "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
+                        "metricFOB": "620269",
+                        "metricKG": "872013"
+                    },
+                    {
+                        "coNcm": "47032900",
+                        "year": "2026",
                         "monthNumber": "02",
                         "ncm": "Pastas químicas de madeira, à soda ou ao sulfato, exceto pastas para dissolução, semibranqueadas ou branqueadas, de não coníferas",
                         "metricFOB": "455311",
@@ -11487,6 +11615,14 @@
                         "ncm": "Outros açúcares de cana",
                         "metricFOB": "194000",
                         "metricKG": "164489"
+                    },
+                    {
+                        "coNcm": "17011400",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Outros açúcares de cana",
+                        "metricFOB": "173735",
+                        "metricKG": "143063"
                     },
                     {
                         "coNcm": "17011400",
@@ -11535,6 +11671,14 @@
                         "ncm": "Outros açúcares de cana",
                         "metricFOB": "95778",
                         "metricKG": "81647"
+                    },
+                    {
+                        "coNcm": "09011110",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Café não torrado, não descafeinado, em grão",
+                        "metricFOB": "95140",
+                        "metricKG": "8220"
                     },
                     {
                         "coNcm": "17011400",
@@ -11607,6 +11751,22 @@
                         "ncm": "Fuel oil",
                         "metricFOB": "60",
                         "metricKG": "24"
+                    },
+                    {
+                        "coNcm": "27101922",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Fuel oil",
+                        "metricFOB": "60",
+                        "metricKG": "24"
+                    },
+                    {
+                        "coNcm": "23040090",
+                        "year": "2026",
+                        "monthNumber": "10",
+                        "ncm": "Bagaços e outros resíduos sólidos, da extração do óleo de soja",
+                        "metricFOB": "43",
+                        "metricKG": "50"
                     },
                     {
                         "coNcm": "26011100",
