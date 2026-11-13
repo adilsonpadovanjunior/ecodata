@@ -1,9 +1,8 @@
 {
-    "data_execucao": "2026-11-13 17:28:11",
+    "data_execucao": "2026-11-13 17:34:10",
     "status": "concluido",
     "arquivo_base_consolidada": "data/final/consolidada/base_conjuntura_mensal.csv",
     "series_exportadas": [
-        "yahoo_ibovespa",
         "yahoo_bova11",
         "yahoo_smal11",
         "yahoo_ivvb11",
@@ -17,7 +16,6 @@
         "yahoo_petroleo_brent",
         "yahoo_soja",
         "yahoo_milho",
-        "yahoo_ret_ibovespa",
         "yahoo_ret_bova11",
         "yahoo_ret_smal11",
         "yahoo_ret_ivvb11",
@@ -118,5 +116,5 @@
         "comexstat_soja_exceto_semeadura_imp_kg"
     ],
     "erros": [],
-    "total_series_exportadas": 113
+    "total_series_exportadas": 111
 }
