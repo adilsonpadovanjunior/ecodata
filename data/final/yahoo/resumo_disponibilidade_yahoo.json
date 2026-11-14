@@ -73,11 +73,11 @@
     },
     {
         "variavel":"ouro",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-11-30T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":1773.599976,
-        "valor_final":3886.300049
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null
     },
     {
         "variavel":"petroleo_wti",
