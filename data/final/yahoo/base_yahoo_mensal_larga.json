@@ -1873,7 +1873,7 @@
         "ouro":null,
         "petroleo_wti":88.559998,
         "petroleo_brent":95.839996,
-        "soja":1243.0,
+        "soja":1231.5,
         "milho":445.5,
         "ret_ibovespa":2.701254,
         "ret_bova11":2.587666,
@@ -1887,7 +1887,7 @@
         "ret_ouro":null,
         "ret_petroleo_wti":-14.9443,
         "ret_petroleo_brent":-18.531115,
-        "ret_soja":1.697689,
+        "ret_soja":0.756801,
         "ret_milho":-0.502513
     }
 ]

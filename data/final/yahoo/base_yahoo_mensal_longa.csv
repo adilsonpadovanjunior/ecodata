@@ -730,7 +730,7 @@
 2026-08-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1275.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,8.809727
 2026-09-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1293.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,1.391884
 2026-10-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1222.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,-5.471771
-2026-11-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1243.0,Contrato futuro de soja.,1d,mensal,ultimo,Close,1.697689
+2026-11-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1231.5,Contrato futuro de soja.,1d,mensal,ultimo,Close,0.756801
 2021-11-30,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4567.0,Índice S&P 500.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4766.180176,Índice S&P 500.,1d,mensal,ultimo,Close,4.361291
 2022-01-31,Yahoo Finance via yfinance,^GSPC,sp500,bolsa_internacional,indice,USD,4515.549805,Índice S&P 500.,1d,mensal,ultimo,Close,-5.258517
