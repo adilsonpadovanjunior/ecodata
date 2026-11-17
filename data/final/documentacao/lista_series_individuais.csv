@@ -1,6 +1,8 @@
 ﻿nome_serie,fonte,grupo,frequencia,observacoes,primeira_data,ultima_data,arquivo_csv,arquivo_xlsx
 bcb_sgs_ibc_br,bcb_sgs,atividade,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_ibc_br.csv,data/final/series/bcb_sgs_ibc_br.xlsx
+bcb_sgs_ibc_br_sa,bcb_sgs,atividade,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_ibc_br_sa.csv,data/final/series/bcb_sgs_ibc_br_sa.xlsx
 bcb_sgs_var_pct_ibc_br,bcb_sgs,atividade,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_ibc_br.csv,data/final/series/bcb_sgs_var_pct_ibc_br.xlsx
+bcb_sgs_var_pct_ibc_br_sa,bcb_sgs,atividade,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv,data/final/series/bcb_sgs_var_pct_ibc_br_sa.xlsx
 bcb_sgs_cambio_compra_usd,bcb_sgs,cambio,mensal,61,2021-11-30,2026-11-30,data/final/series/bcb_sgs_cambio_compra_usd.csv,data/final/series/bcb_sgs_cambio_compra_usd.xlsx
 bcb_sgs_cambio_venda_usd,bcb_sgs,cambio,mensal,61,2021-11-30,2026-11-30,data/final/series/bcb_sgs_cambio_venda_usd.csv,data/final/series/bcb_sgs_cambio_venda_usd.xlsx
 bcb_sgs_var_pct_cambio_compra_usd,bcb_sgs,cambio,mensal,60,2021-12-31,2026-11-30,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.csv,data/final/series/bcb_sgs_var_pct_cambio_compra_usd.xlsx
@@ -12,10 +14,8 @@ bcb_sgs_inadimplencia_pf,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data/fi
 bcb_sgs_inadimplencia_pj,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_inadimplencia_pj.csv,data/final/series/bcb_sgs_inadimplencia_pj.xlsx
 bcb_sgs_inadimplencia_total,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_inadimplencia_total.csv,data/final/series/bcb_sgs_inadimplencia_total.xlsx
 bcb_sgs_saldo_credito_pf,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_saldo_credito_pf.csv,data/final/series/bcb_sgs_saldo_credito_pf.xlsx
-bcb_sgs_saldo_credito_pj,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_saldo_credito_pj.csv,data/final/series/bcb_sgs_saldo_credito_pj.xlsx
 bcb_sgs_saldo_credito_total,bcb_sgs,credito,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_saldo_credito_total.csv,data/final/series/bcb_sgs_saldo_credito_total.xlsx
 bcb_sgs_var_pct_saldo_credito_pf,bcb_sgs,credito,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_saldo_credito_pf.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_pf.xlsx
-bcb_sgs_var_pct_saldo_credito_pj,bcb_sgs,credito,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_saldo_credito_pj.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_pj.xlsx
 bcb_sgs_var_pct_saldo_credito_total,bcb_sgs,credito,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_saldo_credito_total.csv,data/final/series/bcb_sgs_var_pct_saldo_credito_total.xlsx
 bcb_sgs_igp_m,bcb_sgs,inflacao,mensal,60,2021-11-30,2026-10-31,data/final/series/bcb_sgs_igp_m.csv,data/final/series/bcb_sgs_igp_m.xlsx
 bcb_sgs_igp_m_acum_12m,bcb_sgs,inflacao,mensal,49,2022-10-31,2026-10-31,data/final/series/bcb_sgs_igp_m_acum_12m.csv,data/final/series/bcb_sgs_igp_m_acum_12m.xlsx
