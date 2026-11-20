@@ -56,6 +56,14 @@
         "valor_final":109.77734
     },
     {
+        "variavel":"ibc_br",
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":59,
+        "valor_inicial":97.80104,
+        "valor_final":109.42914
+    },
+    {
         "variavel":"cambio_venda_usd",
         "primeira_data":"2021-11-30T00:00:00.000",
         "ultima_data":"2026-11-30T00:00:00.000",
@@ -142,6 +150,14 @@
         "observacoes":58,
         "valor_inicial":0.324281,
         "valor_final":-0.246881
+    },
+    {
+        "variavel":"var_pct_ibc_br",
+        "primeira_data":"2021-12-31T00:00:00.000",
+        "ultima_data":"2026-09-30T00:00:00.000",
+        "observacoes":58,
+        "valor_inicial":1.501671,
+        "valor_final":-1.766943
     },
     {
         "variavel":"var_pct_cambio_venda_usd",

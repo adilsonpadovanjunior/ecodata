@@ -1,5 +1,7 @@
 ﻿nome_serie,fonte,grupo,frequencia,observacoes,primeira_data,ultima_data,arquivo_csv,arquivo_xlsx
+bcb_sgs_ibc_br,bcb_sgs,atividade,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_ibc_br.csv,data/final/series/bcb_sgs_ibc_br.xlsx
 bcb_sgs_ibc_br_sa,bcb_sgs,atividade,mensal,59,2021-11-30,2026-09-30,data/final/series/bcb_sgs_ibc_br_sa.csv,data/final/series/bcb_sgs_ibc_br_sa.xlsx
+bcb_sgs_var_pct_ibc_br,bcb_sgs,atividade,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_ibc_br.csv,data/final/series/bcb_sgs_var_pct_ibc_br.xlsx
 bcb_sgs_var_pct_ibc_br_sa,bcb_sgs,atividade,mensal,58,2021-12-31,2026-09-30,data/final/series/bcb_sgs_var_pct_ibc_br_sa.csv,data/final/series/bcb_sgs_var_pct_ibc_br_sa.xlsx
 bcb_sgs_cambio_compra_usd,bcb_sgs,cambio,mensal,61,2021-11-30,2026-11-30,data/final/series/bcb_sgs_cambio_compra_usd.csv,data/final/series/bcb_sgs_cambio_compra_usd.xlsx
 bcb_sgs_cambio_venda_usd,bcb_sgs,cambio,mensal,61,2021-11-30,2026-11-30,data/final/series/bcb_sgs_cambio_venda_usd.csv,data/final/series/bcb_sgs_cambio_venda_usd.xlsx
@@ -31,6 +33,7 @@ yahoo_ibovespa,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/fin
 yahoo_ivvb11,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_ivvb11.csv,data/final/series/yahoo_ivvb11.xlsx
 yahoo_milho,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_milho.csv,data/final/series/yahoo_milho.xlsx
 yahoo_nasdaq,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_nasdaq.csv,data/final/series/yahoo_nasdaq.xlsx
+yahoo_ouro,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_ouro.csv,data/final/series/yahoo_ouro.xlsx
 yahoo_petroleo_brent,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_petroleo_brent.csv,data/final/series/yahoo_petroleo_brent.xlsx
 yahoo_petroleo_wti,yahoo,mercado_financeiro,mensal,61,2021-11-30,2026-11-30,data/final/series/yahoo_petroleo_wti.csv,data/final/series/yahoo_petroleo_wti.xlsx
 yahoo_ret_bova11,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_bova11.csv,data/final/series/yahoo_ret_bova11.xlsx
@@ -41,6 +44,7 @@ yahoo_ret_ibovespa,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data
 yahoo_ret_ivvb11,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_ivvb11.csv,data/final/series/yahoo_ret_ivvb11.xlsx
 yahoo_ret_milho,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_milho.csv,data/final/series/yahoo_ret_milho.xlsx
 yahoo_ret_nasdaq,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_nasdaq.csv,data/final/series/yahoo_ret_nasdaq.xlsx
+yahoo_ret_ouro,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_ouro.csv,data/final/series/yahoo_ret_ouro.xlsx
 yahoo_ret_petroleo_brent,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_petroleo_brent.csv,data/final/series/yahoo_ret_petroleo_brent.xlsx
 yahoo_ret_petroleo_wti,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_petroleo_wti.csv,data/final/series/yahoo_ret_petroleo_wti.xlsx
 yahoo_ret_smal11,yahoo,mercado_financeiro,mensal,60,2021-12-31,2026-11-30,data/final/series/yahoo_ret_smal11.csv,data/final/series/yahoo_ret_smal11.xlsx
