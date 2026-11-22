@@ -37,7 +37,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6007,
-        "valor_final":5.9074
+        "valor_final":5.9488
     },
     {
         "variavel":"euro_real",
@@ -85,7 +85,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":66.18,
-        "valor_final":83.980003
+        "valor_final":83.410004
     },
     {
         "variavel":"petroleo_brent",
@@ -93,7 +93,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":70.57,
-        "valor_final":92.57
+        "valor_final":89.949997
     },
     {
         "variavel":"soja",
@@ -109,6 +109,6 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":567.0,
-        "valor_final":434.5
+        "valor_final":448.75
     }
 ]
