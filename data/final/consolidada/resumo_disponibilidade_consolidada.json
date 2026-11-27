@@ -5,7 +5,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":101915.0,
-        "valor_final":177043.8125,
+        "valor_final":176982.90625,
         "percentual_preenchido":73.493976
     },
     {
@@ -14,7 +14,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":98.349998,
-        "valor_final":174.429993,
+        "valor_final":174.320007,
         "percentual_preenchido":73.493976
     },
     {
@@ -23,17 +23,17 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":108.800003,
-        "valor_final":110.18,
+        "valor_final":110.0,
         "percentual_preenchido":73.493976
     },
     {
         "variavel":"yahoo_ivvb11",
-        "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-11-30T00:00:00.000",
-        "observacoes":61,
-        "valor_inicial":280.549988,
-        "valor_final":457.130005,
-        "percentual_preenchido":73.493976
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_dolar_real",
@@ -41,7 +41,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6007,
-        "valor_final":5.5237,
+        "valor_final":5.527,
         "percentual_preenchido":73.493976
     },
     {
@@ -50,7 +50,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":6.3223,
-        "valor_final":6.0415,
+        "valor_final":6.0431,
         "percentual_preenchido":73.493976
     },
     {
@@ -104,7 +104,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":70.57,
-        "valor_final":90.5,
+        "valor_final":90.57,
         "percentual_preenchido":73.493976
     },
     {
@@ -131,7 +131,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":2.852377,
-        "valor_final":5.432172,
+        "valor_final":5.395902,
         "percentual_preenchido":72.289157
     },
     {
@@ -140,7 +140,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":2.491108,
-        "valor_final":5.459492,
+        "valor_final":5.392995,
         "percentual_preenchido":72.289157
     },
     {
@@ -149,17 +149,17 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":4.136029,
-        "valor_final":19.565923,
+        "valor_final":19.370589,
         "percentual_preenchido":72.289157
     },
     {
         "variavel":"yahoo_ret_ivvb11",
-        "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-11-30T00:00:00.000",
-        "observacoes":60,
-        "valor_inicial":4.637323,
-        "valor_final":-2.008573,
-        "percentual_preenchido":72.289157
+        "primeira_data":null,
+        "ultima_data":null,
+        "observacoes":0,
+        "valor_inicial":null,
+        "valor_final":null,
+        "percentual_preenchido":0.0
     },
     {
         "variavel":"yahoo_ret_dolar_real",
@@ -167,7 +167,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.544574,
-        "valor_final":2.579488,
+        "valor_final":2.640766,
         "percentual_preenchido":72.289157
     },
     {
@@ -176,7 +176,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.275213,
-        "valor_final":0.368815,
+        "valor_final":0.395393,
         "percentual_preenchido":72.289157
     },
     {
@@ -230,7 +230,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":10.216805,
-        "valor_final":-23.070384,
+        "valor_final":-23.010881,
         "percentual_preenchido":72.289157
     },
     {

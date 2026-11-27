@@ -59,7 +59,7 @@
 2026-08-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,174.779999,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-0.13713
 2026-09-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,184.080002,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,5.320977
 2026-10-31,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,165.399994,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,-10.147766
-2026-11-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,174.429993,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,5.459492
+2026-11-30,Yahoo Finance via yfinance,BOVA11.SA,bova11,bolsa_brasil,etf,BRL,174.320007,ETF brasileiro associado ao desempenho do Ibovespa.,1d,mensal,ultimo,Close,5.392995
 2021-11-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.6007,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.5702,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-0.544574
 2022-01-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.3626,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-3.726978
@@ -120,7 +120,7 @@
 2026-08-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.1912,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.227203
 2026-09-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.2029,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.225384
 2026-10-31,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.3848,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,3.496128
-2026-11-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.5237,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.579488
+2026-11-30,Yahoo Finance via yfinance,BRL=X,dolar_real,cambio,cambio,BRL_por_USD,5.527,Taxa de câmbio R$/US$ aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.640766
 2021-11-30,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,34483.71875,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,36338.300781,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,5.378138
 2022-01-31,Yahoo Finance via yfinance,^DJI,dow_jones,bolsa_internacional,indice,USD,35131.859375,Índice Dow Jones Industrial Average.,1d,mensal,ultimo,Close,-3.320027
@@ -242,7 +242,7 @@
 2026-08-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.009615,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.764422
 2026-09-30,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,5.896226,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,-1.886793
 2026-10-31,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.0193,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,2.087336
-2026-11-30,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.0415,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.368815
+2026-11-30,Yahoo Finance via yfinance,EURBRL=X,euro_real,cambio,cambio,BRL_por_EUR,6.0431,Taxa de câmbio R$/EUR aproximada pelo Yahoo Finance.,1d,mensal,ultimo,Close,0.395393
 2021-11-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,101915.0,Índice Ibovespa.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,104822.0,Índice Ibovespa.,1d,mensal,ultimo,Close,2.852377
 2022-01-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,112388.0,Índice Ibovespa.,1d,mensal,ultimo,Close,7.21795
@@ -303,68 +303,7 @@
 2026-08-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,177419.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-0.325845
 2026-09-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,186340.0,Índice Ibovespa.,1d,mensal,ultimo,Close,5.02821
 2026-10-31,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,167922.0,Índice Ibovespa.,1d,mensal,ultimo,Close,-9.884083
-2026-11-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,177043.8125,Índice Ibovespa.,1d,mensal,ultimo,Close,5.432172
-2021-11-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,280.549988,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,
-2021-12-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,293.559998,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.637323
-2022-01-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,260.399994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-11.295818
-2022-02-28,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,245.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-5.721964
-2022-03-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,235.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-4.012222
-2022-04-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,224.100006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-4.901332
-2022-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,214.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-4.283804
-2022-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,216.699997,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.02564
-2022-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,234.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,8.214122
-2022-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,226.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-3.624733
-2022-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,213.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-5.530973
-2022-10-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,220.240005,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,3.156911
-2022-11-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,233.25,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.90719
-2022-12-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,225.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-3.536977
-2023-01-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,228.199997,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.422221
-2023-02-28,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,229.300003,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.482036
-2023-03-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,229.75,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.196248
-2023-04-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,229.75,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.0
-2023-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,233.25,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.523395
-2023-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,235.25,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,0.857449
-2023-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,239.820007,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.942617
-2023-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,247.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,3.264943
-2023-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,238.789993,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-3.57763
-2023-10-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,234.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-2.005944
-2023-11-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,249.699997,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,6.7094
-2023-12-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,257.609985,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,3.167797
-2024-01-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,266.619995,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,3.497539
-2024-02-29,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,281.100006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.430955
-2024-03-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,292.600006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.091071
-2024-04-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,291.0,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.546824
-2024-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,308.200012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.910657
-2024-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,339.829987,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,10.262808
-2024-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,347.700012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,2.315871
-2024-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,354.850006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,2.056369
-2024-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,349.799988,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-1.423142
-2024-10-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,368.579987,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.368782
-2024-11-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,402.850006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,9.297851
-2024-12-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,407.700012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.203924
-2025-01-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,394.149994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-3.323527
-2025-02-28,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,392.700012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.367876
-2025-03-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,358.700012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-8.658008
-2025-04-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,354.350006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-1.212714
-2025-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,378.799988,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,6.899952
-2025-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,377.850006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.250787
-2025-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,398.01001,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.335451
-2025-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,393.850006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-1.045201
-2025-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,399.799988,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.510723
-2025-10-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,413.329987,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,3.384192
-2025-11-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,411.089996,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.541938
-2025-12-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,424.200012,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,3.189087
-2026-01-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,410.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-3.194252
-2026-02-28,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,396.75,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-3.384876
-2026-03-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,380.149994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-4.183996
-2026-04-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,402.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,5.87926
-2026-05-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,430.399994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,6.931676
-2026-06-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,435.649994,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,1.219796
-2026-07-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,428.390015,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-1.666471
-2026-08-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,449.350006,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.892736
-2026-09-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,447.369995,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-0.440639
-2026-10-31,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,466.5,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,4.276104
-2026-11-30,Yahoo Finance via yfinance,IVVB11.SA,ivvb11,bolsa_brasil,etf,BRL,457.130005,ETF brasileiro com exposição ao índice S&P 500.,1d,mensal,ultimo,Close,-2.008573
+2026-11-30,Yahoo Finance via yfinance,^BVSP,ibovespa,bolsa_brasil,indice,BRL,176982.90625,Índice Ibovespa.,1d,mensal,ultimo,Close,5.395902
 2021-11-30,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,567.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,593.25,Contrato futuro de milho.,1d,mensal,ultimo,Close,4.62963
 2022-01-31,Yahoo Finance via yfinance,ZC=F,milho,commodities,futuro,USD,626.0,Contrato futuro de milho.,1d,mensal,ultimo,Close,5.520438
@@ -608,7 +547,7 @@
 2026-08-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,90.489998,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,0.410558
 2026-09-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,103.529999,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,14.410433
 2026-10-31,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,117.639999,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,13.628901
-2026-11-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,90.5,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-23.070384
+2026-11-30,Yahoo Finance via yfinance,BZ=F,petroleo_brent,commodities,futuro,USD,90.57,Contrato futuro de petróleo Brent.,1d,mensal,ultimo,Close,-23.010881
 2021-11-30,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,66.18,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,75.209999,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,13.644604
 2022-01-31,Yahoo Finance via yfinance,CL=F,petroleo_wti,commodities,futuro,USD,88.150002,Contrato futuro de petróleo WTI.,1d,mensal,ultimo,Close,17.205162
@@ -730,7 +669,7 @@
 2026-08-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,106.129997,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-1.044292
 2026-09-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,111.93,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,5.464999
 2026-10-31,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,92.150002,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,-17.671758
-2026-11-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,110.18,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,19.565923
+2026-11-30,Yahoo Finance via yfinance,SMAL11.SA,smal11,bolsa_brasil,etf,BRL,110.0,ETF brasileiro associado ao segmento de small caps.,1d,mensal,ultimo,Close,19.370589
 2021-11-30,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1217.25,Contrato futuro de soja.,1d,mensal,ultimo,Close,
 2021-12-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1328.75,Contrato futuro de soja.,1d,mensal,ultimo,Close,9.159992
 2022-01-31,Yahoo Finance via yfinance,ZS=F,soja,commodities,futuro,USD,1490.5,Contrato futuro de soja.,1d,mensal,ultimo,Close,12.173095
