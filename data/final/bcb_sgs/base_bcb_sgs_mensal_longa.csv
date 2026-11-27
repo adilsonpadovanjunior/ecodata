@@ -59,7 +59,7 @@
 2026-08-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.181,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2026-09-30,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.1803,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2026-10-31,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.4206,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
-2026-11-30,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.744,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
+2026-11-30,Banco Central do Brasil - SGS/BCData,10813,cambio_compra_usd,cambio,R$/US$,5.5424,Taxa de câmbio livre - dólar americano - compra.,diaria,mensal,ultimo
 2021-11-30,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.6199,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2021-12-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.5805,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
 2022-01-31,Banco Central do Brasil - SGS/BCData,1,cambio_venda_usd,cambio,R$/US$,5.3574,Taxa de câmbio livre - dólar americano - venda.,diaria,mensal,ultimo
@@ -360,6 +360,7 @@
 2026-08-31,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,-0.22,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2026-09-30,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,1.57,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2026-10-31,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,1.47,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
+2026-11-30,Banco Central do Brasil - SGS/BCData,189,igp_m,inflacao,% a.m.,1.24,Índice Geral de Preços - Mercado - IGP-M.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.01,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.05,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2022-01-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,3.26,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
@@ -419,6 +420,7 @@
 2026-07-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.8,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,6.04,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2026-09-30,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,5.99,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,21084,inadimplencia_pf,credito,% a.m.,6.13,Taxa de inadimplência da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,1.46,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,1.4,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2022-01-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,1.46,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
@@ -477,7 +479,8 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,3.18,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,3.32,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,3.36,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
-2026-09-30,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,3.28,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-09-30,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,3.3,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,21083,inadimplencia_pj,credito,% a.m.,3.32,Taxa de inadimplência da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,2.36,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,2.35,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
 2022-01-31,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,2.51,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
@@ -536,7 +539,8 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,4.59,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,4.88,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,5.05,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
-2026-09-30,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,4.98,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
+2026-09-30,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,4.99,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,21082,inadimplencia_total,credito,% a.m.,5.1,Taxa de inadimplência da carteira de crédito - total.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,188,inpc,inflacao,% a.m.,0.84,Índice Nacional de Preços ao Consumidor - INPC.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,188,inpc,inflacao,% a.m.,0.73,Índice Nacional de Preços ao Consumidor - INPC.,mensal,mensal,valor
 2022-01-31,Banco Central do Brasil - SGS/BCData,188,inpc,inflacao,% a.m.,0.67,Índice Nacional de Preços ao Consumidor - INPC.,mensal,mensal,valor
@@ -714,8 +718,9 @@
 2026-05-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.97,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
 2026-06-30,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.63,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.06,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
-2026-08-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.23,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
-2026-09-30,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.36,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
+2026-08-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.22,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
+2026-09-30,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.38,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,20714,juros_credito_total,credito,% a.a.,32.93,Taxa média de juros das operações de crédito - total.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,367772.0,Reservas internacionais.,diaria,mensal,ultimo
 2021-12-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,362204.0,Reservas internacionais.,diaria,mensal,ultimo
 2022-01-31,Banco Central do Brasil - SGS/BCData,3546,reservas_internacionais,setor_externo,US$ milhões,358398.0,Reservas internacionais.,diaria,mensal,ultimo
@@ -834,7 +839,8 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4602967.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4633191.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4680478.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
-2026-09-30,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4684766.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
+2026-09-30,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4687849.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,20541,saldo_credito_pf,credito,R$ milhões,4718773.0,Saldo da carteira de crédito - pessoas físicas.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1933111.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1974391.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2022-01-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,1947035.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
@@ -893,7 +899,8 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2750759.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2729062.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2731883.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
-2026-09-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2759442.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-09-30,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2749850.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,20540,saldo_credito_pj,credito,R$ milhões,2747382.0,Saldo da carteira de crédito - pessoas jurídicas.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,4597507.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2021-12-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,4682852.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2022-01-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,4682131.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
@@ -952,7 +959,8 @@
 2026-06-30,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7353727.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2026-07-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7362252.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2026-08-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7412361.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
-2026-09-30,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7444208.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
+2026-09-30,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7437699.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
+2026-10-31,Banco Central do Brasil - SGS/BCData,20539,saldo_credito_total,credito,R$ milhões,7466155.0,Saldo da carteira de crédito - total.,mensal,mensal,valor
 2021-11-30,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,7.75,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2021-12-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,9.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo
 2022-01-31,Banco Central do Brasil - SGS/BCData,432,selic_meta,politica_monetaria,% a.a.,9.25,Taxa Selic meta definida pelo Copom.,diaria,mensal,ultimo

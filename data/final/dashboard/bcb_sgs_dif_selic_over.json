@@ -10,7 +10,7 @@
         "primeira_data": "2021-12-31",
         "ultima_data": "2026-11-30",
         "observacoes": 60,
-        "data_geracao": "2026-11-26 19:27:23",
+        "data_geracao": "2026-11-27 19:18:59",
         "arquivo_origem": "data/final/series/bcb_sgs_dif_selic_over.csv",
         "unidade": null,
         "descricao": null,
@@ -19,7 +19,7 @@
     },
     "indicadores": {
         "ultima_data": "2026-11-30",
-        "ultimo_valor": 0.0,
+        "ultimo_valor": -0.0,
         "variacao_absoluta_1_mes": 0.000457,
         "variacao_absoluta_3_meses": 0.000747,
         "variacao_absoluta_12_meses": 0.0,
@@ -41,7 +41,7 @@
         "maximo_historico": 0.004849,
         "data_maximo_historico": "2022-02-28",
         "minimo_ultimos_12_meses": -0.000823,
-        "maximo_ultimos_12_meses": 0.0,
+        "maximo_ultimos_12_meses": -0.0,
         "percentil_historico": 65.0,
         "sequencia_atual": {
             "direcao": "alta",
@@ -1234,7 +1234,7 @@
         },
         {
             "data": "2026-11-30",
-            "valor": 0.0,
+            "valor": -0.0,
             "variacao_absoluta_1_mes": 0.000457,
             "variacao_absoluta_3_meses": 0.000747,
             "variacao_absoluta_12_meses": 0.0,
@@ -1249,7 +1249,7 @@
             "desvio_media_movel_12_pct": -100.0,
             "volatilidade_12_meses": null,
             "minimo_movel_12_meses": -0.000823,
-            "maximo_movel_12_meses": 0.0,
+            "maximo_movel_12_meses": -0.0,
             "aceleracao_variacao_mensal": -84.62963
         }
     ]

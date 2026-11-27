@@ -5,7 +5,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":101915.0,
-        "valor_final":173468.515625,
+        "valor_final":177043.8125,
         "percentual_preenchido":73.493976
     },
     {
@@ -14,7 +14,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":98.349998,
-        "valor_final":170.910004,
+        "valor_final":174.429993,
         "percentual_preenchido":73.493976
     },
     {
@@ -23,7 +23,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":108.800003,
-        "valor_final":105.470001,
+        "valor_final":110.18,
         "percentual_preenchido":73.493976
     },
     {
@@ -32,7 +32,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":280.549988,
-        "valor_final":470.48999,
+        "valor_final":457.130005,
         "percentual_preenchido":73.493976
     },
     {
@@ -41,7 +41,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6007,
-        "valor_final":5.75,
+        "valor_final":5.5237,
         "percentual_preenchido":73.493976
     },
     {
@@ -50,7 +50,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":6.3223,
-        "valor_final":6.3068,
+        "valor_final":6.0415,
         "percentual_preenchido":73.493976
     },
     {
@@ -59,7 +59,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":4567.0,
-        "valor_final":7182.779785,
+        "valor_final":7297.490234,
         "percentual_preenchido":73.493976
     },
     {
@@ -68,17 +68,17 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":15537.69043,
-        "valor_final":23585.800781,
+        "valor_final":24129.5,
         "percentual_preenchido":73.493976
     },
     {
         "variavel":"yahoo_dow_jones",
-        "primeira_data":null,
-        "ultima_data":null,
-        "observacoes":0,
-        "valor_inicial":null,
-        "valor_final":null,
-        "percentual_preenchido":0.0
+        "primeira_data":"2021-11-30T00:00:00.000",
+        "ultima_data":"2026-11-30T00:00:00.000",
+        "observacoes":61,
+        "valor_inicial":34483.71875,
+        "valor_final":50774.941406,
+        "percentual_preenchido":73.493976
     },
     {
         "variavel":"yahoo_ouro",
@@ -86,7 +86,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1773.599976,
-        "valor_final":3594.0,
+        "valor_final":3668.5,
         "percentual_preenchido":73.493976
     },
     {
@@ -95,7 +95,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":66.18,
-        "valor_final":84.959999,
+        "valor_final":83.099998,
         "percentual_preenchido":73.493976
     },
     {
@@ -104,7 +104,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":70.57,
-        "valor_final":91.760002,
+        "valor_final":90.5,
         "percentual_preenchido":73.493976
     },
     {
@@ -113,7 +113,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":1217.25,
-        "valor_final":1244.0,
+        "valor_final":1266.25,
         "percentual_preenchido":73.493976
     },
     {
@@ -122,7 +122,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":567.0,
-        "valor_final":439.75,
+        "valor_final":463.0,
         "percentual_preenchido":73.493976
     },
     {
@@ -131,7 +131,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":2.852377,
-        "valor_final":3.303031,
+        "valor_final":5.432172,
         "percentual_preenchido":72.289157
     },
     {
@@ -140,7 +140,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":2.491108,
-        "valor_final":3.331324,
+        "valor_final":5.459492,
         "percentual_preenchido":72.289157
     },
     {
@@ -149,7 +149,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":4.136029,
-        "valor_final":14.454693,
+        "valor_final":19.565923,
         "percentual_preenchido":72.289157
     },
     {
@@ -158,7 +158,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":4.637323,
-        "valor_final":0.855303,
+        "valor_final":-2.008573,
         "percentual_preenchido":72.289157
     },
     {
@@ -167,7 +167,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.544574,
-        "valor_final":6.782054,
+        "valor_final":2.579488,
         "percentual_preenchido":72.289157
     },
     {
@@ -176,7 +176,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.275213,
-        "valor_final":4.776301,
+        "valor_final":0.368815,
         "percentual_preenchido":72.289157
     },
     {
@@ -185,7 +185,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":4.361291,
-        "valor_final":-5.241245,
+        "valor_final":-3.727929,
         "percentual_preenchido":72.289157
     },
     {
@@ -194,17 +194,17 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":0.690446,
-        "valor_final":-7.277585,
+        "valor_final":-5.14015,
         "percentual_preenchido":72.289157
     },
     {
         "variavel":"yahoo_ret_dow_jones",
-        "primeira_data":null,
-        "ultima_data":null,
-        "observacoes":0,
-        "valor_inicial":null,
-        "valor_final":null,
-        "percentual_preenchido":0.0
+        "primeira_data":"2021-12-31T00:00:00.000",
+        "ultima_data":"2026-11-30T00:00:00.000",
+        "observacoes":60,
+        "valor_inicial":5.378138,
+        "valor_final":-1.92266,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"yahoo_ret_ouro",
@@ -212,7 +212,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":3.101037,
-        "valor_final":-7.820152,
+        "valor_final":-5.909357,
         "percentual_preenchido":72.289157
     },
     {
@@ -221,7 +221,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":13.644604,
-        "valor_final":-18.401847,
+        "valor_final":-20.188248,
         "percentual_preenchido":72.289157
     },
     {
@@ -230,7 +230,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":10.216805,
-        "valor_final":-21.999318,
+        "valor_final":-23.070384,
         "percentual_preenchido":72.289157
     },
     {
@@ -239,7 +239,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":9.159992,
-        "valor_final":1.779505,
+        "valor_final":3.599918,
         "percentual_preenchido":72.289157
     },
     {
@@ -248,7 +248,7 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":4.62963,
-        "valor_final":-1.786711,
+        "valor_final":3.405918,
         "percentual_preenchido":72.289157
     },
     {
@@ -290,11 +290,11 @@
     {
         "variavel":"bcb_sgs_igp_m",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":60,
+        "ultima_data":"2026-11-30T00:00:00.000",
+        "observacoes":61,
         "valor_inicial":0.02,
-        "valor_final":1.47,
-        "percentual_preenchido":72.289157
+        "valor_final":1.24,
+        "percentual_preenchido":73.493976
     },
     {
         "variavel":"bcb_sgs_inpc",
@@ -338,71 +338,71 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":61,
         "valor_inicial":5.6193,
-        "valor_final":5.744,
+        "valor_final":5.5424,
         "percentual_preenchido":73.493976
     },
     {
         "variavel":"bcb_sgs_saldo_credito_total",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":4597507.0,
-        "valor_final":7444208.0,
-        "percentual_preenchido":71.084337
+        "valor_final":7466155.0,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_saldo_credito_pj",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":1933111.0,
-        "valor_final":2759442.0,
-        "percentual_preenchido":71.084337
+        "valor_final":2747382.0,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_saldo_credito_pf",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":2664395.0,
-        "valor_final":4684766.0,
-        "percentual_preenchido":71.084337
+        "valor_final":4718773.0,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_inadimplencia_total",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":2.36,
-        "valor_final":4.98,
-        "percentual_preenchido":71.084337
+        "valor_final":5.1,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_inadimplencia_pj",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":1.46,
-        "valor_final":3.28,
-        "percentual_preenchido":71.084337
+        "valor_final":3.32,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_inadimplencia_pf",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":3.01,
-        "valor_final":5.99,
-        "percentual_preenchido":71.084337
+        "valor_final":6.13,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_juros_credito_total",
         "primeira_data":"2021-11-30T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":59,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":60,
         "valor_inicial":23.91,
-        "valor_final":32.36,
-        "percentual_preenchido":71.084337
+        "valor_final":32.93,
+        "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_reservas_internacionais",
@@ -446,35 +446,35 @@
         "ultima_data":"2026-11-30T00:00:00.000",
         "observacoes":60,
         "valor_inicial":-0.701155,
-        "valor_final":5.966129,
+        "valor_final":2.246984,
         "percentual_preenchido":72.289157
     },
     {
         "variavel":"bcb_sgs_var_pct_saldo_credito_total",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":1.856332,
-        "valor_final":0.429647,
-        "percentual_preenchido":69.879518
+        "valor_final":0.382591,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"bcb_sgs_var_pct_saldo_credito_pj",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":2.135418,
-        "valor_final":1.008791,
-        "percentual_preenchido":69.879518
+        "valor_final":-0.08975,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"bcb_sgs_var_pct_saldo_credito_pf",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":1.653884,
-        "valor_final":0.091615,
-        "percentual_preenchido":69.879518
+        "valor_final":0.659663,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"bcb_sgs_var_pct_reservas_internacionais",
@@ -497,11 +497,11 @@
     {
         "variavel":"bcb_sgs_igp_m_acum_12m",
         "primeira_data":"2022-10-31T00:00:00.000",
-        "ultima_data":"2026-10-31T00:00:00.000",
-        "observacoes":49,
+        "ultima_data":"2026-11-30T00:00:00.000",
+        "observacoes":50,
         "valor_inicial":6.517038,
-        "valor_final":5.246487,
-        "percentual_preenchido":59.036145
+        "valor_final":6.264629,
+        "percentual_preenchido":60.240964
     },
     {
         "variavel":"bcb_sgs_inpc_acum_12m",
@@ -542,38 +542,38 @@
     {
         "variavel":"bcb_sgs_dif_inadimplencia_total",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":-0.01,
-        "valor_final":-0.07,
-        "percentual_preenchido":69.879518
+        "valor_final":0.11,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"bcb_sgs_dif_inadimplencia_pj",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":-0.06,
-        "valor_final":-0.08,
-        "percentual_preenchido":69.879518
+        "valor_final":0.02,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"bcb_sgs_dif_inadimplencia_pf",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":0.04,
-        "valor_final":-0.05,
-        "percentual_preenchido":69.879518
+        "valor_final":0.14,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"bcb_sgs_dif_juros_credito_total",
         "primeira_data":"2021-12-31T00:00:00.000",
-        "ultima_data":"2026-09-30T00:00:00.000",
-        "observacoes":58,
+        "ultima_data":"2026-10-31T00:00:00.000",
+        "observacoes":59,
         "valor_inicial":0.3,
-        "valor_final":0.13,
-        "percentual_preenchido":69.879518
+        "valor_final":0.55,
+        "percentual_preenchido":71.084337
     },
     {
         "variavel":"comexstat_comex_exportacoes_fob_usd",
