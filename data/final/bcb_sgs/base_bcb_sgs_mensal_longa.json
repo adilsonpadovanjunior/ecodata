@@ -1579,7 +1579,7 @@
         "nome":"cambio_venda_usd",
         "grupo":"cambio",
         "unidade":"R$\/US$",
-        "valor":5.7446,
+        "valor":5.543,
         "descricao":"Taxa de câmbio livre - dólar americano - venda.",
         "frequencia_original":"diaria",
         "frequencia_final":"mensal",
